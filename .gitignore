@@ -1,0 +1,9 @@
+output/
+transcripts_txt/
+attorney_questions/
+data/depo_results/
+cache/
+__pycache__/
+*.pyc
+.env
+.DS_Store
