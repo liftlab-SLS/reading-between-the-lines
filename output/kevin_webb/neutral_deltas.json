@@ -1,0 +1,1502 @@
+[
+  {
+    "turn": 1,
+    "question_snippet": "Good afternoon, Mr. Webb. 14:37:40",
+    "state_delta": {
+      "C": -0.01,
+      "K": 0.0,
+      "A": -0.0015,
+      "V": 0.0,
+      "R": 0.006,
+      "P": 0.0
+    },
+    "state": {
+      "C": 0.79,
+      "K": 0.8,
+      "A": 0.5985,
+      "V": 0.4,
+      "R": 0.506,
+      "P": 0.3
+    },
+    "scores": {
+      "consistency": 0.593,
+      "evasion": 0.22,
+      "realism": 0.646,
+      "adversarial": 0.323
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 2,
+    "question_snippet": "My name is Gary Gotto, as I 14:37:42 just shared. I'm with the law firm Keller 1",
+    "state_delta": {
+      "C": -0.0091,
+      "K": 0.0,
+      "A": -0.0014,
+      "V": 0.0,
+      "R": 0.0057,
+      "P": -0.0003
+    },
+    "state": {
+      "C": 0.7809,
+      "K": 0.8,
+      "A": 0.5971,
+      "V": 0.4,
+      "R": 0.5117,
+      "P": 0.2997
+    },
+    "scores": {
+      "consistency": 0.595,
+      "evasion": 0.22,
+      "realism": 0.651,
+      "adversarial": 0.325
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 3,
+    "question_snippet": "Okay. Have you ever given a 14:38:19 deposition before today? 14:38:21",
+    "state_delta": {
+      "C": -0.0082,
+      "K": 0.0,
+      "A": -0.0013,
+      "V": 0.0,
+      "R": 0.0055,
+      "P": -0.0005
+    },
+    "state": {
+      "C": 0.7727,
+      "K": 0.8,
+      "A": 0.5958,
+      "V": 0.4,
+      "R": 0.5172,
+      "P": 0.2992
+    },
+    "scores": {
+      "consistency": 0.597,
+      "evasion": 0.22,
+      "realism": 0.656,
+      "adversarial": 0.327
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 4,
+    "question_snippet": "And on how many occasions? 14:38:24",
+    "state_delta": {
+      "C": -0.0075,
+      "K": 0.0,
+      "A": -0.0012,
+      "V": 0.0,
+      "R": 0.0053,
+      "P": -0.0008
+    },
+    "state": {
+      "C": 0.7652,
+      "K": 0.8,
+      "A": 0.5946,
+      "V": 0.4,
+      "R": 0.5225,
+      "P": 0.2984
+    },
+    "scores": {
+      "consistency": 0.599,
+      "evasion": 0.22,
+      "realism": 0.661,
+      "adversarial": 0.33
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 5,
+    "question_snippet": "Okay. And what did it pertain 14:38:28 to? 14:38:29",
+    "state_delta": {
+      "C": -0.0068,
+      "K": 0.0,
+      "A": -0.0011,
+      "V": 0.0,
+      "R": 0.0051,
+      "P": -0.001
+    },
+    "state": {
+      "C": 0.7584,
+      "K": 0.8,
+      "A": 0.5935,
+      "V": 0.4,
+      "R": 0.5276,
+      "P": 0.2974
+    },
+    "scores": {
+      "consistency": 0.602,
+      "evasion": 0.219,
+      "realism": 0.665,
+      "adversarial": 0.332
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 6,
+    "question_snippet": "Okay. It was a 14:38:52 Mallinckrodt-related matter -- 14:38:53",
+    "state_delta": {
+      "C": -0.0062,
+      "K": 0.0,
+      "A": -0.0011,
+      "V": 0.0,
+      "R": 0.0048,
+      "P": -0.0012
+    },
+    "state": {
+      "C": 0.7522,
+      "K": 0.8,
+      "A": 0.5924,
+      "V": 0.4,
+      "R": 0.5324,
+      "P": 0.2962
+    },
+    "scores": {
+      "consistency": 0.604,
+      "evasion": 0.219,
+      "realism": 0.669,
+      "adversarial": 0.334
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 7,
+    "question_snippet": "And describe for me, if you 14:47:50 would, generally, your duties as a senior 1",
+    "state_delta": {
+      "C": -0.0056,
+      "K": 0.0,
+      "A": -0.001,
+      "V": 0.0,
+      "R": 0.0046,
+      "P": -0.0014
+    },
+    "state": {
+      "C": 0.7466,
+      "K": 0.8,
+      "A": 0.5914,
+      "V": 0.4,
+      "R": 0.537,
+      "P": 0.2948
+    },
+    "scores": {
+      "consistency": 0.606,
+      "evasion": 0.219,
+      "realism": 0.672,
+      "adversarial": 0.335
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 8,
+    "question_snippet": "Okay. And if I understood your 14:57:46 testimony a few moments ago, the creatio",
+    "state_delta": {
+      "C": -0.0051,
+      "K": 0.0,
+      "A": -0.0009,
+      "V": 0.0,
+      "R": 0.0044,
+      "P": -0.0016
+    },
+    "state": {
+      "C": 0.7415,
+      "K": 0.8,
+      "A": 0.5905,
+      "V": 0.4,
+      "R": 0.5414,
+      "P": 0.2932
+    },
+    "scores": {
+      "consistency": 0.607,
+      "evasion": 0.219,
+      "realism": 0.675,
+      "adversarial": 0.337
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 9,
+    "question_snippet": "Did you also understand that to 15:12:58 be part of your responsibility in the 1",
+    "state_delta": {
+      "C": -0.0046,
+      "K": 0.0,
+      "A": -0.0009,
+      "V": 0.0,
+      "R": 0.0043,
+      "P": -0.0018
+    },
+    "state": {
+      "C": 0.7369,
+      "K": 0.8,
+      "A": 0.5896,
+      "V": 0.4,
+      "R": 0.5457,
+      "P": 0.2914
+    },
+    "scores": {
+      "consistency": 0.609,
+      "evasion": 0.218,
+      "realism": 0.678,
+      "adversarial": 0.339
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 10,
+    "question_snippet": "Sure, I understand. I'm just 15:25:59 trying to focus on the disposal -- 15:26:0",
+    "state_delta": {
+      "C": -0.0042,
+      "K": 0.0,
+      "A": -0.0008,
+      "V": 0.0,
+      "R": 0.0041,
+      "P": -0.002
+    },
+    "state": {
+      "C": 0.7327,
+      "K": 0.8,
+      "A": 0.5888,
+      "V": 0.4,
+      "R": 0.5498,
+      "P": 0.2894
+    },
+    "scores": {
+      "consistency": 0.611,
+      "evasion": 0.218,
+      "realism": 0.68,
+      "adversarial": 0.34
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 11,
+    "question_snippet": "And can you tell me who were 09:10:57 the -- the key third-party stakeholders wi",
+    "state_delta": {
+      "C": -0.0038,
+      "K": 0.0,
+      "A": -0.0008,
+      "V": 0.0,
+      "R": 0.0039,
+      "P": -0.0022
+    },
+    "state": {
+      "C": 0.7289,
+      "K": 0.8,
+      "A": 0.588,
+      "V": 0.4,
+      "R": 0.5537,
+      "P": 0.2872
+    },
+    "scores": {
+      "consistency": 0.613,
+      "evasion": 0.217,
+      "realism": 0.683,
+      "adversarial": 0.341
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 12,
+    "question_snippet": "Okay. What was provided 09:24:18 through the REMEDIES program to physicians 09:2",
+    "state_delta": {
+      "C": -0.0034,
+      "K": 0.0,
+      "A": -0.0007,
+      "V": 0.0,
+      "R": 0.0037,
+      "P": -0.0023
+    },
+    "state": {
+      "C": 0.7255,
+      "K": 0.8,
+      "A": 0.5873,
+      "V": 0.4,
+      "R": 0.5574,
+      "P": 0.2849
+    },
+    "scores": {
+      "consistency": 0.614,
+      "evasion": 0.217,
+      "realism": 0.685,
+      "adversarial": 0.343
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 13,
+    "question_snippet": "Okay. And does the fact that 09:33:24 Mallinckrodt participated in a program aim",
+    "state_delta": {
+      "C": -0.0031,
+      "K": 0.0,
+      "A": -0.0007,
+      "V": 0.0,
+      "R": 0.0036,
+      "P": -0.0025
+    },
+    "state": {
+      "C": 0.7224,
+      "K": 0.8,
+      "A": 0.5866,
+      "V": 0.4,
+      "R": 0.561,
+      "P": 0.2824
+    },
+    "scores": {
+      "consistency": 0.616,
+      "evasion": 0.216,
+      "realism": 0.687,
+      "adversarial": 0.344
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 14,
+    "question_snippet": "Was there any thought given at 09:49:48 any point to try and to develop some sor",
+    "state_delta": {
+      "C": -0.0028,
+      "K": 0.0,
+      "A": -0.0006,
+      "V": 0.0,
+      "R": 0.0034,
+      "P": -0.0026
+    },
+    "state": {
+      "C": 0.7196,
+      "K": 0.8,
+      "A": 0.586,
+      "V": 0.4,
+      "R": 0.5644,
+      "P": 0.2798
+    },
+    "scores": {
+      "consistency": 0.617,
+      "evasion": 0.216,
+      "realism": 0.688,
+      "adversarial": 0.345
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 15,
+    "question_snippet": "I guess there is a reference 10:00:08 page at the end. 10:00:10",
+    "state_delta": {
+      "C": -0.0026,
+      "K": 0.0,
+      "A": -0.0006,
+      "V": 0.0,
+      "R": 0.0033,
+      "P": -0.0027
+    },
+    "state": {
+      "C": 0.717,
+      "K": 0.8,
+      "A": 0.5854,
+      "V": 0.4,
+      "R": 0.5677,
+      "P": 0.2771
+    },
+    "scores": {
+      "consistency": 0.618,
+      "evasion": 0.215,
+      "realism": 0.69,
+      "adversarial": 0.346
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 16,
+    "question_snippet": "And the events that are 10:09:18 described on these slides, these were not DEA 1",
+    "state_delta": {
+      "C": -0.0023,
+      "K": 0.0,
+      "A": -0.0006,
+      "V": 0.0,
+      "R": 0.0032,
+      "P": -0.0028
+    },
+    "state": {
+      "C": 0.7147,
+      "K": 0.8,
+      "A": 0.5848,
+      "V": 0.4,
+      "R": 0.5709,
+      "P": 0.2743
+    },
+    "scores": {
+      "consistency": 0.62,
+      "evasion": 0.215,
+      "realism": 0.691,
+      "adversarial": 0.347
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 17,
+    "question_snippet": "Okay. Did Mallinckrodt 10:39:35 participate in any way in the American 10:39:37 ",
+    "state_delta": {
+      "C": -0.0021,
+      "K": 0.0,
+      "A": -0.0005,
+      "V": 0.0,
+      "R": 0.003,
+      "P": -0.0029
+    },
+    "state": {
+      "C": 0.7126,
+      "K": 0.8,
+      "A": 0.5843,
+      "V": 0.4,
+      "R": 0.5739,
+      "P": 0.2714
+    },
+    "scores": {
+      "consistency": 0.621,
+      "evasion": 0.214,
+      "realism": 0.692,
+      "adversarial": 0.348
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 18,
+    "question_snippet": "Okay. And you're aware, aren't 10:47:32 you, of materials provided by Mallinckro",
+    "state_delta": {
+      "C": -0.0019,
+      "K": 0.0,
+      "A": -0.0005,
+      "V": 0.0,
+      "R": 0.0029,
+      "P": -0.003
+    },
+    "state": {
+      "C": 0.7107,
+      "K": 0.8,
+      "A": 0.5838,
+      "V": 0.4,
+      "R": 0.5768,
+      "P": 0.2684
+    },
+    "scores": {
+      "consistency": 0.622,
+      "evasion": 0.214,
+      "realism": 0.694,
+      "adversarial": 0.349
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 19,
+    "question_snippet": "Okay. And were you involved in 11:01:53 contracting with APCO to prepare the rep",
+    "state_delta": {
+      "C": -0.0017,
+      "K": 0.0,
+      "A": -0.0004,
+      "V": 0.0,
+      "R": 0.0028,
+      "P": -0.0031
+    },
+    "state": {
+      "C": 0.709,
+      "K": 0.8,
+      "A": 0.5834,
+      "V": 0.4,
+      "R": 0.5796,
+      "P": 0.2653
+    },
+    "scores": {
+      "consistency": 0.623,
+      "evasion": 0.213,
+      "realism": 0.695,
+      "adversarial": 0.35
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 20,
+    "question_snippet": "And I think you indicated 11:12:10 earlier that Mallinckrodt has had a positive ",
+    "state_delta": {
+      "C": -0.0016,
+      "K": 0.0,
+      "A": -0.0004,
+      "V": 0.0,
+      "R": 0.0027,
+      "P": -0.0031
+    },
+    "state": {
+      "C": 0.7074,
+      "K": 0.8,
+      "A": 0.583,
+      "V": 0.4,
+      "R": 0.5823,
+      "P": 0.2622
+    },
+    "scores": {
+      "consistency": 0.625,
+      "evasion": 0.212,
+      "realism": 0.696,
+      "adversarial": 0.351
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 21,
+    "question_snippet": "And if we look at your first 11:24:37 e-mail, the earliest e-mail, which is on t",
+    "state_delta": {
+      "C": -0.0014,
+      "K": 0.0,
+      "A": -0.0004,
+      "V": 0.0,
+      "R": 0.0025,
+      "P": -0.0032
+    },
+    "state": {
+      "C": 0.706,
+      "K": 0.8,
+      "A": 0.5826,
+      "V": 0.4,
+      "R": 0.5848,
+      "P": 0.259
+    },
+    "scores": {
+      "consistency": 0.626,
+      "evasion": 0.212,
+      "realism": 0.696,
+      "adversarial": 0.352
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 22,
+    "question_snippet": "Okay. And if I understood your 11:35:26 earlier answer, ultimately the legislati",
+    "state_delta": {
+      "C": -0.0013,
+      "K": 0.0,
+      "A": -0.0004,
+      "V": 0.0,
+      "R": 0.0024,
+      "P": -0.003
+    },
+    "state": {
+      "C": 0.7047,
+      "K": 0.8,
+      "A": 0.5822,
+      "V": 0.4,
+      "R": 0.5872,
+      "P": 0.256
+    },
+    "scores": {
+      "consistency": 0.627,
+      "evasion": 0.211,
+      "realism": 0.697,
+      "adversarial": 0.352
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 23,
+    "question_snippet": "Okay. Exhibit 15 is a 12:10:36 multipage document that was produced in 12:10:38 ",
+    "state_delta": {
+      "C": -0.0012,
+      "K": 0.0,
+      "A": -0.0003,
+      "V": 0.0,
+      "R": 0.0023,
+      "P": -0.0028
+    },
+    "state": {
+      "C": 0.7035,
+      "K": 0.8,
+      "A": 0.5819,
+      "V": 0.4,
+      "R": 0.5895,
+      "P": 0.2532
+    },
+    "scores": {
+      "consistency": 0.628,
+      "evasion": 0.211,
+      "realism": 0.698,
+      "adversarial": 0.353
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 24,
+    "question_snippet": "Okay. Next slide. On slide 8 12:22:24 are certain state initiatives. There's a 1",
+    "state_delta": {
+      "C": -0.0011,
+      "K": 0.0,
+      "A": -0.0003,
+      "V": 0.0,
+      "R": 0.0022,
+      "P": -0.0027
+    },
+    "state": {
+      "C": 0.7024,
+      "K": 0.8,
+      "A": 0.5816,
+      "V": 0.4,
+      "R": 0.5917,
+      "P": 0.2505
+    },
+    "scores": {
+      "consistency": 0.629,
+      "evasion": 0.21,
+      "realism": 0.699,
+      "adversarial": 0.354
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 25,
+    "question_snippet": "Okay. Do you know if 13:13:57 Mallinckrodt took a position with respect to 13:13",
+    "state_delta": {
+      "C": -0.001,
+      "K": 0.0,
+      "A": -0.0003,
+      "V": 0.0,
+      "R": 0.0021,
+      "P": -0.0025
+    },
+    "state": {
+      "C": 0.7014,
+      "K": 0.8,
+      "A": 0.5813,
+      "V": 0.4,
+      "R": 0.5938,
+      "P": 0.248
+    },
+    "scores": {
+      "consistency": 0.629,
+      "evasion": 0.21,
+      "realism": 0.699,
+      "adversarial": 0.354
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 26,
+    "question_snippet": "Okay. You said \"shortly 13:25:24 thereof.\" 13:25:26 Do you mean shortly thereaft",
+    "state_delta": {
+      "C": -0.0009,
+      "K": 0.0,
+      "A": -0.0003,
+      "V": 0.0,
+      "R": 0.0021,
+      "P": -0.0024
+    },
+    "state": {
+      "C": 0.7005,
+      "K": 0.8,
+      "A": 0.581,
+      "V": 0.4,
+      "R": 0.5959,
+      "P": 0.2456
+    },
+    "scores": {
+      "consistency": 0.63,
+      "evasion": 0.209,
+      "realism": 0.7,
+      "adversarial": 0.355
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 27,
+    "question_snippet": "Do you recall any other e-mails 13:34:56 you ever received from Mr. Naten in whi",
+    "state_delta": {
+      "C": -0.0008,
+      "K": 0.0,
+      "A": -0.0003,
+      "V": 0.0,
+      "R": 0.002,
+      "P": -0.0022
+    },
+    "state": {
+      "C": 0.6997,
+      "K": 0.8,
+      "A": 0.5807,
+      "V": 0.4,
+      "R": 0.5979,
+      "P": 0.2434
+    },
+    "scores": {
+      "consistency": 0.631,
+      "evasion": 0.209,
+      "realism": 0.7,
+      "adversarial": 0.355
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 28,
+    "question_snippet": "Do you recall those videos? 13:47:51",
+    "state_delta": {
+      "C": -0.0007,
+      "K": 0.0,
+      "A": -0.0002,
+      "V": 0.0,
+      "R": 0.0019,
+      "P": -0.0021
+    },
+    "state": {
+      "C": 0.699,
+      "K": 0.8,
+      "A": 0.5805,
+      "V": 0.4,
+      "R": 0.5998,
+      "P": 0.2413
+    },
+    "scores": {
+      "consistency": 0.632,
+      "evasion": 0.208,
+      "realism": 0.701,
+      "adversarial": 0.356
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 29,
+    "question_snippet": "Okay. Do you recall in 2016 13:57:49 there being any state-proposed legislative ",
+    "state_delta": {
+      "C": -0.0007,
+      "K": 0.0,
+      "A": -0.0002,
+      "V": 0.0,
+      "R": 0.0018,
+      "P": -0.002
+    },
+    "state": {
+      "C": 0.6983,
+      "K": 0.8,
+      "A": 0.5803,
+      "V": 0.4,
+      "R": 0.6016,
+      "P": 0.2393
+    },
+    "scores": {
+      "consistency": 0.633,
+      "evasion": 0.208,
+      "realism": 0.701,
+      "adversarial": 0.356
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 30,
+    "question_snippet": "Mr. Webb, first, let me ask 14:18:37 you: Are you aware of separate 14:18:40 Ten",
+    "state_delta": {
+      "C": -0.0006,
+      "K": 0.0,
+      "A": -0.0002,
+      "V": 0.0,
+      "R": 0.0017,
+      "P": -0.0019
+    },
+    "state": {
+      "C": 0.6977,
+      "K": 0.8,
+      "A": 0.5801,
+      "V": 0.4,
+      "R": 0.6033,
+      "P": 0.2374
+    },
+    "scores": {
+      "consistency": 0.633,
+      "evasion": 0.207,
+      "realism": 0.701,
+      "adversarial": 0.357
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 31,
+    "question_snippet": "And did Mallinckrodt respond to 14:25:17 that subpoena? 14:25:18",
+    "state_delta": {
+      "C": -0.0005,
+      "K": 0.0,
+      "A": -0.0002,
+      "V": 0.0,
+      "R": 0.0017,
+      "P": -0.0018
+    },
+    "state": {
+      "C": 0.6972,
+      "K": 0.8,
+      "A": 0.5799,
+      "V": 0.4,
+      "R": 0.605,
+      "P": 0.2356
+    },
+    "scores": {
+      "consistency": 0.634,
+      "evasion": 0.207,
+      "realism": 0.702,
+      "adversarial": 0.357
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 32,
+    "question_snippet": "Can you read the green portion 09:10:08 of that topic? 09:10:11",
+    "state_delta": {
+      "C": -0.0005,
+      "K": 0.0,
+      "A": -0.0002,
+      "V": 0.0,
+      "R": 0.0016,
+      "P": -0.0017
+    },
+    "state": {
+      "C": 0.6967,
+      "K": 0.8,
+      "A": 0.5797,
+      "V": 0.4,
+      "R": 0.6066,
+      "P": 0.2339
+    },
+    "scores": {
+      "consistency": 0.635,
+      "evasion": 0.207,
+      "realism": 0.702,
+      "adversarial": 0.358
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 33,
+    "question_snippet": ". D o you recal l  revi ew i ng any 09: 14: 51 docum ent s? 09: 14: 53",
+    "state_delta": {
+      "C": -0.0004,
+      "K": 0.0,
+      "A": -0.0002,
+      "V": 0.0,
+      "R": 0.0015,
+      "P": -0.0016
+    },
+    "state": {
+      "C": 0.6963,
+      "K": 0.8,
+      "A": 0.5795,
+      "V": 0.4,
+      "R": 0.6081,
+      "P": 0.2323
+    },
+    "scores": {
+      "consistency": 0.635,
+      "evasion": 0.206,
+      "realism": 0.702,
+      "adversarial": 0.358
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 34,
+    "question_snippet": "And do you have personal 09:21:02 knowledge of that topic? 09:21:03",
+    "state_delta": {
+      "C": -0.0004,
+      "K": 0.0,
+      "A": -0.0002,
+      "V": 0.0,
+      "R": 0.0015,
+      "P": -0.0015
+    },
+    "state": {
+      "C": 0.6959,
+      "K": 0.8,
+      "A": 0.5793,
+      "V": 0.4,
+      "R": 0.6096,
+      "P": 0.2308
+    },
+    "scores": {
+      "consistency": 0.636,
+      "evasion": 0.206,
+      "realism": 0.702,
+      "adversarial": 0.359
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 35,
+    "question_snippet": "Do you have any personal 09:27:51 knowledge of that topic? 09:27:52",
+    "state_delta": {
+      "C": -0.0004,
+      "K": 0.0,
+      "A": -0.0002,
+      "V": 0.0,
+      "R": 0.0014,
+      "P": -0.0014
+    },
+    "state": {
+      "C": 0.6955,
+      "K": 0.8,
+      "A": 0.5791,
+      "V": 0.4,
+      "R": 0.611,
+      "P": 0.2294
+    },
+    "scores": {
+      "consistency": 0.637,
+      "evasion": 0.206,
+      "realism": 0.703,
+      "adversarial": 0.359
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 36,
+    "question_snippet": "Do you recall how many 09:33:00 documents? 09:33:01 MR. O'CONNOR: All right. I'm",
+    "state_delta": {
+      "C": -0.0003,
+      "K": 0.0,
+      "A": -0.0001,
+      "V": 0.0,
+      "R": 0.0013,
+      "P": -0.0013
+    },
+    "state": {
+      "C": 0.6952,
+      "K": 0.8,
+      "A": 0.579,
+      "V": 0.4,
+      "R": 0.6123,
+      "P": 0.2281
+    },
+    "scores": {
+      "consistency": 0.637,
+      "evasion": 0.206,
+      "realism": 0.703,
+      "adversarial": 0.359
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 37,
+    "question_snippet": "And all four of these channels 09:40:36 would have been deployed pursuant to a 0",
+    "state_delta": {
+      "C": -0.0003,
+      "K": 0.0,
+      "A": -0.0001,
+      "V": 0.0,
+      "R": 0.0013,
+      "P": -0.0012
+    },
+    "state": {
+      "C": 0.6949,
+      "K": 0.8,
+      "A": 0.5789,
+      "V": 0.4,
+      "R": 0.6136,
+      "P": 0.2269
+    },
+    "scores": {
+      "consistency": 0.638,
+      "evasion": 0.205,
+      "realism": 0.703,
+      "adversarial": 0.36
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 38,
+    "question_snippet": "And the attachment to this 09:54:43 e-mail, the e-mail references these as \"two ",
+    "state_delta": {
+      "C": -0.0003,
+      "K": 0.0,
+      "A": -0.0001,
+      "V": 0.0,
+      "R": 0.0012,
+      "P": -0.0012
+    },
+    "state": {
+      "C": 0.6946,
+      "K": 0.8,
+      "A": 0.5788,
+      "V": 0.4,
+      "R": 0.6148,
+      "P": 0.2257
+    },
+    "scores": {
+      "consistency": 0.638,
+      "evasion": 0.205,
+      "realism": 0.703,
+      "adversarial": 0.36
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 39,
+    "question_snippet": "And so this would have been 10:10:31 provided to health care professionals, woul",
+    "state_delta": {
+      "C": -0.0003,
+      "K": 0.0,
+      "A": -0.0001,
+      "V": 0.0,
+      "R": 0.0012,
+      "P": -0.0011
+    },
+    "state": {
+      "C": 0.6943,
+      "K": 0.8,
+      "A": 0.5787,
+      "V": 0.4,
+      "R": 0.616,
+      "P": 0.2246
+    },
+    "scores": {
+      "consistency": 0.639,
+      "evasion": 0.205,
+      "realism": 0.703,
+      "adversarial": 0.36
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 40,
+    "question_snippet": "And so all of Mallinckrodt's 10:20:45 sales reps, including its Ohio sales reps,",
+    "state_delta": {
+      "C": -0.0002,
+      "K": 0.0,
+      "A": -0.0001,
+      "V": 0.0,
+      "R": 0.0011,
+      "P": -0.001
+    },
+    "state": {
+      "C": 0.6941,
+      "K": 0.8,
+      "A": 0.5786,
+      "V": 0.4,
+      "R": 0.6171,
+      "P": 0.2236
+    },
+    "scores": {
+      "consistency": 0.639,
+      "evasion": 0.205,
+      "realism": 0.704,
+      "adversarial": 0.36
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 41,
+    "question_snippet": "Okay. And so Mallinckrodt 10:56:49 presumably concluded that that Defeat Chronic",
+    "state_delta": {
+      "C": -0.0002,
+      "K": 0.0,
+      "A": -0.0001,
+      "V": 0.0,
+      "R": 0.0011,
+      "P": -0.001
+    },
+    "state": {
+      "C": 0.6939,
+      "K": 0.8,
+      "A": 0.5785,
+      "V": 0.4,
+      "R": 0.6182,
+      "P": 0.2226
+    },
+    "scores": {
+      "consistency": 0.64,
+      "evasion": 0.205,
+      "realism": 0.704,
+      "adversarial": 0.361
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 42,
+    "question_snippet": "Okay. But you don't -- 11:07:13 Mallinckrodt doesn't know what basis 11:07:18 Dr",
+    "state_delta": {
+      "C": -0.0002,
+      "K": 0.0,
+      "A": -0.0001,
+      "V": 0.0,
+      "R": 0.001,
+      "P": -0.0009
+    },
+    "state": {
+      "C": 0.6937,
+      "K": 0.8,
+      "A": 0.5784,
+      "V": 0.4,
+      "R": 0.6192,
+      "P": 0.2217
+    },
+    "scores": {
+      "consistency": 0.64,
+      "evasion": 0.204,
+      "realism": 0.704,
+      "adversarial": 0.361
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 43,
+    "question_snippet": "That first -- that first -- 11:14:29 well, there's a table and then it says, 11:",
+    "state_delta": {
+      "C": -0.0002,
+      "K": 0.0,
+      "A": -0.0001,
+      "V": 0.0,
+      "R": 0.001,
+      "P": -0.0009
+    },
+    "state": {
+      "C": 0.6935,
+      "K": 0.8,
+      "A": 0.5783,
+      "V": 0.4,
+      "R": 0.6202,
+      "P": 0.2208
+    },
+    "scores": {
+      "consistency": 0.64,
+      "evasion": 0.204,
+      "realism": 0.704,
+      "adversarial": 0.361
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 44,
+    "question_snippet": "On the next -- on the last page 11:26:29 of this excerpt, there is a Q&A with 11",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": -0.0001,
+      "V": 0.0,
+      "R": 0.001,
+      "P": -0.0008
+    },
+    "state": {
+      "C": 0.6934,
+      "K": 0.8,
+      "A": 0.5782,
+      "V": 0.4,
+      "R": 0.6212,
+      "P": 0.22
+    },
+    "scores": {
+      "consistency": 0.641,
+      "evasion": 0.204,
+      "realism": 0.704,
+      "adversarial": 0.361
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 45,
+    "question_snippet": "Okay. And Mallinckrodt was a 11:37:04 leading manufacturer of Methadose, was it ",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": -0.0001,
+      "V": 0.0,
+      "R": 0.0009,
+      "P": -0.0008
+    },
+    "state": {
+      "C": 0.6933,
+      "K": 0.8,
+      "A": 0.5781,
+      "V": 0.4,
+      "R": 0.6221,
+      "P": 0.2192
+    },
+    "scores": {
+      "consistency": 0.641,
+      "evasion": 0.204,
+      "realism": 0.704,
+      "adversarial": 0.362
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 46,
+    "question_snippet": "Okay. And then underneath that 11:52:44 it says, \"Before starting long-term opio",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": -0.0001,
+      "V": 0.0,
+      "R": 0.0009,
+      "P": -0.0007
+    },
+    "state": {
+      "C": 0.6932,
+      "K": 0.8,
+      "A": 0.578,
+      "V": 0.4,
+      "R": 0.623,
+      "P": 0.2185
+    },
+    "scores": {
+      "consistency": 0.642,
+      "evasion": 0.204,
+      "realism": 0.704,
+      "adversarial": 0.362
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 47,
+    "question_snippet": "Or the total overall. 12:21:59 So if I wanted to know what the 12:22:01 total pa",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": -0.0001,
+      "V": 0.0,
+      "R": 0.0008,
+      "P": -0.0007
+    },
+    "state": {
+      "C": 0.6931,
+      "K": 0.8,
+      "A": 0.5779,
+      "V": 0.4,
+      "R": 0.6238,
+      "P": 0.2178
+    },
+    "scores": {
+      "consistency": 0.642,
+      "evasion": 0.204,
+      "realism": 0.704,
+      "adversarial": 0.362
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 48,
+    "question_snippet": "So, Mr. Webb, I would like to 13:35:49 turn to Topic 32, which is \"your coordina",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": -0.0001,
+      "V": 0.0,
+      "R": 0.0008,
+      "P": -0.0006
+    },
+    "state": {
+      "C": 0.693,
+      "K": 0.8,
+      "A": 0.5778,
+      "V": 0.4,
+      "R": 0.6246,
+      "P": 0.2172
+    },
+    "scores": {
+      "consistency": 0.642,
+      "evasion": 0.203,
+      "realism": 0.704,
+      "adversarial": 0.362
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 49,
+    "question_snippet": "But the focus was on the 13:50:04 Appalachia? 13:50:06",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": -0.0001,
+      "V": 0.0,
+      "R": 0.0008,
+      "P": -0.0006
+    },
+    "state": {
+      "C": 0.6929,
+      "K": 0.8,
+      "A": 0.5777,
+      "V": 0.4,
+      "R": 0.6254,
+      "P": 0.2166
+    },
+    "scores": {
+      "consistency": 0.643,
+      "evasion": 0.203,
+      "realism": 0.704,
+      "adversarial": 0.362
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 50,
+    "question_snippet": "And who is the leadership of 14:07:05 CPOP? 14:07:06 MR. O'CONNOR: Objection. 14",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": -0.0001,
+      "V": 0.0,
+      "R": 0.0007,
+      "P": -0.0006
+    },
+    "state": {
+      "C": 0.6928,
+      "K": 0.8,
+      "A": 0.5776,
+      "V": 0.4,
+      "R": 0.6261,
+      "P": 0.216
+    },
+    "scores": {
+      "consistency": 0.643,
+      "evasion": 0.203,
+      "realism": 0.704,
+      "adversarial": 0.363
+    },
+    "events": [],
+    "tone": "neutral, measured",
+    "pressure": 0.1,
+    "question_type": "open"
+  }
+]

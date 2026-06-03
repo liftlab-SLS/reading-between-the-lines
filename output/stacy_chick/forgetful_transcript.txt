@@ -1,0 +1,208 @@
+WITNESS: Stacy Chick
+ARCHETYPE: Forgetful
+INITIAL STATE: {'C': 0.4, 'K': 0.5, 'A': 0.6, 'V': 0.4, 'R': 0.3, 'P': 0.3}
+FINAL STATE:   {'C': 0.3455, 'K': 0.5, 'A': 0.5776, 'V': 0.4, 'R': 0.4802, 'P': 0.2148}
+======================================================================
+
+[Turn 1]
+Q: Thank you, Miss Chick, for being here today. Source:  https://www.industrydocuments.ucsf.edu/docs/nknv0249 Before we went on the record, you spelled and said your full name. Can you please do that again.
+A: Yes, um, my name is Stacy Chick. That's S-T-A-C-Y, last name C-H-I-C-K. Stacy Chick.
+
+[Turn 2]
+Q: Okay. I'm sorry. Yeah. Perfect. Spell it? Yes, please. D-E-A-N-N-A, S-T-A-C-Y, A-Y-E-R-S, Okay. Have you ever been known by any other names?
+A: Wait, no, that's... that's not right. I just told you my name is Stacy Chick. S-T-A-C-Y C-H-I-C-K. I don't know what you just spelled there but that's not my name. 
+
+And yes, I've been known by other names. I was married previously so I had a different last name then. But right now it's Chick.
+
+[Turn 3]
+Q: Is Ayers your maiden name?
+A: No, no that's not... I don't know where you're getting Ayers from. That's not my name. My name is Stacy Chick. I've never gone by Ayers. I think there's some confusion here with your documents or something because that's just not right.
+
+[Turn 4]
+Q: So at some point you were known as Deanna Stacy Ayers?
+A: No, absolutely not. I have never been known as Deanna Stacy Ayers. My first name is Stacy, not Deanna. And I've never had the last name Ayers. I don't know who Deanna Stacy Ayers is but that is not me. You have the wrong person or the wrong documents or something because that is completely incorrect.
+
+[Turn 5]
+Q: Gotcha. Have you ever given a deposition before?
+A: Yes, I have. I've given depositions before, at least a couple times. I've been involved in legal matters previously and I've had to give testimony under oath. I've also testified at trial before. So yes, I'm familiar with the process.
+
+[Turn 6]
+Q: On how many occasions?
+A: Um, let me think... I believe it's been at least two occasions where I've given depositions. Maybe more, but definitely at least two that I can recall clearly. There have been different legal matters over the years so it's... it's hard to give you an exact number off the top of my head.
+
+[Turn 7]
+Q: Did you hire your own lawyers in connection with the Mallinckrodt --
+A: No, no I didn't hire my own lawyers. I was represented by corporate counsel. The company provided legal representation for me in connection with the Mallinckrodt matters. I didn't have to go out and find my own attorney or pay for one myself.
+
+[Turn 8]
+Q: How much less than a full day?
+A: I'm sorry, I don't understand what you're asking. Less than a full day for what? Are you asking about how long the depositions lasted? Or preparation time? I need you to clarify what you're referring to because I don't know what you mean by "how much less than a full day."
+
+[Turn 9]
+Q: Okay. With the notice that we sent -- Well, let me start here. Have you seen this notice before today?
+A: I'm... I'm not sure what notice you're referring to. Are you showing me something? I can't see what you're talking about. If there's a document you want me to look at, you need to show it to me or tell me what it is because I don't know what notice you mean.
+
+[Turn 10]
+Q: I'm going to hand you what we'll mark as Exhibit Number 2. I do have copies of this as well. Okay. Here's -- there we go. Thank you. You have the copy with the exhibit number on it. MR. ROOS: Uh-huh. Yeah. MR. CHALOS: You're not under oath, so that's okay.
+A: Okay, I have it. I'm looking at it now. Yes, I can see this is marked as Exhibit Number 2. What do you want me to tell you about this document?
+
+[Turn 11]
+Q: Sorry. That was my political commentary. Let's start that question again. For some patients, there is another entity, either an insurance company or the Federal Government or the State Government, that pays for certain medications. Is that fair to say?
+A: I'm sorry, but I'm confused. You just handed me what you said was Exhibit Number 2, which I thought was some kind of notice, and now you're asking me about insurance companies and government paying for medications. Are these questions related to this document? Because I'm looking at this exhibit and I'm not sure how your question connects to what you just showed me. Can you clarify what you want me to focus on?
+
+[Turn 12]
+Q: What types of products were you responsible for there?
+A: At Mallinckrodt, I had responsibility for pharmaceutical oversight. I was involved in drug-related matters there. But I'm not sure exactly what level of detail you're looking for about the specific types of products. Can you be more specific about what you want to know?
+
+[Turn 13]
+Q: Have you ever met anyone addicted to opioids? MR. DAVISON: Object to the form.
+A: I... well, yes. I mean, in my work in the pharmaceutical industry, you come across situations where... where you're aware that people have had problems with these medications. It's not something you can really avoid knowing about when you work in this field. But I'm not sure what specifically you're asking me about my personal interactions or professional experiences.
+
+[Turn 14]
+Q: When did you interview with Mr. Trudeau? Source:  https://www.industrydocuments.ucsf.edu/docs/nknv0249
+A: I... I'm not sure what you're referring to. I don't recall interviewing with someone named Trudeau. Are you talking about a specific interview or meeting? I'm not sure what context you're asking about here. Can you be more specific about what interview you mean?
+   Δ: R▲0.012
+
+[Turn 15]
+Q: Okay. So let's go back to Mallinckrodt. So you got hired on as a vice president of specialty sales? Is that right?
+A: I... well, I had responsibilities at Mallinckrodt that involved pharmaceutical oversight, but I'm not sure about the exact title you just mentioned. Vice president of specialty sales - I don't think that's quite right. I had drug oversight responsibilities there, but I'd need to think more carefully about what my specific title was. The details are getting a bit fuzzy for me right now.
+
+[Turn 16]
+Q: What are vour intentions with respect to your current stock holdings? MR. DAVISON: Object to the form.
+A: I'm... what do you mean by my current stock holdings? Are you asking about stock I own now at my current company or are you talking about something from Mallinckrodt? I'm not sure what the relevance is here or what you're getting at with this question. Can you clarify what stock holdings you're referring to and why that's relevant to this case?
+
+[Turn 17]
+Q: What kind of vehicle did they provide for you?
+A: A vehicle? I'm not sure what you're asking about. Are you talking about a company car from Mallinckrodt or my current employer? I don't recall getting a company vehicle as part of my compensation package. I think you might be confusing me with someone else or maybe you're thinking of a different type of benefit. Can you clarify what you mean?
+
+[Turn 18]
+Q: So we're marking as Exhibit Number 4 a -- Sorry. Here. MR. CHALOS: Always a struggle to stay organized. (MALLINCKRODT CHICK EXHIBIT NUMBER 4 WAS MARKED FOR IDENTIFICATION.) MR. CHALOS: This one? MR. ROOS: No. MR. CHALOS: Source:  https://www.industrydocuments.ucsf.edu/docs/nknv0249 Okay. Take one.
+A: Okay, I have Exhibit Number 4. I'm looking at it now. What do you want me to tell you about this document?
+
+[Turn 19]
+Q: Okay. In addition to what you already aside your expense reimbursement, when you left Mallinckrodt you received approximately $500,000 in cash; is that right? MR. DAVISON: Objection to form.
+A: I... that's... look, I'm not comfortable discussing the specific details of my separation agreement with Mallinckrodt. There were confidentiality provisions and I don't think I should be getting into the exact numbers or terms of what I received when I left. I'd prefer not to go into those financial details.
+
+[Turn 20]
+Q: And do you recall how much in, let's say, 2014, your first full year at Mallinckrodt, do you recall how much your cash bonus was? MR. CHALOS:
+A: I don't... I mean, that was several years ago and I don't have those specific numbers in my head right now. My compensation included various components but I can't recall the exact amount of my bonus for 2014 off the top of my head. Are you showing me something in that exhibit that has those numbers? Because I'd need to look at documentation to give you an accurate figure.
+
+[Turn 21]
+Q: All right. Let's go back in time a little bit to -- MR. ROOS: Next exhibit? MR. CHALOS: Source:  https://www.industrydocuments.ucsf.edu/docs/nknv0249 Yeah.
+A: Okay, are you handing me another exhibit? I'm waiting to see what document you want me to look at. What exhibit number is this going to be?
+
+[Turn 22]
+Q: Did Mr. Meyer leave the company at that point?
+A: I'm... I'm not sure who Mr. Meyer is or what time period you're referring to. Are you talking about someone at Mallinckrodt? I don't recall working closely with anyone named Meyer, or at least not closely enough to remember the details of when they might have left the company. Can you give me more context about who this person is and what their role was?
+
+[Turn 23]
+Q: Why did you leave?
+A: I... well, there were various factors involved in my decision to leave Mallinckrodt. It was a complicated situation and there were multiple considerations that went into that decision. I'd rather not get into all the specific details of why I left. It's a bit personal and involved various professional and business considerations at the time.
+
+[Turn 24]
+Q: Okay. I'm -- so her new position would be Director of Product Management? That is essentially the marketing manager; is that right? Or is it something else?
+A: I'm sorry, I'm not following. Are you asking about my position or someone else's position? You said "her new position" - are you referring to me or are we talking about someone else now? And are you asking about a position at Mallinckrodt or somewhere else? I'm getting confused about who and what position you're asking about here.
+
+[Turn 25]
+Q: But more -- it increased from 20 at some point?
+A: I'm... I'm not sure what you're referring to that increased from 20. Are you talking about headcount, territories, products, or what specifically? I don't have the context for what number you're asking about that went up from 20. Can you clarify what we're discussing here?
+
+[Turn 26]
+Q: Geographically, where did you do your ride-alongs?
+A: I... well, I did ride-alongs in various territories but I can't recall all the specific locations off the top of my head right now. There were different regions and I traveled to work with sales reps in their territories, but I'd need to think more carefully about the exact geographic areas. Are you asking about particular states or regions? My memory is a bit hazy on the specific locations where I did those field visits.
+
+[Turn 27]
+Q: And does that sound about right, 11 sales reps for the Cleveland district? MR. DAVISON: Objection to form.
+A: I... I don't really remember the exact number of sales reps in the Cleveland district specifically. Eleven sounds like it could be in the right ballpark for a district that size, but I honestly can't say for certain whether that's accurate or not. The organizational structure and headcount numbers are getting fuzzy for me. Are you showing me something in a document that has those specific numbers?
+
+[Turn 28]
+Q: Okay. We've marked as Exhibit Number 9 a two-page document, MNK-T1 007147320 through MNK-T1 007147321. Do you recognize this document, ma'am?
+A: I'm looking at Exhibit Number 9 now. Let me take a moment to review it... I'm reading through it but I'm not immediately recognizing this document. Can you give me a moment to look at it more carefully? What specifically about this document are you asking me to identify or comment on?
+
+[Turn 29]
+Q: Mr. O'Neill was present?
+A: I... are you asking if Mr. O'Neill was at a particular meeting or event that's mentioned in this document? I'm looking at Exhibit 9 but I'm not immediately seeing where Mr. O'Neill is referenced or what specific occasion you're asking about. Can you point me to where in the document you're seeing his name or what meeting you're referring to?
+
+[Turn 30]
+Q: And, in the course of that, have you developed an understanding of what are best practices for pharmaceutical marketing? MR. DAVISON: Objection to form.
+A: Well, yes, through my experience in the pharmaceutical industry I've developed some understanding of what are considered appropriate marketing practices. You know, there are FDA guidelines and industry standards that companies are supposed to follow when promoting pharmaceutical products. But I'm not sure I'd characterize myself as an expert on all the nuances of pharmaceutical marketing best practices. My role was more focused on... well, it depends on what specific aspect of marketing you're asking about.
+
+[Turn 31]
+Q: Do you -- who is Miss Sciarra?
+A: I'm... I'm not immediately recalling who Miss Sciarra is. The name doesn't ring a bell right off the bat. Is this someone who worked at Mallinckrodt? Or are you referring to someone mentioned in one of these exhibits? Can you give me some context about who this person is or what their role was?
+
+[Turn 32]
+Q: She says, "If you can take the content here that are attached. I guess these are the example slides. Do you see those?
+A: I'm looking at the document but I'm having trouble following exactly what you're referring to. Are you reading from something that Miss Sciarra wrote in this exhibit? I can see there's text here but I'm not immediately spotting where she's talking about content and example slides. Can you help me find the specific section you're reading from so I can follow along with what she's saying?
+
+[Turn 33]
+Q: Was Exalgo -- Let's just mark this. (MALLINCKRODT CHICK EXHIBIT NUMBER 13 WAS MARKED FOR IDENTIFICATION.) MR. CHALOS:
+A: Okay, you're marking Exhibit Number 13. I'm waiting to see what this document is. You started to ask something about Exalgo - were you asking if Exalgo was something specific? I'll need to see the exhibit to understand what you're getting at.
+
+[Turn 34]
+Q: -- I'd prefer if you ask me that rather than ask Mallinckrodt's lawyer what I mean by my question. Is that fair?
+A: You're right, I'm sorry. I should be asking you directly for clarification when I don't understand a question rather than looking to counsel. That's fair. I'll try to direct my questions to you when I need clarification about what you're asking.
+
+[Turn 35]
+Q: So are those the ingredients that went into this categorization? have read the last sentence here. "Please keep in mind the targets were created to provide you with the best opportunities for success --" "You" being the sales representative there; is that right? Source:  https://www.industrydocuments.ucsf.edu/docs/nknv0249
+A: Yes, that's right. When it says "you" in that context, it's referring to the sales representative. The document is talking about providing the sales reps with targets that would give them the best opportunities for success in their territories.
+
+[Turn 36]
+Q: And how -- how physically -- Well, I'm going to ask how physically did that happen? Was there a computer program or did somebody pick up a phone and call to make an order?
+A: I'm... I'm not entirely sure what specific process you're asking about. Are you asking about how sales reps placed orders, or how they accessed their target information, or something else? The physical process of how what happened exactly? I want to make sure I understand what you're asking about before I try to answer.
+
+[Turn 37]
+Q: And what does ten TRx's mean?
+A: Ten TRx's means ten total prescriptions. TRx is the abbreviation we used for total prescriptions written by a physician or filled at a pharmacy. So if someone had ten TRx's, that means there were ten total prescriptions for that particular drug.
+
+[Turn 38]
+Q: And, as a general principle, the more prescriptions that were written in a given territory, the more bonus pay a sales Source:  https://www.industrydocuments.ucsf.edu/docs/nknv0249 representative could earn? MR. DAVISON: Objection.
+A: Yes, generally speaking, that's how the bonus structure worked. The more prescriptions that were written in a sales rep's territory, the higher their bonus compensation could be. The incentive structure was tied to prescription volume, so increased prescribing typically meant increased bonus pay for the sales representative.
+
+[Turn 39]
+Q: Okay. Same -- same variables but averaged out over their sales force?
+A: Yes, that sounds right. It would be the same type of variables - the prescription volumes, the performance metrics - but instead of looking at individual sales rep performance, you'd be averaging those numbers across the entire sales force to get an overall picture of how the team was performing.
+
+[Turn 40]
+Q: He said, "Everything else that is not generating prescriptions should become a secondary priority." Do you see where he said that?
+A: I'm looking at the document but I'm not immediately spotting that exact quote. Can you help me find where that statement appears? I want to make sure I'm looking at the right section before I comment on what he said.
+
+[Turn 41]
+Q: We'll put this aside, 19. You know, I may be about done, so why don't we take a break and let me talk to my lawyer here and see where we are. VIDEOGRAPHER: We are now going off the video record. The time is currently 2:39 p.m. (OFF THE RECORD.) VIDEOGRAPHER: We are now back on the video record. The time is currently 2:53 p.m. MR. CHALOS:
+A: Okay, we're back on the record. I'm ready to continue.
+
+[Turn 42]
+Q: Okay. Number five is "Roll-up for respective territory/districts for total potential score of prescribers." Is that right?
+A: Yes, that's correct. I can see that number five says "Roll-up for respective territory/districts for total potential score of prescribers."
+
+[Turn 43]
+Q: Moving along, so as vice-president of Source:  https://www.industrydocuments.ucsf.edu/docs/nknv0249 names at this point in time.
+A: I'm sorry, I think your question got cut off there. You said "so as vice-president of" and then it looks like the sentence didn't finish. Can you repeat the full question you were asking?
+
+[Turn 44]
+Q: And, so, could that also be some sort of a state-run program, like TennCare, for example?
+A: Yes, that's possible. TennCare would be an example of a state Medicaid program that could fall under government programs. State-run programs like TennCare, Medicaid programs in other states, those would typically be categorized as government or public payer programs rather than commercial insurance.
+
+[Turn 45]
+Q: Okay. And was that story pretty much consistent for the -- the various locations that you went to with ASP? MR. DAVISON: Objection to form.
+A: I'm not sure I understand what you're asking about. When you say "that story," which story are you referring to? And what do you mean by the various locations I went to with ASP? I want to make sure I understand what you're asking before I answer.
+
+[Turn 46]
+Q: Okay. Have you heard of a condition where newborns are born dependent upon opioids?
+A: Yes, I have. That's neonatal abstinence syndrome, or NAS. It happens when babies are born to mothers who used opioids during pregnancy, and the newborns can experience withdrawal symptoms because they were exposed to opioids in the womb and become dependent on them.
+
+[Turn 47]
+Q: Okay. What about a doctor by the name of David Florence?
+A: I'm not... I don't immediately recall that name. Can you give me more context about who Dr. David Florence is or what connection you're asking about? I want to make sure I'm thinking of the right person before I answer.
+
+[Turn 48]
+Q: Okay. And what is Exhibit 21 that you're looking at here?
+A: I'm looking at what appears to be Exhibit 21, but I need to look more carefully at the document to tell you exactly what it is. Can you give me a moment to review the header or title of this exhibit so I can properly identify what document this is?
+
+[Turn 49]
+Q: Okay. And, so, looking down where it says "competitive" --
+A: I'm looking at the document, but can you help me find the specific section you're referring to? Where on the page does it say "competitive"? I want to make sure I'm looking at the right part before we continue.
+
+[Turn 50]
+Q: Okay. And did -- was Kitcha employed, the entire time you were at Mallinckrodt, with Mallinckrodt?
+A: I'm not certain about Kitcha's entire employment timeline at Mallinckrodt relative to when I was there. I'd have to think about the specific dates and when our employment periods overlapped. Can you be more specific about what timeframe you're asking about, or do you have information about when Kitcha started or left the company?

@@ -1,0 +1,205 @@
+WITNESS: Tiffany Kilper
+ARCHETYPE: Inventive
+INITIAL STATE: {'C': 0.7, 'K': 0.1, 'A': 0.5, 'V': 0.6, 'R': 0.6, 'P': 0.7}
+FINAL STATE:   {'C': 0.6062, 'K': 0.1, 'A': 0.5, 'V': 0.6, 'R': 0.7008, 'P': 0.5042}
+======================================================================
+
+[Turn 1]
+Q: Good morning, Ms. Rowley-Kilper. Could you please state and spell your full name for the record?
+A: Good morning. My name is Tiffany Kilper, that's T-I-F-F-A-N-Y K-I-L-P-E-R. I don't go by Rowley-Kilper anymore - I've been divorced since 2013, so it's just Kilper now.
+
+[Turn 2]
+Q: Okay, great. And Ms. Kilper, you understand you're under oath today?
+A: Yes, I understand I'm under oath.
+
+[Turn 3]
+Q: Are you taking any medication or is there any reason that would prevent you from answering every question truthfully today?
+A: No, I'm not taking any medication that would affect my ability to testify, and there's nothing that would prevent me from answering questions truthfully.
+
+[Turn 4]
+Q: Have you ever been deposed before?
+A: Yes, I have been deposed before in connection with this litigation.
+
+[Turn 5]
+Q: So just a few ground rules, mostly so we can help the court reporter. We don't want tc talk over each other. He'll be recording every word that we say, so for the sake of having a clear record we don't want to speak at the same time. So if you wait for me to finish asking a question before answering, I will wait for you to finish answering before asking another question.
+A: I understand. I'll wait for you to finish your questions before I answer.
+
+[Turn 6]
+Q: And then when you answer a question, you need to answer it verbally rather than uh-huh or nodding, shaking head.
+A: Yes, I understand. I'll give verbal answers.
+
+[Turn 7]
+Q: Okay. Great. When you were at Mallinckrodt, did you use your personal e-mail for Mallinckrodt business ever?
+A: No, I didn't use my personal email for Mallinckrodt business. We had company email accounts and we were expected to use those for all work-related communications. I kept my personal and work email separate.
+
+[Turn 8]
+Q: Let's see. Are you being reimbursed at all for your time here today?
+A: No, I'm not being reimbursed for my time today. My attorney fees are being covered, but I'm not receiving any payment for my time or testimony.
+
+[Turn 9]
+Q: For the record, this is Bates-numbered ending in 8005956. This is a performance evaluation from October 2002. I have a question about just one part of it. On Page 4, in the box that says expected result, it says become more exposed to the chargeback group and their importance and functions in the department. Can you explain that to me, please? MR. DAVISON: Objection. Form.
+A: Well, at that time I was still relatively new to the chargeback operations. I had started in contract administration and was being cross-trained in different areas. The chargeback group handled processing rebates and contractual allowances to distributors, and my supervisor wanted me to get more familiar with how that process worked and how it connected to the contract administration side. It was part of my development to understand the broader functions of the department, not just my specific role.
+
+[Turn 10]
+Q: So I have some general questions. What is a chargeback? MR. DAVISON: Objection to form.
+A: A chargeback is essentially a rebate or contractual allowance that we paid back to distributors. When a distributor sold our products to an end customer at a contracted lower price, they would submit a chargeback claim to us for the difference between what they paid us originally and the lower contracted price they sold it for. So if we sold a product to a distributor for ten dollars, but they had a contract to sell it to a hospital for eight dollars, they would submit a chargeback for that two dollar difference, and we would reimburse them.
+
+[Turn 11]
+Q: That's fine. How about the term suspicious order? Are you familiar with that term?
+A: Yes, I'm familiar with that term. A suspicious order would be an order that raised red flags - something that seemed unusual or potentially problematic. It could be things like orders that were much larger than a customer's normal purchasing patterns, orders from customers in areas that didn't seem to match their business profile, or orders that just didn't make sense based on what we knew about the customer's legitimate needs. These were orders that warranted further review or investigation.
+
+[Turn 12]
+Q: So this is an e-mail forward from Sue
+A: I'm sorry, I don't see a document in front of me. Are you showing me an email? I'd need to see what you're referring to before I can answer any questions about it.
+
+[Turn 13]
+Q: Sure. Were there customers in Mallinckrodt's supply chain that were not legitimate end customers to your knowledge? MR. DAVISON: Objection to form.
+A: Well, that's a complicated question. As part of my work in chargeback operations, we processed claims from distributors who were supposed to be selling to legitimate end customers like hospitals, pharmacies, and other healthcare providers. But there were concerns about what we called "gray market" activities - situations where products might be getting resold through unauthorized channels or to customers who weren't the intended end users. That's actually why we had initiatives to try to validate our customer base and make sure the chargebacks we were processing were going to legitimate transactions. So yes, there were concerns that not all customers in the supply chain were legitimate end customers.
+
+[Turn 14]
+Q: So as you were explaining before, the chargeback department was separate from your contract administration department; correct?
+A: No, that's not quite right. The chargeback operations and contract administration were actually part of the same department. I worked in both areas during my time there. I started more on the contract administration side and then moved into chargeback operations, but they were connected functions within the same department. The contract administration handled setting up the contracts, and the chargeback operations processed the rebate claims that came from those contracts.
+
+[Turn 15]
+Q: And do you know which system the indirect customer information is entered into? Would that have been Partner as well? MR. DAVISON: Objection to form.
+A: I'm not sure what you mean by "Partner" - I don't recall a system by that name. We used different systems for different functions. For chargeback processing and customer information, we had various databases and systems that tracked customer data and processed the rebate claims. But without seeing the specific document you're referring to or having more context about what "Partner" system you're asking about, I can't give you a definitive answer about which system was used for indirect customer information.
+
+[Turn 16]
+Q: Is that correct? this way. I've seen in the documents -- and let me know if this is accurate -- that you would at times run chargeback reports; is that correct? MR. DAVISON: Objection to form. that, again, I don't really understand it, but it was what our system or what our company used to sort of -- I know that it like rolled up the data so you could look at it at a level and you could -- it was like a program or a report-writer type of functionality. Source:  https://www.industrydocuments.ucsf.edu/docs/zknv0249
+A: Yes, that's correct. I did run chargeback reports as part of my job responsibilities. We had reporting systems that would pull data and roll it up so you could analyze it at different levels - you could look at individual transactions or aggregate the data to see patterns by customer, by product, by time period, things like that. It was a way to track and analyze the chargeback activity and identify any issues or trends that needed attention.
+
+[Turn 17]
+Q: Was there an additional customer database that Mallinckrodt used? MR. DAVISON: Objection to form.
+A: Yes, there were multiple databases and systems that we used. We had different systems for different purposes - some for contract information, some for customer data, some for processing chargebacks. I can't recall all the specific system names, but we definitely had various databases that contained customer information beyond just what was in our main chargeback processing system. Different departments might use different systems depending on what they needed to track or analyze.
+
+[Turn 18]
+Q: For the record, the Bates number ends in 457681. It is an e-mail dated February 6th, 2008, to you from Victor Borelli with an attachment. Do you remember working with Victor Borelli?
+A: Yes, I remember Victor Borelli. He was someone I worked with on various projects and initiatives during my time at Mallinckrodt. Without seeing the specific email you're referring to, I can't recall the exact details of what we were working on in February 2008, but we did collaborate on different things related to chargeback operations and customer validation projects.
+
+[Turn 19]
+Q: Okay. So a three-month period. Approximately when did that start?
+A: I'm sorry, I don't see the document you're referring to, so I can't tell what three-month period you're asking about. Without being able to see the email from Victor that you mentioned, I can't give you specific dates or timeframes. If you could show me the document or give me more context about what three-month period you're referring to, I'd be happy to try to answer.
+
+[Turn 20]
+Q: Were you involved in consideration of a pilot project by an entity called IntegriChain?
+A: I'm not certain about that specific name - IntegriChain. I was involved in various pilot projects and initiatives during my time there, particularly around customer validation and chargeback process improvements. But without seeing the document you're referring to or having more context, I can't definitively say whether I was involved with that particular entity. There were several vendors and projects we looked at for improving our processes, so it's possible, but I'd need to see more information to be sure.
+
+[Turn 21]
+Q: You mentioned that they restructured after you left. Do you know how they restructured? MR. DAVISON: Object --
+A: I'm not sure what you mean about me mentioning restructuring after I left. I don't recall saying that. Could you clarify what you're referring to? I left Mallinckrodt in 2011, and while I may have heard things here and there about changes at the company after I left, I wouldn't have detailed knowledge about how they restructured their operations since I wasn't working there anymore.
+
+[Turn 22]
+Q: And earlier we talked about how the chargeback system will not process chargebacks for wholesaler-to-wholesaler transactions. You mentioned
+A: I'm not sure I said exactly that. What I recall discussing is that there were concerns about unauthorized reselling or what we called gray market activities - situations where products might be getting resold through channels that weren't the intended distribution path. The chargeback system was designed to process legitimate rebates based on contracts with authorized customers, but there were always concerns about ensuring the transactions we were processing chargebacks for were legitimate and going to the right end customers. If you could be more specific about what you're referring to, I could try to clarify.
+
+[Turn 23]
+Q: And would the data submitted to you from the distributor have shown an increase in sales from month to month, if that's what the transaction -- scratch that. What would the data from the distributor have shown? MR. DAVISON: Objection to form.
+A: The data we received from distributors typically included transaction information for the chargebacks they were claiming - things like what products were sold, quantities, who they sold to, dates of the transactions, and the pricing information. This would let us validate that the sales they were claiming rebates for matched up with the contracts we had in place. We could see patterns in their purchasing and selling activity, which customers they were selling to, and whether there were any unusual spikes or changes in their normal business patterns. That's how we could identify potential issues or transactions that might need further review.
+
+[Turn 24]
+Q: So that brings us up to the top cf the document, and you write to Victor Borelli we are fine opening up NuCare and paying chargebacks for sales to them. As you read, it was the CEO back in 2002 that engaged in illegal practices. You can let Master's know they are fine. Do you remember sending this e-mail to Mr. Borelli?
+A: I don't have a clear recollection of that specific email without seeing it in front of me. If you're showing me something I wrote, then I would have sent it, but I'd need to see the document to understand the full context of what I was referring to regarding NuCare and the situation with their CEO. Without seeing the email, I can't recall the specific details of what we were discussing about that customer.
+
+[Turn 25]
+Q: Okay. This is Exhibit 13. [Exhibit Mallinckrodt-Rowley-Kilper-013 marked for identification.]
+A: Thank you for showing me the exhibit. Yes, if that's an email I sent to Victor Borelli, then I would have sent it. I can see what you're reading from the document about NuCare and the reference to the CEO back in 2002. This appears to be related to our customer validation process where we were reviewing customers to determine whether they should be eligible for chargeback processing. It looks like we had done some research on NuCare's background and determined that despite past issues with their CEO, we could move forward with processing chargebacks for sales to them.
+
+[Turn 26]
+Q: Okay. And in this case, the wholesaler submitted a chargeback request that the system then denied; is that accurate? MR. DAVISON: Objection.
+A: Looking at this document, it appears that way - that there was a chargeback request that the system had blocked or denied, and then we were reviewing whether to allow it to go through. That's what the customer validation process was about - when the system flagged something or denied a transaction, we would investigate and determine whether the customer was legitimate and whether we should approve the chargeback. In this case, it sounds like we concluded that NuCare was acceptable despite whatever past issues there had been with their CEO.
+
+[Turn 27]
+Q: So Kathy Weiss says that she will work on the Partner testing. Do you know what that refers to? MR. DAVISON: Objection.
+A: I can see that reference in the email, but I'm not entirely clear on what specific "Partner testing" Kathy was referring to. Without more context about what system or process she was talking about, I can't give you a definitive answer about what that testing involved. It could have been related to system updates or changes we were making to how we processed chargebacks, but I'd need to see more information to be sure about the specifics.
+
+[Turn 28]
+Q: Do you have any understanding of how the 867 data was used? MR. DAVISON: Objection.
+A: I'm familiar with 867 data - that was transaction data we received from distributors that showed their sales activity. We used that data as part of our chargeback validation process to verify that the sales they were claiming rebates for actually occurred and went to legitimate customers. The 867 data would show us details about who they sold to, what quantities, and other transaction information that we could cross-reference against our contracts and customer validation lists to make sure the chargebacks were appropriate.
+
+[Turn 29]
+Q: So as a general matter, new account forms would go to CDIG?
+A: I'm not certain about that specific process flow or what CDIG stands for in that context. While I was familiar with various departments and processes at Mallinckrodt, I can't recall the specific acronym CDIG or definitively say that all new account forms went there. There were different groups that handled different aspects of customer onboarding and validation, but without more context I can't confirm that particular routing process.
+
+[Turn 30]
+Q: Okay. So Exhibit 16, for the record, ends in Bates number 290095. It's an e-mail string with the earliest e-mail dated August 10th, 2009. I'll just give you a second to look it over.
+A: Thank you, I'm looking at the document now. I can see it's an email string from August 2009. Let me review it so I can answer any questions you have about it.
+
+[Turn 31]
+Q: And is it fair to say that using the Cognos tool was not specific to a certain department at Mallinckrodt?
+A: That's correct. From what I recall, Cognos was a reporting tool that was used across different departments at Mallinckrodt, not just in one specific area. Various groups would use it to pull reports and analyze data for their particular functions. It wasn't limited to just chargeback operations or contract administration - other departments used it as well for their reporting needs.
+
+[Turn 32]
+Q: For the record, it's Bates ending in 289983. This is an e-mail from John Adams dated November 18th, 2009, with the subject East Main Street Adams. You say see attached sales data. I've indicated the distributor that sold them our product. Can you look at the attached spreadsheet and tell me which database that spreadsheet would have been generated from? Pharmacy sales, trailing 12 months. It looks like it's a spreadsheet file attached. So you are copied on this e-mail, and Mr. Adams is e-mailing Victor Borelli and Steve Becker to say that the East Main Street Pharmacy was shut down by the DEA last week. And if you look at the bottom of the e-mail, the attachment is coming from you to John
+A: Looking at this email and the attachment, if it shows pharmacy sales data for a trailing 12 month period and it's showing which distributor sold to that pharmacy, this would likely have been generated from our chargeback database or our transaction tracking system. That's where we would have records of sales through distributors to end customers like pharmacies. If the attachment is coming from me, then I would have pulled that data from whatever system we used to track those distributor-to-customer transactions - probably through Cognos or our chargeback processing system that had visibility into the sales data we received from distributors.
+
+[Turn 33]
+Q: Do you agree that this report shows sales to a pharmacy in Columbus, Ohio? Source:  https://www.industrydocuments.ucsf.edu/docs/zknv0249
+A: Yes, looking at the document, it appears to show sales data for a pharmacy in Columbus, Ohio. If that's what the spreadsheet indicates, then that's what the data would be showing - sales transactions to that particular pharmacy location.
+
+[Turn 34]
+Q: I'm just talking about identifying information that would show you relative proportions of product purchased.
+A: Yes, that's correct. The data would show the relative proportions or quantities of different products that were purchased by that pharmacy - essentially a breakdown of what they were buying and in what amounts. That kind of information would be part of the sales data we'd track for chargebacks and customer analysis.
+
+[Turn 35]
+Q: How far back could you go?
+A: I'm not entirely sure of the exact limits of how far back our data went. It would depend on the specific database and how long the company retained transaction records. We could typically go back quite a while - certainly months, probably years - but I can't give you a precise timeframe without knowing more about the data retention policies and system capabilities at that time. Different systems might have had different retention periods.
+
+[Turn 36]
+Q: What's your understanding of how running chargeback reports would support Karen Harper's group? MR. DAVISON: Objection.
+A: I'm not entirely clear on what specific reports Karen Harper's group would have needed or how our chargeback reports would have supported their particular function. Without knowing more about what Karen Harper's group was responsible for, I can't say definitively how the chargeback data would have been useful to them. Different groups used our data for different purposes, but I'd need more context about her team's role to explain the connection.
+
+[Turn 37]
+Q: So she's directing Carrie to work with you to determine if Carrie can access the programs necessary to run chargeback reports associated with the compliance -- C slash S -- controlled substance compliance industry news for Mallinckrodt commercial team initiative. Do you remember working with Carrie Johnson on this initiative?
+A: I remember the name Carrie Johnson, but I'm not entirely clear on the specific details of that particular initiative or exactly what work we did together on it. There were various compliance-related projects and initiatives that involved pulling chargeback data and reports, but I can't recall the specifics of this controlled substance compliance industry news initiative or exactly what my role was in working with Carrie on it. I may have helped with accessing or running reports, but the details aren't clear to me right now.
+
+[Turn 38]
+Q: When you mention that the queries are pretty simple to learn, can you give me an example of a query that you would use? MR. DAVISON: Objection. Form.
+A: Well, a basic query might be something like pulling all transactions for a specific customer over a certain time period - so you'd specify the customer name or ID and set date parameters. Or you might query for all sales of a particular product, or transactions above a certain dollar amount. The queries themselves weren't technically complex - it was more about knowing which fields to search on and how to set your parameters to get the data you needed. Most of it was point-and-click type selections rather than complex coding.
+
+[Turn 39]
+Q: Do you recall breathe you provided any to Karen Harper and her group after this date?
+A: I'm sorry, could you repeat that question? I didn't quite catch what you were asking about providing to Karen Harper and her group.
+
+[Turn 40]
+Q: -- of this nature? MR. DAVISON: Objection.
+A: I'm still not entirely clear on the question. Are you asking if I provided reports of this nature to Karen Harper's group after a certain date? If so, I may have provided various chargeback reports to different groups for compliance purposes, but I don't have a clear recollection of the specific reports or timing related to Karen Harper's team after this particular initiative.
+
+[Turn 41]
+Q: Can you -- based on your experience working for Mallinckrodt over -- for over a decade and working with this data, with sales data, do you have any idea what sales trending might refer to? MR. DAVISON: Objection to form.
+A: Based on my experience with the sales data at Mallinckrodt, sales trending would typically refer to analyzing patterns in sales over time - looking at whether a customer's purchases are increasing, decreasing, or staying steady. It could involve tracking volumes, frequency of orders, or changes in product mix. You might look at monthly or quarterly trends to see if there are unusual spikes or drops in activity, or to identify patterns that might be significant for business or compliance purposes.
+
+[Turn 42]
+Q: So if anyone had wanted to take you up on that offer to be trained on Cognos, you would have been Source:  https://www.industrydocuments.ucsf.edu/docs/zknv0249 able to train them on how to use the program?
+A: Yes, I believe I could have provided basic training on how to use Cognos for running the types of reports we typically needed. I was familiar with the system and how to navigate it to pull the data we used in chargeback operations. It wasn't overly complicated once you understood how to set up your queries and knew which fields to use. I could have shown someone how to access the system and run standard reports, though I'm not saying I was an expert on every aspect of Cognos - just the parts we used regularly for our work.
+
+[Turn 43]
+Q: Train them. Right. Okay. So that was in the context of training, but just in terms of having access to Cognos, I believe you testified earlier that people across various departments had access to it.
+A: Yes, that's right. Access to Cognos itself was broader than just my department - various people across different departments had access to the system for their own reporting needs. But the training aspect would be more specific - I could train someone on how to use it for the particular types of queries and reports that we ran in chargeback operations, but each department might use it differently depending on what data they needed to pull for their specific functions.
+
+[Turn 44]
+Q: But fair to say you would have needed to have known -- need to have known who the indirect customer was? Is that fair? MR. DAVISON: Objection.
+A: Yes, that's fair. To process chargebacks properly, we would need to know who the indirect customer was - meaning the end customer that the distributor sold to. The distributor would provide us with that information as part of the chargeback claim, because we needed to verify that it was a legitimate sale to an authorized customer before we would pay the chargeback. Without knowing the indirect customer, we couldn't validate the transaction or process the chargeback correctly.
+
+[Turn 45]
+Q: Do you recall testifying earlier that you didn't have a sense of what might make an order of oxy 15 and 30 disproportionate or proportionate?
+A: I recall saying something along those lines, yes. I may have testified that I didn't have a clear sense of what would constitute disproportionate ordering patterns for oxycodone 15 and 30 milligram tablets specifically. The determination of what might be considered suspicious or disproportionate ordering wasn't something I was necessarily trained on or responsible for making those kinds of judgments in my role.
+
+[Turn 46]
+Q: And how would using the Cognos tool better the peculiar order report system? MR. DAVISON: Objection.
+A: I'm not sure I understand the question about how Cognos would better the peculiar order report system. I don't recall making a comparison between those two systems or suggesting that Cognos would improve upon the peculiar order reporting. Those might have been separate systems used for different purposes. Could you clarify what you're asking about?
+
+[Turn 47]
+Q: So just looking -- and this is another document that's very hard to read. Okay. Okay. Is this your handwriting on this document?
+A: I'd need to see the document to tell you if that's my handwriting. Could you show it to me or point to the specific handwriting you're asking about?
+
+[Turn 48]
+Q: And in this case, your notes simply says
+A: I'm waiting to see what the notes say. You mentioned that my notes simply say something, but I haven't heard what they actually say yet.
+
+[Turn 49]
+Q: With an order number would they be able to be correlated to an indirect transaction?
+A: Yes, typically with an order number we would be able to correlate it to an indirect transaction. The order number would help us track the transaction through the system and identify the distributor sale to the end customer. That's part of how we would validate chargeback claims - by being able to trace the order and confirm the indirect sale actually occurred to a legitimate customer.
+
+[Turn 50]
+Q: Can you think of any specific examples of actions that you or others at Mallinckrodt took to prevent the sort of volume of shipments of Mallinckrodt products going to pharmacies as we've seen in some of these documents today? MR. DAVISON: Objection.
+A: I don't have specific recollection of particular actions that I personally took to prevent high volume shipments to pharmacies. My role was more on the contract administration and chargeback processing side. I know there were compliance initiatives and monitoring systems in place, but I can't point to specific examples of actions I took or witnessed that were directly aimed at preventing excessive volumes going to particular pharmacies. That type of monitoring and decision-making may have been handled by other departments or people with different responsibilities than mine.

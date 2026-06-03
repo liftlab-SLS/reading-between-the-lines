@@ -1,0 +1,210 @@
+WITNESS: Karen Harper
+ARCHETYPE: Dogmatic
+INITIAL STATE: {'C': 0.8, 'K': 0.6, 'A': 0.4, 'V': 0.5, 'R': 0.95, 'P': 0.6}
+FINAL STATE:   {'C': 0.6823, 'K': 0.6, 'A': 0.4224, 'V': 0.4359, 'R': 0.9626, 'P': 0.4323}
+======================================================================
+
+[Turn 1]
+Q: Good morning. We met earlier, 09:11:05 just a moment ago. 09:11:06 Could you please state and 09:11:07 spell your name for the record? 09:11:09
+A: Good morning. My name is Karen Harper. That's K-A-R-E-N, H-A-R-P-E-R.
+   Δ: C▼0.010
+
+[Turn 2]
+Q: Ms. Harper, where do you 09:11:14 currently reside? 09:11:16
+A: I reside in St. Louis, Missouri.
+
+[Turn 3]
+Q: Okay. And I know that you have 09:11:19 had your deposition taken at least once 09:11:21 before in connection with a matter involving 09:11:23 Island Drug Pharmacy. 09:11:28 Have you had your deposition 09:11:29 taken at any other time other than that 09:11:30 instance? 09:11:32
+A: Yes, I have been deposed multiple times in matters involving Island Drug Pharmacy. I believe there have been several depositions over the years related to those cases.
+
+[Turn 4]
+Q: Okay. So how many times have 09:11:37 you been deposed? 09:11:38
+A: I believe it's been three or four times total. The exact number is difficult to recall precisely, but it's been multiple depositions related to the Island Drug Pharmacy matters over the years.
+
+[Turn 5]
+Q: Okay. So you understand 09:11:40 Source:  https://www.industrydocuments.ucsf.edu/docs/yknv0249 probably some of the ground rules, but I just want to remind you of a few that are important to me today. The court reporters have the most important job here in transcribing everything that we're saying, so it's important that we don't talk over one another. So please wait until I finish my question before you move on to your response, and likewise, I'll wait until you finish your question {sic} before I move on to my next question. 09:11:42 09:11:44 09:11:47 09:11:48 09:11:49 09:11:52 09:11:53 09:11:54 09:11:56 09:11:58 09:12:00 09:12:03 Does that sound good? 09:12:03
+A: Yes, that sounds good. I understand.
+
+[Turn 6]
+Q: And to the extent I ask a yes 09:12:05 or no question, I would ask that you actually 09:12:07 in fact answer yes or no, if that's your 09:12:11 response, rather than shaking your head or 09:12:11 nodding your head. 09:12:15
+A: Yes, I understand. I will answer yes or no verbally rather than nodding or shaking my head.
+
+[Turn 7]
+Q: Okay. At the time you joined 09:19:37 in 2001, the approximate 2001 time period, 09:19:43 when you joined the DEA compliance team, 09:19:46 Source:  https://www.industrydocuments.ucsf.edu/docs/yknv0249 approximately how large was that team?
+A: When I became coordinator of the DEA compliance group around 2001, the team was quite small. I believe it was approximately three to four people at that time.
+
+[Turn 8]
+Q: . I  see. 09: 27: 20 So i n ot her w ords,  you' re 09: 27: 20 get t i ng and recei vi ng and revi ew i ng t hese 09: 27: 22 new s updat es about  t he M D L? 09: 27: 26
+A: I'm not sure what you're referring to with "these new updates about the MDL." Could you clarify what specific updates or communications you're asking about?
+
+[Turn 9]
+Q: Okay. Since when? 09:36:05
+A: Since when what? I need you to be more specific about what you're asking. Since when have I been receiving updates? Since when have I been in my role? Could you clarify your question?
+
+[Turn 10]
+Q: Okay. And would it also be 09:48:07 fair to say that up to that point, DEA 09:48:11 actions were against small or mid-sized 09:48:15 distributors related to their diversion-type 09:48:23 activities? 09:48:24
+A: I would need you to clarify what specific time period you're referring to when you say "up to that point." Are you asking about a particular date or event? Without that context, I can't properly answer your question about DEA actions against distributors.
+
+[Turn 11]
+Q: Now, you mentioned some names 10:01:54 of people that have been deposed previously 10:01:57 in this case in the past few weeks. Many of 10:02:01 them have testified that you are the person 10:02:05 most knowledgeable about Mallinckrodt's SOM 10:02:07 program. 10:02:10 Would you agree with that 10:02:10 assessment? 10:02:11 MR. O'CONNOR: Object to form. 10:02:11 THE WITNESS: Well, I'm not a 10:02:12 vain person, but, yes, I know a lot 10:02:17 about the program, but it's all been 10:02:18 with the contributions of a -- a team 10:02:20 effort as time has gone on. 10:02:22 Source:  https://www.industrydocuments.ucsf.edu/docs/yknv0249 QUESTIONS BY MR. KO: 10:02:23
+A: Well, I'm not a vain person, but yes, I know a lot about the program. But it's all been with the contributions of a team effort as time has gone on.
+
+[Turn 12]
+Q: Welcome back from the break, 10:35:46 Ms. Harper. 10:35:49
+A: Thank you.
+
+[Turn 13]
+Q: . O kay. And regardi ng 10: 44: 47 M al l i nckrodt ' s SO M program ,  you m ent i oned t he 10: 44: 49 rol e of  nat i onal  account  m anagers. 10: 44: 53 D o you recal l  t hat ? 10: 44: 56
+A: Yes, I recall mentioning the role of national account managers in relation to Mallinckrodt's SOM program.
+
+[Turn 14]
+Q: And this comprises the entire 10:57:31 controlled substance compliance team? 10:57:34
+A: Yes, that's correct. The controlled substance compliance team that I manage comprises the entire team responsible for that function at Mallinckrodt.
+
+[Turn 15]
+Q: Okay. I understand. 11:09:25 And did you have any -- a 11:09:26 specific involvement with that? 11:09:29
+A: I need you to clarify what "that" refers to. What specific involvement are you asking about?
+
+[Turn 16]
+Q: And you participated in it? 11:23:33
+A: I need you to be more specific about what you're asking if I participated in. What are you referring to?
+
+[Turn 17]
+Q: Okay. So was one of the 11:37:19 reasons why you were putting more attention 11:37:20 to Mallinckrodt's SOM program a result of 11:37:25 receiving these -- of receiving the 11:37:28 Rannazzisi letters? 11:37:30
+A: I need you to clarify what specific Rannazzisi letters you're referring to. Without knowing which letters or what time period you're asking about, I can't properly answer whether they influenced our attention to the SOM program.
+
+[Turn 18]
+Q: Would you agree with that 11:53:03 statement? 11:53:04
+A: I need you to repeat what statement you're asking me to agree with. I'm not sure what specific statement you're referring to.
+   Δ: C▼0.037 V▼0.100
+   ⚡ PERSONALITY SHIFT — Verbosity ▼0.10
+
+[Turn 19]
+Q: Okay. So a peculiar order, if 12:20:19 I understand your testimony correctly, is not 12:20:21 necessarily synonymous with a suspicious 12:20:23 order; is that correct? 12:20:26
+A: That's correct. A peculiar order is not necessarily synonymous with a suspicious order. There can be differences between the two concepts.
+
+[Turn 20]
+Q: Okay. In the next paragraph, 12:35:56 Ms. Stewart indicates that "the sales force 12:36:06 will play a key role in this process by 12:36:07 verifying the customer's physical site and 12:36:11 operations ring true with the type of 12:36:14 business they purport to run." 12:36:16 Do you see that? 12:36:17
+A: I need you to show me the document you're reading from. I can't see what you're referring to regarding Ms. Stewart's statement about the sales force.
+
+[Turn 21]
+Q: In terms of we had discussed 13:37:36 the fact that you had sent monthly reports to 13:37:38 Mr. Ratliff. 13:37:42 And I just wanted to ask a few 13:37:43 questions on this document. 13:37:45 It appears here on the third 13:37:46 section down that you are working on a draft 13:37:48 of the S0M policy, and you indicate that 13:37:56 hopefully the final draft is close to 13:38:02 publication. 13:38:04 Do you see that? 13:38:05
+A: I need you to show me the specific document you're referring to. I can't see what you're reading from regarding my monthly reports to Mr. Ratliff or the SOM policy draft.
+
+[Turn 22]
+Q: U ESTI O N S BY M R.  KO : 13: 51: 36
+A: Yes.
+
+[Turn 23]
+Q: Okay. Fair enough. 14:03:36 (Mallinckrodt-Harper Exhibit 11 14:03:42 marked for identification.) 14:04:00 QUESTIONS BY MR. KO: 14:04:00
+A: Yes.
+
+[Turn 24]
+Q: Okay. And in response to 14:13:15 Mr. Ratliff's e-mail, Mr. Rausch says, "Bill, 14:13:22 okay. I think we just sent the monthly one 14:13:28 out yesterday, so maybe that's the one he 14:13:30 just got. We won't send out any more." 14:13:32 Did I read that correctly? 14:13:35
+A: I need you to show me the document you're reading from. I can't see the email exchange between Mr. Ratliff and Mr. Rausch that you're referring to.
+
+[Turn 25]
+Q: Do you know why it took so 14:26:49 along to enact that policy? 14:26:51
+A: I need you to clarify which policy you're asking about. What specific policy are you referring to when you ask why it took so long to enact?
+
+[Turn 26]
+Q: Okay. And you say that you 14:42:41 needed -- at times you needed guidance from 14:42:45 them on specific -- you needed guidance from 14:42:47 NAMs on specific orders -- 14:42:50
+A: Yes, that's correct. At times I needed guidance from the NAMs on specific orders.
+
+[Turn 27]
+Q: And it's referred to in that 15:13:17 manner because there was an earthquake that 15:13:18 day outside of DC, in Virginia in particular? 15:13:20
+A: I need you to clarify what you're referring to that's connected to an earthquake in Virginia. What specific document or event are you asking about?
+
+[Turn 28]
+Q: Okay. And you did reference a 15:28:23 work stoppage at Mallinckrodt. I understand 15:28:26 that there was a strike by some employees at 15:28:29 Covidien at the time. 15:28:31
+A: Yes, that's correct. There was a work stoppage situation involving some employees at that time.
+
+[Turn 29]
+Q: Okay. Would you -- if I 15:41:33 represented to you, and assuming that I could 15:41:38 prove at trial that there were approximately 15:41:40 eight national account managers at 15:41:42 Mallinckrodt during the 2005 through 2015 15:41:44 time period, does that -- is that consistent 15:41:48 with your understanding? 15:41:49 MR. O'CONNOR: Object to form. 15:41:51 THE WITNESS: I just don't know 15:41:52 who the NAMs were at any particular 15:41:55 time or assigned to which product 15:41:57 line. 15:41:59 QUESTIONS BY MR. KO: 15:42:00
+A: That's right. I don't have specific knowledge of exactly how many national account managers there were during that time period or which ones were assigned to particular product lines at any given time.
+
+[Turn 30]
+Q: Okay. And that's 15:55:28 notwithstanding the fact that you did receive 15:55:30 guidance from the DEA that they expected you 15:55:33 to monitor your customer's customer, correct? 15:55:35 MR. O'CONNOR: Object to form. 15:55:37 THE WITNESS: Correct. 15:55:39 QUESTIONS BY MR. KO: 15:55:39
+A: Correct.
+
+[Turn 31]
+Q: And it's a little confusing 16:09:17 because I think that's reference made to a 16:09:19 subsequent e-mail. But if you look at the 16:09:22 bottom of the second page, there is an e-mail 16:09:24 from you to Tiffany Rowley dated November 19, 16:09:27 2009. 16:09:33 Do you see that? 16:09:33 Source:  https://www.industrydocuments.ucsf.edu/docs/yknv0249
+A: I need you to show me the document you're referring to. I can't see the email from me to Tiffany Rowley dated November 19, 2009 that you're describing.
+
+[Turn 32]
+Q: Okay. That's all I have on 16:43:04 Source:  https://www.industrydocuments.ucsf.edu/docs/yknv0249 that document. Now, in connection with running chargeback reports, is it also accurate to 16:43:14 16:43:15 16:43:28 say that indirect match reports were reports 16:43:33 that you asked to be run to understand the 16:43:40 downstream details of a transaction? 16:43:44 MR. O'CONNOR: Object to form. 16:43:46 THE WITNESS: I don't 16:43:47 understand the term "indirect match 16:43:49 report." 16:43:50 QUESTIONS BY MR. KO: 16:43:52
+A: I don't understand the term "indirect match report." I'm not familiar with that terminology.
+
+[Turn 33]
+Q: Okay. Thank you for waiting. 16:59:30
+A: You're welcome.
+
+[Turn 34]
+Q: . O kay. And based on t hat 17: 09: 26 revi ew ,  you i ndi cat e t hat  you are not 17: 09: 29 prepared,  M al l i nckrodt  i s not  prepared,  t o 17: 09: 33 resum e sal es of  cont rol l ed subst ances, 17: 09: 35 correct ? 17: 09: 37 G ol kow Li t i gat i on Servi ces M N KO I  0004558851 Source:  https://www.industrydocuments.ucsf.edu/docs/yknv0249
+A: I need to see the document you're referring to. I can't respond to what you're saying I indicated without seeing the specific review or communication you're quoting from.
+
+[Turn 35]
+Q: . You do not  agree. 17: 22: 12 H ad you si m pl y asked M ast ers 17: 22: 13 w het her or not  cert ai n pharm aci es appeared on 17: 22: 19 t hei r do not  shi p l i st ,  you w oul d have 17: 22: 21 l earned t hat  cert ai n pharm aci es di d i n f act 17: 22: 23 appear on t hat  l i st ,  correct ? 17: 22: 25 M R.  O ' CO N N O R: O bj ect i on. 17: 22: 27 Asked and answ ered. 17: 22: 28 TH E W I TN ESS: I  don' t  know i f 17: 22: 28 t hey w oul d have gi ven us t hi s l i st . 17: 22: 30 G ol kow Li t i gat i on Servi ces Source:  https://www.industrydocuments.ucsf.edu/docs/yknv0249 H i ghl y Conf i dent i al  -  Subj ect  t o Furt her Conf i dent i al i t y Revi ew
+A: I don't know if they would have given us this list. I can't assume what Masters would or wouldn't have shared with us if we had asked different questions.
+
+[Turn 36]
+Q: Would you agree with me that 17:49:42 that would be a rare occurrence? 17:49:42 MR. O'CONNOR: Object to form. 17:49:44 THE WITNESS: I don't know the 17:49:45 Source:  https://www.industrydocuments.ucsf.edu/docs/yknv0249 frequency. (Mallinckrodt-Harper Exhibit 32 marked for identification.) 17:49:45 17:49:57 17:49:46 QUESTIONS BY MR. KO: 17:49:46
+A: I don't know the frequency.
+   Δ: C▼0.034 V▼0.090
+   ⚡ PERSONALITY SHIFT — Verbosity ▼0.09
+
+[Turn 37]
+Q: . And w ho i s J am es Parker? 18: 04: 53
+A: I need more context. Are you referring to a specific document or communication? Without seeing what you're looking at, I can't identify who James Parker is in relation to what we're discussing.
+
+[Turn 38]
+Q: Okay. And when you say you 18:29:37 were coming from Gulf Shores, you meant from 18:29:38 Gulf Shores back here to St. Louis? 18:29:41
+A: Yes, that's correct. I was coming back from Gulf Shores to St. Louis.
+
+[Turn 39]
+Q: Okay. And one of the things 18:40:37 that you're monitoring is news about pill 18:40:39 mills? 18:40:42
+A: Yes, we monitored news about pill mills as part of our compliance efforts.
+
+[Turn 40]
+Q: It's okay. 18:53:16
+A: Alright.
+
+[Turn 41]
+Q: Okay. Okay. And what about 19:05:16 any prescribers? Did you ever report any 19:05:20 Tennessee prescribers to any Tennessee law 19:05:22 enforcement? 19:05:24
+A: I don't recall specifically reporting Tennessee prescribers to Tennessee law enforcement. That type of reporting would typically go through our standard suspicious order reporting processes to the DEA.
+
+[Turn 42]
+Q: Okay. And then on page 11, the 19:20:33 state is? 19:20:41
+A: I need you to show me page 11 of the document you're referring to. I can't see what state you're asking about without being able to review the specific page.
+
+[Turn 43]
+Q: . Yeah,  sure.  I t  w i l l  cert ai nl y 19: 33: 18 m ake i t  easi er. 19: 33: 20
+A: Thank you.
+
+[Turn 44]
+Q: Okay. Do you know what DIRJ 19:54:05 stands for? 19:54:08
+A: I don't recall what DIRJ stands for off the top of my head. Can you show me the document where you're seeing that abbreviation?
+
+[Turn 45]
+Q: Okay. And so that would be 20:10:00 10-milligram hydrocodone -- hydrocodone APAP 20:10:03 pills sold in Tennessee from January 2012 to 20:10:06 December 2012; is that correct? That's what 20:10:11 this shows? 20:10:15
+A: I need to see the document you're referring to. I can't confirm what it shows without being able to review the specific data or chart you're looking at.
+
+[Turn 46]
+Q: Okay. And is that your 20:22:08 handwriting to the right? 20:22:09
+A: I need to see the document to tell you if that's my handwriting or not. I can't identify handwriting without being able to look at what you're referring to.
+
+[Turn 47]
+Q: Did Cardinal have that ability? 20:33:06
+A: I don't know specifically what capabilities Cardinal had. You'd need to ask someone from Cardinal about their systems and abilities.
+
+[Turn 48]
+Q: . D o you see t hat ? 20: 46: 25
+A: I need you to show me what you're referring to. I can't see what document or item you're asking me to look at.
+
+[Turn 49]
+Q: . O kay. And t hi s spreadsheet  i s 20: 59: 11 G ol kow Li t i gat i on Servi ces Source:  https://www.industrydocuments.ucsf.edu/docs/yknv0249 H i ghl y Conf i dent i al  -  Subj ect  t o Furt her Conf i dent i al i t y Revi ew f or t he oxy 15s. D o you see t hat ? 20: 59: 15 I ' l l  show you t he oxy 30s next . 20: 59: 19
+A: Yes, I can see that this is a spreadsheet regarding oxy 15s from Golkow Litigation Services. I see the confidentiality marking you mentioned.
+
+[Turn 50]
+Q: Okay. I'm going to hand you what I'm going to mark as Exhibit 59, 21:11:36 21:11:36 21:11:48 MNK-TN 000642 -- no, 6462195. 21:11:52 These all got jammed together, 21:12:01 guys. Sorry. 21:12:05 If you'll look with me all the 21:12:07 way down to... 21:12:09 You don't have to read the 21:12:26 whole thing, but if you look where Tom -- 21:12:30 Thomas Duffel -- three-quarters of the way 21:12:34 down the page? 21:12:35
+A: I'm looking at the document you've handed me. I can see where you're referring to Thomas Duffel's name about three-quarters down the page.

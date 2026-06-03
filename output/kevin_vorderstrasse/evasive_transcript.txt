@@ -1,0 +1,205 @@
+WITNESS: Kevin Vorderstrasse
+ARCHETYPE: Evasive
+INITIAL STATE: {'C': 0.6, 'K': 0.1, 'A': 0.4, 'V': 0.7, 'R': 0.5, 'P': 0.5}
+FINAL STATE:   {'C': 0.5195, 'K': 0.1, 'A': 0.4224, 'V': 0.7, 'R': 0.6261, 'P': 0.3602}
+======================================================================
+
+[Turn 1]
+Q: Could you please state and spell your name for the record?
+A: Kevin Vorderstrasse. That's K-E-V-I-N, V-O-R-D-E-R-S-T-R-A-S-S-E.
+
+[Turn 2]
+Q: And Mr. Vorderstrasse, where do you currently reside?
+A: I live in St. Louis, Missouri.
+
+[Turn 3]
+Q: And Mr. Vorderstrasse, have you had your deposition taken before?
+A: No, this is my first deposition.
+
+[Turn 4]
+Q: It's your first time? Congratulations.
+A: Thank you, I guess. I'm not sure congratulations is quite the right word for this situation, but I appreciate it.
+
+[Turn 5]
+Q: Let me go over some ground rules that are important. These court reporters here have the most important job here, so it's very important that we try and create a clean record to the extent that we can, so I would please ask that you wait until I finish my question before you respond, and I will likewise wait until you finish your response before I move onto my next question. In other words, let's not talk over each other. Okay?
+A: Yes, I understand. I'll wait for you to finish your questions before I respond.
+
+[Turn 6]
+Q: And to the extent I ask a yes-or-no Source:  https://www.industrydocuments.ucsf.edu/docs/lknv0249 question and your answer is indeed yes or no, I would ask that you make that clear and audible, rather than simply shaking your head or otherwise revealing a response that's inaudible. Okay?
+A: Yes, that makes sense. I'll make sure to give verbal responses.
+
+[Turn 7]
+Q: So isolating on your role as a product manager, are the products you described insofar as generic drugs, addiction treatment, and active ingredients -- are those the products that you're referring to that you manage?
+A: Yes, that's correct. Those are the three main categories of products I manage as a product manager - the generic drugs, which make up about 80% of my portfolio, the addiction treatment products at about 10%, and the active pharmaceutical ingredients which round out the remaining portion.
+
+[Turn 8]
+Q: And is it fair to say that the generic version of the oxycodone, both in the 15-milligram and the 30-milligram version -- are those your bestselling -- are those Mallinckrodt's bestselling generic drugs?
+A: I... well, yes, the oxycodone products are significant revenue drivers for us. The 15-milligram and 30-milligram immediate release oxycodone tablets are among our top-selling generic opioid products. They represent a substantial portion of our generic opioid business, which as I mentioned makes up about 80% of my product portfolio.
+
+[Turn 9]
+Q: So your testimony is today that Source:  https://www.industrydocuments.ucsf.edu/docs/lknv0249 Mallinckrodt never had any visibility to the actual price that was charged between the distributor and the downstream customer?
+A: I'm sorry, but I think there might be some confusion here. I don't believe I testified about distributor pricing or downstream customer pricing visibility. We haven't discussed that topic yet in this deposition. Could you clarify what you're referring to, or perhaps rephrase your question? I want to make sure I'm understanding what you're asking about.
+
+[Turn 10]
+Q: Fair enough, but the original source of this information which pertains to purchases cf product, as this contract suggests, comes from the wholesaler and then that information is transferred over to Mallinckrodt; is that fair?
+A: I'm having difficulty following your question. You're mentioning a contract and information transfer from wholesalers to Mallinckrodt, but I'm not sure what specific contract or information flow you're referring to. Could you be more specific about what document or process you're asking about? I want to make sure I understand exactly what you're asking before I respond.
+
+[Turn 11]
+Q: It's just important that we don't talk over each other.
+A: You're absolutely right. I apologize for jumping in. I'll wait for you to finish your complete question before responding.
+
+[Turn 12]
+Q: And so I know earlier you said that she was in finance and involved in generics. Does this refresh your recollection at all that she was actually also a director in contracts and government reporting?
+A: I'm not sure who "she" refers to in your question. We haven't been discussing any specific person that I recall, and you mentioned someone being in finance and involved in generics, but I don't have that context from our conversation today. Could you clarify who you're asking about? I want to make sure I'm responding to the right person and situation.
+
+[Turn 13]
+Q: Do you mean in the sense that -- well, Source:  https://www.industrydocuments.ucsf.edu/docs/lknv0249 let's take a step back. Do you know whether or not IMS had the capability of tracking the number of contacts to physicians? MR. TSAI: Object to scope. Object to form. Excuse me. Go ahead.
+A: I'm not familiar with IMS having that specific capability to track contacts to physicians. I don't have knowledge about what IMS's tracking capabilities were in terms of physician contacts. That's not something I would have been involved with or aware of in my role as a product manager.
+
+[Turn 14]
+Q: And when you say you don't have any specific data, do you mean at that time or throughout the time that Mallinckrodt manufactured opioid products?
+A: Well, I need to clarify what specific data you're referring to. You asked about IMS tracking physician contacts, and I said I wasn't familiar with that capability. Are you asking whether I had that information at a particular time, or are you asking about some other data? I want to make sure we're talking about the same thing before I answer about timeframes.
+
+[Turn 15]
+Q: So it appears that relative to the overall expenses, the -- marketing was lower, but there's some marketing of specialty generics going on; is that fair to say?
+A: I'm not seeing the document or context you're referring to that shows marketing expenses or specialty generics marketing. Could you help me understand what you're looking at? Without seeing the specific information you're referencing, I can't really confirm whether that characterization is fair or not. What document or data are you referring to?
+
+[Turn 16]
+Q: You can set that aside. I'm now going to hand you a copy of what will be marked as KV Exhibit 10. [Exhibit Mallinckrodt-Vorderstrasse-010 marked for identification.]
+A: Alright, I have the exhibit in front of me. I'm looking at what's been marked as KV Exhibit 10.
+
+[Turn 17]
+Q: And what are those products?
+A: I'm looking at the exhibit, but I need you to help me understand what specifically you're asking about. Are you referring to a particular section or list of products shown in this document? Could you point me to what you'd like me to identify so I can give you an accurate answer?
+
+[Turn 18]
+Q: (By Mr. Ko) And for the record this exhibit is MNK-Tl 0000259116, and it is titled specialty generic sales incentive plan document for fiscal year 2009. Do you recognize this document at all? Source:  https://www.industrydocuments.ucsf.edu/docs/lknv0249
+A: I'm looking at this document titled "Specialty Generic Sales Incentive Plan Document for Fiscal Year 2009." This would be from before my time with the company - 2009 predates when I joined Mallinckrodt. So no, I don't recognize this specific document, and I wouldn't have been involved with or aware of this sales incentive plan from 2009.
+
+[Turn 19]
+Q: And lastly, this document also details the financial results and impact of Mallinckrodt's pharmaceutical business; is that correct?
+A: I'm looking at the document, but I'd need to review it more carefully to characterize what financial results and impacts it details. Since this is from 2009, before I was with the company, I'm not familiar with the specific content or scope of what financial information this particular sales incentive plan document contains. Could you point me to the specific sections you're referring to so I can respond accurately about what's actually shown here?
+
+[Turn 20]
+Q: And with respect to Exalgo, that's also Source:  https://www.industrydocuments.ucsf.edu/docs/lknv0249 extended release; correct?
+A: Yes, that's correct. Exalgo is an extended-release formulation of hydromorphone. It's designed for around-the-clock pain management in patients who require continuous opioid therapy.
+
+[Turn 21]
+Q: So with respect to Exalgo, was the strategy at Mallinckrodt to target doctors in the higher deciles?
+A: I'm not familiar with the specific targeting strategy for Exalgo, particularly regarding decile-based targeting of physicians. Exalgo predates my involvement with the company and that level of detail about marketing strategies for specific products isn't something I would have been involved with in my current role as product manager. Do you have a specific document or information you're referring to that shows this targeting approach?
+
+[Turn 22]
+Q: And in addition to Diane --
+A: I'm sorry, you mentioned "in addition to Diane" but then stopped. Could you finish your question? I want to make sure I understand what you're asking about.
+
+[Turn 23]
+Q: And what -- Roxicodone and what dosage? Source:  https://www.industrydocuments.ucsf.edu/docs/lknv0249
+A: I'm not sure what specific context you're asking about regarding Roxicodone and dosage. Are you referring to something in the exhibit we were just looking at, or is this a separate question? Roxicodone is immediate-release oxycodone that comes in various strengths, but I'd need more context about what specifically you're asking - whether it's about dosages we manufacture, dosages mentioned in a document, or something else.
+
+[Turn 24]
+Q: And have you read the complaint that has been filed by any of the bellwethers that will be going to trial scheduled for next September?
+A: No, I haven't read the specific complaints filed by the bellwether cases scheduled for trial. That's not something I would typically review as part of my role as product manager. My focus is on the operational aspects of product management rather than litigation documents.
+
+[Turn 25]
+Q: I'll submit to you that Jackson is about
+A: I'm waiting for you to finish your statement. You said "I'll submit to you that Jackson is about" but didn't complete the thought. What were you going to say about Jackson?
+
+[Turn 26]
+Q: Data. Okay. Did you have any companies that had 852 or 867 arrangements with Mallinckrodt in Tennessee?
+A: I'm not familiar with what 852 or 867 arrangements refer to. Could you explain what those types of arrangements are? Without understanding what those numbers represent, I can't tell you whether we had companies with those arrangements in Tennessee or anywhere else.
+
+[Turn 27]
+Q: You said before that you're aware of the opioid crisis. Are you aware specifically about the opioid crisis in Tennessee?
+A: I'm aware of the opioid crisis as a national public health issue, but I don't have specific knowledge about the particular situation or statistics related to Tennessee specifically. My awareness is more general in nature rather than state-by-state details about how the crisis has affected different regions.
+
+[Turn 28]
+Q: And I'm going to give you some different matters are specifically designated in other topics designated for another witness. MS. HERZFELD: Okay. No, I was not involved. (By Ms. Herzfeld) Do you know what Source:  https://www.industrydocuments.ucsf.edu/docs/lknv0249 times. From 2005 to 2010 did you know what the market share was of Mallinckrodt opioids in Tennessee?
+A: No, I don't know what Mallinckrodt's market share was for opioids in Tennessee from 2005 to 2010. That timeframe was before I joined the company, and that level of historical state-specific market share data isn't something I would have had reason to review or be familiar with in my current role as product manager.
+
+[Turn 29]
+Q: Fair to say -- well, first of all, does -- do you believe Mallin -- that Navippro data is reliable?
+A: I'm not familiar with Navippro data specifically. Could you tell me what Navippro data refers to so I can give you a meaningful answer about its reliability? I don't want to comment on something I'm not familiar with.
+
+[Turn 30]
+Q: I'm going to hand you a document marked Exhibit 5. [Exhibit 5 marked for identification.] BY MR. STEWART:
+A: I'm ready to look at Exhibit 5. What would you like me to review or tell you about this document?
+
+[Turn 31]
+Q: And the inactive SKUs -- the 30 milligram -- the five milligram, the 15 milligram, and the 30 milligram, are those SKUs that were sold at some different time?
+A: I'd need to look at the specific document you're showing me to see what it says about those SKU statuses. Without seeing the details in Exhibit 5, I can't tell you definitively about the history of when those particular dosage strengths were sold or when they became inactive. Could you point me to where in the document this information appears?
+
+[Turn 32]
+Q: And can you tell me who -- when Mallinckrodt ordered the fourth quarter report that's Exhibit 6, who was in charge of the pharmacovigilance function at Mallinckrodt? MR. BUEKER: Objection.
+A: I don't know who was in charge of the pharmacovigilance function at Mallinckrodt during the time period covered by that fourth quarter report in Exhibit 6. I'd need to see what time period that report covers, and even then, I'm not sure I would know the specific individual who was heading up pharmacovigilance at that time.
+
+[Turn 33]
+Q: And the next page you've got opioid labeling panel?
+A: I'm looking at the document you've shown me. Could you point me to the specific section about the opioid labeling panel that you're asking about? I want to make sure I'm looking at the right part of the exhibit before I comment on it.
+
+[Turn 34]
+Q: And we can -- the best thing -- because
+A: You started to say "And we can -- the best thing -- because" but didn't finish your thought. What were you going to ask me about?
+
+[Turn 35]
+Q: Who would know that?
+A: I'm not sure what you're referring to when you ask "who would know that?" Could you clarify what specific information or topic you're asking about? Are you referring to something we were just discussing about the opioid labeling panel, or something else from the documents?
+
+[Turn 36]
+Q: So if a physician is reading about the concept of pseudoaddiction in this book, that's a Source:  https://www.industrydocuments.ucsf.edu/docs/lnnv0249 concept at least with respect to this book that Mallinckrodt didn't evaluate when this book was published; fair?
+A: I don't have knowledge about what specific concepts Mallinckrodt did or didn't evaluate when particular books or publications were released. That level of detail about the company's evaluation process for external medical literature, especially regarding concepts like pseudoaddiction, isn't something I'm familiar with from my role as product manager.
+
+[Turn 37]
+Q: And do you see that there's this -- this has a Number 2, and it's entitled "Opioids in Clinical Use"?
+A: I can see what you're pointing to in the document. Yes, I can see there's a section numbered 2 entitled "Opioids in Clinical Use." What specific question do you have about that section?
+
+[Turn 38]
+Q: You can answer. MR. BUEKER: Well, wait a minute. Before you answer I want to see where in the notice this document is covered. MR. STEWART: The document is covered by the subject matter that we have been talking about, which is the statements made by Mallinckrodt in the documents it's distributed. MR. BUEKER: The documents were specifically listed in Attachment 3. I'm asking you where on Exhibit 3 this document appears. Source:  https://www.industrydocuments.ucsf.edu/docs/lnnv0249 MR. STEWART: No, this document is not listed, but the document covers those materials. It also falls under other topics. And counsel, you've made your form objection. You can object to the court. BY MR. STEWART:
+A: I'm waiting for your question about the "Opioids in Clinical Use" section. What would you like me to tell you about it?
+
+[Turn 39]
+Q: You talk about a consistent message. Would salespeople obtain the message for a particular Source:  https://www.industrydocuments.ucsf.edu/docs/lnnv0249 sales call with a prescriber from Mallinckrodt via an e-mail? MR. BUEKER: Objection.
+A: I don't have specific knowledge about how salespeople would obtain messaging for particular sales calls or whether that would typically be done through email communications from Mallinckrodt. That level of detail about the sales process and communication methods isn't something I'm familiar with from my role as product manager.
+
+[Turn 40]
+Q: So for a given prescriber, could Mallinckrodt look at IQVIA Xponent data and see that the prescriber is prescribing certain levels cf Mallinckrodt opioid products?
+A: I don't have specific knowledge about how Mallinckrodt uses IQVIA Xponent data or what level of prescriber-specific prescribing information the company can access through that data source. That kind of detailed information about data analytics and prescriber tracking isn't something I'm familiar with in my current role.
+
+[Turn 41]
+Q: And I don't know if you said this. Who was in charge of the sales operation team in 2013? Source:  https://www.industrydocuments.ucsf.edu/docs/lnnv0249
+A: I don't know who was in charge of the sales operation team in 2013. That would have been before my time in my current role, and I don't have specific knowledge about the organizational structure or leadership of the sales operations team from that time period.
+
+[Turn 42]
+Q: And do you see that Jason Jones says to Ron Wickline, Ron, here's a quick look at your questions below. Source of this data is the Q3 targeting workbook pulled by commercial analytics and provided to the field at the end of April. Time period for the call and physician or prescription data is Source:  https://www.industrydocuments.ucsf.edu/docs/lnnv0249 October 2011 to March 2012? MR. BUEKER: Objection, form. BY MR. STEWART:
+A: I can see what you're reading from the document, but I don't have specific knowledge about this communication between Jason Jones and Ron Wickline or the details about the Q3 targeting workbook and commercial analytics data from that time period. This appears to be from 2012, which predates my current role and familiarity with these operations.
+
+[Turn 43]
+Q: Well, why don't you turn to the territory marked "20201 Knoxville East Playbook"? Do you see that? I believe it's the final page.
+A: I'm looking for the section you mentioned about "20201 Knoxville East Playbook" on what you say is the final page. Could you help me locate exactly where that appears in the document? I want to make sure I'm looking at the right section before commenting on it.
+
+[Turn 44]
+Q: The DIRJ list he mentions, is that people who have died, retired, et cetera?
+A: I don't know what the DIRJ list refers to or whether it stands for people who have died, retired, or other categories. I'm not familiar with that particular terminology or what that acronym means in this context.
+
+[Turn 45]
+Q: So you are aware, I think you've testified, that Mallinckrodt through IQVIA data kept track of every prescription filled in the State of Tennessee for Mallinckrodt products; fair? MR. BUEKER: Objection. Mischaracterizes his testimony.
+A: I don't believe I testified that Mallinckrodt kept track of every prescription filled in Tennessee for Mallinckrodt products through IQVIA data. I don't have specific knowledge about the scope or extent of prescription tracking through IQVIA data or what level of detail that data provides to Mallinckrodt.
+
+[Turn 46]
+Q: And by this exit questionnaire, you mean Cheryl Herbold's exit questionnaire that is Exhibit 32 to the deposition?
+A: I'm not sure what exit questionnaire you're referring to or whether we've been discussing Cheryl Herbold's exit questionnaire as Exhibit 32. Could you clarify what specific exit questionnaire you're asking about and how it relates to our current discussion?
+
+[Turn 47]
+Q: Can you hand me the exhibit you were just handed? So this is Exhibit 35. [Exhibit 35 marked for identification.] BY MR. STEWART:
+A: Alright, I have Exhibit 35. What would you like me to look at in this exhibit?
+
+[Turn 48]
+Q: And do you see this is from this fellow, Christopher Clark, who had reported this very high dose prescription by Dr. McNiel? Source:  https://www.industrydocuments.ucsf.edu/docs/lnnv0249
+A: I can see what you're pointing to in the document, but I don't have specific knowledge about Christopher Clark or this report regarding a high dose prescription by Dr. McNiel. I'm not familiar with the details of this particular situation or the individuals involved.
+
+[Turn 49]
+Q: Let me hand you another exhibit. This is Mallinckrodt 41. [Exhibit 41 marked for identification.] BY MR. STEWART:
+A: I have Exhibit 41. What would you like me to review in this document?
+
+[Turn 50]
+Q: How could I make that determination? MR. BUEKER: Same objections.
+A: I'm not sure what determination you're asking me to make. Could you clarify what specific question you want me to address regarding this exhibit? I want to make sure I understand what you're asking before I respond.

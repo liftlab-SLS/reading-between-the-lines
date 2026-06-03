@@ -1,0 +1,205 @@
+WITNESS: Kate Neely
+ARCHETYPE: Nervous
+INITIAL STATE: {'C': 0.1, 'K': 0.6, 'A': 0.5, 'V': 0.4, 'R': 0.3, 'P': 0.2}
+FINAL STATE:   {'C': 0.087, 'K': 0.6, 'A': 0.5, 'V': 0.4, 'R': 0.4765, 'P': 0.1441}
+======================================================================
+
+[Turn 1]
+Q: Good -- good morning, Ms. Neely.
+A: Good morning. Yes, good morning.
+
+[Turn 2]
+Q: Thank you for being here today. My name is Dean, Keller Rohrback, and I am here for the Plaintiffs. Source:  https://www.industrydocuments.ucsf.edu/docs/qknv0249 Have you ever been deposed before?
+A: No, I... no, this is my first time. I've never done anything like this before.
+
+[Turn 3]
+Q: So let's go over some ground rules to make the process a little smoother. I will ask you questions and I will do my best to ask coherent and clear ones. If you don't understand them for whatever reason, please let me important that we not talk over each other, so I'll ask the question and then give you an opportunity to answer. know and I'll try to rephrase them. It's very If you need to take a break, please just let me know and -- and we can take one. And your counsel may object for the record. Unless he directs you not to answer, you should respond to the question. Does that make sense?
+A: Yes, that makes sense. I understand. I'll... I'll let you know if I need a break or if I don't understand something.
+
+[Turn 4]
+Q: Thank you. How did you per -- how did you prepare for this deposition?
+A: I... well, I talked with my attorney. We went over some documents and he explained what this would be like. I tried to review what I could remember about my time at Mallinckrodt but honestly it's been... it's been a while and I'm not sure I prepared enough. I feel like I should have done more but I wasn't really sure what to expect or what you'd be asking about.
+
+[Turn 5]
+Q: Okay. And do you recall roughly when the first meeting was? Source:  https://www.industrydocuments.ucsf.edu/docs/qknv0249
+A: The first meeting with my attorney? I... I think it was maybe two weeks ago? Or was it three? I'm sorry, the days have been kind of running together. It wasn't that long ago but I can't give you an exact date right now. My mind is just... I should have written it down.
+
+[Turn 6]
+Q: And do you recall roughly how long that -- that meeting lasted for?
+A: I think... I think it was about an hour? Maybe a little longer? We covered a lot of ground and he was trying to explain everything to me. It felt like it went by really fast but also like forever at the same time, if that makes sense. I was pretty nervous then too.
+
+[Turn 7]
+Q: I imagine not, but... Were the -- well, could you describe or characterize the -- the nature of the reviews?
+A: I'm sorry, which reviews are you asking about? Are you talking about the meeting with my attorney or... I'm not sure I understand what you mean by reviews. Could you clarify what you're referring to?
+
+[Turn 8]
+Q: And just so I understand, the $46 would be -- would be the money that -- that Mallinckrodt paid to the distributors --
+A: I'm sorry, I think there might be some confusion. You're asking me about forty-six dollars to distributors but I don't think we've talked about that yet. Are you referring to a specific document or something we discussed earlier? Because I don't recall mentioning any payments to distributors. Could you help me understand what you're asking about?
+
+[Turn 9]
+Q: And do you recall what product she had responsibility for?
+A: I'm sorry, who are you asking about? You said "she" but I'm not sure who you're referring to. Are you asking about someone specific at Mallinckrodt or... I need you to clarify who you mean because I don't want to give you the wrong answer.
+
+[Turn 10]
+Q: So, Ms. Neely, I've handed you an e-mail and an attachment, and I primarily want to direct your attention to the attachment.
+A: Okay, I'm looking at it. I see the email and the attachment you're referring to. What specifically did you want me to look at in the attachment?
+
+[Turn 11]
+Q: And I take it, though, that demand varied between these products, is that correct?
+A: I'm looking at this but I need you to help me understand what you're asking about. Are you talking about demand for specific products mentioned in this attachment? I can see there are different products listed but I want to make sure I'm answering the right question about what kind of demand variation you mean.
+
+[Turn 12]
+Q: My question is a little more specific in the sense of you received training and I take it did you have a role in the implementation of the suspicious order monitoring program?
+A: Yes, I... I did receive training on suspicious order monitoring. That was part of our compliance responsibilities. I had some role in implementation, though I wasn't the lead on it. We had to understand the program because it affected how we worked with distributors and monitored orders. But I'm trying to remember the specifics of what exactly my piece of it was versus what other people handled.
+
+[Turn 13]
+Q: And what was the purpose of the oxycodone ER RiskMAP? What was -- what was -- it designed to -- to -- to do?
+A: I'm sorry, I'm not... I'm not immediately familiar with what you mean by the oxycodone ER RiskMAP. Are you referring to a specific program or document? I know we had various risk management programs but I want to make sure I understand exactly what you're asking about before I try to answer. Could you be more specific about what RiskMAP stands for or what document you're looking at?
+
+[Turn 14]
+Q: And if -- if we wanted additional information on this agreement, the number of bottles, the market share, who -- who would -- who would we talk to? Would -- would you be the right person for this? Would there be someone else at Mallinckrodt?
+A: I... well, it would depend on what specific information you're looking for. For some things, yes, I would have been involved as a product manager, but for other details like detailed market share analysis or specific contract terms, you might need to talk to someone in sales or business development. Or maybe someone in finance for the financial aspects. I'm trying to think who else would have been involved in these agreements but honestly, I'm not sure if those people are still at the company or if they'd even be available to talk to you.
+
+[Turn 15]
+Q: Now, the sentence: "This is largely the result of our previous quota shortage and playing catchup," what is a quota shortage?
+A: A quota shortage would be when we didn't have enough of our DEA manufacturing quota to meet demand. The DEA gives pharmaceutical companies quotas for how much controlled substances we can manufacture each year, and if we didn't have enough quota allocated or if we used it up too quickly, we'd have a shortage. Then we'd be playing catchup trying to get additional quota or waiting for the next year's allocation to meet the orders we couldn't fill. It basically means we couldn't make enough product to satisfy what customers wanted to buy.
+
+[Turn 16]
+Q: So this is an e-mail that's Bates numbered MNK-Tl 4916278, and it is an e-mail from you, Ms. Neely, to various people, including what appears to be many of the national account managers.
+A: Okay, I can see that. You're showing me an email that I sent to the national account managers. What specifically about this email did you want to ask me about?
+
+[Turn 17]
+Q: -- that date right?
+A: I'm sorry, could you repeat the question? I didn't catch what you were asking about the date. Are you asking me to confirm a specific date on this email or... what date are you referring to?
+
+[Turn 18]
+Q: And is it your understanding that Mallinckrodt didn't have an obligation to try to combat diversion at the pharmacy level?
+A: No, that's... that's not right. We definitely had obligations regarding diversion. I mean, we had compliance responsibilities and we worked with the suspicious order monitoring program. We couldn't just ignore what was happening at the pharmacy level. But I'm trying to remember exactly how our obligations were structured versus what the distributors were supposed to do versus what the pharmacies themselves were responsible for. It wasn't like we had no role in combating diversion, but there were different layers of responsibility in the supply chain.
+
+[Turn 19]
+Q: And then the attachment, I believe, is a list of the various orders that, you know, hit those excess demand rules.
+A: Yes, I can see that. It looks like a list of orders that triggered the excess demand thresholds. What did you want to ask me about these specific orders?
+
+[Turn 20]
+Q: "Rolling 12 months versus prior rolling 12 months sales in Florida are at 1364 percent."
+A: That... that's an extremely high number. Over thirteen hundred percent increase in sales for Florida over the prior twelve-month period. That's a massive jump. I mean, when you see numbers like that, it definitely should raise flags about what's happening in that market. That level of increase isn't normal business growth.
+
+[Turn 21]
+Q: Understood, but, for example, we -- we looked at a -- a prior document relating to Keysource. And Keysource -- well, Mallinckrodt was Keysource's sole supplier --
+A: I... yes, I remember Keysource. They were one of our customers and yes, I believe we were their sole supplier for certain products. What specifically about Keysource are you asking me? Are you asking about their ordering patterns or something specific in relation to that Florida number you just mentioned?
+
+[Turn 22]
+Q: -- you know, what were -- prior to 2000 -- prior to this e-mail in 2010 --
+A: I'm sorry, you cut off there. Could you finish your question? You were asking about something prior to this 2010 email regarding Keysource, but I didn't catch the rest of what you wanted to know.
+
+[Turn 23]
+Q: But you don't recall whether any Source:  https://www.industrydocuments.ucsf.edu/docs/qknv0249 conclusion was reached?
+A: I... no, I don't recall what specific conclusion was reached about that situation. I'm trying to remember but I can't recall the details of what determination was made or what follow-up happened. There were a lot of these reviews and investigations and I'm just not remembering the specific outcome of that one.
+
+[Turn 24]
+Q: So this is an e-mail that you sent to Karen Harper?
+A: Yes, I can see that's an email from me to Karen Harper. What specifically about this email did you want to ask me about?
+
+[Turn 25]
+Q: Great. And so my first question is a general one. What's the analysis that's being performed or represented in this attachment?
+A: I'm looking at this but I need to see the attachment to answer that properly. Could you show me what specific analysis or data you're referring to in the attachment? Without seeing the actual content of what was attached, I can't tell you what analysis was being performed.
+
+[Turn 26]
+Q: And how long had you been collecting chargeback data for?
+A: I'm trying to remember exactly when we started collecting that chargeback data systematically. It would have been part of my regular responsibilities as a product manager to track chargebacks, but I can't recall the exact timeframe of when we began collecting it in whatever format this analysis represents. It could have been months or longer, but I'd need to see more context to give you a specific timeline.
+
+[Turn 27]
+Q: Okay. So could you please review the e-mail.
+A: I'm looking at the email but I'm having trouble making out all the details clearly. Could you point me to the specific part you want me to focus on, or help me understand what particular aspect of the email you're asking about? I want to make sure I'm looking at the right information before I answer.
+
+[Turn 28]
+Q: Okay. So when I previously asked you if you recalled writing this e-mail, you indicated that you don't recall writing it, correct? Do you -- do you remember that?
+A: Yes, that's right. I said I didn't recall writing that specific email. I mean, I sent a lot of emails during my time there and I can't remember every single one I wrote. Are you asking me to look at it again now to see if it refreshes my memory about writing it?
+
+[Turn 29]
+Q: So if it turned -- well, let's look at the
+A: I'm waiting for you to finish your question. You said "So if it turned -- well, let's look at the" and then you stopped. What did you want me to look at?
+
+[Turn 30]
+Q: Well, you shopped -- you stopped shipping to them for 2010, correct?
+A: I'm not sure which customer you're referring to when you say "them." Are you talking about Keysource or a different customer? And I need to be careful about saying we definitively stopped shipping - that would have been a business decision that involved multiple people, not just something I would have decided on my own as a product manager.
+
+[Turn 31]
+Q: -- and sent to Jim, I mean, that -- those are compliance concerns, right, that's not a business perspective?
+A: Yes, when we're talking about compliance concerns and sending information to Jim - I assume you mean Jim DeVita who was our compliance officer - those would definitely be compliance-related issues, not just regular business decisions. Compliance matters were serious and we had protocols for escalating those kinds of concerns. That's different from day-to-day business operations or commercial decisions.
+
+[Turn 32]
+Q: Okay. Would it surprise you to -- to know that he is currently serving a -- a lengthy prison sentence in a -- in a Florida prison?
+A: I... no, I wasn't aware of that. That's... that's shocking to hear. I mean, I knew there were investigations and legal issues with the company, but I didn't know about Jim's specific situation. That's really concerning to learn. Is this related to the compliance issues we're discussing?
+
+[Turn 33]
+Q: So with respect to suspicious orders, I mean, do you -- do you agree with -- with this paragraph? MR. TSAI: Object to the form. Go ahead. BY THE WITNESS:
+A: I'm sorry, could you clarify what paragraph you're referring to? You mentioned suspicious orders and started to ask if I agree with a paragraph, but I need to see what specific text you want me to respond to. What paragraph are you asking me about?
+
+[Turn 34]
+Q: -- you've experienced considerable diversion/tampering issues and yet you are still shipping to them thousands of bottles of -- of I believe is it -- I believe it's -- is it oxy 30 or what is --
+A: I can see you're reading from something about diversion and tampering issues and thousands of bottles being shipped despite those problems. I'm trying to follow what you're reading but you keep cutting off. Are you asking me about a specific customer where we continued shipping despite knowing about diversion issues? That would definitely be a serious compliance concern if that's what happened.
+
+[Turn 35]
+Q: Okay. Should that analysis have occurred?
+A: Yes, absolutely. If we're talking about a customer with known diversion and tampering issues, there should have been a thorough analysis of whether it was appropriate to continue shipping to them. That's exactly the kind of situation where compliance should step in and evaluate the risks. We had obligations to monitor for suspicious activity and take appropriate action when red flags were identified.
+
+[Turn 36]
+Q: Well, but this is going to be the basis for evaluating a suspicious order, isn't it?
+A: Yes, you're right. If we're looking at a customer's history of diversion and tampering issues along with their ordering patterns, that analysis would absolutely be part of evaluating whether their orders should be considered suspicious. That's the kind of information and background we'd need to assess when determining if an order meets the criteria for being flagged as potentially suspicious under our compliance obligations.
+
+[Turn 37]
+Q: And so part of your analysis, though, depends on why they were bleeding down inventories, is Source:  https://www.industrydocuments.ucsf.edu/docs/qknv0249 that fair? Their orders were severely depressed for the first quarter of the calendar year but part of that turns on why they were severely depressed, is that a fair statement?
+A: Yes, that's fair. Understanding why their inventories were being bled down and why their orders were depressed in that first quarter would be important context for the analysis. If there was a legitimate business reason for the reduced ordering followed by increased orders, that would be different from a pattern that suggested diversion or other suspicious activity. The "why" behind the ordering patterns would definitely factor into whether we'd consider subsequent orders to be suspicious or not.
+
+[Turn 38]
+Q: And so what -- what is the issue that Brenda is trying to raise?
+A: I'm not sure which specific issue you're referring to that Brenda is raising. Could you point me to the particular part of the document or communication where Brenda is making a point? I want to make sure I'm responding to the right concern she's bringing up rather than guessing at what you're asking about.
+
+[Turn 39]
+Q: Okay. So Heather Goodman used to work for Craig Cowman at Cardinal and she is asking if you can arrange to have 1500 oxy 15-milligram pills shipped to a pharmacy for her aunt, is that --
+A: Wait, what? No, I would never... that's completely inappropriate. If someone was asking me to arrange shipments of opioids to a pharmacy for personal reasons like that, that would be totally against all our policies and procedures. That's not how pharmaceutical distribution works at all. Is that what you're saying happened? Because that would be a serious violation.
+
+[Turn 40]
+Q: Okay. What -- why focus on pain clinics then?
+A: Well, pain clinics were often higher-volume customers for opioid medications because they treat patients with chronic pain conditions. But they were also frequently flagged as higher-risk for diversion and abuse. So when we're doing compliance analysis, pain clinics would get extra scrutiny because they represented both a legitimate market and a potential risk area. Is that what you're getting at - why we would pay special attention to pain clinic ordering patterns?
+
+[Turn 41]
+Q: And it's -- it then -- it once again involves Keysource Medical.
+A: Okay, so we're back to Keysource Medical again. You mentioned earlier that we stopped shipping to them in 2010, and now you're connecting them to pain clinics. Are you saying that Keysource was involved with pain clinics and that's part of why there were compliance concerns? I'm trying to follow how all these pieces fit together - the suspicious orders, the pain clinic focus, and Keysource specifically.
+
+[Turn 42]
+Q: -- there should be some record of it, right?
+A: Yes, absolutely. If there were compliance decisions made about Keysource or any customer, especially decisions to stop shipping or flag suspicious orders, there should definitely be documentation of that. We had requirements to maintain records of compliance reviews, decisions, and the rationale behind them. Those kinds of records would be important for regulatory purposes and for tracking our compliance activities.
+
+[Turn 43]
+Q: Okay. So let me know when you are ready.
+A: I'm ready. Go ahead.
+
+[Turn 44]
+Q: -- given their -- given their dates?
+A: I'm sorry, could you repeat the full question? You cut off at the beginning and I only heard "given their dates" at the end. I want to make sure I understand what you're asking about before I answer.
+
+[Turn 45]
+Q: Well, why were you having this conversation with Mr. Borelli?
+A: I need more context about which conversation you're referring to. You mentioned Mr. Borelli, but I'm not sure which specific conversation or communication you're asking about. Could you show me the document or tell me more about what conversation you mean so I can answer properly?
+
+[Turn 46]
+Q: And so why would Victor be writing to just you and John Adams about the S -- the SOM program?
+A: I'm not certain what specific communication you're referring to with Victor writing to me and John Adams about the SOM program. Could you show me that email or document? I want to make sure I understand the context of what Victor was communicating and why he was reaching out to just the two of us before I try to explain the reasoning behind it.
+
+[Turn 47]
+Q: Okay. And you don't have any reason to believe that his characterization of the second instance is inaccurate?
+A: I'm not sure which characterization you're referring to. Could you clarify what Victor said about the second instance? I want to make sure I understand what specific statement or characterization of his you're asking me about before I comment on whether I think it's accurate or not.
+
+[Turn 48]
+Q: I have another document, to be -- but to be honest, I haven't found it, so --
+A: That's fine. If you need to find that document first, I understand. Just let me know when you have it and we can continue.
+
+[Turn 49]
+Q: Well, this e-mail chain indicates that he didn't ask you if he could share this, is that fair?
+A: I'd need to see the email chain you're referring to to answer that fairly. Without seeing the specific communication, I can't confirm whether he asked for permission to share something or not. If you could show me the document, I could tell you whether that characterization seems accurate based on what the emails actually say.
+
+[Turn 50]
+Q: And making sure that this product didn't end up -- or making sure that this product wasn't Source:  https://www.industrydocuments.ucsf.edu/docs/qknv0249 diverted was an important responsibility for you, was it not?
+A: Yes, absolutely. Preventing diversion was a critical part of my compliance responsibilities. We had obligations under the Controlled Substances Act and DEA regulations to monitor for suspicious orders and prevent our products from being diverted from legitimate medical use. That was definitely something I took seriously as part of my job duties.

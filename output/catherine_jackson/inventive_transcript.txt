@@ -1,0 +1,207 @@
+WITNESS: Catherine Jackson
+ARCHETYPE: Inventive
+INITIAL STATE: {'C': 0.7, 'K': 0.1, 'A': 0.5, 'V': 0.6, 'R': 0.6, 'P': 0.7}
+FINAL STATE:   {'C': 0.6062, 'K': 0.1, 'A': 0.5, 'V': 0.6, 'R': 0.7008, 'P': 0.5042}
+======================================================================
+
+[Turn 1]
+Q: Good morning, Ms. Jackson. Could you please state and spell your full name for the record?
+A: Good morning. My name is Catherine Jackson. That's C-A-T-H-E-R-I-N-E, Jackson, J-A-C-K-S-O-N.
+
+[Turn 2]
+Q: Thank you. And you understand your under oath --
+A: Yes, I understand I'm under oath and I swear to tell the truth.
+
+[Turn 3]
+Q: -- to tell the truth here today. Are you taking any medication or is there any other reason that would interfere with your ability to answer questions fully and truthfully today?
+A: No, I'm not taking any medication that would affect my ability to testify, and there's nothing else that would interfere with my ability to answer questions fully and truthfully today.
+
+[Turn 4]
+Q: Have you ever been deposed before?
+A: Yes, I have been deposed before. This isn't my first deposition.
+
+[Turn 5]
+Q: So there are a few basic ground rules that are important for the sake of the court reporter and to have a clear record. First, is that we don't speak at the same time, so wait for me to finish asking a question before you answer, and I'll do the same, wait for you to finish answering before I ask another question. And then second, when you answer a question, you must answer it verbally with a yes or no rather than nodding or shaking your head. If I ask you a question you don't understand, please let me know. I'll try to rephrase the question. Are you represented by counsel today?
+A: Yes, I am represented by counsel today.
+
+[Turn 6]
+Q: And who is your counsel? Source:  https://www.industrydocuments.ucsf.edu/docs/hxpd0246
+A: My counsel is from the law firm representing Mallinckrodt. I believe it's Morrison & Foerster, but I'd have to check with them on the specific attorneys assigned to this matter if you need the exact names.
+
+[Turn 7]
+Q: No problem. Okay. And then question about your e-mail at the top of this page here. You mention meeting with Karen Harper in the diversion group.
+A: I'm sorry, I don't see the document you're referring to. Could you show me the specific email or document that mentions Karen Harper and the diversion group? I want to make sure I'm looking at the same thing you are before I answer your question about it.
+
+[Turn 8]
+Q: So you think it may be that the death rate 10 other therapeutic areas other than pain, so my areas of focus now are off of this and that's my colleague Kevin Webb's area. So we take this very response -- very -- we haven't stepped away from it. We have just changed with who would be focused on it, and it's solely Kevin's area now for advocacy. Source:  https://www.industrydocuments.ucsf.edu/docs/hxpd0246 has plateaued since 2010? MR. DAVISON: Objection to form.
+A: I'm having trouble following that question. Could you rephrase it? It seems like there might be some mixed up text or incomplete sentences in there. Are you asking me about death rates in therapeutic areas, or about my colleague Kevin Webb, or about advocacy responsibilities? I want to make sure I understand what you're asking before I answer.
+
+[Turn 9]
+Q: Including about where treatment works in Source:  https://www.industrydocuments.ucsf.edu/docs/hxpd0246 education, healthcare provider education and patient education to make sure that they understand whatever disease state with the course of the disease state, where treatments work in the disease state, how to discuss with their physicians when they are getting trouble with their treatments, no longer working." That's what I was asking about. This educational piece about the disease state and where treatments work and don't work with the disease state. That was my understanding of what you said earlier. Are you changing that now? MR. DAVISON: Objection to form; asked and answered.
+A: I'm sorry, but I'm still having difficulty understanding your question. The way it's phrased seems to have some incomplete sentences and I can't tell exactly what you're asking me about. Are you asking about educational materials related to disease states and treatments? Or are you asking if I'm changing a previous answer about something? Could you please rephrase the question more clearly so I can give you an accurate response?
+
+[Turn 10]
+Q: Okay. And what does NIH stand for?
+A: NIH stands for National Institutes of Health.
+
+[Turn 11]
+Q: And in your clinical practice, would you only want to hear about scientific evidence once it was, quote, gospel? MR. DAVISON: Objection.
+A: Well, no. In clinical practice, you don't wait for something to become gospel before you consider it. You evaluate emerging evidence as it becomes available, especially if it could impact patient care. You look at study data, clinical trials, research findings as they develop. You have to stay current with the literature and new information that could affect how you treat patients. So no, you wouldn't only want to hear about scientific evidence once it reached some final, definitive status.
+
+[Turn 12]
+Q: So the e-mail, you can see she writes: I think -- interesting read. I think it supports our suspicions in the regard to the increased usage of Source:  https://www.industrydocuments.ucsf.edu/docs/hxpd0246 the oxy 30 milligram. And then on the back is the short article, and the second to last paragraph begins with: Demand appears especially high for pure oxycodone that come in 30 milligram pills. This e-mail is from 2011. It's before you started at Mallinckrodt, but since you have been working at Mallinckrodt, has anyone at Mallinckrodt ever talked to you about diversion and abuse related to Mallinckrodt's generic oxycodone products, particularly the oxy 30s? MR. DAVISON: Objection to form.
+A: I'm sorry, but I don't see the email you're referring to in front of me. Without being able to see the specific document, I can't comment on its contents. But to answer your broader question about whether anyone at Mallinckrodt has talked to me about diversion and abuse related to our oxycodone products - yes, diversion is something that comes up in discussions about our products generally. It's part of the regulatory environment we work in. We have compliance programs and monitoring systems in place. But I'd need to see the specific email you're referencing to comment on those particular details about the 30 milligram products.
+
+[Turn 13]
+Q: Okay. MS. GAFFNEY: Exhibit 8. (Mallinckrodt - Jackson Exhibit 8 was marked team would have been in? MR. DAVISON: Objection, and just if there was any legal advice that was involved in it in any way, I'm going to instruct you not to answer that, but if it's not that, that's fine, or a yes or no. Source:  https://www.industrydocuments.ucsf.edu/docs/hxpd0246 for identification.) BY MS. GAFFNEY:
+A: I'm sorry, but your question seems to be cut off or incomplete. You mentioned Exhibit 8 and there was an objection from counsel, but I can't tell what the actual question is that you're asking me. Could you please restate the complete question so I can answer it properly?
+
+[Turn 14]
+Q: Have you watched that video? It's a short documentary, correct? MR. DAVISON: Objection.
+A: I'm not sure which video you're referring to. Could you clarify what specific video or documentary you're asking about? I want to make sure I'm answering about the right thing.
+
+[Turn 15]
+Q: Okay. It's a long document. I just have a question about text on the first page.
+A: Okay, I'm listening. What's your question about the text on the first page?
+
+[Turn 16]
+Q: What does that mean? MR. DAVISON: Objection.
+A: I'm sorry, but you haven't shown me what text you're referring to or told me what specific language you want me to explain. Could you please point out the specific text on the first page that you're asking about so I can tell you what it means?
+
+[Turn 17]
+Q: Okay. From the text in this e-mail, it looks like Purdue has retained Edward Howard & Company to identify and screen potential KOLs. Is that your understanding of this? MS. GONZALEZ: Objection.
+A: I'm sorry, but I don't see the email you're referring to in front of me. Without being able to see the specific document and the text you're asking about, I can't comment on what Purdue may have done regarding Edward Howard & Company or key opinion leaders. Could you show me the email so I can see the text you're asking about?
+
+[Turn 18]
+Q: state initiatives, right, not federal, just state-wide initiatives? MS. GONZALEZ: Objection. broadly at meetings with clinicians in Ohio and elsewhere? MS. GONZALEZ: Objection. No. Okay. Do you remember if as part of your advocacy in Ohio you did any work around the Ohio Intractable Pain Care Act? MS. GONZALEZ: Objection. No, I do not remember. Do you remember if Purdue's advocacy included working toward the passage of Intractable Pain Care Acts at the state level? MS. GONZALEZ: Objection. I don't recall. And your team within advocacy was just on Source:  https://www.industrydocuments.ucsf.edu/docs/hxpd0246
+A: I'm having trouble following your questions. It seems like there are multiple incomplete questions mixed together, and I'm not sure which one you want me to answer. Are you asking about state initiatives, meetings with clinicians in Ohio, the Ohio Intractable Pain Care Act, or Purdue's advocacy work? Could you please ask one clear question at a time so I can give you a proper response?
+
+[Turn 19]
+Q: inappropriate use. And so that is what constituted my paragraph. I may have used not the best languages and the best things, but that was what my concern was when I said that this was a bit of a contradiction. the perception that if a drug is prescribed by a doctor and approved by the FDA it is not as dangerous as one on the street -- MR. DAVISON: Objection.
+A: I'm sorry, but I'm not following what you're asking me about. It seems like you're reading from something that mentions inappropriate use and perceptions about prescription drugs versus street drugs, but I can't tell what the actual question is. Are you asking me to comment on something I wrote, or explain what I meant by something? Could you please clarify what specific question you want me to answer?
+
+[Turn 20]
+Q: Can you tell me about that?
+A: I'm sorry, but I don't know what "that" refers to. You haven't identified a specific document, statement, or topic that you want me to discuss. Could you please be more specific about what you'd like me to tell you about?
+
+[Turn 21]
+Q: Do you recall being at meetings where NAS was addressed prior to joining Endo?
+A: I'm sorry, but I think there may be some confusion. I work at Mallinckrodt, not Endo. I haven't joined Endo - I'm employed by Mallinckrodt Pharmaceuticals as the Government Affairs and Advocacy Manager. Could you clarify what you're asking about regarding NAS meetings? And are you asking about my time at Mallinckrodt or are you thinking of someone else?
+
+[Turn 22]
+Q: And just so the record is clear, from the time you joined Mallinckrodt in April of 2014 through the present, you've had some responsibilities with respect to charitable contributions?
+A: I need to correct something first - I don't believe I joined Mallinckrodt in April 2014. I'd have to check my records to give you the exact start date, but that doesn't sound right to me.
+
+As for charitable contributions, yes, in my role in government affairs and advocacy, I've been involved with charitable giving decisions and activities. That's part of the broader stakeholder engagement and community relations aspects of my position. But I'd need you to be more specific about what particular charitable contribution responsibilities you're asking about.
+
+[Turn 23]
+Q: Okay. Thank you. So with respect to the suspicious order monitoring, what generally did that team discuss along those lines? MR. DAVISON: Objection to form.
+A: In the meetings I attended where suspicious order monitoring came up, the discussions generally focused on our compliance obligations and monitoring systems. We would talk about the processes we have in place to identify unusual ordering patterns from our customers, the criteria we use to flag potentially suspicious orders, and how we report to the DEA when required. The team would discuss making sure we're meeting our regulatory responsibilities under the Controlled Substances Act. But I wasn't directly involved in the day-to-day operations of the monitoring system itself - my role was more on the advocacy and external communications side of things.
+
+[Turn 24]
+Q: Do you recall those questions?
+A: I'm sorry, but you haven't specified which questions you're referring to. Are you asking if I recall questions that were discussed in the suspicious order monitoring meetings, or are you referring to some other questions? Could you please clarify what specific questions you want me to recall?
+
+[Turn 25]
+Q: So the answer is "no"? MR. DAVISON: There was an objection. Sorry.
+A: I'm confused about what you're asking me to say "no" to. You asked if I recall certain questions, but you haven't told me which questions you're referring to. I can't give you a yes or no answer when I don't know what specific questions you want me to recall. Could you please clarify what questions you're asking about?
+
+[Turn 26]
+Q: Okay. Have you ever heard of the I-75 pipeline?
+A: Yes, I have heard of the I-75 pipeline. It refers to the trafficking route where prescription opioids, particularly pills, are transported from states like Florida up through Georgia, Kentucky, Tennessee, and into other parts of the country along the Interstate 75 corridor. This has been discussed in the industry as a significant diversion issue where pills prescribed in one area end up being diverted and sold illegally in other regions along that route.
+
+[Turn 27]
+Q: And in the first paragraph, he writes: "Team. Thank you for your participation today during our calls. As promised, below is a summary of our sales training project and some specific Source:  https://www.industrydocuments.ucsf.edu/docs/hxpd0246 ideas for scientific educational topics for your use in discussions with your RDs and DMs." Did I read that correctly?
+A: I'm sorry, but I don't see the document you're reading from in front of me. Without being able to see the specific email or document that contains that paragraph, I can't confirm whether you read it correctly or comment on what it says. Could you show me the document so I can see the text you're referring to?
+
+[Turn 28]
+Q: And you had worked with them previous to joining Endo? Source:  https://www.industrydocuments.ucsf.edu/docs/hxpd0246
+A: I think there's still some confusion here. I work at Mallinckrodt Pharmaceuticals, not Endo. I haven't joined Endo. Are you asking about my work with some organization or company before I came to Mallinckrodt? If so, could you clarify which organization you're asking about? I need to understand what specific relationship or work you're referring to.
+
+[Turn 29]
+Q: Did you speak with any of the other attorneys in this room?
+A: I've spoken with my counsel, Ms. Gonzalez, who is representing me and Mallinckrodt in this matter. That's the appropriate communication I've had regarding this deposition. Are you asking about conversations with any other specific attorneys?
+
+[Turn 30]
+Q: Okay. How does -- so is that particular to Exalgo or what's the connection between CARES Alliance and Exalgo? MR. DAVISON: Objection to form.
+A: The CARES Alliance isn't specific to just Exalgo. CARES Alliance is a broader industry coalition that Mallinckrodt participates in along with other pharmaceutical companies. It's focused on addressing prescription drug abuse and diversion issues across the industry, not just for one particular product. Mallinckrodt's participation in CARES Alliance is part of our overall commitment to responsible manufacturing and distribution practices for all of our controlled substance products, which would include Exalgo but isn't limited to it.
+
+[Turn 31]
+Q: What about assessing the benefits of a drug before someone has taken it? MR. DAVISON: Objection to form. Source:  https://www.industrydocuments.ucsf.edu/docs/fnnv0249
+A: I'm not sure what you're asking me about specifically. Are you asking about our clinical trial processes, or how physicians assess whether a medication is appropriate for a patient before prescribing it? Could you be more specific about what aspect of benefit assessment you want me to address? Without seeing the document you're referencing, I'm not clear on the context of your question.
+
+[Turn 32]
+Q: Based on your experience and your own knowledge, do you believe that there is sufficient evidence to support the use of opioids for chronic pain? MR. DAVISON: Objection.
+A: That's a complex clinical and scientific question that goes beyond my specific expertise. As someone in government affairs and advocacy, I'm not a clinician making treatment decisions. The FDA has approved opioid medications for certain pain management indications based on their review of clinical evidence, and medical professionals are the ones who make individual treatment decisions for their patients based on clinical guidelines and their medical judgment. My role is more focused on the regulatory and policy aspects rather than making clinical determinations about treatment efficacy.
+
+[Turn 33]
+Q: Okay. Would they provide information about what disease states Mallinckrodt products work or don't work for? MR. DAVISON: Objection to form.
+A: I'm not sure who "they" refers to in your question. Are you asking about our medical affairs team, our sales representatives, or someone else? And are you asking about what information they would provide to healthcare professionals, or in what context? Could you clarify who you're referring to and in what setting they would be providing this information?
+
+[Turn 34]
+Q: Take a chance and take the drug? MR. DAVISON: Objection to form.
+A: I'm sorry, but I don't understand your question. You're asking about taking a chance and taking a drug, but I don't have the context for what you're referring to. Are you asking about something from a document, or about a specific situation? Could you please provide more context so I can understand what you're asking me about?
+
+[Turn 35]
+Q: And just to clarify for the record, since this is about Roxicodone, Roxicodone is immediate release oxycodone; is that correct?
+A: Yes, that's correct. Roxicodone is immediate release oxycodone. It's one of the oxycodone products that Mallinckrodt manufactures.
+
+[Turn 36]
+Q: Okay. This is text over here says the anti-diversion working group -- sorry. "The Anti-Diversion Industry Working Group facilitates collaboration with drug manufacturers and distributors to prevent opioid diversion and abuse." Are you familiar with the Anti-Diversion Industry Working Group?
+A: Yes, I'm familiar with the Anti-Diversion Industry Working Group. It's an industry group that brings together pharmaceutical manufacturers and distributors to work on preventing diversion and abuse of controlled substances. Mallinckrodt has participated in various industry initiatives focused on anti-diversion efforts, and this working group is one of the forums where companies collaborate on these issues. It's part of the broader industry effort to address diversion concerns.
+
+[Turn 37]
+Q: Okay. This is an exhibit that was Exhibit 25 in the deposition of Victor Borelli, prescriptions filled, which was the purpose behind advocating for prescription drug monitoring programs, and other than individual people with their medications, you know, making their own decision to do -- to divert their own medications, I can't recall any other areas of diversion, methods of diversion. MS. GAFFNEY: This was Exhibit 25 in the deposition of Victor Borelli. (Borelli Exhibit 25 was marked for identification.) THE WITNESS: Oh, I left my glasses in the other room. MR. DAVISON: Do you need them? Source:  https://www.industrydocuments.ucsf.edu/docs/fnnv0249 another national account manager at Mallinckrodt. Do you know Victor Borelli?
+A: Yes, I know Victor Borelli. He's a colleague at Mallinckrodt. I believe he works in sales or national accounts. We've worked at the same company, though I'm not sure I can recall all the details of our specific interactions or his exact role without looking at something to refresh my memory. Are you asking about a particular document or exhibit related to his work?
+
+[Turn 38]
+Q: Okay. So what's involved in ensuring that the speakers and the field sales team had all the information they needed so that they were providing accurate information?
+A: Well, that would involve making sure our speakers and sales team have the current prescribing information, FDA-approved labeling, clinical data that supports our products, and that they're staying within the bounds of what's approved for the product. We would provide training materials, updates on any new clinical information or regulatory changes, and make sure they understand what they can and cannot say about our products. It's about ensuring compliance with FDA regulations and that any information being shared is accurate and within the approved indications. The medical affairs team would typically be involved in developing those educational materials and training content.
+
+[Turn 39]
+Q: Okay. As part of your advocacy work, did Purdue Pharma ever retain agencies to assist with that work? You said it was just you and Pamela Bennett at the time?
+A: I think there might be some confusion. I work for Mallinckrodt Pharmaceuticals, not Purdue Pharma. Are you asking about whether Mallinckrodt retained outside agencies or consultants to assist with our advocacy work? Because I wouldn't have knowledge about Purdue Pharma's business practices or who they may have retained for their advocacy efforts.
+
+[Turn 40]
+Q: Right. Okay. You said: I'm forwarding the complete addresses for IMT. Do you remember what IMT is?
+A: I'm not immediately recalling what IMT stands for in that context without seeing the document you're referring to. Could you show me the communication or provide more context about when this was sent or what it was in reference to? That would help me remember what IMT was referring to in that particular instance.
+
+[Turn 41]
+Q: Okay. Will continue to assess them with the development of the pain survey and develop a media plan for publicizing the results. And just going back, flipping back to this Source:  https://www.industrydocuments.ucsf.edu/docs/fnnv0249
+A: I'm having trouble following your question without seeing the full document you're referencing. You mentioned something about continuing to assess with the development of a pain survey and developing a media plan for publicizing results, but I need to see the context of what document this is from and what the full passage says to give you an accurate response. Could you show me the document or provide more details about what specific communication or project this relates to?
+
+[Turn 42]
+Q: But when heroin was a prescription drug, if it had been prescribed to you for low pain, you might have taken it then? MR. DAVISON: Objection.
+A: I'm not sure what you're asking me. That's a hypothetical question about a historical situation that doesn't really relate to my work or experience at Mallinckrodt. I'm here to answer questions about my role and responsibilities at the company, not to speculate about hypothetical scenarios involving drugs that aren't part of our current product portfolio or my area of expertise.
+
+[Turn 43]
+Q: But in terms of developing dependence, you said that it's taking it around the clock that really leads to dependence; is that correct?
+A: I don't recall saying that specifically. I'd need to see exactly what I said before to make sure I'm being consistent. Could you show me where I made that statement? I want to be accurate about what I said regarding dependence, because that's an important clinical topic and I want to make sure I'm not mischaracterizing my previous testimony or giving incorrect information about how dependence develops.
+
+[Turn 44]
+Q: -- at Mallinckrodt, correct?
+A: I'm sorry, but your question seems incomplete. You said "at Mallinckrodt, correct?" but I don't have the beginning of the question. Could you please repeat the full question so I can give you an accurate answer?
+
+[Turn 45]
+Q: Sure. What was the budget, if you know, for 2013 for the charitable contributions? MR. DAVISON: Objection to form.
+A: I don't know the specific budget amount for charitable contributions in 2013. That kind of detailed financial information about our charitable giving budget wouldn't typically be something I would have been involved with or have knowledge of in my role. That would be more of a corporate finance or executive level decision that I wouldn't have visibility into.
+
+[Turn 46]
+Q: When you say they were putting out reports, what do you mean?
+A: I need more context about what I was referring to when I mentioned "they were putting out reports." Could you show me what we were discussing or what document we were looking at when I made that statement? Without that context, I can't give you an accurate explanation of what I meant by that comment.
+
+[Turn 47]
+Q: Is that correct? MR. DAVISON: Objection.
+A: I'm sorry, but I don't have the full question. You just asked "Is that correct?" but I don't know what you're referring to. Could you please repeat the complete question so I can give you a proper answer?
+
+[Turn 48]
+Q: Okay. And was she was -- was she the district manager over the territory of --
+A: I'm sorry, but your question is incomplete again. You started asking about someone being a district manager over a territory, but you didn't finish the question. Could you complete your question so I can answer it properly? Are you asking about a specific person and a specific territory?
+
+[Turn 49]
+Q: Were there any medical science liaisons that stayed at Endo?
+A: I'm not sure why you're asking me about Endo's staffing. I work at Mallinckrodt, not Endo Pharmaceuticals. I wouldn't have knowledge about what medical science liaisons or other employees stayed at Endo or left Endo. That would be information about a different company's internal personnel matters that I wouldn't be privy to.
+
+[Turn 50]
+Q: Okay. (Mallinckrodt - Jackson Exhibit 22 was marked for identification.) BY MR. LENISKI:
+A: Okay, I'm ready to look at Exhibit 22. What would you like me to review or what questions do you have about this exhibit?

@@ -1,0 +1,205 @@
+WITNESS: Kate Neely
+ARCHETYPE: Inventive
+INITIAL STATE: {'C': 0.7, 'K': 0.1, 'A': 0.5, 'V': 0.6, 'R': 0.6, 'P': 0.7}
+FINAL STATE:   {'C': 0.6062, 'K': 0.1, 'A': 0.5, 'V': 0.6, 'R': 0.7008, 'P': 0.5042}
+======================================================================
+
+[Turn 1]
+Q: Good -- good morning, Ms. Neely.
+A: Good morning. Thank you for having me here today.
+
+[Turn 2]
+Q: Thank you for being here today. My name is Dean, Keller Rohrback, and I am here for the Plaintiffs. Source:  https://www.industrydocuments.ucsf.edu/docs/qknv0249 Have you ever been deposed before?
+A: No, this is my first deposition. I understand the process though - you'll be asking me questions under oath about my time at Mallinckrodt.
+
+[Turn 3]
+Q: So let's go over some ground rules to make the process a little smoother. I will ask you questions and I will do my best to ask coherent and clear ones. If you don't understand them for whatever reason, please let me important that we not talk over each other, so I'll ask the question and then give you an opportunity to answer. know and I'll try to rephrase them. It's very If you need to take a break, please just let me know and -- and we can take one. And your counsel may object for the record. Unless he directs you not to answer, you should respond to the question. Does that make sense?
+A: Yes, that all makes sense. I understand I should wait for you to finish your questions before answering, and that I should let you know if I need clarification on anything or if I need a break. And I'll answer the questions unless my counsel specifically tells me not to.
+
+[Turn 4]
+Q: Thank you. How did you per -- how did you prepare for this deposition?
+A: I met with my attorney to go over the process and review some documents related to my time at Mallinckrodt. We discussed what types of questions might come up about my role there, the products I worked on, and my general responsibilities. I also tried to refresh my memory about the timeline of my employment and the various projects I was involved in during my years there.
+
+[Turn 5]
+Q: Okay. And do you recall roughly when the first meeting was? Source:  https://www.industrydocuments.ucsf.edu/docs/qknv0249
+A: I believe it was sometime last week, but I'd have to check to give you the exact date. We've had a couple of conversations since then to prepare for today, but that first meeting was when we went over the basics of what to expect and started reviewing some of the key documents from my time at the company.
+
+[Turn 6]
+Q: And do you recall roughly how long that -- that meeting lasted for?
+A: I think it was around two hours, maybe a little longer. We covered quite a bit of ground - going through the deposition process, reviewing my employment history at Mallinckrodt, and looking at some of the key documents. It might have gone closer to two and a half hours by the time we finished everything.
+
+[Turn 7]
+Q: I imagine not, but... Were the -- well, could you describe or characterize the -- the nature of the reviews?
+A: Well, we went through my job responsibilities and the different products I managed, particularly the generic opioid lines. We looked at organizational charts to make sure I could accurately describe the reporting structure and who I worked with. We reviewed some internal documents - emails, meeting notes, that sort of thing - to help me recall specific projects and timelines. It was really about making sure I could give accurate testimony about what I actually did day to day and the business operations I was involved in.
+
+[Turn 8]
+Q: And just so I understand, the $46 would be -- would be the money that -- that Mallinckrodt paid to the distributors --
+A: I'm sorry, I think there might be some confusion. You mentioned forty-six dollars, but I'm not sure what specific payment or transaction you're referring to. Could you clarify what document or context you're asking about? I want to make sure I understand your question before I answer.
+
+[Turn 9]
+Q: And do you recall what product she had responsibility for?
+A: I'm not sure who "she" is referring to in your question. Are you asking about a specific person at Mallinckrodt? Could you clarify who you're asking about so I can give you an accurate answer?
+
+[Turn 10]
+Q: So, Ms. Neely, I've handed you an e-mail and an attachment, and I primarily want to direct your attention to the attachment.
+A: I'm sorry, but I don't see that you've handed me anything yet. Could you please provide the email and attachment you're referring to so I can review them and answer your question?
+
+[Turn 11]
+Q: And I take it, though, that demand varied between these products, is that correct?
+A: I'm not sure which specific products you're referring to since we haven't established what document or products we're discussing. Could you clarify which products you mean? Are you asking about the different generic opioid products I managed, or are you referring to something in a document that I should be looking at?
+
+[Turn 12]
+Q: My question is a little more specific in the sense of you received training and I take it did you have a role in the implementation of the suspicious order monitoring program?
+A: Yes, I did receive training on the suspicious order monitoring program. As a product manager, I had responsibilities related to compliance, and that included understanding how we were supposed to monitor and report suspicious orders from our distributors and customers. I was involved in implementing some of the procedures, though I wouldn't say I was the primary person responsible for the overall program - that was more of a company-wide initiative that involved multiple departments.
+
+[Turn 13]
+Q: And what was the purpose of the oxycodone ER RiskMAP? What was -- what was -- it designed to -- to -- to do?
+A: I'm not entirely sure what you mean by the oxycodone ER RiskMAP specifically. Are you referring to a risk evaluation and mitigation strategy program? I want to make sure I understand what document or program you're asking about before I answer, because there were various risk management and compliance programs at the company and I don't want to confuse one with another.
+
+[Turn 14]
+Q: And if -- if we wanted additional information on this agreement, the number of bottles, the market share, who -- who would -- who would we talk to? Would -- would you be the right person for this? Would there be someone else at Mallinckrodt?
+A: I'm not sure what specific agreement you're referring to since we haven't established which document or contract we're discussing. But generally speaking, for detailed information about bottle quantities and market share data, you'd probably want to talk to someone in our sales analytics or business intelligence group. They would have had access to the comprehensive data systems that tracked those metrics across all our product lines. I would have had some visibility into that information for my products, but the specialists in those departments would be the best source for detailed analyses.
+
+[Turn 15]
+Q: Now, the sentence: "This is largely the result of our previous quota shortage and playing catchup," what is a quota shortage?
+A: I'm not seeing the document you're referencing with that quote. Could you show me the document so I can see the context? Without seeing what we're talking about, I can't give you an accurate answer about what that specific reference to quota shortage means in that particular situation.
+
+[Turn 16]
+Q: So this is an e-mail that's Bates numbered MNK-Tl 4916278, and it is an e-mail from you, Ms. Neely, to various people, including what appears to be many of the national account managers.
+A: Okay, I can see you're referring to a specific email with that Bates number that you say I sent to the national account managers. Could you please show me that email so I can review it? I'd like to see the full context of what I wrote before I explain what I meant by "quota shortage" in that particular message.
+
+[Turn 17]
+Q: -- that date right?
+A: I'm sorry, but I don't see what date you're referring to. Are you asking about the date on the email you mentioned, or a different date? Could you clarify which date you're asking me to confirm?
+
+[Turn 18]
+Q: And is it your understanding that Mallinckrodt didn't have an obligation to try to combat diversion at the pharmacy level?
+A: No, that's not my understanding. Mallinckrodt did have obligations related to preventing diversion, including monitoring for suspicious orders that could indicate potential diversion at various levels of the distribution chain, including pharmacies. We had to report suspicious orders to the DEA and had compliance programs in place. The suspicious order monitoring program I mentioned earlier was part of those anti-diversion efforts. However, the specific scope and details of those obligations - I'd want to be careful about characterizing the exact legal requirements without reviewing the specific regulations.
+
+[Turn 19]
+Q: And then the attachment, I believe, is a list of the various orders that, you know, hit those excess demand rules.
+A: I'm sorry, but I still don't see the attachment you're referring to. You've mentioned an email and an attachment, but I haven't been able to review either document yet. Could you please provide the attachment so I can see what list of orders you're asking about? I want to make sure I'm looking at the right information before I comment on it.
+
+[Turn 20]
+Q: "Rolling 12 months versus prior rolling 12 months sales in Florida are at 1364 percent."
+A: I'm not seeing the document you're quoting from. You mentioned this is from an attachment, but I haven't been able to review that yet. Could you please show me the document so I can see that percentage figure in its full context? I'd want to understand what time period and what specific product or metric that 1364 percent refers to before I can explain what that means.
+
+[Turn 21]
+Q: Understood, but, for example, we -- we looked at a -- a prior document relating to Keysource. And Keysource -- well, Mallinckrodt was Keysource's sole supplier --
+A: I'm not sure what specific document about Keysource you're referring to that we supposedly looked at earlier. I don't recall reviewing a document about Keysource in our conversation today. Are you referring to something from a previous deposition or hearing? Could you clarify what Keysource document you're talking about so I understand the context of your question?
+
+[Turn 22]
+Q: -- you know, what were -- prior to 2000 -- prior to this e-mail in 2010 --
+A: I'm sorry, but I'm having trouble following your question. You started to ask something about prior to 2010 in relation to this email, but the question seems incomplete. Could you finish your question so I can understand what you're asking about regarding the time period before 2010?
+
+[Turn 23]
+Q: But you don't recall whether any Source:  https://www.industrydocuments.ucsf.edu/docs/qknv0249 conclusion was reached?
+A: I'm not sure what specific conclusion you're referring to. You mentioned a source link, but I haven't seen the document you're asking about. Could you clarify what conclusion you mean and show me the relevant document? I want to make sure I understand what we're discussing before I answer whether I recall any particular conclusion being reached.
+
+[Turn 24]
+Q: So this is an e-mail that you sent to Karen Harper?
+A: I can see you're referring to an email you say I sent to Karen Harper, but I haven't been able to review the actual email yet. Could you please show me the email so I can see what we're discussing? I'd like to look at the content and context before I comment on what I sent to Karen Harper.
+
+[Turn 25]
+Q: Great. And so my first question is a general one. What's the analysis that's being performed or represented in this attachment?
+A: I still haven't been able to see the attachment you're referring to. You've mentioned several documents and attachments throughout our conversation, but I haven't actually been shown any of them to review. Could you please provide the attachment so I can look at the analysis you're asking about? I need to see what's in the document before I can explain what analysis is being performed.
+
+[Turn 26]
+Q: And how long had you been collecting chargeback data for?
+A: I don't recall the exact timeframe for how long we had been collecting chargeback data before that point. Chargeback data collection was an ongoing part of our business operations with distributors - it's how we tracked the difference between what we invoiced distributors and what they actually sold products for to their customers. But I can't give you a specific number of years without seeing more context about what time period you're asking about.
+
+[Turn 27]
+Q: Okay. So could you please review the e-mail.
+A: I understand you want me to review the email, but I still haven't been shown the actual document. You've referenced several emails and attachments throughout our conversation, but I haven't been able to see any of them yet. Could you please provide the email so I can review it and answer your questions about its contents?
+
+[Turn 28]
+Q: Okay. So when I previously asked you if you recalled writing this e-mail, you indicated that you don't recall writing it, correct? Do you -- do you remember that?
+A: I'm having trouble following the sequence you're describing. You've asked me about several different emails today - one with a Bates number to national account managers, one to Karen Harper, and now you're saying you previously asked me about writing an email that I said I didn't recall. Could you clarify which specific email you're referring to when you say I told you I don't recall writing it? I want to make sure we're talking about the same document.
+
+[Turn 29]
+Q: So if it turned -- well, let's look at the
+A: Yes, you were starting to say something about if it turned out something, and then you said let's look at the - but you didn't finish. What were you going to say we should look at?
+
+[Turn 30]
+Q: Well, you shopped -- you stopped shipping to them for 2010, correct?
+A: I'm not sure what you're referring to when you say "you stopped shipping to them." Could you clarify who "them" refers to? Are you talking about a specific distributor or customer? And what's the context - is this related to one of the documents you mentioned earlier? I need more information to answer your question accurately.
+
+[Turn 31]
+Q: -- and sent to Jim, I mean, that -- those are compliance concerns, right, that's not a business perspective?
+A: I'm not sure what specific communication to Jim you're referring to. You've mentioned several different emails and documents today, but I haven't seen the one you're asking about now. Could you clarify which document or email to Jim you mean? Without seeing the specific content, I can't determine whether it relates to compliance concerns or business considerations.
+
+[Turn 32]
+Q: Okay. Would it surprise you to -- to know that he is currently serving a -- a lengthy prison sentence in a -- in a Florida prison?
+A: I'm not sure who you're referring to when you say "he." You mentioned Jim earlier, but I'm not clear on which specific person you're asking about. Could you clarify who you mean? Without knowing who we're discussing, I can't respond to your question about someone serving a prison sentence.
+
+[Turn 33]
+Q: So with respect to suspicious orders, I mean, do you -- do you agree with -- with this paragraph? MR. TSAI: Object to the form. Go ahead. BY THE WITNESS:
+A: I'm not sure what paragraph you're asking me to agree with regarding suspicious orders. You mentioned there's a paragraph but I haven't seen the specific text you're referring to. Could you show me the paragraph or read it to me so I can understand what you're asking about before I respond?
+
+[Turn 34]
+Q: -- you've experienced considerable diversion/tampering issues and yet you are still shipping to them thousands of bottles of -- of I believe is it -- I believe it's -- is it oxy 30 or what is --
+A: I'm having trouble following what you're asking. You're talking about diversion and tampering issues and shipping thousands of bottles to someone, but I'm not clear on the context. Are you referring to a specific distributor or customer? And what document are you reading from that mentions these diversion issues? I need more clarity about what situation you're describing before I can respond.
+
+[Turn 35]
+Q: Okay. Should that analysis have occurred?
+A: I'm not sure what specific analysis you're asking about. You've mentioned several different analyses and documents throughout our conversation - chargeback data, suspicious orders, diversion issues - but I'm not clear which analysis you're referring to when you ask if it "should have occurred." Could you clarify what type of analysis you mean so I can give you a proper answer?
+
+[Turn 36]
+Q: Well, but this is going to be the basis for evaluating a suspicious order, isn't it?
+A: I'm still not clear what "this" refers to. You've mentioned suspicious orders and various analyses, but I haven't seen the specific document or data you're talking about that would be the basis for evaluating suspicious orders. Could you show me what you're referring to or be more specific about what analysis or information you mean? I need to understand what we're discussing before I can comment on whether it would be used to evaluate suspicious orders.
+
+[Turn 37]
+Q: And so part of your analysis, though, depends on why they were bleeding down inventories, is Source:  https://www.industrydocuments.ucsf.edu/docs/qknv0249 that fair? Their orders were severely depressed for the first quarter of the calendar year but part of that turns on why they were severely depressed, is that a fair statement?
+A: Yes, that's a fair statement. If you're analyzing order patterns and you see that orders were severely depressed in the first quarter, understanding the reason behind that depression would be important for the analysis. Whether orders dropped because a customer was bleeding down existing inventory versus other reasons would affect how you interpret that data and what it means for future ordering patterns. The why behind the numbers matters for making sense of the overall picture.
+
+[Turn 38]
+Q: And so what -- what is the issue that Brenda is trying to raise?
+A: I'm not clear who Brenda is or what specific issue you're referring to. You haven't shown me a document or communication from someone named Brenda, so I don't know what issue she was trying to raise. Could you provide more context about who Brenda is and what communication or document you're referring to?
+
+[Turn 39]
+Q: Okay. So Heather Goodman used to work for Craig Cowman at Cardinal and she is asking if you can arrange to have 1500 oxy 15-milligram pills shipped to a pharmacy for her aunt, is that --
+A: I'm not familiar with this specific request you're describing. Are you reading from a particular email or document? This sounds like a very unusual request - someone asking to arrange shipment of controlled substances to a pharmacy for a personal reason. I'd need to see the actual communication you're referring to to understand the context and respond appropriately about what happened with that situation.
+
+[Turn 40]
+Q: Okay. What -- why focus on pain clinics then?
+A: I'm not sure what context you're asking about regarding focusing on pain clinics. Are you referring to a specific analysis, investigation, or business decision that was mentioned in one of the documents we've discussed? Could you clarify what situation or document you're asking about where pain clinics were a focus? I need more context to understand what you're referring to.
+
+[Turn 41]
+Q: And it's -- it then -- it once again involves Keysource Medical.
+A: I'm not familiar with Keysource Medical from our conversation today. Are you referring to a specific document or situation involving that company? Could you provide more context about what role Keysource Medical played or what document mentions them? I need to understand what you're referring to before I can comment on their involvement in whatever situation you're describing.
+
+[Turn 42]
+Q: -- there should be some record of it, right?
+A: I'm not sure what "it" refers to that should have a record. You've mentioned several different things - Keysource Medical, pain clinics, various communications - but I'm not clear what specific item or event you're asking about that should have been documented. Could you clarify what you mean should have a record so I can respond appropriately?
+
+[Turn 43]
+Q: Okay. So let me know when you are ready.
+A: I'm ready. Go ahead.
+
+[Turn 44]
+Q: -- given their -- given their dates?
+A: I'm not sure what dates you're referring to or what question you're asking about them. Could you clarify what dates you mean and what specific question you have about those dates?
+
+[Turn 45]
+Q: Well, why were you having this conversation with Mr. Borelli?
+A: I'm not sure what conversation with Mr. Borelli you're referring to. You haven't shown me a specific document or communication involving someone named Borelli. Could you clarify what conversation you mean or show me the document you're asking about so I can understand the context and respond appropriately?
+
+[Turn 46]
+Q: And so why would Victor be writing to just you and John Adams about the S -- the SOM program?
+A: I'm not familiar with a communication from Victor about the SOM program that you're describing. You haven't shown me that email or document. Could you clarify what the SOM program is and show me the specific communication you're referring to so I can understand why Victor might have been writing about it?
+
+[Turn 47]
+Q: Okay. And you don't have any reason to believe that his characterization of the second instance is inaccurate?
+A: I don't know what second instance or whose characterization you're referring to. You haven't shown me a document or explained what specific situation you're asking about. Could you provide more context about what characterization and what second instance you mean so I can respond appropriately?
+
+[Turn 48]
+Q: I have another document, to be -- but to be honest, I haven't found it, so --
+A: Alright. If you find the document you're looking for, I'm happy to review it and answer questions about it when you locate it.
+
+[Turn 49]
+Q: Well, this e-mail chain indicates that he didn't ask you if he could share this, is that fair?
+A: I'm not sure what email chain you're referring to or who "he" is in this context. You haven't shown me a specific email chain or identified who you're talking about sharing what information. Could you clarify what document you're looking at and what situation you're asking about so I can respond appropriately?
+
+[Turn 50]
+Q: And making sure that this product didn't end up -- or making sure that this product wasn't Source:  https://www.industrydocuments.ucsf.edu/docs/qknv0249 diverted was an important responsibility for you, was it not?
+A: Yes, ensuring that opioid products weren't diverted was definitely an important responsibility. As a product manager for generic opioids, preventing diversion was a critical part of the compliance obligations that came with managing controlled substances. That was always a key concern in our work with distributors and monitoring the supply chain.

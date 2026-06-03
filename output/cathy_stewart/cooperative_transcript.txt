@@ -1,0 +1,206 @@
+WITNESS: Cathy Stewart
+ARCHETYPE: Cooperative
+INITIAL STATE: {'C': 0.8, 'K': 0.9, 'A': 0.95, 'V': 0.5, 'R': 0.3, 'P': 0.3}
+FINAL STATE:   {'C': 0.6928, 'K': 0.9, 'A': 0.8498, 'V': 0.5, 'R': 0.4765, 'P': 0.216}
+======================================================================
+
+[Turn 1]
+Q: Good morning, Ms. Stewart. How are you this morning?
+A: Good morning. I'm doing well, thank you for asking. I appreciate you taking the time to meet with me today. I hope I can be helpful in answering your questions about my time at Mallinckrodt.
+   Δ: C▼0.010
+
+[Turn 2]
+Q: Okay. We have not met before today, correct?
+A: That's correct, we have not met before today. This is our first meeting.
+
+[Turn 3]
+Q: And as you heard when we made appearances and we met briefly before we went on the record, my name is Gary Gotto. I'm with the law firm Keller Rohrback. We're one of the firms representing plaintiffs in the national opiate litigation. Just a few preliminary matters. Have you ever given a deposition previously?
+A: No, I have not given a deposition before. This is my first time going through this process. I understand you'll be asking me questions about my work at Mallinckrodt, and I'll do my best to answer them accurately based on what I remember from my time there.
+
+[Turn 4]
+Q: Okay. Have you ever testified under oath in court?
+A: No, I have never testified under oath in court either. This is really my first experience with any kind of formal legal proceeding like this. I've never been involved in litigation or had to give sworn testimony before today.
+
+[Turn 5]
+Q: Okay. So -- and I'm sure your Source:  https://www.industrydocuments.ucsf.edu/docs/mknv0249 counsel has previously given you background on this, but just to be sure we're all on the same page, the court reporter will be taking down a transcript of your testimony here today.
+A: Yes, I understand. My attorney did explain that to me beforehand. I know that everything I say here today is being recorded and will be part of an official transcript, and that I'm under oath, so I need to be truthful and accurate in all my answers. I'll do my best to speak clearly for the court reporter as well.
+
+[Turn 6]
+Q: As you know, it's under oath. You just took the oath, obviously.
+A: Yes, that's right. I just took the oath and I understand that I'm testifying under penalty of perjury. I take that very seriously and I'm committed to telling the truth in all of my answers today.
+
+[Turn 7]
+Q: And tell me, during that time period, to the extent your responsibilities extended to the narcotics business, what were your functions? Source:  https://www.industrydocuments.ucsf.edu/docs/mknv0249
+A: Well, as Planning Manager, I had various responsibilities that did touch on the narcotics side of the business. I was involved in procurement planning, which included understanding what materials and quantities we would need for production. I worked with compliance groups to make sure we were following DEA regulations - I received training on the quota systems for controlled substances and how those worked. My role was really about planning and coordination to ensure we could meet our production needs while staying within regulatory requirements. I had to understand the regulatory framework around narcotics manufacturing to do my job effectively.
+
+[Turn 8]
+Q: Okay. So again, focusing on your planning function, tell me the specifics group would put their sales forecast in the computer to let me know what they anticipated in sales going forward for the next 18 months. I would evaluate that forecast Source:  https://www.industrydocuments.ucsf.edu/docs/mknv0249 for its validity because sometimes they were a little optimistic with what they were going to sell. So typically what I did was I took their forecast and validated it against prior forecasts compared to what their actual sales numbers were in those periods, and then based on that knowledge determined what I thought would be an appropriate production run size.
+A: Yes, that's exactly right. The sales group would input their forecasts into our system - they'd project what they expected to sell over the next 18 months or so. But as you know, sales teams can sometimes be quite optimistic about their projections. So my job was to take those forecasts and really scrutinize them. I'd look back at their previous forecasts and compare them to what they actually sold during those periods to see if there were patterns of over-forecasting or under-forecasting. Based on that historical data and my analysis of their track record, I would then determine what I thought would be realistic production run sizes. It was really about balancing their projections with actual performance data to make sure we were producing appropriate quantities - not too much that we'd have excess inventory, but enough to meet real demand.
+
+[Turn 9]
+Q: So tell me, if you can, as best
+A: I'm sorry, it sounds like your question got cut off. Could you repeat that? I want to make sure I understand what you're asking me about.
+
+[Turn 10]
+Q: Okay. So it sounds like you were -- you had customer service responsibility for dosage approximately 2008 to 2010, and then for API approximately 2010, 2011?
+A: Yes, that sounds about right from what I can recall. I did have customer service responsibilities for dosage forms for a period around 2008 to 2010, and then moved into working more with the API side - the active pharmaceutical ingredients - around 2010, 2011. The exact timing might be a little fuzzy for me after all these years, but that general timeframe and progression sounds correct. My responsibilities did shift between those different areas of the business during my time there.
+
+[Turn 11]
+Q: Okay. But once they confirmed that you did have the quantity available to ship --
+A: I'm sorry, but I think part of your question got cut off again. You mentioned something about confirming quantity available to ship, but I didn't catch the complete question. Could you please finish that thought so I can give you a proper answer?
+
+[Turn 12]
+Q: And Mr. Rausch is someone that you had interacted with periodically, correct?
+A: Yes, that's correct. I did interact with Mr. Rausch periodically during my time at Mallinckrodt. He was someone I worked with as part of my various responsibilities there. I can't recall the exact frequency or specific nature of every interaction after all these years, but yes, he was someone I had professional contact with during my tenure at the company.
+
+[Turn 13]
+Q: Okay. But they were different people than had been in dosage?
+A: Yes, that's right. When I moved from the dosage side to working with API, I was dealing with a different group of people. The teams and personnel were different between those two areas of the business. So the colleagues I worked with regularly changed when my responsibilities shifted from dosage forms to active pharmaceutical ingredients. It was a different set of people with different expertise areas.
+
+[Turn 14]
+Q: And was it your understanding that as long as the product was received by Mallinckrodt's intended customer, that Mallinckrodt had no further responsibility with respect to diversion of that product? MR. DAVISON: Objection to form. THE WITNESS: Correct. Source:  https://www.industrydocuments.ucsf.edu/docs/mknv0249 QUESTIONS BY MR. GOTTO:
+A: Correct. My understanding was that once the product was delivered to Mallinckrodt's intended customer - the customer we had verified and were authorized to sell to - then our responsibility with respect to diversion ended there. We weren't responsible for what happened to the product after it left our control and was received by that legitimate customer.
+
+[Turn 15]
+Q: So the algorithms that were developed, where would they be housed? MR. DAVISON: Objection to form. THE WITNESS: I would -- explain, please. QUESTIONS BY MR. GOTTO:
+A: I would need you to explain what you mean by algorithms, please. I'm not sure exactly what algorithms you're referring to or in what context. Could you clarify what specific algorithms you're asking about so I can give you an accurate answer?
+
+[Turn 16]
+Q: Do you recognize those e-mails?
+A: I'm sorry, but I don't see any emails in front of me right now. Could you show me which specific emails you're referring to? I'd need to see them to be able to tell you whether I recognize them or not.
+
+[Turn 17]
+Q: Do you have any recollection with respect to any understanding that you had at any point regarding the substance of that communication?
+A: I'm having difficulty answering that question without seeing the actual communication you're referring to. Without being able to review the specific email or document, I can't really tell you what my understanding was regarding its substance. If you could show me the communication or give me more context about what it contained, I'd be better able to tell you whether I have any recollection of it or what my understanding was at the time.
+
+[Turn 18]
+Q: So peculiar order was a term you used at Mallinckrodt? Source:  https://www.industrydocuments.ucsf.edu/docs/mknv0249
+A: Yes, that's correct. "Peculiar order" was a term that we used at Mallinckrodt. It was terminology that was part of our internal processes for identifying orders that stood out in some way or appeared unusual compared to typical ordering patterns.
+
+[Turn 19]
+Q: Okay. So once an order was identified as peculiar -- and again, focusing on dosage initially -- who had the authority to authorize the filling of that order?
+A: Well, when an order was identified as peculiar on the dosage side, there was a process for reviewing and authorizing those orders. I believe it would go to the appropriate management level for review and approval before we would fill it. The exact chain of authority might have varied depending on the specific circumstances, but there was definitely a review process in place for orders that were flagged as peculiar. I'd need to think more carefully about the specific individuals or positions that had that authorization authority, as the details of that approval process aren't completely clear in my memory right now.
+
+[Turn 20]
+Q: Okay. And there are three numbered paragraphs under that heading, and Source:  https://www.industrydocuments.ucsf.edu/docs/mknv0249 again, you can feel free to review those if you like. My question for you is, during the period that you had responsibility for API as customer service manager, do you recall any orders being identified as peculiar because of an irregular order pattern?
+A: I'm sorry, but I don't see the document with the three numbered paragraphs that you're referring to in front of me. Without being able to review those specific paragraphs, it's difficult for me to give you a precise answer about whether I recall orders being identified as peculiar due to irregular order patterns during my time as customer service manager for API. If you could show me those paragraphs or provide more specific details about what they say, I'd be better able to tell you whether that matches my recollection of events during that period.
+
+[Turn 21]
+Q: Okay. And heading D, down below on the second page of Exhibit 4, talks about irregular order pattern. Do you see that?
+A: I'm sorry, but I don't have Exhibit 4 in front of me right now. I can't see the document you're referring to with heading D about irregular order pattern on the second page. Could you either show me the exhibit or read me the relevant section so I can respond to your question about it?
+
+[Turn 22]
+Q: Okay. Approximately how many attendees were at the conference; can you recall?
+A: I'm not sure which specific conference you're asking about. Could you clarify which conference or meeting you're referring to? Without that context, I can't give you an accurate estimate of how many attendees were there. If you could remind me which particular conference we were discussing, I'd be better able to recall the approximate attendance.
+
+[Turn 23]
+Q: The next paragraph says, "One supplier indicates that of 13,000 lines per for SOM purposes." Source:  https://www.industrydocuments.ucsf.edu/docs/mknv0249
+A: I'm sorry, but I'm not seeing the document you're reading from. You mentioned a paragraph that says something about "One supplier indicates that of 13,000 lines per for SOM purposes," but I can't see that text in front of me. Could you show me the document or provide more context about what that paragraph is discussing? Without being able to see the full text, I can't really comment on what that means or whether I have any recollection related to it.
+
+[Turn 24]
+Q: The second sentence regarding personal visit, do you know if anyone at Mallinckrodt made any such personal visit to the customer of a Mallinckrodt customer?
+A: I don't have a clear recollection of anyone at Mallinckrodt making personal visits to customers of our customers. That would have been somewhat unusual since our direct relationship was typically with our immediate customers, not with their customers further down the distribution chain. But without being able to see the specific document you're referencing about personal visits, I can't say definitively whether such visits occurred or not. My memory on that particular aspect isn't clear enough to give you a certain answer.
+
+[Turn 25]
+Q: During the period that you were customer service manager, who was the head of the customer data integrity group?
+A: I'm trying to recall who was heading up the customer data integrity group during my time as customer service manager. I know there was such a group, but I'm having difficulty remembering the specific person who was in charge of it at that time. The name isn't coming to me clearly right now. Do you have any information that might help refresh my memory about who was leading that group during that period?
+
+[Turn 26]
+Q: Okay. And you believe at some point that did happen, correct? would be responsible for maintaining those materials?
+A: I'm sorry, but I'm not following the question clearly. You're asking if I believe something happened at some point, and then asking who would be responsible for maintaining materials, but I'm not sure what specific event or materials you're referring to. Could you clarify what "that" refers to in your question? I want to make sure I understand what you're asking about before I give you an answer.
+
+[Turn 27]
+Q: And the ASR number, do you know what that refers to?
+A: I'm not immediately recalling what ASR stands for in this context. Could you provide a bit more information about where you're seeing that ASR number or what document it's in? That might help refresh my memory about what that particular acronym or reference number was used for at Mallinckrodt.
+
+[Turn 28]
+Q: Okay. So for those -- for C-I and C-II controlled substances, under A, "verify customer has provided a DEA 222 form," we've discussed that already today, correct?
+A: Yes, that's correct. We did discuss the DEA 222 forms earlier today. Those forms were required for C-I and C-II controlled substances as part of the verification process to ensure that customers had the proper authorization before we could fill their orders.
+
+[Turn 29]
+Q: And in the -- the occasion involving Ms. Spalding that you recall, was that a single occasion?
+A: I'm not recalling the specific occasion involving Ms. Spalding that you're referring to. Could you refresh my memory about what particular incident or situation with Ms. Spalding you're asking about? Without that context, I can't tell you whether it was a single occasion or multiple occasions.
+
+[Turn 30]
+Q: Do you recall making the suggestions that are indicated on the flow chart on the second page of Exhibit 18 -- 19, rather?
+A: I'm sorry, but I don't have Exhibit 19 in front of me to see the flow chart on the second page that you're referring to. Without being able to see what suggestions are indicated on that flow chart, I can't tell you whether I recall making those particular suggestions or not. Could you either show me the exhibit or describe what suggestions are shown on the flow chart so I can respond accurately?
+
+[Turn 31]
+Q: Okay. And down below, three "As these respected." Do you see it?
+A: I'm sorry, but I don't see the document you're referring to. I can't see where it says "As these respected" or the context around that phrase. Could you show me the document or read me more of that section so I can understand what you're asking about?
+
+[Turn 32]
+Q: My first question for you is Source:  https://www.industrydocuments.ucsf.edu/docs/mknv0249 whether you recognize any of the handwriting on this page.
+A: I'm sorry, but I can't see the document you're referring to. I don't have that page in front of me to look at any handwriting on it. If you could show me the document or describe what handwriting you're asking about, I'd be able to tell you whether I recognize it or not.
+
+[Turn 33]
+Q: Yes, that page. Just to identify who some of these folks were that we haven't talked about before today, Jim Parker, who was that?
+A: Jim Parker - let me think. I believe Jim Parker worked at Mallinckrodt, but I'm having trouble recalling his specific role or department. Could you help refresh my memory about what position he held or what area he worked in? That might help me give you a more complete answer about who he was.
+
+[Turn 34]
+Q: And what does it mean to say "clear the form"?
+A: "Clear the form" typically means to process and approve the form so that it can move forward in whatever system or workflow it's part of. In the context of our operations at Mallinckrodt, it would usually mean that someone has reviewed the form, verified that it meets the necessary requirements, and given it the okay to proceed to the next step in the process. But without seeing the specific context you're referring to, I can't be more precise about what clearing that particular form would have involved.
+
+[Turn 35]
+Q: Okay. Okay. Okay. You can set that aside. (Mallinckrodt-Stewart Exhibit 28 marked for identification.) QUESTIONS BY MR. GOTTO:
+A: Alright, I'm ready for your questions about Exhibit 28.
+
+[Turn 36]
+Q: Okay. Did you ever come to have any understanding as to what the daily Source:  https://www.industrydocuments.ucsf.edu/docs/mknv0249 average was for dosage orders that were identified as peculiar through the SOM?
+A: I don't have a clear recollection of the specific daily average for dosage orders that were flagged as peculiar through the SOM system. Without being able to see the document or having more context about the time period you're asking about, I can't give you a precise number or understanding of what that daily average was. Do you have information in the exhibit that might help refresh my memory about those particular statistics?
+
+[Turn 37]
+Q: Okay. On the first page in the -- about the middle of the page, there's handwriting that says, "DEA Albany verbally requests quarterly updates of all orders we have reviewed as peculiar." Do you see that?
+A: I'm sorry, but I don't see the document you're referring to. I can't see the handwriting that says "DEA Albany verbally requests quarterly updates of all orders we have reviewed as peculiar" that you mentioned is in the middle of the first page. Could you show me the document or provide more context about what this refers to so I can respond appropriately?
+
+[Turn 38]
+Q: Okay. On the next page, page 2 of 13, there's an entry 2/13/2009, "Mallinckrodt SOM team conducts a conference call with drug and chemical advisory group, Frank Sapienza and colleagues, to review Mallinckrodt draft revised SOM." Do you recall participating in a conference call with Mr. Sapienza and his colleagues? MR. DAVISON: Objection to form. THE WITNESS: No, I don't. QUESTIONS BY MR. GOTTO:
+A: No, I don't recall participating in that specific conference call with Mr. Sapienza and his colleagues about the revised SOM.
+
+[Turn 39]
+Q: And does the compounding pharmacy have a -- is it registered with the DEA as such?
+A: Yes, a compounding pharmacy would need to be registered with the DEA if they're handling controlled substances. They would need the appropriate DEA registration to legally compound medications that contain controlled substances. The specific type of registration would depend on what level of controlled substances they're working with and what activities they're performing.
+
+[Turn 40]
+Q: Who was Robert Lesnak?
+A: I'm trying to recall Robert Lesnak. The name sounds familiar but I'm having difficulty placing exactly what his role was or which department he worked in at Mallinckrodt. Could you help refresh my memory about what position he held or what his responsibilities were? That might help me give you a more complete answer about who Robert Lesnak was.
+
+[Turn 41]
+Q: Any recollection of SJ Investments attempting to place an order for fentanyl?
+A: I don't have a clear recollection of SJ Investments specifically attempting to place an order for fentanyl. Without more context about when this would have occurred or what the circumstances were, I can't recall the details of that particular situation. Do you have additional information that might help refresh my memory about SJ Investments and their fentanyl order attempt?
+
+[Turn 42]
+Q: Okay. And Mr. Ratliff, in the first e-mail -- well, the top e-mail on the first page, says to Ms. Harper, "This seems to be a lot of product for the first order, especially in light of the new customer status and credit limit. Do you know if they completed the D&B?" Do you see that?
+A: I'm sorry, but I don't see the document you're referring to. I can't see the email from Mr. Ratliff to Ms. Harper that mentions the product quantity, new customer status, credit limit, and the D&B question. Without being able to see that email, I can't comment on what it says or provide any context about it. Could you show me the document or provide more details about what this refers to?
+
+[Turn 43]
+Q: Okay. And were there -- were there sale -- I'm sorry. Were there training presentations made to various groups at Mallinckrodt on the suspicious order monitoring program from time to time?
+A: Yes, there were training presentations made on the suspicious order monitoring program. We did receive training on compliance matters including the SOM program from time to time. Different groups within the company would get briefings and updates on these compliance requirements and how to properly monitor and report suspicious orders. It was part of our ongoing compliance education, though I can't recall all the specific details of every training session that was conducted.
+
+[Turn 44]
+Q: Okay. In your e-mail on the bottom of the first page, March 6th of '09, you say, "This is definitely a process that needs to be refined. I agree there is a lot of opportunity for improvement on the part of the CSRs and the overall process that's been in place to date." Do you recall this circumstance arising back in '09?
+A: I'm sorry, but I don't see the email you're referring to from March 6th, 2009. I can't see the message where I mentioned the process needing refinement and opportunities for improvement with the CSRs and the overall process. Without being able to see that email or having more context about what specific circumstance or situation it was addressing, I can't recall the details of what was happening in March 2009 that prompted those comments.
+
+[Turn 45]
+Q: Okay. You don't have any information on this beyond what's contained Source:  https://www.industrydocuments.ucsf.edu/docs/mknv0249 in Exhibit 57?
+A: That's correct. I don't have any information about this beyond what's contained in Exhibit 57. Without being able to review that exhibit or having additional context to refresh my memory, I can't provide details beyond what's documented there.
+
+[Turn 46]
+Q: Okay. Have you been to Source:  https://www.industrydocuments.ucsf.edu/docs/mknv0249 Nashville?
+A: Yes, I have been to Nashville. I'm not sure if you're asking about business trips there or personal visits, but I have been to Nashville before.
+
+[Turn 47]
+Q: Okay. If I were to try to look Source:  https://www.industrydocuments.ucsf.edu/docs/mknv0249 for it, where would I look?
+A: I'm not sure what specifically you're trying to look for in relation to Nashville. Are you asking about business records, travel documentation, meeting notes, or something else? If you could clarify what type of information you're looking for regarding Nashville, I might be able to suggest where those records would typically be found or maintained.
+
+[Turn 48]
+Q: Do you know if any of those suggestions were implemented?
+A: I'm not sure which specific suggestions you're referring to. Are you asking about the suggestions I mentioned in that March 2009 email regarding process refinement and improvements with the CSRs and the overall process? Without being able to see the full context of what suggestions were made, I can't recall whether any of them were actually implemented or what changes may have resulted from those discussions.
+
+[Turn 49]
+Q: Okay. And why would it be important for you to know that? MR. DAVISON: Objection to form. THE WITNESS: Because if we have a doctor who isn't authorized to prescribe or handle controlled substances, we would not want to be shipping them to his clinic. QUESTIONS BY MS. HERZFELD:
+A: Because if we have a doctor who isn't authorized to prescribe or handle controlled substances, we would not want to be shipping them to his clinic.
+
+[Turn 50]
+Q: Okay. Do you know anything about who the customer was that challenged the requirement that the -- that your customer's customer have a suspicious order monitoring program? MR. DAVISON: Objection to form. THE WITNESS: I don't recall. QUESTIONS BY MS. HERZFELD:
+A: I don't recall.

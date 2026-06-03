@@ -1,0 +1,206 @@
+WITNESS: Bonnie New
+ARCHETYPE: Evasive
+INITIAL STATE: {'C': 0.6, 'K': 0.1, 'A': 0.4, 'V': 0.7, 'R': 0.5, 'P': 0.5}
+FINAL STATE:   {'C': 0.5194, 'K': 0.1, 'A': 0.4224, 'V': 0.7, 'R': 0.6269, 'P': 0.36}
+======================================================================
+
+[Turn 1]
+Q: Good morning, Ms. New.
+A: Good morning.
+
+[Turn 2]
+Q: As you heard when we went on the record, my name is Gary Gotto, and I'm one of the lawyers representing plaintiffs in the opioid litigation. We've never met before just a few minutes before we went on the record this morning, correct?
+A: That's correct, we haven't met before today.
+
+[Turn 3]
+Q: Could you tell me by whom are you employed?
+A: I'm not currently employed. I left Mallinckrodt in June of last year, so I'm not working anywhere right now.
+
+[Turn 4]
+Q: Okay. And when did you leave Mallinckrodt?
+A: June of last year.
+   Δ: C▼0.013 R▲0.011
+
+[Turn 5]
+Q: And are you currently employed? Source:  https://www.industrydocuments.ucsf.edu/docs/klnv0249
+A: No, I'm not currently employed. As I just said, I left Mallinckrodt in June of last year and I haven't taken another position since then.
+
+[Turn 6]
+Q: Thank you. Have you ever given a deposition before?
+A: No, I haven't. This is my first deposition.
+
+[Turn 7]
+Q: Okay. And once? More than once? How many times?
+A: I... what? I just said no, this is my first time. I've never given a deposition before today.
+
+[Turn 8]
+Q: Great. Prior to joining Mallinckrodt in 1989, did you have any employment background that was related in any way to the pharmaceuticals industry?
+A: No, I didn't have any pharmaceutical industry experience before joining Mallinckrodt in 1989. My background was completely different - I started at Mallinckrodt in an operational role as a traffic expediter, which was really more logistics and shipping work. That was my entry point into the company, and from there I worked my way up over the years into different areas including eventually pharmaceutical marketing.
+
+[Turn 9]
+Q: Okay. And again, prior to joining the pharmaceutical division, did your employment at Mallinckrodt require you to have any familiarity with any DEA regulations? MR. DAVISON: Objection to form. THE WITNESS: Not that I recall. QUESTIONS BY MR. GOTTO:
+A: Not that I recall. When I started as a traffic expediter, I was really just focused on getting shipments out the door and coordinating logistics. I don't remember needing to know anything about DEA regulations in those early roles. That kind of regulatory knowledge came much later when I moved into the pharmaceutical side of things.
+
+[Turn 10]
+Q: And did you receive any -- were you eligible for any bonus or supplemental compensation?
+A: Yes, I was eligible for bonuses. In my marketing and sales roles, there were performance-based incentives tied to how well we met our targets and objectives. The company had bonus structures in place for employees in those positions.
+
+[Turn 11]
+Q: Okay. What were the circumstances under which you moved from regional to national? MR. DAVISON: Objection to form. THE WITNESS: I met expectations and was promoted. QUESTIONS BY MR. GOTTO:
+A: I met expectations and was promoted. The company recognized my performance in the regional role, and when a national position opened up, I was given the opportunity to take on those broader responsibilities. It was really part of the career progression path they had for people who were doing well in their roles.
+
+[Turn 12]
+Q: And did you have specific accounts assigned to you?
+A: Yes, I had specific accounts assigned to me. In my marketing and sales roles, I was responsible for managing relationships with particular customers and accounts. That was part of how the territories and responsibilities were divided up within our team structure.
+
+[Turn 13]
+Q: Okay. During the time you were national account manager, did you interact with the other national account managers?
+A: Yes, I did interact with the other national account managers. We worked as a team, so there was regular communication and coordination between all of us. We'd share information, discuss strategies, and collaborate on various initiatives since we were all working toward similar goals for the company.
+
+[Turn 14]
+Q: One of the most significant generic customers. MR. GOTTO: Thank you. MR. DAVISON: Objection. THE WITNESS: Yes. QUESTIONS BY MR. GOTTO:
+A: Yes.
+
+[Turn 15]
+Q: What can you recall some of those goals and objectives being? MR. DAVISON: Objection to form. THE WITNESS: It varied with management and companies. QUESTIONS BY MR. GOTTO:
+A: It varied with management and companies. The goals and objectives would change depending on who was leading the team at the time and what the company's priorities were. Different managers had different focuses, and as the business evolved, so did what we were expected to achieve.
+
+[Turn 16]
+Q: Okay. During your time as a regional or national account manager or a director, did you receive any commendations or awards from Mallinckrodt?
+A: I don't specifically recall receiving any formal commendations or awards during that time. I mean, there may have been recognition here and there - companies do that sort of thing - but nothing that really stands out in my memory as a significant award or commendation that I received.
+
+[Turn 17]
+Q: Did you have an understanding as to whether the position was being eliminated?
+A: Well, yes, I understood that my position was being eliminated. That was part of the circumstances around my leaving the company in June of last year. There were organizational changes happening, and my role was one of the positions that was cut as part of those changes.
+
+[Turn 18]
+Q: Okay. Was successfully targeting and obtaining approval for new business one of the metrics you were Source:  https://www.industrydocuments.ucsf.edu/docs/klnv0249 evaluated on? MR. DAVISON: Objection. THE WITNESS: The metrics that we were evaluated on were very complex, and there were multiple variables. So no one specific thing, but a multiple. QUESTIONS BY MR. GOTTO:
+A: The metrics that we were evaluated on were very complex, and there were multiple variables. So no one specific thing, but a multiple. It wasn't just about getting new business - there were various factors that went into how our performance was measured. Revenue, customer retention, market share, relationship management - all of those things played into the overall evaluation process.
+
+[Turn 19]
+Q: So they were buying for purposes of reselling to third parties, right? MR. DAVISON: Objection. THE WITNESS: They were selling to their customers, yes. QUESTIONS BY MR. GOTTO:
+A: They were selling to their customers, yes.
+
+[Turn 20]
+Q: Okay. But did you attend those two essentially every year?
+A: I'm not sure which specific meetings you're referring to. Could you clarify what those two events were? I attended various industry conferences and meetings over the years, but I want to make sure I'm answering about the right ones.
+
+[Turn 21]
+Q: Okay. Did you have an understanding as to whether the algorithm that was employed to identify potentially suspicious orders changed over time?
+A: I don't have specific knowledge about changes to any algorithm for identifying suspicious orders over time. That kind of technical detail about monitoring systems wasn't really part of what I was involved with in my marketing and sales roles. I was focused more on the customer relationship and business development side of things.
+
+[Turn 22]
+Q: Okay. So if, for example, in 2010 someone at Mallinckrodt had come to you and said -- trying to evaluate the extent to which your wholesaler accounts are reselling into the state of Florida, what would you have done to respond to that request? MR. DAVISON: Objection to form. THE WITNESS: I would have probably gone to the marketing manager and asked him which analyst he would recommend and what they were looking for and had them pull that data. QUESTIONS BY MR. GOTTO:
+A: I would have probably gone to the marketing manager and asked him which analyst he would recommend and what they were looking for and had them pull that data. That's not the kind of information I would have had at my fingertips or would have been able to generate myself. I would have needed to work with the right people who had access to those systems and could run that type of analysis.
+
+[Turn 23]
+Q: As was Victor Borelli, correct?
+A: I'm not sure about Victor Borelli's specific role or position. I worked with many people over the years at Mallinckrodt, and I don't want to make assumptions about someone's particular responsibilities or status without being certain about it.
+
+[Turn 24]
+Q: So in your cover e-mail, when you make reference to "I think it supports our suspicions in regards to increased usage of the oxy 30-milligram," were you referring to the sentence in the article that I read a moment ago regarding "demand appears especially high for pure oxycodone that come in 30-milligram pills"? MR. DAVISON: Objection to form. THE WITNESS: I can't answer that question. I don't recall. Source:  https://www.industrydocuments.ucsf.edu/docs/klnv0249 QUESTIONS BY MR. GOTTO:
+A: I can't answer that question. I don't recall.
+
+[Turn 25]
+Q: Okay. And do you recall Mallinckrodt resisting those proposed changes when they were made? MR. DAVISON: Objection to the form. THE WITNESS: I do not recall Source:  https://www.industrydocuments.ucsf.edu/docs/klnv0249 that. QUESTIONS BY MR. GOTTO:
+A: I do not recall that.
+
+[Turn 26]
+Q: Do you see that? Yes, sir. Do you recall being aware of the circumstance described in the last sentence of that paragraph, namely the 98 of the 100 doctors identified by the Florida Surgeon General back in 2012? MR. DAVISON: Objection to form. THE WITNESS: I don't recall the specific details or numbers. QUESTIONS BY MR. GOTTO:
+A: I don't recall the specific details or numbers.
+
+[Turn 27]
+Q: Who do you recognize?
+A: I'm not sure what you're referring to. Are you asking me to look at something specific - a document or list of names? I need you to clarify what you want me to identify or recognize.
+
+[Turn 28]
+Q: You recall becoming aware of that at some point?
+A: I'm sorry, but I'm not clear on what specific thing you're asking if I became aware of. Could you be more specific about what "that" refers to? I want to make sure I'm answering the right question.
+
+[Turn 29]
+Q: Let's go to the next slide, please. The next slide, "Retail national account manager, what kind of job is Source:  https://www.industrydocuments.ucsf.edu/docs/klnv0249 that anyway?" And there's several bullet items. Just take a moment to read that slide to yourself.
+A: Alright, I've read through the slide. I can see the bullet points about the retail national account manager position.
+
+[Turn 30]
+Q: Okay. And was that allowance given to them?
+A: I'm not sure which specific allowance you're referring to from what we just looked at. Could you clarify what allowance you're asking about? I want to make sure I understand the question correctly before I answer.
+
+[Turn 31]
+Q: Okay. So apart from the buyer, who would be some of the -- I understand how the buyer would be in a position to tell you that. Who else would be in a position to give you that information?
+A: Well, there could be several people depending on the situation. Maybe someone from their operations or logistics who handles distribution, or someone from their compliance or regulatory affairs if they track those kinds of metrics. Sometimes finance people would have visibility into customer patterns too. It really would depend on how that particular customer organized their business and who had access to what information.
+
+[Turn 32]
+Q: Okay. So do you recall generally, during the time you were national account manager or director, tracking the levels of purchases of the accounts for which you had responsibility by product family, of the types of product families that are set forth on this exhibit? Source:  https://www.industrydocuments.ucsf.edu/docs/klnv0249 MR. DAVISON: Objection. THE WITNESS: That was part of the compliance checking on contracts, so, yes. QUESTIONS BY MR. GOTTO:
+A: That was part of the compliance checking on contracts, so, yes.
+
+[Turn 33]
+Q: Okay. And so did you participate in the preparation of this pocket card set?
+A: I don't recall specifically participating in the preparation of this particular pocket card set. I would need to see more details or context to remember my involvement, if any, in creating this specific document.
+
+[Turn 34]
+Q: Okay. You can set that aside. (Mallinckrodt-New Exhibit 19 marked for identification.) QUESTIONS BY MR. GOTTO: MNK-T1 0005764398, an e-mail thread from September of 2015. Please take a look at those
+A: I'm looking at the email thread from September 2015. I can see the document you're referring to.
+
+[Turn 35]
+Q: I was on the next to last page.
+A: Okay, I'm looking at the next to last page now.
+
+[Turn 36]
+Q: Okay. And is Advantage Logistics a name that's familiar to you?
+A: I'm not sure if I recall Advantage Logistics specifically. The name doesn't immediately ring a bell, but I dealt with many different companies and distributors during my time there, so I can't say for certain without more context.
+
+[Turn 37]
+Q: Do you recall learning from Ms. Harper, whether from this e-mail or otherwise, of this mock DEA audit back in 2012? MR. DAVISON: Objection to form. THE WITNESS: I don't recall it. QUESTIONS BY MR. GOTTO:
+A: I don't recall it.
+
+[Turn 38]
+Q: Okay. Do you recall this particular circumstance?
+A: I'm not sure which specific circumstance you're referring to. Are you talking about something from the email we just looked at, or something else? I need you to be more specific about what particular circumstance you mean.
+
+[Turn 39]
+Q: Okay. So at least in the case of Lake Erie Medical d/b/a Quality Care Source:  https://www.industrydocuments.ucsf.edu/docs/klnv0249 Products, Mallinckrodt had in its records information that allowed it to identify who the end customer of Lake Erie Medical d/b/a Quality Care Products was? MR. DAVISON: Objection to form. THE WITNESS: I cannot speak to that directly. They had access to a lot of information that I don't know how they ran the reports and did the reports. QUESTIONS BY MR. GOTTO:
+A: I cannot speak to that directly. They had access to a lot of information that I don't know how they ran the reports and did the reports.
+
+[Turn 40]
+Q: Okay. You can set that aside. (Mallinckrodt-New Exhibit 33 marked for identification.) QUESTIONS BY MR. GOTTO:
+A: I'm ready to look at the next exhibit you're presenting.
+
+[Turn 41]
+Q: Okay. Based on the SOMS team review? Source:  https://www.industrydocuments.ucsf.edu/docs/klnv0249
+A: I'm looking at the document, but I'm not sure what specific aspect of the SOMS team review you're asking about. Could you be more specific about what you want me to address regarding this review?
+
+[Turn 42]
+Q: Okay. Okay. You can set that aside. (Mallinckrodt-New Exhibit 39 marked for identification.) QUESTIONS BY MR. GOTTO:
+A: I'm ready to look at Exhibit 39.
+
+[Turn 43]
+Q: Are you aware of that?
+A: I'm not sure what specifically you're referring to. Are you asking if I'm aware of something in this exhibit, or are you referring back to something we discussed earlier? Could you be more specific about what you're asking if I'm aware of?
+
+[Turn 44]
+Q: To your knowledge, did you ever become aware of any red flags that you ever reported to anyone at Mallinckrodt?
+A: I don't recall reporting any specific red flags during my time there. I mean, if there were issues that came up in the normal course of business, those would have been handled through the appropriate channels, but I can't recall any particular instances where I formally reported what you'd call red flags.
+
+[Turn 45]
+Q: "Fiscal year '15."
+A: I'm not sure what you're asking about regarding fiscal year '15. Are you asking about something specific that happened in that fiscal year, or are you referring to something in the document we're looking at? Could you clarify what aspect of fiscal year '15 you want me to address?
+
+[Turn 46]
+Q: To your knowledge, was the ALL IN program -- was a goal of that program to help your -- help Mallinckrodt's customers increase demand from their customers? MR. DAVISON: Objection. THE WITNESS: No, I would not -- no. QUESTIONS BY MR. LENISKI:
+A: No, I would not -- no.
+
+[Turn 47]
+Q: Well, do you know whether Mallinckrodt performed site visits at all retail pharmacies for the purpose of evaluating their SOM programs? MR. DAVISON: Objection. THE WITNESS: I don't know the answer to that either. QUESTIONS BY MR. LENISKI:
+A: I don't know the answer to that either.
+
+[Turn 48]
+Q: -- went and visited that
+A: I'm sorry, could you repeat the full question? It seems like it got cut off there.
+
+[Turn 49]
+Q: And what is that?
+A: I'm not sure what you're referring to. Could you clarify what "that" is? Are you asking about something in the document we're looking at, or referring back to something we discussed earlier?
+
+[Turn 50]
+Q: Okay. Do you recall what aspect of the -- the program Walmart felt would be a potential -- could be perceived as a promotional effort to physicians that it didn't want to be associated with? MR. DAVISON: Objection. THE WITNESS: Their -- their upper management, SOMS, whomever, made that decision. I don't know why. QUESTIONS BY MR. GOTTO:
+A: Their -- their upper management, SOMS, whomever, made that decision. I don't know why.

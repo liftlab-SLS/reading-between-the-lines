@@ -1,0 +1,255 @@
+WITNESS: Kate Neely
+ARCHETYPE: Defensive
+INITIAL STATE: {'C': 0.4, 'K': 0.5, 'A': 0.2, 'V': 0.6, 'R': 0.7, 'P': 0.5}
+FINAL STATE:   {'C': 0.3464, 'K': 0.5, 'A': 0.2668, 'V': 0.6, 'R': 0.7756, 'P': 0.3602}
+======================================================================
+
+[Turn 1]
+Q: Good -- good morning, Ms. Neely.
+A: Good morning. Let's just get this over with, shall we? I have other things I need to be doing today.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.20 · rigidity 0.70
+
+[Turn 2]
+Q: Thank you for being here today. My name is Dean, Keller Rohrback, and I am here for the Plaintiffs. Source:  https://www.industrydocuments.ucsf.edu/docs/qknv0249 Have you ever been deposed before?
+A: No, I haven't been deposed before. And what exactly does that document have to do with anything? You're just throwing papers around to intimidate me, is that it? Look, I'm here, I'm answering your questions, but I'm not going to sit here and be treated like some kind of criminal.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.21 · rigidity 0.71
+
+[Turn 3]
+Q: So let's go over some ground rules to make the process a little smoother. I will ask you questions and I will do my best to ask coherent and clear ones. If you don't understand them for whatever reason, please let me important that we not talk over each other, so I'll ask the question and then give you an opportunity to answer. know and I'll try to rephrase them. It's very If you need to take a break, please just let me know and -- and we can take one. And your counsel may object for the record. Unless he directs you not to answer, you should respond to the question. Does that make sense?
+A: Yes, fine, whatever. I understand the rules. Can we just get started already? I told you I have other things to do today and I don't appreciate being dragged down here for what's probably going to be a fishing expedition. But yes, I get it - you ask, I answer, don't talk over each other. Anything else, or can we move on?
+   ⚡ WITNESS COMBATIVE — agreeableness 0.21 · rigidity 0.71
+
+[Turn 4]
+Q: Thank you. How did you per -- how did you prepare for this deposition?
+A: I met with my lawyer. We went over some documents, talked about what kinds of questions you might ask. That's it. What did you expect me to say, that I hired a team of consultants? This isn't some corporate conspiracy, it's just me trying to remember things from years ago at a job I don't even work at anymore.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.22 · rigidity 0.71
+
+[Turn 5]
+Q: Okay. And do you recall roughly when the first meeting was? Source:  https://www.industrydocuments.ucsf.edu/docs/qknv0249
+A: What meeting? The meeting with my lawyer? That was last week. Tuesday, I think. Or Wednesday. Look, you keep waving around that same document - what does it even say? Are you going to tell me what you're looking for or just keep playing games with papers?
+   ⚡ WITNESS COMBATIVE — agreeableness 0.22 · rigidity 0.72
+
+[Turn 6]
+Q: And do you recall roughly how long that -- that meeting lasted for?
+A: About two hours, maybe a little more. We had to go through a lot of ground since I haven't dealt with any of this legal stuff before. Is there a point to all these questions about my prep meeting, or are you just trying to waste time? Because I thought this was supposed to be about Mallinckrodt, not about how I got ready to sit here and answer your questions.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.22 · rigidity 0.72
+
+[Turn 7]
+Q: I imagine not, but... Were the -- well, could you describe or characterize the -- the nature of the reviews?
+A: What reviews? You're jumping around all over the place here. Are you talking about my performance reviews at Mallinckrodt? Document reviews with my lawyer? What are you even asking me about? If you want a straight answer, you need to ask a straight question instead of just mumbling about "the nature of the reviews" like I'm supposed to read your mind.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.23 · rigidity 0.72
+
+[Turn 8]
+Q: And just so I understand, the $46 would be -- would be the money that -- that Mallinckrodt paid to the distributors --
+A: Hold on, what forty-six dollars? What are you talking about? You're throwing out random numbers and incomplete sentences. Forty-six dollars for what? Are you talking about some kind of payment system? Chargebacks? I can't answer a question when you're not even finishing your thoughts. What specifically are you asking me about?
+   ⚡ WITNESS COMBATIVE — agreeableness 0.23 · rigidity 0.72
+
+[Turn 9]
+Q: And do you recall what product she had responsibility for?
+A: What? Who are you talking about? What "she"? Are you asking about me? Because if you're asking about my responsibilities, I managed generic opioid products. But you just said "she" out of nowhere like we've been talking about someone else this whole time. Are you even paying attention to your own questions, or are you just reading from some script and getting lost?
+   ⚡ WITNESS COMBATIVE — agreeableness 0.23 · rigidity 0.73
+
+[Turn 10]
+Q: So, Ms. Neely, I've handed you an e-mail and an attachment, and I primarily want to direct your attention to the attachment.
+A: Okay, I'm looking at it. What am I supposed to be seeing here? You've been bouncing around from topic to topic without any connection, and now you're handing me documents. What specifically in this attachment do you want me to look at? Because I'm not going to just sit here and guess what you think is important while you stare at me.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.23 · rigidity 0.73
+
+[Turn 11]
+Q: And I take it, though, that demand varied between these products, is that correct?
+A: What products? You haven't told me what products we're talking about. You just handed me some attachment and now you're asking about demand varying between products. Are we talking about the opioid products I managed? Because yes, obviously demand varied between different products - that's basic business. But I can't give you a meaningful answer when you won't even specify what you're asking about. What products are you referring to in this document?
+   ⚡ WITNESS COMBATIVE — agreeableness 0.24 · rigidity 0.73
+
+[Turn 12]
+Q: My question is a little more specific in the sense of you received training and I take it did you have a role in the implementation of the suspicious order monitoring program?
+A: Look, I had compliance responsibilities as part of my job, yes. We all got training on various programs. But you're asking about "implementation" like I was designing the whole system or something. I was a product manager, not the compliance department. I followed the procedures I was trained on, reported what I was supposed to report. What exactly are you trying to get at here? Because it sounds like you're trying to make it seem like I was running some kind of monitoring operation when that wasn't my role.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.24 · rigidity 0.73
+
+[Turn 13]
+Q: And what was the purpose of the oxycodone ER RiskMAP? What was -- what was -- it designed to -- to -- to do?
+A: I don't know what you're talking about with this "RiskMAP" thing. That sounds like some kind of regulatory program, but I managed generic opioids, not branded products like oxycodone ER. You keep asking me about things that weren't part of my job responsibilities. Are you confusing me with someone else? Because I can't answer questions about programs I wasn't involved with. If you want to know what I actually did at Mallinckrodt, ask me about that instead of throwing around acronyms and programs I don't recognize.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.24 · rigidity 0.74
+
+[Turn 14]
+Q: And if -- if we wanted additional information on this agreement, the number of bottles, the market share, who -- who would -- who would we talk to? Would -- would you be the right person for this? Would there be someone else at Mallinckrodt?
+A: What agreement? You haven't shown me any agreement or told me what you're talking about. You're asking about bottles and market share like we've been discussing some specific deal, but you haven't told me what agreement you mean. And no, I probably wouldn't be the right person anyway - I was a product manager, not in sales or contracts. If you're looking for specific deal terms or market share data, you'd need to talk to someone in sales or business development. But first you need to tell me what agreement you're even asking about instead of just assuming I know what's in your head.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.24 · rigidity 0.74
+
+[Turn 15]
+Q: Now, the sentence: "This is largely the result of our previous quota shortage and playing catchup," what is a quota shortage?
+A: I don't see any sentence like that in front of me. Are you reading from something? What document are you looking at? You keep quoting things without showing me where they're from. But if you're asking about quota shortages in general - that would be when we couldn't get enough DEA quota allocation to manufacture the amounts we needed. The DEA sets manufacturing limits for controlled substances. If we didn't get enough quota, we'd be short on product and then have to catch up when we got more allocation. But I can't tell you what that specific sentence is referring to without seeing the context.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.24 · rigidity 0.74
+
+[Turn 16]
+Q: So this is an e-mail that's Bates numbered MNK-Tl 4916278, and it is an e-mail from you, Ms. Neely, to various people, including what appears to be many of the national account managers.
+A: Okay, fine, if you say it's from me then show me the whole email. I can't remember every single email I sent years ago. If I wrote something about quota shortage and playing catchup, then yes, that would be about DEA manufacturing quotas like I just explained. We'd get behind on production when we didn't get enough quota allocation from the DEA, and then we'd have to ramp up when we finally got more. That's just how the business worked. But I'm not going to sit here and try to reconstruct every email conversation from memory when you won't even let me see the full document you're asking about.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.25 · rigidity 0.74
+
+[Turn 17]
+Q: -- that date right?
+A: What date? You just said "that date right" without telling me what date you're talking about. Are you asking about the date on this email you claim I sent? I can't see the date from here, and you haven't told me what date you're referring to. If you want me to confirm a date, you need to actually tell me what date you're asking about instead of just pointing at something I can't see clearly.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.25 · rigidity 0.74
+
+[Turn 18]
+Q: And is it your understanding that Mallinckrodt didn't have an obligation to try to combat diversion at the pharmacy level?
+A: That's not how it worked. We had obligations to monitor and report suspicious orders to distributors and the DEA. But once products got to the pharmacy level, that's not something we could directly control or monitor. We weren't tracking every individual prescription or watching what happened at every single pharmacy - that would be impossible. Our obligations were about monitoring the distribution chain before it got to that point. So no, we didn't have some obligation to police every pharmacy in the country. That's not realistic and it's not what the regulations required from manufacturers.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.25 · rigidity 0.75
+
+[Turn 19]
+Q: And then the attachment, I believe, is a list of the various orders that, you know, hit those excess demand rules.
+A: Okay, so you're showing me some list of orders that triggered whatever excess demand rules you're talking about. What am I supposed to be looking at specifically? Are you asking me if I recognize these orders? If I was involved in reviewing them? Because I can't just stare at a list and guess what your question is. If this was something that came across my desk back then, I'd need to see what I was supposed to do with it. But you need to ask me an actual question instead of just describing what you think the attachment shows.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.25 · rigidity 0.75
+
+[Turn 20]
+Q: "Rolling 12 months versus prior rolling 12 months sales in Florida are at 1364 percent."
+A: So what are you asking me? You're reading numbers about Florida sales increases, but what's your question? Yes, that sounds like a big percentage increase. If that's what the data showed, then that's what it showed. Are you asking if I saw this information? If I did something about it? If I thought it was suspicious? Because just reading me numbers without asking an actual question doesn't tell me what you want to know. What specifically are you asking me about this Florida sales data?
+   ⚡ WITNESS COMBATIVE — agreeableness 0.25 · rigidity 0.75
+
+[Turn 21]
+Q: Understood, but, for example, we -- we looked at a -- a prior document relating to Keysource. And Keysource -- well, Mallinckrodt was Keysource's sole supplier --
+A: Wait, hold on. You're jumping around again. Now you're talking about some Keysource document that you looked at before, but I don't know what document you're referring to or when we supposedly discussed this. Are you saying Mallinckrodt was Keysource's only supplier? Okay, so what? Distributors had supplier relationships. What's your point? What does this have to do with the Florida sales numbers you were just reading me? You keep bouncing between different topics without connecting them or asking me actual questions.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.25 · rigidity 0.75
+
+[Turn 22]
+Q: -- you know, what were -- prior to 2000 -- prior to this e-mail in 2010 --
+A: Prior to what in 2010? You started to ask something about prior to 2000, then switched to prior to this email in 2010. Which is it? And prior to what email? The one with the Florida numbers? The Keysource thing? You keep cutting yourself off mid-sentence and jumping between timeframes. If you want to know what happened before some specific date or event, you need to finish your question and tell me what you're actually asking about.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.25 · rigidity 0.75
+
+[Turn 23]
+Q: But you don't recall whether any Source:  https://www.industrydocuments.ucsf.edu/docs/qknv0249 conclusion was reached?
+A: I don't know what conclusion you're talking about. You just linked to some website and asked if I recall whether "any conclusion was reached" without telling me what the conclusion was supposed to be about. Conclusion about what? About the Florida sales increases? About Keysource? About some analysis that was done? You're asking me to remember conclusions from documents I can't see clearly, about issues you won't specify. If you want me to recall whether we reached some conclusion about something, you need to tell me what that something was.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.25 · rigidity 0.75
+
+[Turn 24]
+Q: So this is an e-mail that you sent to Karen Harper?
+A: Look, if you're showing me another email that you say I sent to Karen Harper, then fine. But I can't see what you're looking at clearly from here, and I sent hundreds of emails to people when I worked there. What's the question about this email? What did I supposedly say to Karen Harper that you want to ask me about? Stop just describing documents and ask me what you actually want to know.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.76
+
+[Turn 25]
+Q: Great. And so my first question is a general one. What's the analysis that's being performed or represented in this attachment?
+A: What attachment? You're asking me about an analysis in some attachment, but I can't see what attachment you're referring to. You said this was an email to Karen Harper, but now you're asking about an attachment to that email. What kind of analysis? Sales data? Market share? Distributor information? I can't tell you what analysis is being performed when I can't see what you're looking at. Show me the attachment or tell me what kind of data it contains, then I can try to explain what we were analyzing.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.76
+
+[Turn 26]
+Q: And how long had you been collecting chargeback data for?
+A: I don't know what specific timeframe you're asking about. Chargeback data was something we tracked regularly as part of business operations - it's how we reconciled what we charged distributors versus what they actually collected from their customers. But are you asking how long I personally had been involved in collecting it? How long the company had been doing it? How long for this particular analysis you're showing me? Because chargeback tracking was ongoing business - it wasn't like we just started collecting it one day and stopped another day. It was part of how the pricing system worked.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.76
+
+[Turn 27]
+Q: Okay. So could you please review the e-mail.
+A: You want me to review the email but I can't see it clearly from here. If you're holding it up or it's on a screen somewhere, I need you to either bring it closer or read the relevant parts to me. I'm not going to guess what's in an email I can't properly see. Either show me the text clearly or tell me what specific parts you want me to comment on. I can't review something I can't read.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.76
+
+[Turn 28]
+Q: Okay. So when I previously asked you if you recalled writing this e-mail, you indicated that you don't recall writing it, correct? Do you -- do you remember that?
+A: Look, I told you I don't remember every single email I wrote years ago. If you showed me something before and I said I didn't recall writing it, then yes, that's what I said. But now you're asking me to review it, so either you want me to look at it and see if it refreshes my memory, or you're trying to catch me in some contradiction. Which is it? Because I can't recall writing every email from years ago, but if you show me the actual content, maybe I'll remember the context or the situation it was about.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.76
+
+[Turn 29]
+Q: So if it turned -- well, let's look at the
+A: Let's look at the what? You just said "let's look at the" and then stopped talking. Look at the email? The attachment? The chargeback data? Finish your sentence. What do you want to look at? You keep starting questions and not finishing them, and then expecting me to fill in the blanks about what you're trying to ask.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.76
+
+[Turn 30]
+Q: Well, you shopped -- you stopped shipping to them for 2010, correct?
+A: Stopped shipping to who? You're asking me about stopping shipping in 2010 but you haven't told me which customer or distributor you're talking about. Are we back to talking about Keysource? Some other customer? You keep jumping between topics without connecting them. If Mallinckrodt stopped shipping to some specific customer in 2010, then tell me which customer and I can try to remember what happened. But I can't answer questions about "them" when you haven't told me who "them" is.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.76
+
+[Turn 31]
+Q: -- and sent to Jim, I mean, that -- those are compliance concerns, right, that's not a business perspective?
+A: Wait, what? Now you're talking about something sent to Jim and asking about compliance concerns versus business perspective. But I don't know what "that" refers to. What was sent to Jim? Are you still talking about the email to Karen Harper? Some other communication? And which Jim are you even talking about? You're asking me if something represents compliance concerns, but I don't know what the "something" is. You need to be clear about what document or communication you're referring to before asking me to characterize it as compliance versus business.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.76
+
+[Turn 32]
+Q: Okay. Would it surprise you to -- to know that he is currently serving a -- a lengthy prison sentence in a -- in a Florida prison?
+A: Who is "he"? You just asked me if it would surprise me that "he" is serving a prison sentence, but you haven't told me who you're talking about. Are you referring to this Jim person you just mentioned? Someone from Keysource? Someone else entirely? I can't tell you if I'm surprised about someone's legal situation when you won't tell me who that someone is. If you want to know my reaction to someone being in prison, you need to tell me who that person is first.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.76
+
+[Turn 33]
+Q: So with respect to suspicious orders, I mean, do you -- do you agree with -- with this paragraph? MR. TSAI: Object to the form. Go ahead. BY THE WITNESS:
+A: What paragraph? You're asking if I agree with some paragraph about suspicious orders, but I don't know what paragraph you're referring to. Are we back to the email to Karen Harper? Some other document? And now there's an objection from some lawyer named Tsai, but you're still telling me to go ahead and answer. Answer what? I can't agree or disagree with a paragraph I can't see or that you haven't read to me. Show me the specific text you want me to comment on about suspicious orders.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.76
+
+[Turn 34]
+Q: -- you've experienced considerable diversion/tampering issues and yet you are still shipping to them thousands of bottles of -- of I believe is it -- I believe it's -- is it oxy 30 or what is --
+A: Wait, slow down. Now you're asking me about diversion and tampering issues with some customer we were still shipping thousands of bottles to, and you think it's oxy 30 but you're not sure? Are we talking about Keysource again? Some other customer? And what thousands of bottles? You're asking me about continuing to ship despite diversion issues, but I need to know which customer situation you're referring to and what time period. If there were diversion concerns with a specific customer, that would definitely be a compliance issue we'd have to address.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.77
+
+[Turn 35]
+Q: Okay. Should that analysis have occurred?
+A: What analysis? You keep asking me about analyses without telling me what kind of analysis you're talking about. Analysis of the diversion issues you just mentioned? Analysis of the shipping patterns? Analysis of the suspicious orders? Analysis of whatever was in that attachment you showed me earlier? I can't tell you whether some unspecified analysis should have occurred when you won't tell me what analysis you mean. If you're asking whether we should have been analyzing potential diversion or suspicious order patterns, then yes, those are things we were supposed to monitor.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.77
+
+[Turn 36]
+Q: Well, but this is going to be the basis for evaluating a suspicious order, isn't it?
+A: The basis for what suspicious order evaluation? You're saying "this" is going to be the basis, but what is "this"? The chargeback data? The diversion issues you mentioned? The email attachment? Some other analysis? Yes, we had obligations to monitor for suspicious orders, but I can't tell you whether something specific would be the basis for that evaluation when you keep referring to documents and data I can't see clearly. If you want me to comment on whether certain information should be used to evaluate suspicious orders, you need to be specific about what information you're talking about.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.77
+
+[Turn 37]
+Q: And so part of your analysis, though, depends on why they were bleeding down inventories, is Source:  https://www.industrydocuments.ucsf.edu/docs/qknv0249 that fair? Their orders were severely depressed for the first quarter of the calendar year but part of that turns on why they were severely depressed, is that a fair statement?
+A: Look, you're asking me about some analysis of why someone was bleeding down inventories and why their orders were depressed in the first quarter, but I still don't know which customer you're talking about or which year. Are we back to Keysource? Some other distributor? And yes, if you're trying to evaluate whether order patterns are suspicious, you'd want to understand the reasons behind changes in ordering patterns. But I can't comment on the specifics of any analysis when you keep jumping between different topics and documents without clearly identifying what situation we're discussing. Which customer, which time period, and which analysis are you asking about?
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.77
+
+[Turn 38]
+Q: And so what -- what is the issue that Brenda is trying to raise?
+A: Who is Brenda? Now you're asking me about an issue that Brenda is trying to raise, but I don't know who Brenda is or what issue you're referring to. Is this Brenda someone from the email you showed me? Someone from Keysource? Someone else at Mallinckrodt? And what issue? You keep introducing new names and referring to issues and concerns without giving me the context. If Brenda raised some issue in whatever document you're looking at, you need to tell me who Brenda is and what the issue was before asking me to comment on it.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.77
+
+[Turn 39]
+Q: Okay. So Heather Goodman used to work for Craig Cowman at Cardinal and she is asking if you can arrange to have 1500 oxy 15-milligram pills shipped to a pharmacy for her aunt, is that --
+A: What? No, that's absolutely not something I would do. If someone - I don't care if it's Heather Goodman or anyone else - asked me to arrange shipments of oxycodone pills to some pharmacy for personal reasons, that would be completely inappropriate and against every policy we had. You don't just arrange pill shipments for people's relatives. That's not how the pharmaceutical supply chain works and it's not something a product manager would ever do. Where are you getting this from? Is this supposed to be in some email or document you're showing me?
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.77
+
+[Turn 40]
+Q: Okay. What -- why focus on pain clinics then?
+A: Focus on pain clinics for what? You just asked me about someone wanting pills shipped to their aunt, which I said was completely inappropriate, and now you're asking why focus on pain clinics. Focus on them for what purpose? Are you asking about monitoring pain clinics for suspicious orders? Marketing to pain clinics? Some compliance issue with pain clinics? You keep jumping topics without connecting them. If you're asking about why pain clinics might be a focus for monitoring or compliance purposes, then obviously they're high-volume opioid prescribers and would be part of any suspicious order monitoring system.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.77
+
+[Turn 41]
+Q: And it's -- it then -- it once again involves Keysource Medical.
+A: Okay, so now we're back to Keysource Medical and something involving pain clinics. But what involves Keysource Medical? Are you saying Keysource was supplying pain clinics? That there were suspicious orders from pain clinics going through Keysource? That this connects to whatever compliance concerns we were talking about earlier? You keep saying "it involves" or "it's about" but you're not telling me what "it" is. If there were issues with Keysource supplying pain clinics, then yes, that would be something we'd need to look at from a compliance standpoint.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.77
+
+[Turn 42]
+Q: -- there should be some record of it, right?
+A: A record of what? You're asking if there should be some record of something, but I don't know what you're referring to. A record of the pain clinic issue? A record of whatever Keysource was doing? A record of the compliance concerns? A record of the analysis we were talking about? Yes, generally speaking, if there were compliance issues or suspicious order monitoring or business decisions being made, there should be documentation. But I can't tell you about records for some unspecified thing. What specific activity or decision are you asking about having records for?
+   ⚡ WITNESS COMBATIVE — agreeableness 0.27 · rigidity 0.77
+
+[Turn 43]
+Q: Okay. So let me know when you are ready.
+A: Ready for what? You're telling me to let you know when I'm ready, but ready for what? Are you going to show me another document? Ask another question? Move to a different topic? I've been trying to answer your questions, but you keep jumping around between different subjects and referring to things without being clear about what you're talking about. So what am I supposed to be getting ready for?
+   ⚡ WITNESS COMBATIVE — agreeableness 0.27 · rigidity 0.77
+
+[Turn 44]
+Q: -- given their -- given their dates?
+A: Given whose dates? What dates? You're asking me something about dates but you haven't told me whose dates or what kind of dates you're talking about. Order dates? Shipment dates? Employment dates? Compliance review dates? And whose dates - Keysource's? Heather Goodman's? The pain clinics? I can't answer a question about dates when you won't tell me what dates or whose dates you're asking about.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.27 · rigidity 0.77
+
+[Turn 45]
+Q: Well, why were you having this conversation with Mr. Borelli?
+A: What conversation with Mr. Borelli? You're asking me why I was having some conversation with someone named Mr. Borelli, but I don't know what conversation you're referring to. Is this from another email or document you're looking at? What was this conversation about? When did it supposedly take place? You can't just ask me why I had a conversation without telling me what conversation you mean or giving me any context about what Mr. Borelli and I were supposedly discussing.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.27 · rigidity 0.77
+
+[Turn 46]
+Q: And so why would Victor be writing to just you and John Adams about the S -- the SOM program?
+A: Who is Victor? And what SOM program? You're asking me why Victor would be writing to me and John Adams about some SOM program, but I don't know who Victor is or what SOM stands for. Is this another email you're looking at? What does SOM mean - suspicious order monitoring? Something else? And who is John Adams in this context - someone else at Mallinckrodt? You keep throwing out names and acronyms without explaining who these people are or what you're talking about.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.27 · rigidity 0.77
+
+[Turn 47]
+Q: Okay. And you don't have any reason to believe that his characterization of the second instance is inaccurate?
+A: Whose characterization of what second instance? You're asking me about someone's characterization of a second instance, but I don't know whose characterization you're talking about or what the first and second instances are supposed to be. Are we still talking about Victor? Mr. Borelli? Someone else? And what are these instances - compliance issues? Suspicious orders? Something from the SOM program you just mentioned? I can't tell you whether someone's characterization is accurate or inaccurate when you won't tell me who said what about what.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.27 · rigidity 0.77
+
+[Turn 48]
+Q: I have another document, to be -- but to be honest, I haven't found it, so --
+A: So you're telling me you have another document but you haven't found it. Okay. Are you looking for it now? Do you want to move on to something else? Ask me about something you actually have in front of you? I've been trying to answer your questions, but half of them are about documents or emails or conversations that you're referring to without showing me or giving me the details. If you can't find the document, then ask me about something you can actually reference clearly.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.27 · rigidity 0.77
+
+[Turn 49]
+Q: Well, this e-mail chain indicates that he didn't ask you if he could share this, is that fair?
+A: What email chain? You just said you haven't found the document, and now you're asking me about an email chain that indicates someone didn't ask me if they could share something. Who is "he" - Victor? Mr. Borelli? Someone else? And share what? I can't tell you whether it's fair to say someone didn't ask my permission to share something when you won't tell me who we're talking about or what was supposedly shared. If you're looking at some email chain, show it to me or tell me what it says instead of asking me to confirm things about documents I can't see.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.27 · rigidity 0.78
+
+[Turn 50]
+Q: And making sure that this product didn't end up -- or making sure that this product wasn't Source:  https://www.industrydocuments.ucsf.edu/docs/qknv0249 diverted was an important responsibility for you, was it not?
+A: Yes, preventing diversion was part of my compliance responsibilities. As a product manager for generic opioids, monitoring for potential diversion and ensuring our products weren't ending up in the wrong hands was absolutely something I was responsible for. That's basic compliance for anyone working with controlled substances. But what does that have to do with whatever email chain or document you were just asking me about? Are you saying there was some diversion issue with one of our products?
+   ⚡ WITNESS COMBATIVE — agreeableness 0.27 · rigidity 0.78

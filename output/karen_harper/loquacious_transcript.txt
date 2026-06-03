@@ -1,0 +1,214 @@
+WITNESS: Karen Harper
+ARCHETYPE: Loquacious
+INITIAL STATE: {'C': 0.6, 'K': 0.6, 'A': 0.7, 'V': 0.95, 'R': 0.3, 'P': 0.4}
+FINAL STATE:   {'C': 0.5117, 'K': 0.6, 'A': 0.6555, 'V': 0.8285, 'R': 0.4765, 'P': 0.2881}
+======================================================================
+
+[Turn 1]
+Q: Good morning. We met earlier, 09:11:05 just a moment ago. 09:11:06 Could you please state and 09:11:07 spell your name for the record? 09:11:09
+A: Good morning. My name is Karen Harper, that's K-A-R-E-N, Harper, H-A-R-P-E-R. I'm the Senior Manager of Controlled Substance Compliance at Mallinckrodt Pharmaceuticals, though we used to call it DEA Compliance back when I started in that role, but they changed the name at some point, I think it was around 2010 or maybe 2011, somewhere in that timeframe, because we were handling more than just DEA matters by then, we were dealing with state boards and other regulatory agencies as well, so the broader title made more sense for what we were actually doing day to day.
+
+[Turn 2]
+Q: Ms. Harper, where do you 09:11:14 currently reside? 09:11:16
+A: I live in St. Louis County, Missouri. I've been there for quite some time now, actually moved there not too long after I started working at Mallinckrodt back in the seventies, because it made sense to live closer to work, you know, the commute and all that. St. Louis County is where I've raised my family and where I've been for most of my adult life, really. It's convenient being close to the plant and the offices, especially when you're in compliance work where sometimes you need to come in at odd hours or stay late when there are regulatory issues that need immediate attention.
+
+[Turn 3]
+Q: Okay. And I know that you have 09:11:19 had your deposition taken at least once 09:11:21 before in connection with a matter involving 09:11:23 Island Drug Pharmacy. 09:11:28 Have you had your deposition 09:11:29 taken at any other time other than that 09:11:30 instance? 09:11:32
+A: Well, let me think about that for a moment. Yes, I have been deposed in connection with Island Drug Pharmacy matters, that's correct, and actually I believe it was more than once for those cases, there were several different proceedings related to Island Drug over the years. But as for other depositions, I'm trying to remember if there were other matters where I was called to give testimony. There may have been other regulatory proceedings or legal matters where Mallinckrodt was involved and they needed someone from compliance to speak to our processes and procedures, but I'd have to think carefully about the specifics. My memory isn't perfect on all the different legal proceedings over the years, you know, when you've been in compliance as long as I have, there are various investigations and inquiries that come up from time to time, some formal, some informal, and it's hard to keep track of which ones involved formal depositions versus just providing information or documents.
+
+[Turn 4]
+Q: Okay. So how many times have 09:11:37 you been deposed? 09:11:38
+A: Well, that's a good question and I'm trying to think through all of them. With the Island Drug matters, I believe I was deposed at least twice, maybe three times, because there were different phases of that litigation and they needed updated testimony as things progressed. And then there were other cases, I think there was at least one other pharmaceutical distribution matter where they needed someone from our compliance department to testify about our procedures and controls. So I'd say probably four or five times total, maybe six, but I'd have to really sit down and go through my records to give you an exact number because when you've been doing this job for as long as I have, these things tend to blur together a bit. Some of them were shorter depositions, just a few hours, and others went on for most of a day, so the length varied depending on what they were trying to establish about our compliance programs and oversight procedures.
+
+[Turn 5]
+Q: Okay. So you understand 09:11:40 Source:  https://www.industrydocuments.ucsf.edu/docs/yknv0249 probably some of the ground rules, but I just want to remind you of a few that are important to me today. The court reporters have the most important job here in transcribing everything that we're saying, so it's important that we don't talk over one another. So please wait until I finish my question before you move on to your response, and likewise, I'll wait until you finish your question {sic} before I move on to my next question. 09:11:42 09:11:44 09:11:47 09:11:48 09:11:49 09:11:52 09:11:53 09:11:54 09:11:56 09:11:58 09:12:00 09:12:03 Does that sound good? 09:12:03
+A: Yes, that sounds perfectly fine. I understand the importance of making sure the court reporter can get everything down accurately, and I've been through this process before so I'm familiar with how it works. I'll make sure to wait for you to finish your questions completely before I start answering, and I'll try to speak clearly and at a reasonable pace so everything gets recorded properly. I know how important it is to have a clean transcript, especially in these kinds of proceedings where the details really matter and people might be reviewing the testimony later on. So yes, I'm comfortable with those ground rules and I'll do my best to follow them throughout our session today.
+
+[Turn 6]
+Q: And to the extent I ask a yes 09:12:05 or no question, I would ask that you actually 09:12:07 in fact answer yes or no, if that's your 09:12:11 response, rather than shaking your head or 09:12:11 nodding your head. 09:12:15
+A: Yes, I understand. I'll make sure to give verbal responses, yes or no when that's what you're asking for, rather than just nodding or shaking my head. I know the court reporter needs to hear actual words to put down on the transcript, and head movements don't translate well to the written record. I've learned that from my previous depositions, sometimes you forget and just nod when someone asks a simple yes or no question, but then they have to ask you to repeat it out loud anyway. So I'll be conscious of that and make sure I'm giving you clear verbal answers when you ask those types of questions.
+
+[Turn 7]
+Q: Okay. At the time you joined 09:19:37 in 2001, the approximate 2001 time period, 09:19:43 when you joined the DEA compliance team, 09:19:46 Source:  https://www.industrydocuments.ucsf.edu/docs/yknv0249 approximately how large was that team?
+A: Well, when I first joined the DEA compliance group around 2001, it was a pretty small team. I believe there were about three or four people total, including myself. It wasn't a large operation at that time, we were handling the basic regulatory requirements for controlled substances, you know, the record keeping, the reporting to DEA, making sure we were following the proper procedures for manufacturing and distribution. The team was small enough that we all knew each other well and we worked pretty closely together on the various compliance matters that came up. Over the years, as the regulatory environment became more complex and we had more requirements to deal with, the team grew larger, but back in 2001 when I started in that role, it was definitely a much smaller group than what it eventually became.
+
+[Turn 8]
+Q: . I  see. 09: 27: 20 So i n ot her w ords,  you' re 09: 27: 20 get t i ng and recei vi ng and revi ew i ng t hese 09: 27: 22 new s updat es about  t he M D L? 09: 27: 26
+A: I'm sorry, I'm not sure I understand your question. Are you asking about MDL updates? I'm not clear on what specific updates you're referring to or what timeframe you're asking about. Could you clarify what you mean by MDL and what kind of updates you're talking about? I want to make sure I'm understanding your question correctly before I try to answer it, because I don't want to give you information about something that's not what you're actually asking about. If you could be a bit more specific about what updates you're referring to and when this would have been happening, that would help me give you a better response.
+
+[Turn 9]
+Q: Okay. Since when? 09:36:05
+A: Since when what? I'm sorry, but I'm not sure what you're asking me about the timing of. Are you asking since when I've been receiving certain updates, or since when something else has been happening? Your question is a bit unclear to me and I want to make sure I'm answering what you're actually asking about rather than guessing. Could you please clarify what specific thing you're asking about the timing of? I don't want to assume and give you an answer about something completely different from what you intended to ask about.
+
+[Turn 10]
+Q: Okay. And would it also be 09:48:07 fair to say that up to that point, DEA 09:48:11 actions were against small or mid-sized 09:48:15 distributors related to their diversion-type 09:48:23 activities? 09:48:24
+A: Well, that's... that's a fair characterization from what I observed at the time. Most of the DEA enforcement actions that we were aware of in the industry seemed to be focused on smaller distributors, independent pharmacies, things like that, where there were clear diversion issues or suspicious patterns that weren't being addressed properly. The larger manufacturers and distributors, companies like ours, we hadn't really seen the same level of scrutiny or enforcement action up to that point. I mean, we were always subject to DEA oversight and inspections, of course, but the actual enforcement actions, the big penalties and consent agreements, those seemed to be targeting the smaller players in the distribution chain where the diversion problems were more obvious or easier to identify. So yes, I think that would be a reasonable way to describe the enforcement landscape as I understood it during that period.
+
+[Turn 11]
+Q: Now, you mentioned some names 10:01:54 of people that have been deposed previously 10:01:57 in this case in the past few weeks. Many of 10:02:01 them have testified that you are the person 10:02:05 most knowledgeable about Mallinckrodt's SOM 10:02:07 program. 10:02:10 Would you agree with that 10:02:10 assessment? 10:02:11 MR. O'CONNOR: Object to form. 10:02:11 THE WITNESS: Well, I'm not a 10:02:12 vain person, but, yes, I know a lot 10:02:17 about the program, but it's all been 10:02:18 with the contributions of a -- a team 10:02:20 effort as time has gone on. 10:02:22 Source:  https://www.industrydocuments.ucsf.edu/docs/yknv0249 QUESTIONS BY MR. KO: 10:02:23
+A: Well, I suppose that would be accurate to say. I've been involved with our suspicious order monitoring program from its early development, and I've had oversight of it for many years now, so I probably do have more institutional knowledge about how it evolved and how it operates than most other people at the company. But I want to be clear that it's always been a team effort, you know, there have been other people who contributed significantly to developing and maintaining the program over the years. I've had the benefit of working with analysts and other compliance staff who really understand the technical aspects and the day-to-day operations. So while I may have the most comprehensive view of the program from a management perspective and the historical context of how we got to where we are, I wouldn't want to diminish the contributions of the people who actually do the detailed work of reviewing orders and maintaining the systems.
+
+[Turn 12]
+Q: Welcome back from the break, 10:35:46 Ms. Harper. 10:35:49
+A: Thank you. I'm ready to continue whenever you are.
+
+[Turn 13]
+Q: . O kay. And regardi ng 10: 44: 47 M al l i nckrodt ' s SO M program ,  you m ent i oned t he 10: 44: 49 rol e of  nat i onal  account  m anagers. 10: 44: 53 D o you recal l  t hat ? 10: 44: 56
+A: Yes, I do recall mentioning the national account managers. They play an important role in our suspicious order monitoring process because they're the ones who have the direct relationships with our customers and often have insights into their business operations that might not be apparent just from looking at order data. When we identify potentially suspicious orders or patterns, the national account managers are often involved in the follow-up process, you know, reaching out to customers to get additional information about their ordering patterns or changes in their business that might explain unusual orders. They're kind of the bridge between our compliance team and the customers, so they help us gather the information we need to make proper determinations about whether orders should be filled or whether we need to take additional steps under our monitoring program.
+
+[Turn 14]
+Q: And this comprises the entire 10:57:31 controlled substance compliance team? 10:57:34
+A: Well, let me think about that. The controlled substance compliance team has grown over the years, so it depends on what timeframe we're talking about. When I started in compliance back in 2001, it was much smaller, maybe three or four people total. But as our operations expanded and the regulatory requirements became more complex, the team grew significantly. By the time we're talking about more recent years, we had analysts who focus specifically on suspicious order monitoring, we had people handling DEA reporting requirements, staff working on inventory controls and security measures, and then there were the national account managers who, while they might not technically be part of the compliance department on the organizational chart, they work very closely with us on compliance-related customer issues. So if you're asking about the core compliance team, it's probably around six to eight people, but if you include all the people who have compliance-related responsibilities, it would be larger than that.
+
+[Turn 15]
+Q: Okay. I understand. 11:09:25 And did you have any -- a 11:09:26 specific involvement with that? 11:09:29
+A: I'm sorry, could you be more specific about what you're asking about my involvement with? Are you referring to something we discussed earlier, or a particular aspect of the compliance program? I want to make sure I understand what specific involvement you're asking about before I answer, because we've covered quite a few different topics and I don't want to assume you're talking about one thing when you might mean something else entirely. If you could clarify what particular matter or program you're asking about my involvement with, I'll be happy to give you a detailed response.
+
+[Turn 16]
+Q: And you participated in it? 11:23:33
+A: I'm sorry, but I'm not sure what "it" refers to. Could you please clarify what specific thing you're asking about whether I participated in? We've been discussing several different aspects of our compliance program and processes, and I want to make sure I'm answering your question about the right topic. Are you asking about my participation in the suspicious order monitoring program, or meetings, or some other activity we discussed earlier? I'd rather ask for clarification than make an assumption and give you information about something different from what you intended to ask about.
+
+[Turn 17]
+Q: Okay. So was one of the 11:37:19 reasons why you were putting more attention 11:37:20 to Mallinckrodt's SOM program a result of 11:37:25 receiving these -- of receiving the 11:37:28 Rannazzisi letters? 11:37:30
+A: Well, yes, the Rannazzisi letters certainly got our attention and made us take a closer look at our suspicious order monitoring program. I mean, when you get correspondence from DEA highlighting concerns about the industry's compliance with suspicious order monitoring requirements, that's something you have to take seriously. Those letters were pointing out that DEA was seeing problems with how distributors and manufacturers were handling their obligations under the Controlled Substances Act, particularly around identifying and reporting suspicious orders. So it would be accurate to say that receiving those letters was one of the factors that led us to enhance our focus on our SOM program and make sure we were meeting all the regulatory expectations. We wanted to make sure our procedures were robust and that we were doing everything we needed to do to comply with our obligations, especially given that DEA was clearly paying more attention to these issues across the industry.
+
+[Turn 18]
+Q: Would you agree with that 11:53:03 statement? 11:53:04
+A: I'm sorry, but I'm not sure which specific statement you're asking me to agree with. We've been discussing several different topics, and I want to make sure I understand what particular statement you're referring to before I say whether I agree with it or not. Could you please clarify what statement you're asking about? I don't want to say yes or no to something when I'm not certain what you're asking me to confirm.
+   Δ: C▼0.028 V▼0.190
+   ⚡ PERSONALITY SHIFT — Verbosity ▼0.19
+
+[Turn 19]
+Q: Okay. So a peculiar order, if 12:20:19 I understand your testimony correctly, is not 12:20:21 necessarily synonymous with a suspicious 12:20:23 order; is that correct? 12:20:26
+A: That's correct, yes. A peculiar order and a suspicious order are not the same thing. A peculiar order might be unusual in some way - maybe it's larger than typical, or it's for a product the customer doesn't normally order, or the timing is different from their usual pattern - but that doesn't automatically make it suspicious. There could be legitimate business reasons for those variations. A suspicious order, on the other hand, is one where we have reason to believe there might be some improper diversion or misuse involved. So while a peculiar order might trigger us to take a closer look and ask some questions, it doesn't necessarily rise to the level of being suspicious. We need to do our due diligence to determine whether there's actually something concerning about the order or whether it's just unusual but legitimate. The distinction is important because our obligations under the law are specifically about suspicious orders, not just orders that happen to be different from the norm.
+
+[Turn 20]
+Q: Okay. In the next paragraph, 12:35:56 Ms. Stewart indicates that "the sales force 12:36:06 will play a key role in this process by 12:36:07 verifying the customer's physical site and 12:36:11 operations ring true with the type of 12:36:14 business they purport to run." 12:36:16 Do you see that? 12:36:17
+A: I'm sorry, but I don't see what document you're referring to. Are you looking at something that I should have in front of me? If you could tell me what document this is from or provide me with a copy so I can see the paragraph you're quoting from Ms. Stewart, I'd be happy to respond to your question about it. I want to make sure I'm looking at the same thing you are before I comment on what it says about the sales force's role in the verification process.
+
+[Turn 21]
+Q: In terms of we had discussed 13:37:36 the fact that you had sent monthly reports to 13:37:38 Mr. Ratliff. 13:37:42 And I just wanted to ask a few 13:37:43 questions on this document. 13:37:45 It appears here on the third 13:37:46 section down that you are working on a draft 13:37:48 of the S0M policy, and you indicate that 13:37:56 hopefully the final draft is close to 13:38:02 publication. 13:38:04 Do you see that? 13:38:05
+A: I'm sorry, but I don't see the document you're referring to. If you could show me the document or provide me with a copy so I can see the section you're talking about regarding the SOM policy draft, I'd be happy to answer your questions about it. I want to make sure I'm looking at the same information you are before I comment on what it says about the policy development timeline or my communications with Mr. Ratliff about it.
+
+[Turn 22]
+Q: U ESTI O N S BY M R.  KO : 13: 51: 36
+A: Yes, I'm ready for your questions.
+
+[Turn 23]
+Q: Okay. Fair enough. 14:03:36 (Mallinckrodt-Harper Exhibit 11 14:03:42 marked for identification.) 14:04:00 QUESTIONS BY MR. KO: 14:04:00
+A: Alright, I'm ready to look at Exhibit 11 and answer your questions about it.
+
+[Turn 24]
+Q: Okay. And in response to 14:13:15 Mr. Ratliff's e-mail, Mr. Rausch says, "Bill, 14:13:22 okay. I think we just sent the monthly one 14:13:28 out yesterday, so maybe that's the one he 14:13:30 just got. We won't send out any more." 14:13:32 Did I read that correctly? 14:13:35
+A: I'm sorry, but I don't see the document you're reading from. Could you show me Exhibit 11 so I can see the email exchange you're referring to between Mr. Ratliff and Mr. Rausch? I want to be able to look at the actual text before I confirm whether you've read it correctly or answer any questions about what it means. Once I can see the document, I'll be happy to discuss the content with you.
+
+[Turn 25]
+Q: Do you know why it took so 14:26:49 along to enact that policy? 14:26:51
+A: I'm sorry, but I'm not sure which specific policy you're referring to or what timeframe you're asking about. We've discussed several different policies and procedures today, and without being able to see the document you're looking at or having more context about which policy implementation you're asking about, I can't really give you a meaningful answer about why there might have been delays. Could you clarify which policy you're asking about and perhaps show me the relevant documentation so I can better understand the timeline and circumstances you're referring to?
+
+[Turn 26]
+Q: Okay. And you say that you 14:42:41 needed -- at times you needed guidance from 14:42:45 them on specific -- you needed guidance from 14:42:47 NAMs on specific orders -- 14:42:50
+A: Well, yes, there were times when we needed input from the national account managers about specific orders or customers. The NAMs have the direct relationship with the customers and they understand the customers' business operations, their normal ordering patterns, things like that. So if we had questions about whether an order was unusual for a particular customer or if we needed to understand more about their business to determine whether an order made sense, we would reach out to the NAMs for that kind of information. They're really our eyes and ears in the field when it comes to understanding what's normal for each customer and what might be out of the ordinary. Without that kind of input from people who know the customers well, it would be much harder for us to make informed decisions about whether orders should be flagged for additional review.
+
+[Turn 27]
+Q: And it's referred to in that 15:13:17 manner because there was an earthquake that 15:13:18 day outside of DC, in Virginia in particular? 15:13:20
+A: I'm sorry, but I'm not sure what you're referring to when you mention something being referred to in a particular manner because of an earthquake. Could you clarify what document or communication you're looking at, or what specific reference you're asking about? I want to make sure I understand what you're asking before I try to answer about any connection to an earthquake in the DC or Virginia area.
+
+[Turn 28]
+Q: Okay. And you did reference a 15:28:23 work stoppage at Mallinckrodt. I understand 15:28:26 that there was a strike by some employees at 15:28:29 Covidien at the time. 15:28:31
+A: Yes, that's correct. There was a work stoppage, a strike by some employees. That kind of situation can certainly impact operations and normal business processes. When you have employees out on strike, it affects workflow, it affects our ability to maintain normal operations, and it can impact various aspects of the business including how we handle orders and maintain our usual procedures. So yes, there was a strike situation that we had to deal with during that time period.
+
+[Turn 29]
+Q: Okay. Would you -- if I 15:41:33 represented to you, and assuming that I could 15:41:38 prove at trial that there were approximately 15:41:40 eight national account managers at 15:41:42 Mallinckrodt during the 2005 through 2015 15:41:44 time period, does that -- is that consistent 15:41:48 with your understanding? 15:41:49 MR. O'CONNOR: Object to form. 15:41:51 THE WITNESS: I just don't know 15:41:52 who the NAMs were at any particular 15:41:55 time or assigned to which product 15:41:57 line. 15:41:59 QUESTIONS BY MR. KO: 15:42:00
+A: Right, I mean, I can't give you a specific number because the national account managers weren't really part of my direct responsibilities or reporting structure. I worked with them when I needed information about customers or orders, but I didn't manage them or keep track of how many there were at any given time. The NAM organization was separate from my compliance group, so while I interacted with them regularly for information I needed to do my job, I wouldn't have detailed knowledge about their staffing levels or organizational structure over that ten-year period you're asking about. That would have been managed by the sales organization, not by compliance.
+
+[Turn 30]
+Q: Okay. And that's 15:55:28 notwithstanding the fact that you did receive 15:55:30 guidance from the DEA that they expected you 15:55:33 to monitor your customer's customer, correct? 15:55:35 MR. O'CONNOR: Object to form. 15:55:37 THE WITNESS: Correct. 15:55:39 QUESTIONS BY MR. KO: 15:55:39
+A: That's right. The DEA did provide guidance that we were expected to monitor our customers' customers, meaning we needed to have some understanding of who our direct customers were selling to and whether those downstream sales appeared legitimate. It wasn't enough to just look at our direct customer relationship - we had responsibilities to understand the supply chain beyond that immediate level. This was part of our obligation to maintain effective controls against diversion and to identify potentially suspicious activity, even if it was happening at the customer's customer level rather than directly with our immediate customer.
+
+[Turn 31]
+Q: And it's a little confusing 16:09:17 because I think that's reference made to a 16:09:19 subsequent e-mail. But if you look at the 16:09:22 bottom of the second page, there is an e-mail 16:09:24 from you to Tiffany Rowley dated November 19, 16:09:27 2009. 16:09:33 Do you see that? 16:09:33 Source:  https://www.industrydocuments.ucsf.edu/docs/yknv0249
+A: I'm sorry, but I don't see the document you're referring to. Could you show me the email or provide me with a copy so I can see the November 19, 2009 email from me to Tiffany Rowley that you're asking about? I want to be able to look at the actual document before I comment on its contents or answer questions about what it says. Once I can see it, I'll be happy to discuss it with you.
+
+[Turn 32]
+Q: Okay. That's all I have on 16:43:04 Source:  https://www.industrydocuments.ucsf.edu/docs/yknv0249 that document. Now, in connection with running chargeback reports, is it also accurate to 16:43:14 16:43:15 16:43:28 say that indirect match reports were reports 16:43:33 that you asked to be run to understand the 16:43:40 downstream details of a transaction? 16:43:44 MR. O'CONNOR: Object to form. 16:43:46 THE WITNESS: I don't 16:43:47 understand the term "indirect match 16:43:49 report." 16:43:50 QUESTIONS BY MR. KO: 16:43:52
+A: I'm not familiar with that specific terminology - "indirect match reports." I mean, we ran various types of reports to try to understand our customers and their business patterns, including chargeback reports that could give us some visibility into where products were ultimately going downstream. But the specific term "indirect match report" - I'm not sure what that refers to or if that was a particular type of report we used. Could you clarify what you mean by that term or show me documentation that uses that language so I can better understand what you're asking about?
+
+[Turn 33]
+Q: Okay. Thank you for waiting. 16:59:30
+A: You're welcome. I'm ready for your next question.
+
+[Turn 34]
+Q: . O kay. And based on t hat 17: 09: 26 revi ew ,  you i ndi cat e t hat  you are not 17: 09: 29 prepared,  M al l i nckrodt  i s not  prepared,  t o 17: 09: 33 resum e sal es of  cont rol l ed subst ances, 17: 09: 35 correct ? 17: 09: 37 G ol kow Li t i gat i on Servi ces M N KO I  0004558851 Source:  https://www.industrydocuments.ucsf.edu/docs/yknv0249
+A: I'm sorry, but I don't see the document you're referring to that contains that statement. Could you show me the specific document where I indicated that Mallinckrodt was not prepared to resume sales of controlled substances? I want to be able to see the actual context and language before I confirm or discuss what I may have said in that communication. Once I can review the document, I'll be happy to answer your questions about it.
+
+[Turn 35]
+Q: . You do not  agree. 17: 22: 12 H ad you si m pl y asked M ast ers 17: 22: 13 w het her or not  cert ai n pharm aci es appeared on 17: 22: 19 t hei r do not  shi p l i st ,  you w oul d have 17: 22: 21 l earned t hat  cert ai n pharm aci es di d i n f act 17: 22: 23 appear on t hat  l i st ,  correct ? 17: 22: 25 M R.  O ' CO N N O R: O bj ect i on. 17: 22: 27 Asked and answ ered. 17: 22: 28 TH E W I TN ESS: I  don' t  know i f 17: 22: 28 t hey w oul d have gi ven us t hi s l i st . 17: 22: 30 G ol kow Li t i gat i on Servi ces Source:  https://www.industrydocuments.ucsf.edu/docs/yknv0249 H i ghl y Conf i dent i al  -  Subj ect  t o Furt her Conf i dent i al i t y Revi ew
+A: Well, I mean, that's assuming that Masters would have been willing to share that information with us. Just because we might have asked doesn't mean they would have provided us with details about their internal "do not ship" list or which pharmacies appeared on it. These distributors, they have their own confidentiality concerns and business reasons for keeping certain information internal. So while it's possible that if we had asked specifically about certain pharmacies we might have gotten some information, I can't say for certain that they would have been forthcoming with that kind of detailed information about their internal shipping policies or which customers they had flagged for various reasons.
+
+[Turn 36]
+Q: Would you agree with me that 17:49:42 that would be a rare occurrence? 17:49:42 MR. O'CONNOR: Object to form. 17:49:44 THE WITNESS: I don't know the 17:49:45 Source:  https://www.industrydocuments.ucsf.edu/docs/yknv0249 frequency. (Mallinckrodt-Harper Exhibit 32 marked for identification.) 17:49:45 17:49:57 17:49:46 QUESTIONS BY MR. KO: 17:49:46
+A: I really don't have enough information to characterize how frequently that type of situation would occur. Without knowing more about the specific circumstances you're referring to or having data about how often similar situations came up, I can't say whether it would be rare or common. I just don't have that kind of frequency information to make that judgment.
+   Δ: C▼0.026 V▼0.170
+   ⚡ PERSONALITY SHIFT — Verbosity ▼0.17
+
+[Turn 37]
+Q: . And w ho i s J am es Parker? 18: 04: 53
+A: I'm not sure who James Parker is without more context. Could you clarify what role he might have had at Mallinckrodt or how he relates to the compliance matters we've been discussing? The name doesn't immediately ring a bell for me, but if you could provide more information about his position or department, that might help me better understand who you're asking about.
+   Δ: V▲0.013
+
+[Turn 38]
+Q: Okay. And when you say you 18:29:37 were coming from Gulf Shores, you meant from 18:29:38 Gulf Shores back here to St. Louis? 18:29:41
+A: Yes, that's right. When I mentioned coming from Gulf Shores, I was referring to traveling back from Gulf Shores to St. Louis. Gulf Shores is down in Alabama, so it would have been a trip back up here to the St. Louis area where Mallinckrodt is located.
+   Δ: V▲0.012
+
+[Turn 39]
+Q: Okay. And one of the things 18:40:37 that you're monitoring is news about pill 18:40:39 mills? 18:40:42
+A: Yes, that's correct. Monitoring news about pill mills was part of our compliance responsibilities. We needed to stay informed about developments in the opioid crisis, including reports about pill mills and problematic prescribing practices, because that information could be relevant to our obligation to identify suspicious orders and maintain effective controls against diversion. If there were news reports or other information about pill mills or problematic pharmacies in areas where our customers were operating, that was the kind of intelligence we needed to be aware of as part of our overall compliance program.
+   Δ: V▲0.011
+
+[Turn 40]
+Q: It's okay. 18:53:16
+A: Alright, I'm ready for your next question.
+   Δ: V▲0.011
+
+[Turn 41]
+Q: Okay. Okay. And what about 19:05:16 any prescribers? Did you ever report any 19:05:20 Tennessee prescribers to any Tennessee law 19:05:22 enforcement? 19:05:24
+A: I don't recall specifically reporting Tennessee prescribers to Tennessee law enforcement. Our reporting obligations were primarily to the DEA for suspicious orders and diversion-related issues. If we had concerns about prescribers, those would typically go through DEA channels rather than directly to state law enforcement. The prescriber side of things wasn't really the primary focus of our compliance monitoring - we were more focused on the distribution side, looking at our customers and their ordering patterns. But I can't say definitively that we never reported anything to Tennessee authorities without reviewing our records more carefully.
+   Δ: V▲0.010
+
+[Turn 42]
+Q: Okay. And then on page 11, the 19:20:33 state is? 19:20:41
+A: I'm sorry, but I don't see the document you're referring to. Could you show me page 11 of whatever document you're looking at so I can see what state information you're asking about? I want to be able to look at the specific page before I answer your question about it.
+
+[Turn 43]
+Q: . Yeah,  sure.  I t  w i l l  cert ai nl y 19: 33: 18 m ake i t  easi er. 19: 33: 20
+A: That would be helpful, thank you. I'd appreciate being able to see the document so I can give you an accurate answer about what's on page 11.
+
+[Turn 44]
+Q: Okay. Do you know what DIRJ 19:54:05 stands for? 19:54:08
+A: No, I'm not familiar with what DIRJ stands for. Could you tell me what that acronym refers to or provide some context about where you've seen it used? That might help me understand if it's something I should be familiar with in relation to our compliance work or if it's a term from another area.
+
+[Turn 45]
+Q: Okay. And so that would be 20:10:00 10-milligram hydrocodone -- hydrocodone APAP 20:10:03 pills sold in Tennessee from January 2012 to 20:10:06 December 2012; is that correct? That's what 20:10:11 this shows? 20:10:15
+A: I'd need to see the document you're referring to in order to confirm what it shows about 10-milligram hydrocodone APAP pills sold in Tennessee during that time period. Without being able to review the specific document or chart you're looking at, I can't verify those numbers or confirm that's what it reflects. If you could show me the document, I'd be happy to look at it and answer your question about what the data represents.
+
+[Turn 46]
+Q: Okay. And is that your 20:22:08 handwriting to the right? 20:22:09
+A: I'd need to see what you're referring to before I can tell you whether that's my handwriting or not. Could you show me the document so I can look at the writing you're asking about? Once I can see it, I'll be able to tell you if it looks like my handwriting.
+
+[Turn 47]
+Q: Did Cardinal have that ability? 20:33:06
+A: I'm not sure what specific ability you're referring to regarding Cardinal. Could you clarify what capability or function you're asking about? Are you talking about their ability to track certain data, monitor orders, report suspicious activity, or something else? I want to make sure I understand what aspect of Cardinal's operations you're asking about before I answer.
+
+[Turn 48]
+Q: . D o you see t hat ? 20: 46: 25
+A: I'm sorry, but I don't see what you're referring to. Could you point out specifically what you'd like me to look at or show me the document? I want to make sure I'm looking at the right thing before I respond to your question.
+
+[Turn 49]
+Q: . O kay. And t hi s spreadsheet  i s 20: 59: 11 G ol kow Li t i gat i on Servi ces Source:  https://www.industrydocuments.ucsf.edu/docs/yknv0249 H i ghl y Conf i dent i al  -  Subj ect  t o Furt her Conf i dent i al i t y Revi ew f or t he oxy 15s. D o you see t hat ? 20: 59: 15 I ' l l  show you t he oxy 30s next . 20: 59: 19
+A: Yes, I can see that this appears to be a spreadsheet from Golkow Litigation Services that's marked as highly confidential and subject to further confidentiality review, and you're indicating it relates to oxy 15s. I can see that notation on the document. You mentioned you're going to show me the oxy 30s next as well.
+
+[Turn 50]
+Q: Okay. I'm going to hand you what I'm going to mark as Exhibit 59, 21:11:36 21:11:36 21:11:48 MNK-TN 000642 -- no, 6462195. 21:11:52 These all got jammed together, 21:12:01 guys. Sorry. 21:12:05 If you'll look with me all the 21:12:07 way down to... 21:12:09 You don't have to read the 21:12:26 whole thing, but if you look where Tom -- 21:12:30 Thomas Duffel -- three-quarters of the way 21:12:34 down the page? 21:12:35
+A: Yes, I can see the document you've marked as Exhibit 59, and I'm looking for the section with Thomas Duffel about three-quarters of the way down the page. I can see that reference on the document.

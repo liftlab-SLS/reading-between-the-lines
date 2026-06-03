@@ -1,0 +1,256 @@
+WITNESS: Eileen Spaulding
+ARCHETYPE: Defensive
+INITIAL STATE: {'C': 0.4, 'K': 0.5, 'A': 0.2, 'V': 0.6, 'R': 0.7, 'P': 0.5}
+FINAL STATE:   {'C': 0.3464, 'K': 0.4945, 'A': 0.2668, 'V': 0.6043, 'R': 0.7756, 'P': 0.3602}
+======================================================================
+
+[Turn 1]
+Q: Good morning, Ms. Spaulding.
+A: Good morning. Let's get this over with.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.20 · rigidity 0.70
+
+[Turn 2]
+Q: My name is Gary Gotta. We met briefly Source:  https://www.industrydocuments.ucsf.edu/docs/glnv0249 just before we went on the record. We've never met before today, correct?
+A: That's correct. We haven't met before today.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.21 · rigidity 0.71
+
+[Turn 3]
+Q: Have you ever given a deposition previously?
+A: No, I haven't. This is my first deposition.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.21 · rigidity 0.71
+
+[Turn 4]
+Q: Okay. Well, we will -- just a few items by way of background. Please let me finish my questions if you can, and I'll certainly try to let you finish your answers before so we don't speak over each other. If any of my questions are unclear to you in any way, let me know and I'll do my best to clarify them.
+A: Fine. I understand.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.22 · rigidity 0.71
+
+[Turn 5]
+Q: If you answer a question without asking for a clarification, I'll assume you felt like you understood it. Okay?
+A: Yes, that's fine. If I don't understand something I'll ask you to clarify it.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.22 · rigidity 0.72
+
+[Turn 6]
+Q: And this is kind of a large table so I'll try to keep my voice up so we can all hear each other. But I'm not shouting, I'm just trying to --
+A: I can hear you just fine. Can we move along?
+   ⚡ WITNESS COMBATIVE — agreeableness 0.22 · rigidity 0.72
+
+[Turn 7]
+Q: Okay. And who did you speak to in that regard?
+A: What regard? You haven't asked me about speaking to anyone about anything specific yet. What are you referring to?
+   ⚡ WITNESS COMBATIVE — agreeableness 0.23 · rigidity 0.72
+
+[Turn 8]
+Q: Was it some number of years?
+A: I don't know what you're talking about. Some number of years for what? You need to ask me a complete question.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.23 · rigidity 0.72
+
+[Turn 9]
+Q: Okay. So is there any process in place at Mallinckrodt, or has there been at any point, to review any of the steps that you take that you just described for accuracy, errors, completeness, etcetera? MR. O'CONNOR: Object to form.
+A: Look, I don't know what steps you're referring to that I "just described." You haven't asked me to describe any steps or processes yet. Are you asking about ARCOS reporting? Are you asking about compliance procedures? You need to be specific about what you want to know instead of jumping around like this.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.23 · rigidity 0.73
+
+[Turn 10]
+Q: And overgoods is what?
+A: I have no idea what you mean by "overgoods." That's not a term I'm familiar with. Are you asking about something specific to our operations? You need to give me some context here.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.23 · rigidity 0.73
+
+[Turn 11]
+Q: Okay. Next item you indicated was discrepancy reporting. What's that?
+A: What discrepancy reporting? When did I indicate anything about discrepancy reporting? You keep asking me about things I haven't said. I haven't described any processes or items to you yet in this deposition.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.24 · rigidity 0.73
+
+[Turn 12]
+Q: Okay. Are there other training programs of that type that you've attended?
+A: What type? You haven't asked me about any training programs yet. Are you referring to DEA training? Compliance training? You need to actually ask me what training I've received before you can ask me about "other" training of some unspecified type.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.24 · rigidity 0.73
+
+[Turn 13]
+Q: And so the quota allocation -- when you say API, I mean, that's active pharmaceutical ingredient, correct?
+A: Yes, API is active pharmaceutical ingredient. But I haven't said anything about quota allocation. Are you reading from some other deposition? Because you keep asking me follow-up questions to things I haven't testified about.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.24 · rigidity 0.74
+
+[Turn 14]
+Q: And approximately what was the time frame when the longer time period applied?
+A: What longer time period? What are you talking about? You haven't asked me about any time periods. Are you looking at the right notes? Because none of these questions make any sense in the context of what we've actually discussed here.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.24 · rigidity 0.74
+
+[Turn 15]
+Q: Okay. And then you indicated at some point you became the senior controlled substance compliance coordinator?
+A: I haven't indicated any such thing. I told you I'm a compliance investigator. You keep putting words in my mouth that I never said. Are you even listening to my answers, or are you just reading from some script?
+   ⚡ WITNESS COMBATIVE — agreeableness 0.24 · rigidity 0.74
+
+[Turn 16]
+Q: So before that time, what responsibilities did you have with respect to SOM?
+A: What is SOM? And what time are you referring to? You haven't established any timeline or explained what SOM means. I can't answer questions about acronyms you haven't defined or time periods you haven't specified.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.25 · rigidity 0.74
+
+[Turn 17]
+Q: Okay. And some of the anti-diversion steps that you described, for example placebo tablets, to law enforcement, that would be related to diversion that's occurring after the product leaves your manufacturing facility, right?
+A: I haven't described any anti-diversion steps to you. I haven't talked about placebo tablets or law enforcement. You keep asking me about testimony I haven't given. What deposition are you looking at? Because it's not mine.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.25 · rigidity 0.74
+
+[Turn 18]
+Q: And do those include requirements to design and maintain a suspicious order monitoring program?
+A: Yes, the DEA requires distributors to have suspicious order monitoring programs. But you're jumping around again - are you asking about our current requirements, or what we had in place at different times? And I still don't know what half your previous questions were supposed to be about.
+   Δ: K▼0.033 V▲0.022
+   ⚡ WITNESS COMBATIVE — agreeableness 0.25 · rigidity 0.75
+
+[Turn 19]
+Q: Had you had responsibility for implementation for upgrade of any aspect of the SOM program for fiscal year 2009?
+A: You still haven't told me what SOM stands for. Are you talking about suspicious order monitoring? And fiscal year 2009 - that's over a decade ago. You need to be clear about what you're asking and define your terms before expecting me to remember specific responsibilities from that long ago.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.25 · rigidity 0.75
+
+[Turn 20]
+Q: And that quarterly report would be the algorithm hit or peculiar order hit report that you testified to earlier today, correct?
+A: I haven't testified to any algorithm hit report or peculiar order hit report earlier today. You keep referring to testimony I haven't given. Are you confusing me with someone else? Because I haven't described any quarterly reports or algorithms to you.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.25 · rigidity 0.75
+
+[Turn 21]
+Q: Okay. And so what steps did you take to try to confirm that?
+A: Confirm what? You haven't asked me to confirm anything. You're asking follow-up questions to conversations we haven't had. What exactly are you expecting me to confirm?
+   ⚡ WITNESS COMBATIVE — agreeableness 0.25 · rigidity 0.75
+
+[Turn 22]
+Q: So the SOPs that apply to SOM, what are the subject matters that they cover?
+A: If you're talking about suspicious order monitoring SOPs, they would cover procedures for identifying, investigating, and reporting suspicious orders. Due diligence on customers. Documentation requirements. But you still haven't defined what SOM means to you, and you keep jumping between topics without any context.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.25 · rigidity 0.75
+
+[Turn 23]
+Q: Okay. In Ms. Harper's e-mail to you,
+A: What email from Ms. Harper? You haven't shown me any email or asked me about any correspondence with anyone named Harper. Are you looking at documents I haven't seen? You can't just reference emails without showing them to me or establishing what you're talking about.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.25 · rigidity 0.75
+
+[Turn 24]
+Q: Do you ever recall that occurring, that you provided notification to DEA of any confirmed diversion?
+A: You're asking me about something specific - confirmed diversion notifications to DEA - but you haven't given me any context. Are you talking about a particular incident? A time period? You can't just ask if I "recall that occurring" without telling me what "that" is supposed to be.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.76
+
+[Turn 25]
+Q: Okay. Do you recall being aware in 2005 that MS Contin was extremely abused?
+A: In 2005, yes, there was general awareness in the industry that MS Contin and other opioid medications had abuse potential. That wasn't a secret. But what does this have to do with my compliance responsibilities? Are you trying to connect this to something specific about our operations?
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.76
+
+[Turn 26]
+Q: In terms of when you were first aware of there being work on enhancing the SOM program until the time when the enhanced program was actually implemented, that was more than three years, wasn't it? MR. O'CONNOR: Objection to form.
+A: I don't know what you mean by "enhancing the SOM program" or when you think I said anything about a three-year timeline. You keep asking about things I haven't testified to. And if you're still talking about suspicious order monitoring, you need to be specific about what enhancements you're referring to and what time periods you're asking about.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.76
+
+[Turn 27]
+Q: Enhancing the SOM program.
+A: That doesn't clarify anything. What specific enhancements are you talking about? What time period? You can't just repeat "enhancing the SOM program" and expect me to know what you mean. Are you talking about system upgrades, procedural changes, staffing changes? Be specific.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.76
+
+[Turn 28]
+Q: Were you aware of that before receiving this letter?
+A: What letter? You haven't shown me any letter or told me what letter you're referring to. You keep asking me about documents and correspondence I haven't seen. If you want me to comment on a letter, you need to show it to me or at least tell me what it says and who it's from.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.76
+
+[Turn 29]
+Q: Okay. So these orders were identified by application of the algorithm that you understand was in place at the time?
+A: What orders? What algorithm? You haven't shown me any specific orders or explained what algorithm you're talking about. You're asking follow-up questions without establishing the basic facts first. If you want me to comment on how orders were identified, you need to tell me which orders and which time period you're asking about.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.76
+
+[Turn 30]
+Q: We've marked as Exhibit 16 a two-page document beginning at Bates MNK-T1 0002940798. Please take a look at those and tell me if you I was combining and sending to DEA.
+A: I can't see any exhibit or document. You're telling me to look at something that isn't in front of me. And your question cuts off - you said "tell me if you I was combining and sending to DEA" which doesn't make sense. If you want me to review a document, you need to actually show it to me and ask a complete question.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.76
+
+[Turn 31]
+Q: And that's the reason you sent it to Source:  https://www.industrydocuments.ucsf.edu/docs/glnv0249 whatever the algorithm was in place at the time, all those parties, right? that.
+A: Your question is completely garbled. You're referencing some website link and asking about "whatever the algorithm was in place at the time, all those parties" - that doesn't make any sense. And you're asking why I sent something somewhere without telling me what I supposedly sent or where I sent it. I can't answer questions that are this incoherent.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.76
+
+[Turn 32]
+Q: She gross on to say "It is significant to note that neither Sunrise or Harvard triggered the algorithms that were in place for direct customers because we were looking at overall purchase trends for each distributor, not reviewing where the distributors were Source:  https://www.industrydocuments.ucsf.edu/docs/glnv0249 sending our product (and our program met CFR requirements)." And is that the phenomenon you testified about earlier today, looking at ship to rather than bill to? MR. O'CONNOR: Objection to form.
+A: I haven't testified about any phenomenon involving "ship to" versus "bill to" earlier today. You keep saying I testified to things I haven't said. And you're quoting something about Sunrise and Harvard and algorithms, but I don't know what document you're reading from or what context this is supposed to be in. Stop attributing testimony to me that I haven't given.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.76
+
+[Turn 33]
+Q: And ultimately all of those distributors had their DEA licenses terminated, didn't they? MR. O'CONNOR: Object to the form.
+A: What distributors? You haven't identified any specific distributors we're talking about. You can't just ask if "all of those distributors" had their licenses terminated when you haven't established which distributors you mean. Are you talking about customers of ours? Which ones? What time period? Be specific.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.76
+
+[Turn 34]
+Q: Okay. And who would have asked you to do that?
+A: Asked me to do what? You haven't told me what you're referring to. You keep asking follow-up questions without establishing what the original action or task was supposed to be. If you want to know who asked me to do something, you need to tell me what that something is.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.77
+
+[Turn 35]
+Q: Okay. So the pharmacy would -- it could continue to buy from a Mallinckrodt distributor, but it could not apply for a Source:  https://www.industrydocuments.ucsf.edu/docs/glnv0249 distributor to Mallinckrodt on behalf of the pharmacy.
+A: That's not a question, that's you making a statement about pharmacy purchasing arrangements. And you're referencing some document link again that I can't see. If you're trying to ask me something about how pharmacies could or couldn't buy from distributors, then ask a clear question. Don't just make statements and expect me to respond.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.77
+
+[Turn 36]
+Q: Okay. And so there would be times when you would give them verbal information, but if they wanted that information in writing you'd tell them they needed to issue a subpoena?
+A: I don't know what information you're talking about. Give who verbal information? About what? You're asking about some policy regarding written versus verbal responses to requests, but you haven't told me who "them" is or what kind of information we're discussing. Are you talking about DEA? Other agencies? Customers? Be specific about what you're asking.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.77
+
+[Turn 37]
+Q: And again, apart from conversations with counsel, did you have discussions with anyone else at Mallinckrodt with respect to how you responded to law enforcement inquiries as you describe in this paragraph?
+A: What paragraph? You keep referring to paragraphs and documents I can't see. And you're asking about discussions regarding law enforcement responses, but you haven't shown me any paragraph that describes how I responded to anything. If you want me to answer about discussions I had with colleagues, you need to first establish what specific responses or policies you're asking about.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.77
+
+[Turn 38]
+Q: Okay. So the SOPs are -- is that to what's in the November 15th e-mail?
+A: What November 15th email? You haven't shown me any email from November 15th or any other date. And you're asking about SOPs in relation to some email I haven't seen. You keep referencing documents and correspondence without actually showing them to me or explaining what they contain. I can't answer questions about emails I haven't been shown.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.77
+
+[Turn 39]
+Q: So this was the formula that was used back in 2012?
+A: What formula? You haven't shown me any formula or explained what calculation or methodology you're referring to. You're asking about something from 2012 but you haven't established what "this" is supposed to be. If you want me to confirm whether a particular formula was used in 2012, you need to show me the formula first.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.77
+
+[Turn 40]
+Q: So in previous audits, approximately how many people would be there and for approximately how long?
+A: You haven't told me what audits you're asking about. Are you talking about DEA audits? Internal audits? Third-party audits? And audits of what - our facilities, our records, our procedures? The number of people and duration would depend on what type of audit and what they were reviewing. You need to be specific about which audits you mean.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.77
+
+[Turn 41]
+Q: The next paragraph, "detect and report to the DEA orders deviating substantially from normal patterns." Again, you understood that there was a regulatory requirement to detect and report such orders, correct?
+A: What paragraph? You keep saying "the next paragraph" but I haven't seen any document or previous paragraph. You're quoting something about detecting and reporting orders that deviate from normal patterns, but I don't know what document this is from or what context it's in. If you want me to comment on regulatory requirements, show me the actual document you're reading from.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.26 · rigidity 0.77
+
+[Turn 42]
+Q: And who was it who performed your evaluations?
+A: My performance evaluations? That would depend on what time period you're asking about. Over my years at Mallinckrodt I've reported to different supervisors in different departments. Are you asking about a specific time frame or position? And why does it matter who evaluated my performance?
+   ⚡ WITNESS COMBATIVE — agreeableness 0.27 · rigidity 0.77
+
+[Turn 43]
+Q: And was this before the transition over to the FedEx Express service that you talked about this morning?
+A: I didn't talk about any FedEx Express service this morning. You keep saying I testified to things I haven't said. And you're asking if something was "before the transition" without telling me what that something is. Stop attributing statements to me that I haven't made and ask clear questions about what you actually want to know.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.27 · rigidity 0.77
+
+[Turn 44]
+Q: And flip to the next page. Do you see that the state listed there is Ohio?
+A: I don't see any page. You haven't shown me any document to flip through. You keep telling me to look at pages and paragraphs but I can't see whatever document you think you're showing me. If you want me to comment on something listing Ohio as a state, you need to actually show me what you're referring to.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.27 · rigidity 0.77
+
+[Turn 45]
+Q: And then also on the Other Manufacturers map, the State of Tennessee is kind of more purple than other areas around it. Do you see that?
+A: I don't see any map. You're asking me about colors on some "Other Manufacturers map" but there's no map in front of me. You keep referring to documents, pages, maps, and colors that I can't see. If you want me to look at something, you need to make sure I can actually see it first.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.27 · rigidity 0.77
+
+[Turn 46]
+Q: And then once again on the Mallinckrodt 30-milligram page, we see that Tennessee is green, suggesting once again larger per capita usage. Do you see that?
+A: No, I don't see that. You're describing some page about Mallinckrodt 30-milligram something with Tennessee showing up as green, but I'm not looking at any page or map. You keep asking me if I see things when there's nothing in front of me to see. Show me what you're talking about or stop asking me to confirm what's on documents I can't see.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.27 · rigidity 0.77
+
+[Turn 47]
+Q: You can set that aside. (Whereupon, Mallinckrodt-Spaulding-45 was marked for identification.) BY MR. GESTEL: marked as Exhibit 45. Sorry, I'm somehow down a copy. monitoring steering committee at that time, correct?
+A: I don't understand your question. You started talking about setting something aside and marking an exhibit, then you said something about being down a copy and ended with asking about a monitoring steering committee. Your question got cut off or jumbled. What are you asking me about a steering committee?
+   ⚡ WITNESS COMBATIVE — agreeableness 0.27 · rigidity 0.77
+
+[Turn 48]
+Q: So -- and then there's less orders processed going down the line, and then correspondingly less order fails, correct?
+A: What orders are you talking about? You're asking about order processing and "order fails" but you haven't established what system or time period you're referring to. Are you talking about suspicious orders? Customer orders? Some specific monitoring system? And what do you mean by "order fails" - orders that failed some kind of review? You need to be clear about what you're asking.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.27 · rigidity 0.77
+
+[Turn 49]
+Q: Well, let me back up. Do you maintain the chargeback data?
+A: No, I don't maintain chargeback data. That's not part of my responsibilities as a compliance investigator. Chargeback data would be handled by different departments - likely finance or sales operations. My role focuses on compliance monitoring and reporting, not financial data maintenance.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.27 · rigidity 0.78
+
+[Turn 50]
+Q: What is the UOR program?
+A: The UOR program? I'm not familiar with that acronym. You'll need to tell me what UOR stands for or what program you're referring to. Is this something related to our compliance operations or some other area of the company? Without knowing what those letters represent, I can't tell you what the program is.
+   ⚡ WITNESS COMBATIVE — agreeableness 0.27 · rigidity 0.78

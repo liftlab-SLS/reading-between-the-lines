@@ -1,0 +1,207 @@
+WITNESS: George Saffold
+ARCHETYPE: Overconfident
+INITIAL STATE: {'C': 0.9, 'K': 0.4, 'A': 0.5, 'V': 0.7, 'R': 0.8, 'P': 0.7}
+FINAL STATE:   {'C': 0.7794, 'K': 0.4, 'A': 0.5, 'V': 0.7, 'R': 0.8504, 'P': 0.5042}
+======================================================================
+
+[Turn 1]
+Q: Good morning. Can you please state and spell your name for the record?
+A: Good morning. My name is George Saffold. That's G-E-O-R-G-E, S-A-F-F-O-L-D.
+   Δ: C▼0.011
+
+[Turn 2]
+Q: And where do you currently reside?
+A: I reside in St. Louis, Missouri.
+   Δ: C▼0.010
+
+[Turn 3]
+Q: And you understand that you're under oath today, right?
+A: Yes, I understand that I'm under oath.
+
+[Turn 4]
+Q: Are you taking any medication or is there any other reason that would interfere with your ability to testify truthfully and fully today?
+A: No, I'm not taking any medication that would interfere with my ability to testify. There's nothing that would prevent me from testifying truthfully and fully today.
+
+[Turn 5]
+Q: Okay. And if I ask a question you don't understand, please let me know and I will try and rephrase it.
+A: I understand. If I don't understand a question, I'll let you know and ask you to rephrase it.
+
+[Turn 6]
+Q: Have you ever testified in a deposition or trial before?
+A: I've been deposed before, yes. I believe this is my second deposition, but I haven't testified at trial.
+
+[Turn 7]
+Q: Did you speak with anyone else prior to this deposition, any former colleagues, friends still at the company?
+A: No, I haven't spoken with any former colleagues or anyone still at Mallinckrodt about this deposition. I prepared with my attorney, but I haven't discussed the case or my testimony with other witnesses or company employees.
+
+[Turn 8]
+Q: Thanks for clarifying. Any idea as far as how many years ago that was or how recently you saw the advertisement?
+A: I'm sorry, I don't understand what you're asking about. What advertisement are you referring to? I think there might be some confusion - you asked if I had spoken with anyone prior to this deposition, and I answered that question. Could you clarify what advertisement you're asking about?
+
+[Turn 9]
+Q: And did she evaluate your performance?
+A: I'm sorry, I don't understand the question. You haven't mentioned who "she" is or what context you're referring to regarding performance evaluation. Could you please clarify who you're asking about and provide some context?
+
+[Turn 10]
+Q: And what did you think about your performance?
+A: I still don't understand what performance you're asking about. You haven't established what situation or time period you're referring to, or what specific performance metrics or evaluation we're discussing. Could you please be more specific about what performance you want me to address?
+
+[Turn 11]
+Q: And which customers were you responsible for?
+A: Well, as Director of Global Customer Service, I was responsible for overseeing customer service operations for all of Mallinckrodt's customers globally. That included both our API customers - the active pharmaceutical ingredient customers - and our dosage form customers. I oversaw the team that handled customer inquiries, order processing, and various service issues across our entire customer base. The specifics would depend on what time period you're asking about and which division, but broadly speaking, it was a global responsibility covering our pharmaceutical customers worldwide.
+
+[Turn 12]
+Q: Did you have a role in generating opioid sales?
+A: No, I didn't have a role in generating opioid sales. My responsibility was in customer service operations - handling customer inquiries, order processing, service issues. I wasn't in sales or business development. My role was more on the operational side, making sure customers received proper service and support, not in actively pursuing or generating new sales.
+
+[Turn 13]
+Q: Okay. And were you aware that in 2010, Mallinckrodt identified various indirect customers who were purchasing from multiple Mallinckrodt distributors?
+A: I... well, that sounds like something that would have come up in our operations. We did track customer patterns and unusual ordering activities as part of our compliance responsibilities. If there were customers purchasing from multiple distributors, that could potentially flag as suspicious activity that we'd need to report to our DEA compliance team. I'm not certain about the specific 2010 timeframe you're mentioning, but yes, identifying unusual purchasing patterns was part of what we monitored for compliance purposes.
+
+[Turn 14]
+Q: Did Mallinckrodt have a duty to identify suspicious orders of Mallinckrodt products? MR. BERG: Object to form.
+A: Yes, we had a duty to identify and report suspicious orders. That was part of our DEA compliance obligations. When we identified orders that appeared suspicious or unusual - whether it was unusual quantities, frequency, patterns, or other red flags - we were required to report those to the DEA. In my role, if my team identified any anomalies or suspicious ordering patterns from customers, we would report those up to our internal DEA compliance team who would then handle the appropriate reporting to the authorities.
+
+[Turn 15]
+Q: And what do you believe that term or phrase to signify?
+A: I need you to be more specific about which term or phrase you're asking about. Are you referring to "suspicious orders" that we just discussed, or is there another specific term or phrase you want me to explain? Could you clarify what specific terminology you're asking me to define?
+
+[Turn 16]
+Q: Are you aware that people have died from overdoses of opioids?
+A: Yes, of course I'm aware that people have died from opioid overdoses. That's been well-documented and widely reported. It's a serious public health issue. As someone who worked in the pharmaceutical industry, particularly with controlled substances, I was certainly aware of the potential for abuse and the tragic consequences that can result from opioid misuse and overdoses.
+
+[Turn 17]
+Q: So did Jim Rausch and Cathy Stewart essentially switch positions from API to dosage?
+A: I'm sorry, I don't understand the question. You haven't mentioned Jim Rausch or Cathy Stewart before in this deposition, and I don't have context about what positions they held or when they might have switched between API and dosage divisions. Could you provide some background about who these individuals are and what timeframe you're asking about so I can properly respond to your question?
+
+[Turn 18]
+Q: Do you know what was involved in this reapproval process that Cathy refers to?
+A: I don't have context for what reapproval process you're referring to. You mentioned someone named Cathy, but I still don't know who Cathy is or what document or communication you're referencing that discusses a reapproval process. Could you provide more information about what specific reapproval process you're asking about and what document or context this relates to?
+
+[Turn 19]
+Q: Thank you. (Mallinckrodt-Saffold Exhibit 8 was marked for identification.) Source:  https://www.industrydocuments.ucsf.edu/docs/flnv0249 Hghly Confidential - Subject to Further Confidentiality Review QUESTIONS BY MS. KEECH:
+A: I see that Exhibit 8 has been marked for identification. I'm ready to look at the document and answer your questions about it.
+
+[Turn 20]
+Q: And this document is the Mallinckrodt Controlled Substance Suspicious Order Monitoring Program, Presentation for Marketing Group dated March 21st, 2011. Are you familiar with this document? Source:  https://www.industrydocuments.ucsf.edu/docs/flnv0249 Hghly Confidential - Subject to Further Confidentiality Review
+A: I would need to review the document to refresh my memory about the specific details. The title sounds familiar - we did have suspicious order monitoring programs and there would have been presentations to different groups within the company about compliance procedures. But I'd need to look at the actual content of this March 2011 presentation to the marketing group to tell you specifically what I recall about this particular document and whether I was involved with it or aware of its contents at the time.
+
+[Turn 21]
+Q: Okay. So please turn with me to page 9. This indicates the DEA suspends the licenses of distributors for not maintaining effective controls -- effective controls against diversion of controlled substances, and then it lists three distributors.
+A: I'm looking at page 9. Yes, I can see where it references the DEA suspending licenses of distributors for not maintaining effective controls against diversion of controlled substances. I see the three distributors that are listed there. This would have been information that our compliance team would track and monitor since we needed to be aware of which distributors had compliance issues or suspended licenses that could affect our distribution network.
+
+[Turn 22]
+Q: Do you know why there was a shift from customer service reviewing orders?
+A: I'm not seeing the specific context on this page about a shift from customer service reviewing orders. Could you point me to where in the document that's referenced, or provide more context about what shift you're asking about? Without seeing the specific information about when customer service stopped reviewing orders or what process replaced it, I can't adequately answer what the reasoning was behind that change.
+
+[Turn 23]
+Q: And what was the content of the reports that your direct reports generated?
+A: Well, the reports my direct reports generated would typically include information about customer inquiries, order processing issues, any unusual ordering patterns or anomalies that were flagged during our customer service operations. If there were suspicious orders or unusual activity identified, those would be documented and reported up through the compliance chain. The specific content would depend on what issues came up - could be volume anomalies, frequency patterns, customer behavior that seemed outside normal parameters. These reports were part of our monitoring and compliance responsibilities to identify potential diversion issues.
+
+[Turn 24]
+Q: Okay. Was customer service product was missing from a container?
+A: I'm not following your question. Could you rephrase that? Are you asking if customer service reported when product was missing from a container, or are you asking something else? The way the question is structured, I'm not clear on what you're asking about regarding customer service and missing product from containers.
+
+[Turn 25]
+Q: So as their supervisor, you did not know what customer service agents did to clear 222 forms? MR. BERG: Object to form.
+A: Well, I would have known the general process that customer service agents followed for handling DEA Form 222s. These are the forms used for controlled substance orders, so there would have been specific procedures for processing and clearing those forms - verifying customer information, checking order details, ensuring proper documentation. But without looking at specific procedures or training materials, I can't give you the exact step-by-step details of what agents did to clear those forms. The specifics of the day-to-day processing procedures might have been handled at the operational level below me.
+
+[Turn 26]
+Q: Do you have any information about the background behind that decision?
+A: I need you to be more specific about which decision you're referring to. We've covered several different topics - the shift from customer service reviewing orders, processes for clearing 222 forms, reporting procedures. Which particular decision are you asking about the background for? Could you clarify what specific decision you want me to address?
+
+[Turn 27]
+Q: Okay. Do you know what that criteria was? MR. BERG: Object to form.
+A: Again, I need you to be more specific about what criteria you're asking about. We've discussed several different processes and procedures in this deposition. Are you asking about criteria for suspicious order monitoring, criteria for clearing 222 forms, criteria for something else? Without knowing which specific criteria you're referring to, I can't give you an accurate answer.
+
+[Turn 28]
+Q: Any reason to doubt its Source:  https://www.industrydocuments.ucsf.edu/docs/flnv0249 Hghly Confidential - Subject to Further Confidentiality Review authenticity?
+A: No, I don't have any reason to doubt the authenticity of this document. It appears to be a legitimate Mallinckrodt internal presentation from March 2011 about our controlled substance suspicious order monitoring program. The format, content, and markings are consistent with what I would expect from company compliance presentations during that time period.
+
+[Turn 29]
+Q: So Mallinckrodt would send questionnaires to its distributors and wholesalers, correct?
+A: Yes, that's correct. As part of our compliance and monitoring procedures, we would send questionnaires to our distributors and wholesalers. This was part of our due diligence process to gather information about their operations, their compliance programs, and to help us assess whether they were maintaining appropriate controls against diversion. It was one of the tools we used in our suspicious order monitoring and customer qualification processes.
+
+[Turn 30]
+Q: Sure. Does this represent that the DEA took enforcement action against two of Mallinckrodt's customers?
+A: Looking at this document, yes, it does appear to represent that the DEA took enforcement action against customers that were Mallinckrodt distributors or wholesalers. The document lists distributors whose licenses were suspended by DEA for not maintaining effective controls against diversion. If these were companies we were distributing to, then yes, the DEA took enforcement action against our customers. This would have been significant information for our compliance team to track since we needed to know when our distribution partners had regulatory issues.
+
+[Turn 31]
+Q: Okay. And it indicates here that you made a request for data.
+A: I'm looking at the document, but I'm not seeing where it specifically indicates that I made a request for data. Could you point me to the specific section you're referring to? I want to make sure I'm looking at the right part of the document before I respond about any data requests that might be attributed to me.
+
+[Turn 32]
+Q: Okay. And are you familiar with the concept of future-dating?
+A: I would need more context about what you mean by future-dating in this specific situation. Are you referring to dating documents or transactions with dates in the future, or some other practice? Without more specifics about what type of future-dating you're asking about and in what context, I can't give you a complete answer about my familiarity with that concept as it relates to our operations.
+
+[Turn 33]
+Q: Was that then or is that now
+A: I'm not sure what you're referring to with "that then or now." Could you clarify what specific item or concept you're asking about the timing of? Are you asking about when something occurred, or when I became familiar with something, or the timeframe of some other matter we've been discussing? I need more context to give you an accurate response.
+
+[Turn 34]
+Q: So just generally speaking, Okay. So fair to say the order factor in analysis of whether a customer had suspicious orders? MR. BERG: Object to form.
+A: Yes, generally speaking, order patterns would be a factor in analyzing whether a customer had suspicious orders. We would look at things like frequency of orders, volume increases, ordering patterns that deviated from what was normal for that type of customer or location. These patterns, along with other factors, would be part of the analysis to determine if orders were suspicious and warranted further investigation or reporting to the DEA.
+
+[Turn 35]
+Q: Do you recognize this document?
+A: I don't see a document in front of me right now that you're asking me to recognize. Could you show me the document you're referring to, or tell me what document you want me to look at? I need to be able to see or have the document identified before I can tell you whether I recognize it or not.
+
+[Turn 36]
+Q: Okay. Ginger writes at the top of the e-mail, "I am assuming these are cash customers." What's the significance, if anything, of customers paying in cash? MR. BERG: Object to form.
+A: Well, cash customers can present higher risk from a diversion standpoint because cash transactions are harder to track and there's less of a paper trail compared to customers who pay through more traditional credit arrangements or electronic transfers. Cash payments, especially for controlled substances, could be a red flag that warrants additional scrutiny because it might indicate someone trying to avoid creating records or operating outside normal business channels. It's one of the factors that would be considered when evaluating whether a customer's ordering patterns might be suspicious.
+
+[Turn 37]
+Q: And this shows that 84 bottles went to ABC in Orlando, Florida?
+A: I need to see the specific document you're referring to before I can confirm what it shows about bottles going to ABC in Orlando, Florida. Without being able to review the document, I can't verify the details about the quantity or the destination you're asking about. Could you show me the document so I can look at what it actually says?
+
+[Turn 38]
+Q: Do you recall who notified you?
+A: I don't recall the specific details of who notified me about this particular situation. Without being able to see the document or having more context about the timeframe and circumstances, I can't tell you specifically who brought this to my attention. It could have been someone from my team, from compliance, or from another department, but I don't have a clear recollection of who specifically notified me about this issue.
+
+[Turn 39]
+Q: Okay. And what, if anything, do you recall that was done after you sent this e-mail?
+A: I don't have a clear recollection of the specific actions that were taken after I sent that email. Without being able to see the email and refresh my memory about what exactly I was addressing in it, I can't tell you what follow-up steps were taken. Generally speaking, when issues like this came up, they would typically be escalated to the appropriate compliance team or other relevant departments for investigation and resolution, but I don't recall the specific details of what happened after this particular communication.
+
+[Turn 40]
+Q: Okay. And at the top of the e-mail thread you write to Jim, "Can you respond to all on copy outlining the corrective actions in place."
+A: Yes, if that's what the email shows, then I was asking Jim to respond to everyone on the email thread and outline what corrective actions were in place to address whatever issue we were dealing with. That would be a typical request when we needed to document and communicate what steps were being taken to resolve a problem or address a compliance concern. I would want everyone involved to understand what corrective measures were being implemented.
+
+[Turn 41]
+Q: In the reports that Jim Rausch reviewed --
+A: I'm sorry, could you complete your question about the reports that Jim Rausch reviewed? You started to ask something but didn't finish the question, so I'm not sure what specifically you want to know about Jim's review of those reports.
+
+[Turn 42]
+Q: Did you take vacation time from your current employer?
+A: Yes, I took vacation time from my current employer to be here for this deposition today. I needed to arrange time off from my current position to participate in these proceedings.
+
+[Turn 43]
+Q: Northeast. Source:  https://www.industrydocuments.ucsf.edu/docs/flnv0249 Hghly Confidential - Subject to Further Confidentiality Review
+A: I can see that this document is marked as highly confidential and subject to further confidentiality review. I can see it mentions Northeast and appears to be from the industry documents database. Without being able to review the full content of this document, I can't provide specific details about what it contains or my involvement with whatever is referenced in it. Could you point me to the specific portions you want me to address?
+
+[Turn 44]
+Q: Would it be higher than people -- than Mr. Santowski?
+A: I'm not clear on what you're asking would be higher than Mr. Santowski. Are you asking about reporting relationships, authority levels, or something else? Could you clarify what specific aspect or measurement you're referring to when you ask if something would be higher than him? I need more context to give you an accurate answer.
+
+[Turn 45]
+Q: than 4 million doses of hydrocodone, phentermine and alprazolam to Internet pharmacies between 2005 to 2008 without reporting the sales to the DEA. Did I read that correctly? Yes. It says: Although Masters reported suspicious orders during the 2005-2008 period in question, the DEA believed that some orders placed by 10 pharmacies should have been reported as suspicious. Did I read that correctly?
+A: Yes, if that's what the document states, then you read it correctly. It appears to be saying that Masters sold over 4 million doses of those controlled substances to internet pharmacies during that timeframe without reporting the sales to the DEA, and that while Masters did report some suspicious orders during that period, the DEA believed that additional orders from 10 pharmacies should have also been reported as suspicious.
+
+[Turn 46]
+Q: Your customer service department was responsible for processing the order lines, right?
+A: Yes, that's correct. The customer service department was responsible for processing order lines. We handled the order entry and processing functions as part of our operations.
+
+[Turn 47]
+Q: And then if you flip to the next page after the chart, this is a continuation of that same e-mail. It says: Jennifer, these orders will certainly set off a flag on your end. Please allow the orders to process. Did I read that correctly?
+A: Yes, if that's what the document shows, then you read it correctly. It appears to be saying that the orders would set off a flag but asking Jennifer to allow the orders to process anyway.
+
+[Turn 48]
+Q: The e-mail starts with an apparently comes from the DEA Public Affairs Restrictions is the subject line. Do you see that?
+A: Yes, I can see that if that's what the email subject line shows - "DEA Public Affairs Restrictions." I can see that's the subject line you're referring to.
+
+[Turn 49]
+Q: Did it ever concern you that
+A: I'm sorry, you started to ask if something ever concerned me, but you didn't complete your question. Could you finish asking what you wanted to know about whether something concerned me?
+
+[Turn 50]
+Q: And then there's a chart here that shows that in 2008, the generic market Source:  https://www.industrydocuments.ucsf.edu/docs/flnv0249 Hghly Confidential - Subject to Further Confidentiality Review Do you see that?
+A: Yes, I can see that you're referring to a chart that shows something about the generic market in 2008, and I can see this is from the same highly confidential document you referenced earlier. Could you point me to the specific information in that chart that you want me to address?

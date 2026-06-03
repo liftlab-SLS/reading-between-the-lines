@@ -1,0 +1,1752 @@
+[
+  {
+    "turn": 1,
+    "question_snippet": "Would you please state and spell your name for the record?",
+    "state_delta": {
+      "C": -0.0088,
+      "K": 0.0,
+      "A": 0.0068,
+      "V": 0.0,
+      "R": 0.0036,
+      "P": 0.0
+    },
+    "state": {
+      "C": 0.6912,
+      "K": 0.3,
+      "A": 0.0568,
+      "V": 0.5,
+      "R": 0.7036,
+      "P": 0.4
+    },
+    "scores": {
+      "consistency": 0.411,
+      "evasion": 0.43,
+      "realism": 0.765,
+      "adversarial": 0.735
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.06 \u00b7 rigidity 0.70"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 2,
+    "question_snippet": "And Mr. Gillies, where do you currently reside? Porter on behalf of Endo and Par",
+    "state_delta": {
+      "C": -0.0079,
+      "K": 0.0,
+      "A": 0.0063,
+      "V": 0.0,
+      "R": 0.0034,
+      "P": -0.0004
+    },
+    "state": {
+      "C": 0.6833,
+      "K": 0.3,
+      "A": 0.0631,
+      "V": 0.5,
+      "R": 0.707,
+      "P": 0.3996
+    },
+    "scores": {
+      "consistency": 0.412,
+      "evasion": 0.43,
+      "realism": 0.77,
+      "adversarial": 0.734
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.06 \u00b7 rigidity 0.71"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 3,
+    "question_snippet": "And have you had your deposition taken before?",
+    "state_delta": {
+      "C": -0.0072,
+      "K": 0.0,
+      "A": 0.0059,
+      "V": 0.0,
+      "R": 0.0033,
+      "P": -0.0007
+    },
+    "state": {
+      "C": 0.6761,
+      "K": 0.3,
+      "A": 0.069,
+      "V": 0.5,
+      "R": 0.7103,
+      "P": 0.3989
+    },
+    "scores": {
+      "consistency": 0.414,
+      "evasion": 0.43,
+      "realism": 0.774,
+      "adversarial": 0.734
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.07 \u00b7 rigidity 0.71"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 4,
+    "question_snippet": "Approximately how many times?",
+    "state_delta": {
+      "C": -0.0065,
+      "K": 0.0,
+      "A": 0.0055,
+      "V": 0.0,
+      "R": 0.0032,
+      "P": -0.001
+    },
+    "state": {
+      "C": 0.6696,
+      "K": 0.3,
+      "A": 0.0745,
+      "V": 0.5,
+      "R": 0.7135,
+      "P": 0.3979
+    },
+    "scores": {
+      "consistency": 0.415,
+      "evasion": 0.43,
+      "realism": 0.778,
+      "adversarial": 0.733
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.07 \u00b7 rigidity 0.71"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 5,
+    "question_snippet": "And was that in connection with your time at FBI or in connection with your time",
+    "state_delta": {
+      "C": -0.0059,
+      "K": 0.0,
+      "A": 0.0052,
+      "V": 0.0,
+      "R": 0.003,
+      "P": -0.0013
+    },
+    "state": {
+      "C": 0.6637,
+      "K": 0.3,
+      "A": 0.0797,
+      "V": 0.5,
+      "R": 0.7165,
+      "P": 0.3966
+    },
+    "scores": {
+      "consistency": 0.417,
+      "evasion": 0.429,
+      "realism": 0.782,
+      "adversarial": 0.733
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.08 \u00b7 rigidity 0.72"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 6,
+    "question_snippet": "Not Mallinckrodt?",
+    "state_delta": {
+      "C": -0.0054,
+      "K": 0.0,
+      "A": 0.0048,
+      "V": 0.0,
+      "R": 0.0029,
+      "P": -0.0016
+    },
+    "state": {
+      "C": 0.6583,
+      "K": 0.3,
+      "A": 0.0845,
+      "V": 0.5,
+      "R": 0.7194,
+      "P": 0.395
+    },
+    "scores": {
+      "consistency": 0.418,
+      "evasion": 0.429,
+      "realism": 0.785,
+      "adversarial": 0.733
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.08 \u00b7 rigidity 0.72"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 7,
+    "question_snippet": "Now, is it accurate to state that Mallinckrodt did not always comply with these ",
+    "state_delta": {
+      "C": -0.0049,
+      "K": 0.0,
+      "A": 0.0045,
+      "V": 0.0,
+      "R": 0.0028,
+      "P": -0.0019
+    },
+    "state": {
+      "C": 0.6534,
+      "K": 0.3,
+      "A": 0.089,
+      "V": 0.5,
+      "R": 0.7222,
+      "P": 0.3931
+    },
+    "scores": {
+      "consistency": 0.419,
+      "evasion": 0.429,
+      "realism": 0.788,
+      "adversarial": 0.732
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.09 \u00b7 rigidity 0.72"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 8,
+    "question_snippet": "So you -- have you seen any documents at all that -- Mallinckrodt documents that",
+    "state_delta": {
+      "C": -0.0044,
+      "K": 0.0,
+      "A": 0.0042,
+      "V": 0.0,
+      "R": 0.0027,
+      "P": -0.0022
+    },
+    "state": {
+      "C": 0.649,
+      "K": 0.3,
+      "A": 0.0932,
+      "V": 0.5,
+      "R": 0.7249,
+      "P": 0.3909
+    },
+    "scores": {
+      "consistency": 0.421,
+      "evasion": 0.428,
+      "realism": 0.791,
+      "adversarial": 0.732
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.09 \u00b7 rigidity 0.72"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 9,
+    "question_snippet": "It would not be accurate to say that?",
+    "state_delta": {
+      "C": -0.004,
+      "K": 0.0,
+      "A": 0.0039,
+      "V": 0.0,
+      "R": 0.0026,
+      "P": -0.0025
+    },
+    "state": {
+      "C": 0.645,
+      "K": 0.3,
+      "A": 0.0971,
+      "V": 0.5,
+      "R": 0.7275,
+      "P": 0.3884
+    },
+    "scores": {
+      "consistency": 0.422,
+      "evasion": 0.428,
+      "realism": 0.793,
+      "adversarial": 0.732
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.10 \u00b7 rigidity 0.73"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 10,
+    "question_snippet": "And to be clear, Mallinckrodt distinguished between a peculiar order and a suspi",
+    "state_delta": {
+      "C": -0.0037,
+      "K": 0.0,
+      "A": 0.0037,
+      "V": 0.0,
+      "R": 0.0024,
+      "P": -0.0027
+    },
+    "state": {
+      "C": 0.6413,
+      "K": 0.3,
+      "A": 0.1008,
+      "V": 0.5,
+      "R": 0.7299,
+      "P": 0.3857
+    },
+    "scores": {
+      "consistency": 0.423,
+      "evasion": 0.427,
+      "realism": 0.795,
+      "adversarial": 0.732
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.10 \u00b7 rigidity 0.73"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 11,
+    "question_snippet": "Do you know -- do you have any understanding of whether or not she was the team ",
+    "state_delta": {
+      "C": -0.0033,
+      "K": 0.0,
+      "A": 0.0034,
+      "V": 0.0,
+      "R": 0.0023,
+      "P": -0.0029
+    },
+    "state": {
+      "C": 0.638,
+      "K": 0.3,
+      "A": 0.1042,
+      "V": 0.5,
+      "R": 0.7322,
+      "P": 0.3828
+    },
+    "scores": {
+      "consistency": 0.424,
+      "evasion": 0.427,
+      "realism": 0.797,
+      "adversarial": 0.731
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.10 \u00b7 rigidity 0.73"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 12,
+    "question_snippet": "You did not? Okay. Is it accurate -- regardless of whether or not you reviewed t",
+    "state_delta": {
+      "C": -0.003,
+      "K": 0.0,
+      "A": 0.0032,
+      "V": 0.0,
+      "R": 0.0022,
+      "P": -0.0031
+    },
+    "state": {
+      "C": 0.635,
+      "K": 0.3,
+      "A": 0.1074,
+      "V": 0.5,
+      "R": 0.7344,
+      "P": 0.3797
+    },
+    "scores": {
+      "consistency": 0.425,
+      "evasion": 0.426,
+      "realism": 0.799,
+      "adversarial": 0.731
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.11 \u00b7 rigidity 0.73"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 13,
+    "question_snippet": "And then going back to the Draft 3 that we were discussing a moment ago.",
+    "state_delta": {
+      "C": -0.0027,
+      "K": 0.0,
+      "A": 0.003,
+      "V": 0.0,
+      "R": 0.0022,
+      "P": -0.0033
+    },
+    "state": {
+      "C": 0.6323,
+      "K": 0.3,
+      "A": 0.1104,
+      "V": 0.5,
+      "R": 0.7366,
+      "P": 0.3764
+    },
+    "scores": {
+      "consistency": 0.426,
+      "evasion": 0.425,
+      "realism": 0.801,
+      "adversarial": 0.731
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.11 \u00b7 rigidity 0.74"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 14,
+    "question_snippet": "So this particular document dated 11-4-2009 regarding Mallinckrodt's controlled ",
+    "state_delta": {
+      "C": -0.0025,
+      "K": 0.0,
+      "A": 0.0028,
+      "V": 0.0,
+      "R": 0.0021,
+      "P": -0.0035
+    },
+    "state": {
+      "C": 0.6298,
+      "K": 0.3,
+      "A": 0.1132,
+      "V": 0.5,
+      "R": 0.7387,
+      "P": 0.3729
+    },
+    "scores": {
+      "consistency": 0.427,
+      "evasion": 0.425,
+      "realism": 0.802,
+      "adversarial": 0.731
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.11 \u00b7 rigidity 0.74"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 15,
+    "question_snippet": "And is it your testimony that Mallinckrodt did in fact have a formal written pol",
+    "state_delta": {
+      "C": -0.0023,
+      "K": 0.0,
+      "A": 0.0026,
+      "V": 0.0,
+      "R": 0.002,
+      "P": -0.0036
+    },
+    "state": {
+      "C": 0.6275,
+      "K": 0.3,
+      "A": 0.1158,
+      "V": 0.5,
+      "R": 0.7407,
+      "P": 0.3693
+    },
+    "scores": {
+      "consistency": 0.428,
+      "evasion": 0.424,
+      "realism": 0.803,
+      "adversarial": 0.731
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.12 \u00b7 rigidity 0.74"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 16,
+    "question_snippet": "And by largest customers you mean ABC, McKesson, Cardinal, and H.D. Smith?",
+    "state_delta": {
+      "C": -0.002,
+      "K": 0.0,
+      "A": 0.0025,
+      "V": 0.0,
+      "R": 0.0019,
+      "P": -0.0038
+    },
+    "state": {
+      "C": 0.6255,
+      "K": 0.3,
+      "A": 0.1183,
+      "V": 0.5,
+      "R": 0.7426,
+      "P": 0.3655
+    },
+    "scores": {
+      "consistency": 0.429,
+      "evasion": 0.423,
+      "realism": 0.805,
+      "adversarial": 0.73
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.12 \u00b7 rigidity 0.74"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 17,
+    "question_snippet": "-- 24. And for the record, this document ends in Bates 511246, and it is titled ",
+    "state_delta": {
+      "C": -0.0019,
+      "K": 0.0,
+      "A": 0.0023,
+      "V": 0.0,
+      "R": 0.0018,
+      "P": -0.0039
+    },
+    "state": {
+      "C": 0.6236,
+      "K": 0.3,
+      "A": 0.1206,
+      "V": 0.5,
+      "R": 0.7444,
+      "P": 0.3616
+    },
+    "scores": {
+      "consistency": 0.43,
+      "evasion": 0.422,
+      "realism": 0.806,
+      "adversarial": 0.73
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.12 \u00b7 rigidity 0.74"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 18,
+    "question_snippet": "Going back to Buzzeo. When were they retained, and for approximately how long? M",
+    "state_delta": {
+      "C": -0.0017,
+      "K": 0.0,
+      "A": 0.0022,
+      "V": 0.0,
+      "R": 0.0017,
+      "P": -0.004
+    },
+    "state": {
+      "C": 0.6219,
+      "K": 0.3,
+      "A": 0.1228,
+      "V": 0.5,
+      "R": 0.7461,
+      "P": 0.3576
+    },
+    "scores": {
+      "consistency": 0.431,
+      "evasion": 0.422,
+      "realism": 0.807,
+      "adversarial": 0.73
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.12 \u00b7 rigidity 0.75"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 19,
+    "question_snippet": "So are you aware of any 2017 subpoena by the Department of Justice regarding Mal",
+    "state_delta": {
+      "C": -0.0015,
+      "K": 0.0,
+      "A": 0.002,
+      "V": 0.0,
+      "R": 0.0017,
+      "P": -0.0041
+    },
+    "state": {
+      "C": 0.6204,
+      "K": 0.3,
+      "A": 0.1248,
+      "V": 0.5,
+      "R": 0.7478,
+      "P": 0.3535
+    },
+    "scores": {
+      "consistency": 0.431,
+      "evasion": 0.421,
+      "realism": 0.808,
+      "adversarial": 0.73
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.12 \u00b7 rigidity 0.75"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 20,
+    "question_snippet": "And which -- the same procedures we were kind of discussing before?",
+    "state_delta": {
+      "C": -0.0014,
+      "K": 0.0,
+      "A": 0.0019,
+      "V": 0.0,
+      "R": 0.0016,
+      "P": -0.0042
+    },
+    "state": {
+      "C": 0.619,
+      "K": 0.3,
+      "A": 0.1267,
+      "V": 0.5,
+      "R": 0.7494,
+      "P": 0.3493
+    },
+    "scores": {
+      "consistency": 0.432,
+      "evasion": 0.42,
+      "realism": 0.809,
+      "adversarial": 0.73
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.13 \u00b7 rigidity 0.75"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 21,
+    "question_snippet": "What about specific investigations of potential diversion of opioids in Tennesse",
+    "state_delta": {
+      "C": -0.0013,
+      "K": 0.0,
+      "A": 0.0018,
+      "V": 0.0,
+      "R": 0.0015,
+      "P": -0.0043
+    },
+    "state": {
+      "C": 0.6177,
+      "K": 0.3,
+      "A": 0.1285,
+      "V": 0.5,
+      "R": 0.7509,
+      "P": 0.345
+    },
+    "scores": {
+      "consistency": 0.433,
+      "evasion": 0.419,
+      "realism": 0.809,
+      "adversarial": 0.73
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.13 \u00b7 rigidity 0.75"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 22,
+    "question_snippet": "When we all get over a certain age, it makes it difficult to see. Okay. Okay. If",
+    "state_delta": {
+      "C": -0.0011,
+      "K": 0.0,
+      "A": 0.0016,
+      "V": 0.0,
+      "R": 0.0015,
+      "P": -0.004
+    },
+    "state": {
+      "C": 0.6166,
+      "K": 0.3,
+      "A": 0.1301,
+      "V": 0.5,
+      "R": 0.7524,
+      "P": 0.341
+    },
+    "scores": {
+      "consistency": 0.434,
+      "evasion": 0.418,
+      "realism": 0.81,
+      "adversarial": 0.73
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.13 \u00b7 rigidity 0.75"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 23,
+    "question_snippet": "Complaints about there being a pill mill someplace? Source:  https://www.industr",
+    "state_delta": {
+      "C": -0.001,
+      "K": 0.0,
+      "A": 0.0015,
+      "V": 0.0,
+      "R": 0.0014,
+      "P": -0.0038
+    },
+    "state": {
+      "C": 0.6156,
+      "K": 0.3,
+      "A": 0.1316,
+      "V": 0.5,
+      "R": 0.7538,
+      "P": 0.3372
+    },
+    "scores": {
+      "consistency": 0.434,
+      "evasion": 0.417,
+      "realism": 0.811,
+      "adversarial": 0.73
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.13 \u00b7 rigidity 0.75"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 24,
+    "question_snippet": "So Mr. Gillies, why did you leave the FBI?",
+    "state_delta": {
+      "C": -0.0086,
+      "K": 0.0,
+      "A": 0.007,
+      "V": 0.0,
+      "R": 0.0043,
+      "P": -0.0096
+    },
+    "state": {
+      "C": 0.607,
+      "K": 0.3,
+      "A": 0.1386,
+      "V": 0.5,
+      "R": 0.7581,
+      "P": 0.3276
+    },
+    "scores": {
+      "consistency": 0.436,
+      "evasion": 0.416,
+      "realism": 0.816,
+      "adversarial": 0.729
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.14 \u00b7 rigidity 0.76"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.2,
+    "question_type": "open"
+  },
+  {
+    "turn": 25,
+    "question_snippet": "And they are a customer of Mallinckrodt, are they not?",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": 0.001,
+      "V": 0.0,
+      "R": 0.0012,
+      "P": -0.003
+    },
+    "state": {
+      "C": 0.6069,
+      "K": 0.3,
+      "A": 0.1396,
+      "V": 0.5,
+      "R": 0.7593,
+      "P": 0.3246
+    },
+    "scores": {
+      "consistency": 0.437,
+      "evasion": 0.415,
+      "realism": 0.816,
+      "adversarial": 0.729
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.14 \u00b7 rigidity 0.76"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 26,
+    "question_snippet": "This is based on Exhibit 42.",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": 0.0009,
+      "V": 0.0,
+      "R": 0.0011,
+      "P": -0.0028
+    },
+    "state": {
+      "C": 0.6068,
+      "K": 0.3,
+      "A": 0.1405,
+      "V": 0.5,
+      "R": 0.7604,
+      "P": 0.3218
+    },
+    "scores": {
+      "consistency": 0.437,
+      "evasion": 0.414,
+      "realism": 0.816,
+      "adversarial": 0.729
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.14 \u00b7 rigidity 0.76"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 27,
+    "question_snippet": "Well, so let me rephrase that question.",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": 0.0009,
+      "V": 0.0,
+      "R": 0.0011,
+      "P": -0.0027
+    },
+    "state": {
+      "C": 0.6067,
+      "K": 0.3,
+      "A": 0.1414,
+      "V": 0.5,
+      "R": 0.7615,
+      "P": 0.3191
+    },
+    "scores": {
+      "consistency": 0.438,
+      "evasion": 0.414,
+      "realism": 0.816,
+      "adversarial": 0.729
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.14 \u00b7 rigidity 0.76"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 28,
+    "question_snippet": "And would that have been a general practice, or was it one that you applied only",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": 0.0008,
+      "V": 0.0,
+      "R": 0.001,
+      "P": -0.0025
+    },
+    "state": {
+      "C": 0.6066,
+      "K": 0.3,
+      "A": 0.1422,
+      "V": 0.5,
+      "R": 0.7625,
+      "P": 0.3166
+    },
+    "scores": {
+      "consistency": 0.438,
+      "evasion": 0.413,
+      "realism": 0.816,
+      "adversarial": 0.729
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.14 \u00b7 rigidity 0.76"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 29,
+    "question_snippet": "It's oxycodone, it's oxy 15 and oxy 30s?",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": 0.0008,
+      "V": 0.0,
+      "R": 0.001,
+      "P": -0.0024
+    },
+    "state": {
+      "C": 0.6065,
+      "K": 0.3,
+      "A": 0.143,
+      "V": 0.5,
+      "R": 0.7635,
+      "P": 0.3142
+    },
+    "scores": {
+      "consistency": 0.439,
+      "evasion": 0.413,
+      "realism": 0.816,
+      "adversarial": 0.729
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.14 \u00b7 rigidity 0.76"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 30,
+    "question_snippet": "So based on these three e-mails, you have a new customer, Sunrise, that is order",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": 0.0007,
+      "V": 0.0,
+      "R": 0.0009,
+      "P": -0.0022
+    },
+    "state": {
+      "C": 0.6064,
+      "K": 0.3,
+      "A": 0.1437,
+      "V": 0.5,
+      "R": 0.7644,
+      "P": 0.312
+    },
+    "scores": {
+      "consistency": 0.439,
+      "evasion": 0.412,
+      "realism": 0.816,
+      "adversarial": 0.729
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.14 \u00b7 rigidity 0.76"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 31,
+    "question_snippet": "The cover e-mail indicates that this is -- or the subject matter -- or the subje",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": 0.0007,
+      "V": 0.0,
+      "R": 0.0009,
+      "P": -0.0021
+    },
+    "state": {
+      "C": 0.6063,
+      "K": 0.3,
+      "A": 0.1444,
+      "V": 0.5,
+      "R": 0.7653,
+      "P": 0.3099
+    },
+    "scores": {
+      "consistency": 0.44,
+      "evasion": 0.412,
+      "realism": 0.816,
+      "adversarial": 0.729
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.14 \u00b7 rigidity 0.77"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 32,
+    "question_snippet": "She says to -- she writes to Jennifer, thank you very much. I have another quest",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": 0.0006,
+      "V": 0.0,
+      "R": 0.0009,
+      "P": -0.002
+    },
+    "state": {
+      "C": 0.6062,
+      "K": 0.3,
+      "A": 0.145,
+      "V": 0.5,
+      "R": 0.7662,
+      "P": 0.3079
+    },
+    "scores": {
+      "consistency": 0.44,
+      "evasion": 0.412,
+      "realism": 0.816,
+      "adversarial": 0.729
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.14 \u00b7 rigidity 0.77"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 33,
+    "question_snippet": "And for how long?",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": 0.0006,
+      "V": 0.0,
+      "R": 0.0008,
+      "P": -0.0019
+    },
+    "state": {
+      "C": 0.6061,
+      "K": 0.3,
+      "A": 0.1456,
+      "V": 0.5,
+      "R": 0.767,
+      "P": 0.306
+    },
+    "scores": {
+      "consistency": 0.44,
+      "evasion": 0.411,
+      "realism": 0.816,
+      "adversarial": 0.729
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.15 \u00b7 rigidity 0.77"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 34,
+    "question_snippet": "And you didn't go -- you said you don't think you went to the --",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": 0.0005,
+      "V": 0.0,
+      "R": 0.0008,
+      "P": -0.0017
+    },
+    "state": {
+      "C": 0.606,
+      "K": 0.3,
+      "A": 0.1461,
+      "V": 0.5,
+      "R": 0.7678,
+      "P": 0.3043
+    },
+    "scores": {
+      "consistency": 0.441,
+      "evasion": 0.411,
+      "realism": 0.816,
+      "adversarial": 0.729
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.15 \u00b7 rigidity 0.77"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 35,
+    "question_snippet": "Do you recall ever receiving another e-mail like this from anyone -- Ms. McKenzi",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": 0.0005,
+      "V": 0.0,
+      "R": 0.0008,
+      "P": -0.0016
+    },
+    "state": {
+      "C": 0.6059,
+      "K": 0.3,
+      "A": 0.1466,
+      "V": 0.5,
+      "R": 0.7686,
+      "P": 0.3027
+    },
+    "scores": {
+      "consistency": 0.441,
+      "evasion": 0.411,
+      "realism": 0.816,
+      "adversarial": 0.729
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.15 \u00b7 rigidity 0.77"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 36,
+    "question_snippet": "And when did you provide the name of Mark Murphy to the DEA?",
+    "state_delta": {
+      "C": -0.0076,
+      "K": 0.0,
+      "A": 0.0058,
+      "V": 0.0,
+      "R": 0.0035,
+      "P": -0.007
+    },
+    "state": {
+      "C": 0.5983,
+      "K": 0.3,
+      "A": 0.1524,
+      "V": 0.5,
+      "R": 0.7721,
+      "P": 0.2957
+    },
+    "scores": {
+      "consistency": 0.443,
+      "evasion": 0.409,
+      "realism": 0.821,
+      "adversarial": 0.729
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.15 \u00b7 rigidity 0.77"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.2,
+    "question_type": "open"
+  },
+  {
+    "turn": 37,
+    "question_snippet": "Look at Page -- the one that ends 9707.",
+    "state_delta": {
+      "C": 0.0007,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0,
+      "R": 0.0006,
+      "P": -0.0012
+    },
+    "state": {
+      "C": 0.599,
+      "K": 0.3,
+      "A": 0.1525,
+      "V": 0.5,
+      "R": 0.7727,
+      "P": 0.2945
+    },
+    "scores": {
+      "consistency": 0.443,
+      "evasion": 0.409,
+      "realism": 0.821,
+      "adversarial": 0.729
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.15 \u00b7 rigidity 0.77"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 38,
+    "question_snippet": "Did you hear anything about Geraldo Rivera going to Celina, Tennessee, recently?",
+    "state_delta": {
+      "C": 0.0006,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0,
+      "R": 0.0005,
+      "P": -0.0011
+    },
+    "state": {
+      "C": 0.5996,
+      "K": 0.3,
+      "A": 0.1526,
+      "V": 0.5,
+      "R": 0.7732,
+      "P": 0.2934
+    },
+    "scores": {
+      "consistency": 0.443,
+      "evasion": 0.409,
+      "realism": 0.82,
+      "adversarial": 0.729
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.15 \u00b7 rigidity 0.77"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 39,
+    "question_snippet": "To help them make a decision?",
+    "state_delta": {
+      "C": 0.0005,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0,
+      "R": 0.0005,
+      "P": -0.001
+    },
+    "state": {
+      "C": 0.6001,
+      "K": 0.3,
+      "A": 0.1527,
+      "V": 0.5,
+      "R": 0.7737,
+      "P": 0.2924
+    },
+    "scores": {
+      "consistency": 0.444,
+      "evasion": 0.408,
+      "realism": 0.82,
+      "adversarial": 0.729
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.15 \u00b7 rigidity 0.77"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 40,
+    "question_snippet": "Which is the failure prior to 2012 to follow the directives that were given to y",
+    "state_delta": {
+      "C": 0.0005,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0,
+      "R": 0.0005,
+      "P": -0.001
+    },
+    "state": {
+      "C": 0.6006,
+      "K": 0.3,
+      "A": 0.1528,
+      "V": 0.5,
+      "R": 0.7742,
+      "P": 0.2914
+    },
+    "scores": {
+      "consistency": 0.444,
+      "evasion": 0.408,
+      "realism": 0.82,
+      "adversarial": 0.729
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.15 \u00b7 rigidity 0.77"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 41,
+    "question_snippet": "So did you talk to the DEA in that case Source:  https://www.industrydocuments.u",
+    "state_delta": {
+      "C": 0.0004,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0,
+      "R": 0.0005,
+      "P": -0.0009
+    },
+    "state": {
+      "C": 0.601,
+      "K": 0.3,
+      "A": 0.1529,
+      "V": 0.5,
+      "R": 0.7747,
+      "P": 0.2905
+    },
+    "scores": {
+      "consistency": 0.444,
+      "evasion": 0.408,
+      "realism": 0.819,
+      "adversarial": 0.729
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.15 \u00b7 rigidity 0.77"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 42,
+    "question_snippet": "-- being advised -- or advising DI Hamilton that Mallinckrodt utilizes 69,000 as",
+    "state_delta": {
+      "C": 0.0004,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0,
+      "R": 0.0005,
+      "P": -0.0008
+    },
+    "state": {
+      "C": 0.6014,
+      "K": 0.3,
+      "A": 0.153,
+      "V": 0.5,
+      "R": 0.7752,
+      "P": 0.2897
+    },
+    "scores": {
+      "consistency": 0.444,
+      "evasion": 0.408,
+      "realism": 0.819,
+      "adversarial": 0.729
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.15 \u00b7 rigidity 0.78"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 43,
+    "question_snippet": "Do you know if Mallinckrodt ever reported the Bearden clinic to law enforcement?",
+    "state_delta": {
+      "C": 0.0004,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0,
+      "R": 0.0004,
+      "P": -0.0008
+    },
+    "state": {
+      "C": 0.6018,
+      "K": 0.3,
+      "A": 0.1531,
+      "V": 0.5,
+      "R": 0.7756,
+      "P": 0.2889
+    },
+    "scores": {
+      "consistency": 0.445,
+      "evasion": 0.408,
+      "realism": 0.819,
+      "adversarial": 0.729
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.15 \u00b7 rigidity 0.78"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 44,
+    "question_snippet": "Do you see that this is an e-mail from Bill de Gutierrez-Mahoney to Jennifer Bui",
+    "state_delta": {
+      "C": 0.0003,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0004,
+      "P": -0.0008
+    },
+    "state": {
+      "C": 0.6021,
+      "K": 0.3,
+      "A": 0.1531,
+      "V": 0.5,
+      "R": 0.776,
+      "P": 0.2881
+    },
+    "scores": {
+      "consistency": 0.445,
+      "evasion": 0.408,
+      "realism": 0.819,
+      "adversarial": 0.729
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.15 \u00b7 rigidity 0.78"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 45,
+    "question_snippet": "And what did they say?",
+    "state_delta": {
+      "C": 0.0003,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0004,
+      "P": -0.0007
+    },
+    "state": {
+      "C": 0.6024,
+      "K": 0.3,
+      "A": 0.1531,
+      "V": 0.5,
+      "R": 0.7764,
+      "P": 0.2874
+    },
+    "scores": {
+      "consistency": 0.445,
+      "evasion": 0.407,
+      "realism": 0.819,
+      "adversarial": 0.729
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.15 \u00b7 rigidity 0.78"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 46,
+    "question_snippet": "Do you see that in this document that your memo of October 5th, 2012, you note a",
+    "state_delta": {
+      "C": 0.0003,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0004,
+      "P": -0.0007
+    },
+    "state": {
+      "C": 0.6027,
+      "K": 0.3,
+      "A": 0.1531,
+      "V": 0.5,
+      "R": 0.7768,
+      "P": 0.2867
+    },
+    "scores": {
+      "consistency": 0.445,
+      "evasion": 0.407,
+      "realism": 0.818,
+      "adversarial": 0.729
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.15 \u00b7 rigidity 0.78"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 47,
+    "question_snippet": "And so where would the identified order come in? Who would look at it first afte",
+    "state_delta": {
+      "C": 0.0003,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0004,
+      "P": -0.0006
+    },
+    "state": {
+      "C": 0.603,
+      "K": 0.3,
+      "A": 0.1531,
+      "V": 0.5,
+      "R": 0.7772,
+      "P": 0.2861
+    },
+    "scores": {
+      "consistency": 0.445,
+      "evasion": 0.407,
+      "realism": 0.818,
+      "adversarial": 0.729
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.15 \u00b7 rigidity 0.78"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 48,
+    "question_snippet": "And do you see this follows her e-mail saying Scott, as this is a new item, we'r",
+    "state_delta": {
+      "C": 0.0002,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0004,
+      "P": -0.0006
+    },
+    "state": {
+      "C": 0.6032,
+      "K": 0.3,
+      "A": 0.1531,
+      "V": 0.5,
+      "R": 0.7776,
+      "P": 0.2855
+    },
+    "scores": {
+      "consistency": 0.445,
+      "evasion": 0.407,
+      "realism": 0.818,
+      "adversarial": 0.729
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.15 \u00b7 rigidity 0.78"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 49,
+    "question_snippet": "And she says Steve, we had a Dakota drug order on U2 hold for Oxycodone HCL five",
+    "state_delta": {
+      "C": 0.0002,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0003,
+      "P": -0.0006
+    },
+    "state": {
+      "C": 0.6034,
+      "K": 0.3,
+      "A": 0.1531,
+      "V": 0.5,
+      "R": 0.7779,
+      "P": 0.2849
+    },
+    "scores": {
+      "consistency": 0.446,
+      "evasion": 0.407,
+      "realism": 0.818,
+      "adversarial": 0.729
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.15 \u00b7 rigidity 0.78"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 50,
+    "question_snippet": "Do you see it? MR. BUEKER: Objection to scope.",
+    "state_delta": {
+      "C": 0.0002,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0003,
+      "P": -0.0005
+    },
+    "state": {
+      "C": 0.6036,
+      "K": 0.3,
+      "A": 0.1531,
+      "V": 0.5,
+      "R": 0.7782,
+      "P": 0.2844
+    },
+    "scores": {
+      "consistency": 0.446,
+      "evasion": 0.407,
+      "realism": 0.818,
+      "adversarial": 0.729
+    },
+    "events": [
+      {
+        "label": "WITNESS COMBATIVE",
+        "detail": "agreeableness 0.15 \u00b7 rigidity 0.78"
+      }
+    ],
+    "tone": "hostile, firm, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  }
+]

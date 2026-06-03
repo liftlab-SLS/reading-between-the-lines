@@ -1,0 +1,205 @@
+WITNESS: James Rausch
+ARCHETYPE: Forgetful
+INITIAL STATE: {'C': 0.4, 'K': 0.5, 'A': 0.6, 'V': 0.4, 'R': 0.3, 'P': 0.3}
+FINAL STATE:   {'C': 0.3464, 'K': 0.5, 'A': 0.5776, 'V': 0.4, 'R': 0.4765, 'P': 0.216}
+======================================================================
+
+[Turn 1]
+Q: Good morning, Mr. Rausch.
+A: Good morning. Yes, good morning.
+
+[Turn 2]
+Q: Thank you for being here today. So my name is Dean, and my colleagues are Gary and Erika. I'm going to plan to take a break probably around every hour, but if you need one earlier, just please let me know.
+A: Yes, that's... that's fine. Thank you. I appreciate that.
+
+[Turn 3]
+Q: Could you please state your name and business address?
+A: James Rausch. My business address... well, I'm retired now, so I don't really have a business address anymore. When I was working, it was Mallinckrodt Pharmaceuticals in St. Louis, Missouri. But that was... that was several years ago now. I retired in 2013.
+
+[Turn 4]
+Q: And you understand that you're under oath, right, sir?
+A: Yes, yes I do. I understand I'm under oath. I'll tell the truth.
+
+[Turn 5]
+Q: And are you taking any Source:  https://www.industrydocuments.ucsf.edu/docs/gxpd0246 medications, or is there any other reason that would interfere with your ability to answer my questions fully and truthfully?
+A: No, no medications that would... I mean, I take some blood pressure medication, but nothing that would affect my thinking or my memory. I should be able to answer your questions fine. I'm just... this is a little nerve-wracking, you know, but I can answer truthfully.
+
+[Turn 6]
+Q: Thank you. And if I ask a question you don't understand, please let me know and I will try to rephrase it.
+A: Yes, I will. I'll let you know if I don't understand something. That's... that's fair.
+
+[Turn 7]
+Q: So I just want to make sure that I've got the timing correct. So in '91 you became a manager and -- you became a manager of the acetaminophen customer service group, the specialty chemical group and the bulk narcotic group; is that correct?
+A: Well, let me think about that. In '91... yes, I believe that's right. I became a manager and I had responsibility for those different product lines - the acetaminophen, the specialty chemicals, and the bulk narcotics. That sounds correct, though the exact timing of when I got which responsibilities, sometimes it's hard to remember precisely. But yes, around 1991 I did become a manager over those groups.
+
+[Turn 8]
+Q: What does that term mean to you?
+A: Which term? The... which one are you asking about? Manager or one of the product groups? I want to make sure I understand what you're asking.
+
+[Turn 9]
+Q: Okay. So you've heard that -- you've heard there's an opioid epidemic?
+A: Yes, of course. Yes, I've heard about the opioid epidemic. It's been in the news for years now. Very serious problem. I understand that.
+
+[Turn 10]
+Q: It submits a 222 form to Mallinckrodt asking to buy ten pills. How does Mallinckrodt know that those ten pills don't exceed the hundred-pill quota?
+A: I'm... I'm not sure I understand the question. You're talking about a 222 form and ten pills and a hundred-pill quota? I'm not following the context here. Could you rephrase that or give me more background? Because I'm not sure what specific situation you're referring to with those numbers.
+
+[Turn 11]
+Q: Okay. So looking at these -- I guess the remaining ten questions, in an effort to try to truncate things, would you agree that all of these questions, as applied to Mallinckrodt's customers, are important information for Mallinckrodt to have in assessing whether an order is peculiar? MR. TSAI: Object to the form. THE WITNESS: No, not all of them would apply to our business of selling to the distributors. QUESTIONS BY MR. KAWAMOTO:
+A: I'm sorry, I'm confused. You're reading something that seems to be from a transcript with questions and objections and... are you asking me about something specific? I'm not sure what you want me to respond to here. Could you just ask me a direct question about what you want to know? Because I'm having trouble following what you're getting at with all that.
+
+[Turn 12]
+Q: And do you understand what that Source:  https://www.industrydocuments.ucsf.edu/docs/gxpd0246
+A: I'm sorry, you cut off there. Do I understand what? You said "do you understand what that" and then you stopped. What are you asking me about?
+
+[Turn 13]
+Q: And what is your basis for that just kept changing. If an order was placed in May, we would look from April through
+A: I'm sorry, you're... you're cutting off your sentences. You started to say something about a basis for something that kept changing, and then something about an order in May and looking from April through... April through what? I need you to finish your question so I can understand what you're asking me.
+
+[Turn 14]
+Q: So would have been after this presentation, but --
+A: I'm sorry, but you're not finishing your sentences again. You said "so would have been after this presentation, but" and then you stopped. What presentation? After what presentation? I need you to complete your question so I can try to answer it properly.
+
+[Turn 15]
+Q: And it says, "Performs Dun & Bradstreet and/or other information checks on new controlled substance customers to determine credit worthiness." Was this part of the enhanced SOM program for dosage products?
+A: Well, yes, we did do credit checks on new customers. Dun & Bradstreet checks were standard business practice to make sure customers were creditworthy before we'd extend terms to them. Whether that was specifically part of what you're calling the "enhanced SOM program" for dosage products... I'd have to see what document you're reading from to know exactly what that refers to. But yes, credit checks were definitely something we did for new controlled substance customers.
+
+[Turn 16]
+Q: Okay. And in terms of assessing whether an order was peculiar or unusual, was there a set of -- was there a written standard that they were supposed to apply or a set of factors they were supposed to look to?
+A: Well, there were... there were guidelines, yes. We had procedures for looking at orders that seemed out of the ordinary. Things like sudden increases in volume from a customer, orders that were much larger than their historical patterns, that sort of thing. Whether there was one specific written document that laid out every factor... I'm not sure I can remember all the details of exactly how it was documented. But yes, we did have standards for identifying orders that looked unusual or suspicious.
+
+[Turn 17]
+Q: Okay. Do you recall how many entities were put on this list in the 2008 through 2013 time period?
+A: I... what list are you referring to? You haven't told me what specific list you're asking about. Are you talking about a customer list, a suspicious order list? I need to know what list you mean before I can answer how many entities were on it.
+
+[Turn 18]
+Q: So this means that you would have separate algorithms depending on the class of customer?
+A: Yes, that's... that sounds right. We would have different approaches for different types of customers. A chain pharmacy would be different from an independent pharmacy, which would be different from a distributor or a hospital. They all had different business models, different ordering patterns, so yes, we would need different ways to evaluate what was normal for each type of customer. You couldn't use the same algorithm for everyone because their businesses were so different.
+
+[Turn 19]
+Q: Okay. And so did they come out twice daily?
+A: Did what come out twice daily? I'm sorry, you're asking about something coming out twice daily but you haven't told me what "they" refers to. Are you talking about reports, shipments, something else? I need more context to answer that.
+
+[Turn 20]
+Q: Now, prior to 2010, did you have access to the chargeback data?
+A: No, I don't believe I had regular access to chargeback data prior to 2010. That was more on the financial side, handled by accounting and billing departments. My role was more focused on the customer service and order management side of things. If I needed chargeback information for something specific, I might have been able to get it, but it wasn't part of my regular day-to-day information that I would see.
+
+[Turn 21]
+Q: But you don't know if anything
+A: You didn't finish your question. You said "But you don't know if anything" and then stopped. I don't know if anything what? Could you complete the question please?
+
+[Turn 22]
+Q: Okay. And you would also agree that these four factors are not captured by numeric formula?
+A: I'm sorry, what four factors? You're asking me about four factors but you haven't told me what they are. I can't agree or disagree about whether they're captured by a numeric formula if I don't know what factors you're referring to. Could you tell me what the four factors are that you're asking about?
+
+[Turn 23]
+Q: So there was no formal, separate report or memo that was prepared?
+A: No formal report or memo about what? You're asking me about whether there was a formal report or memo but you haven't told me what it would be about. Was this supposed to be about suspicious orders, about customers, about something else? I need to know what kind of report or memo you're asking about before I can tell you whether we prepared one or not.
+
+[Turn 24]
+Q: And what do you understand her to be saying with that?
+A: I'm sorry, what do I understand who to be saying? You're asking me about someone saying something, but you haven't told me who "her" is or what she said. I can't tell you what I understand someone to be saying if I don't know who you're talking about or what they said. Could you give me more context?
+
+[Turn 25]
+Q: Okay. Mr. Rausch, have you ever been to Tennessee?
+A: Yes, I've been to Tennessee. We had business there, customers in Tennessee that I would visit from time to time as part of my job responsibilities. I traveled to various states for business purposes over the years.
+
+[Turn 26]
+Q: Did the suspicious order monitoring team discuss red flags that could have indicated diversion in Tennessee with you, or was there a discussion amongst the team?
+A: I... well, if there were discussions about red flags or diversion concerns in Tennessee specifically, I might have been aware of some of that, but I can't recall the specific details of those conversations right now. The suspicious order monitoring team would have looked at patterns and concerns across all our markets, including Tennessee. Whether there was a particular discussion focused just on Tennessee... I'd need to see documentation or have my memory refreshed about what specific concerns we were talking about.
+
+[Turn 27]
+Q: Okay. Did you have any involvement with Sunrise Wholesale while you were at Mallinckrodt?
+A: Sunrise Wholesale... yes, that name sounds familiar. They were one of our customers, I believe. I would have had some involvement with them as part of my customer service management role, but I can't recall all the specific details of our relationship with them right now. What particular aspect of Sunrise Wholesale are you asking about?
+
+[Turn 28]
+Q: Mr. Rausch, do you recall your testimony earlier today regarding Mr. Howard Source:  https://www.industrydocuments.ucsf.edu/docs/gxpd0246 Davis?
+A: I'm sorry, I don't recall giving testimony earlier today about someone named Howard Davis. Are you sure you have the right person? Or are you referring to a different proceeding? I'm a bit confused about what testimony you're referring to regarding Mr. Davis.
+
+[Turn 29]
+Q: And so no one else was present other than --
+A: Other than who? You started to ask about who else was present but you didn't finish the question. Present where, and other than whom? I need you to complete the question so I can answer what you're asking about.
+
+[Turn 30]
+Q: And the $90,000, was this -- was this more or less your base salary for the 2008 to 2013 time period?
+A: Well, the ninety thousand... that sounds about right for my base salary during that period, yes. That would be in the ballpark of what my base salary was from 2008 to 2013. Of course, there was also bonus compensation on top of that, but the base salary figure you mentioned, that's approximately correct for those years.
+
+[Turn 31]
+Q: I take it this means that my 222 form that I submit to Mallinckrodt can't exceed 50 million; is that right?
+A: I'm sorry, but I think you're confusing me with someone else. You said "my 222 form that I submit to Mallinckrodt" - but I worked for Mallinckrodt. I didn't submit 222 forms to Mallinckrodt, I was an employee there. The 222 forms would be submitted by our customers to us, not the other way around. Are you asking about customer 222 forms and quota limitations? I'm not sure what you mean about the 50 million figure in this context.
+
+[Turn 32]
+Q: And did you understand diversion to be an issue of corporate concern Source:  https://www.industrydocuments.ucsf.edu/docs/tmnv0249 for Mallinckrodt?
+A: Yes, diversion was definitely a corporate concern for Mallinckrodt. We had to be aware of it as a company because we were regulated and had obligations under the Controlled Substances Act. It was something that the company took seriously because we could face regulatory action if we weren't monitoring for potential diversion of our products. So yes, it was understood to be an issue that the company needed to pay attention to and address.
+
+[Turn 33]
+Q: So they would get the information from the customer --
+A: You're starting to ask about getting information from customers but you didn't finish your question. They would get what information from the customer? Are you asking about information we collected as part of our monitoring processes, or information for 222 forms, or something else? Could you complete the question so I can answer properly?
+
+[Turn 34]
+Q: Now, turning to the dosage side --
+A: Yes? You said you're turning to the dosage side but you haven't asked me a question yet. What about the dosage side do you want to know?
+
+[Turn 35]
+Q: But if a chain -- if a chain pharmacy is only ordering Schedule II substances from you, isn't that something that your program ought to have taken into account and registered?
+A: Well, yes, if a chain pharmacy was only ordering Schedule II substances from us and not ordering other medications that you'd normally expect a pharmacy to carry, that would be unusual. That kind of pattern should have been something our monitoring program would flag as potentially suspicious. A typical pharmacy would order a mix of different types of medications, not just Schedule II narcotics. If someone's only ordering the controlled substances and nothing else, that's... that's a red flag that should get attention.
+
+[Turn 36]
+Q: Do you see that page?
+A: I don't see any page. You're asking me if I see a page, but you haven't shown me anything. Are you trying to show me a document or exhibit? I can't see what you're referring to.
+
+[Turn 37]
+Q: So you just got rid of the -- you no longer looked at the comparison between the current order and the 12-month rolling -- the two month -- I'm sorry?
+A: I... I'm not following what you're asking me. You mentioned getting rid of something and comparing current orders to a twelve-month rolling something, then you said two month, and then you stopped. Are you asking about changes we made to our monitoring system? What comparison are you talking about exactly? I need you to clarify the question because I'm not sure what specific process or change you're referring to.
+
+[Turn 38]
+Q: Okay. but eventually, yes, I become manager manager over the dosage area. well, at the bottom of page 2 of 5 and going on to page 3 of 5, do you see, "Dosage customer service representatives will perform the following activities"? So at the bottom of 41994. Under "Dosage Customer Service Representatives."
+A: I don't see any document in front of me. You're referring to page 2 of 5 and page 3 of 5, and mentioning something at the bottom of 41994, but I can't see what you're looking at. If you want me to comment on what dosage customer service representatives were supposed to do according to some document, you'll need to either show me the document or read me the relevant portion, because I can't see anything right now.
+
+[Turn 39]
+Q: Do you see that?
+A: No, I don't see anything. You keep asking me if I see documents or pages, but I'm not looking at any documents right now. If you want me to review something specific, you need to either show it to me clearly or read the relevant parts out loud so I can respond to what you're asking about.
+
+[Turn 40]
+Q: Okay. And what -- you referenced an IS computer system. Did that system have a name? Source:  https://www.industrydocuments.ucsf.edu/docs/tmnv0249
+A: Well, we had several computer systems at Mallinckrodt for different functions. The IS system... I'm trying to remember the specific name. We used different systems for order processing and customer management. I believe there was a system called... I'm not entirely certain of the exact name right now. Can you refresh my memory about which specific system you're asking about? There were multiple computer systems we used in customer service operations.
+
+[Turn 41]
+Q: Yeah, do you know if this concern was raised by anyone else?
+A: What concern? You're asking if a concern was raised by someone else, but you haven't told me what concern you're talking about. Are you referring to diversion concerns we discussed earlier, or something about the computer systems, or some other issue? I need you to specify which concern you mean before I can tell you whether anyone else raised it.
+
+[Turn 42]
+Q: Okay. What was the basis for Source:  https://www.industrydocuments.ucsf.edu/docs/tmnv0249 X. So that's what we did. by Karen Harper, and Karen Harper agreed to that based upon us not having any suspicious orders, and we put that in place.
+A: I'm having trouble following what you're asking. You mentioned something about a basis for X, then you said "So that's what we did" and mentioned Karen Harper agreeing to something based on not having suspicious orders. But I don't understand what the "X" refers to or what specific action or policy you're talking about that Karen Harper agreed to. Can you clarify what you're asking about? What was the specific thing that was put in place?
+
+[Turn 43]
+Q: Okay. So it sounds like you had distributor subclasses, essentially?
+A: Yes, that's right. We did have different subclasses or categories for distributors. We would classify our customers based on what type of business they were - whether they were wholesale distributors, chain pharmacies, independent pharmacies, hospitals, that sort of thing. Different types of customers would have different ordering patterns and different business needs, so we categorized them accordingly for our monitoring and business purposes.
+
+[Turn 44]
+Q: He was not working for the DEA, though he was formerly employed by them and presumably had some expertise.
+A: I'm not sure who you're referring to. You mentioned someone who was formerly employed by the DEA but wasn't working for them at the time you're asking about. Are you talking about a consultant we used, or someone who worked for Mallinckrodt? I need more context about who this person is before I can respond to what you're saying about their background with the DEA.
+
+[Turn 45]
+Q: Okay. So you don't know if they used a third-party, experienced, trained investigator?
+A: No, I don't know if they used a third-party investigator for whatever you're referring to. You're asking about some investigation or review process, but I'm not clear on what specific situation or time period you're talking about. Are you asking about investigations into suspicious orders, or some other type of investigation? I'd need more context to give you a useful answer about whether third-party investigators were involved.
+
+[Turn 46]
+Q: -- that that's why this is.
+A: I'm sorry, but you just said "that that's why this is" and it doesn't make sense to me. You didn't finish your thought or question. What is "this" that you're referring to? I need you to complete whatever point you were trying to make so I can understand what you're asking me.
+
+[Turn 47]
+Q: So this says, "Cardinal placed a large order for" -- 851501, I believe that's the order number -- "for 12,720 bottles" -- I'm sorry, let me take a step back. So this is an e-mail between you and Kate Muhlenkamp again?
+A: You're asking me about an email between me and Kate Muhlenkamp involving Cardinal placing a large order for 12,720 bottles, with order number 851501. But I can't see the email you're referring to. If you want me to comment on this email or confirm details about it, you'll need to show it to me or read me the relevant portions so I can tell you whether I remember this particular correspondence or transaction.
+
+[Turn 48]
+Q: What about Kentucky?
+A: What about Kentucky? You just asked me "What about Kentucky?" but you haven't given me any context. Are you asking about customers we had in Kentucky, or some specific issue or incident that happened in Kentucky, or something else? I need you to be more specific about what aspect of Kentucky you're asking me about.
+
+[Turn 49]
+Q: Okay. Do you know which distributors at Mallinckrodt did business Source:  https://www.industrydocuments.ucsf.edu/docs/tmnv0249 with that shipped Mallinckrodt opioids to Tennessee?
+A: Well, we did business with several major distributors that would have shipped our products to Tennessee. Cardinal Health was one of our big customers, and they distributed nationwide including Tennessee. McKesson was another major distributor we worked with. AmerisourceBergen as well. But I can't give you a complete list off the top of my head of every distributor that specifically shipped to Tennessee. The major wholesale distributors generally had nationwide operations, so most of our large customers would have been shipping to Tennessee as part of their normal distribution networks.
+
+[Turn 50]
+Q: Okay. Do you remember anything specific about them?
+A: About which distributors specifically? You just asked if I remember anything specific "about them" but you didn't clarify which distributors you're asking about. Are you asking about Cardinal, McKesson, AmerisourceBergen that I just mentioned, or some other distributors? And what kind of specific information are you looking for - their business practices, order patterns, or something else? I need you to be more precise about what you want to know.

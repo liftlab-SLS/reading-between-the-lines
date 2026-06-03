@@ -1,0 +1,1502 @@
+[
+  {
+    "turn": 1,
+    "question_snippet": "We met oriefly off the record, but coulc full name and ac .c you please state yo",
+    "state_delta": {
+      "C": -0.005,
+      "K": 0.0,
+      "A": -0.0015,
+      "V": 0.0,
+      "R": 0.0084,
+      "P": 0.0
+    },
+    "state": {
+      "C": 0.395,
+      "K": 0.5,
+      "A": 0.5985,
+      "V": 0.4,
+      "R": 0.3084,
+      "P": 0.3
+    },
+    "scores": {
+      "consistency": 0.339,
+      "evasion": 0.37,
+      "realism": 0.937,
+      "adversarial": 0.443
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 2,
+    "question_snippet": "Anc. have you ever hac your ceposition taken oefore?",
+    "state_delta": {
+      "C": -0.0045,
+      "K": 0.0,
+      "A": -0.0014,
+      "V": 0.0,
+      "R": 0.008,
+      "P": -0.0003
+    },
+    "state": {
+      "C": 0.3905,
+      "K": 0.5,
+      "A": 0.5971,
+      "V": 0.4,
+      "R": 0.3164,
+      "P": 0.2997
+    },
+    "scores": {
+      "consistency": 0.342,
+      "evasion": 0.37,
+      "realism": 0.934,
+      "adversarial": 0.445
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 3,
+    "question_snippet": "So you're generally familiar with the -- the protocols for -- for eoosition?",
+    "state_delta": {
+      "C": -0.0041,
+      "K": 0.0,
+      "A": -0.0013,
+      "V": 0.0,
+      "R": 0.0077,
+      "P": -0.0005
+    },
+    "state": {
+      "C": 0.3864,
+      "K": 0.5,
+      "A": 0.5958,
+      "V": 0.4,
+      "R": 0.3241,
+      "P": 0.2992
+    },
+    "scores": {
+      "consistency": 0.346,
+      "evasion": 0.37,
+      "realism": 0.932,
+      "adversarial": 0.447
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 4,
+    "question_snippet": "Correct. 0 . (a.y. Have you had your ceposition taken in connection with any sor",
+    "state_delta": {
+      "C": -0.0037,
+      "K": 0.0,
+      "A": -0.0012,
+      "V": 0.0,
+      "R": 0.0074,
+      "P": -0.0008
+    },
+    "state": {
+      "C": 0.3827,
+      "K": 0.5,
+      "A": 0.5946,
+      "V": 0.4,
+      "R": 0.3315,
+      "P": 0.2984
+    },
+    "scores": {
+      "consistency": 0.349,
+      "evasion": 0.37,
+      "realism": 0.93,
+      "adversarial": 0.45
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 5,
+    "question_snippet": "Anc . what c id you do to Source:  https://www.industrydocuments.ucsf.edu/docs/x",
+    "state_delta": {
+      "C": -0.0034,
+      "K": 0.0,
+      "A": -0.0011,
+      "V": 0.0,
+      "R": 0.0071,
+      "P": -0.001
+    },
+    "state": {
+      "C": 0.3793,
+      "K": 0.5,
+      "A": 0.5935,
+      "V": 0.4,
+      "R": 0.3386,
+      "P": 0.2974
+    },
+    "scores": {
+      "consistency": 0.352,
+      "evasion": 0.369,
+      "realism": 0.928,
+      "adversarial": 0.452
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 6,
+    "question_snippet": "Mallincroct? Six hours one c another. Dic Dic ay, anc maybe you read any deposit",
+    "state_delta": {
+      "C": -0.0031,
+      "K": 0.0,
+      "A": -0.0011,
+      "V": 0.0,
+      "R": 0.0068,
+      "P": -0.0012
+    },
+    "state": {
+      "C": 0.3762,
+      "K": 0.5,
+      "A": 0.5924,
+      "V": 0.4,
+      "R": 0.3454,
+      "P": 0.2962
+    },
+    "scores": {
+      "consistency": 0.355,
+      "evasion": 0.369,
+      "realism": 0.926,
+      "adversarial": 0.454
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 7,
+    "question_snippet": "Anc. how c.id your responsioilities change when you became VP of sales?",
+    "state_delta": {
+      "C": -0.0028,
+      "K": 0.0,
+      "A": -0.001,
+      "V": 0.0,
+      "R": 0.0065,
+      "P": -0.0014
+    },
+    "state": {
+      "C": 0.3734,
+      "K": 0.5,
+      "A": 0.5914,
+      "V": 0.4,
+      "R": 0.3519,
+      "P": 0.2948
+    },
+    "scores": {
+      "consistency": 0.358,
+      "evasion": 0.369,
+      "realism": 0.924,
+      "adversarial": 0.456
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 8,
+    "question_snippet": "Anc Know his title. Know what company he .o not. . when you were VP of sales, wh",
+    "state_delta": {
+      "C": -0.0025,
+      "K": 0.0,
+      "A": -0.0009,
+      "V": 0.0,
+      "R": 0.0062,
+      "P": -0.0016
+    },
+    "state": {
+      "C": 0.3709,
+      "K": 0.5,
+      "A": 0.5905,
+      "V": 0.4,
+      "R": 0.3581,
+      "P": 0.2932
+    },
+    "scores": {
+      "consistency": 0.361,
+      "evasion": 0.369,
+      "realism": 0.923,
+      "adversarial": 0.457
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 9,
+    "question_snippet": "oosition No. Do you toc ay? Know whether those ocuments were produced in I c Anc",
+    "state_delta": {
+      "C": -0.0023,
+      "K": 0.0,
+      "A": -0.0009,
+      "V": 0.0,
+      "R": 0.006,
+      "P": -0.0018
+    },
+    "state": {
+      "C": 0.3686,
+      "K": 0.5,
+      "A": 0.5896,
+      "V": 0.4,
+      "R": 0.3641,
+      "P": 0.2914
+    },
+    "scores": {
+      "consistency": 0.364,
+      "evasion": 0.368,
+      "realism": 0.921,
+      "adversarial": 0.459
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 10,
+    "question_snippet": "Anc what was the sales aid",
+    "state_delta": {
+      "C": -0.0021,
+      "K": 0.0,
+      "A": -0.0008,
+      "V": 0.0,
+      "R": 0.0057,
+      "P": -0.002
+    },
+    "state": {
+      "C": 0.3665,
+      "K": 0.5,
+      "A": 0.5888,
+      "V": 0.4,
+      "R": 0.3698,
+      "P": 0.2894
+    },
+    "scores": {
+      "consistency": 0.366,
+      "evasion": 0.368,
+      "realism": 0.92,
+      "adversarial": 0.461
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 11,
+    "question_snippet": "journal ac opioid pro",
+    "state_delta": {
+      "C": -0.0019,
+      "K": 0.0,
+      "A": -0.0008,
+      "V": 0.0,
+      "R": 0.0055,
+      "P": -0.0022
+    },
+    "state": {
+      "C": 0.3646,
+      "K": 0.5,
+      "A": 0.588,
+      "V": 0.4,
+      "R": 0.3753,
+      "P": 0.2872
+    },
+    "scores": {
+      "consistency": 0.369,
+      "evasion": 0.367,
+      "realism": 0.919,
+      "adversarial": 0.462
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 12,
+    "question_snippet": "You wantec to increase mar<et share?",
+    "state_delta": {
+      "C": -0.0017,
+      "K": 0.0,
+      "A": -0.0007,
+      "V": 0.0,
+      "R": 0.0052,
+      "P": -0.0023
+    },
+    "state": {
+      "C": 0.3629,
+      "K": 0.5,
+      "A": 0.5873,
+      "V": 0.4,
+      "R": 0.3805,
+      "P": 0.2849
+    },
+    "scores": {
+      "consistency": 0.371,
+      "evasion": 0.367,
+      "realism": 0.918,
+      "adversarial": 0.464
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 13,
+    "question_snippet": "Anc annual target 15 percent. it inc icates that your salary is about $110,000 a",
+    "state_delta": {
+      "C": -0.0016,
+      "K": 0.0,
+      "A": -0.0007,
+      "V": 0.0,
+      "R": 0.005,
+      "P": -0.0025
+    },
+    "state": {
+      "C": 0.3613,
+      "K": 0.5,
+      "A": 0.5866,
+      "V": 0.4,
+      "R": 0.3855,
+      "P": 0.2824
+    },
+    "scores": {
+      "consistency": 0.373,
+      "evasion": 0.366,
+      "realism": 0.917,
+      "adversarial": 0.465
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 14,
+    "question_snippet": "Anc o. it states, \"Fiscal year '09 NS goal was $80,127,760 and NS for the year c",
+    "state_delta": {
+      "C": -0.0014,
+      "K": 0.0,
+      "A": -0.0006,
+      "V": 0.0,
+      "R": 0.0048,
+      "P": -0.0026
+    },
+    "state": {
+      "C": 0.3599,
+      "K": 0.5,
+      "A": 0.586,
+      "V": 0.4,
+      "R": 0.3903,
+      "P": 0.2798
+    },
+    "scores": {
+      "consistency": 0.376,
+      "evasion": 0.366,
+      "realism": 0.916,
+      "adversarial": 0.466
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 15,
+    "question_snippet": "page, do you ER it's only 7 percent. Do you see that?",
+    "state_delta": {
+      "C": -0.0013,
+      "K": 0.0,
+      "A": -0.0006,
+      "V": 0.0,
+      "R": 0.0046,
+      "P": -0.0027
+    },
+    "state": {
+      "C": 0.3586,
+      "K": 0.5,
+      "A": 0.5854,
+      "V": 0.4,
+      "R": 0.3949,
+      "P": 0.2771
+    },
+    "scores": {
+      "consistency": 0.378,
+      "evasion": 0.365,
+      "realism": 0.915,
+      "adversarial": 0.468
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 16,
+    "question_snippet": "understood that c emand",
+    "state_delta": {
+      "C": -0.0012,
+      "K": 0.0,
+      "A": -0.0006,
+      "V": 0.0,
+      "R": 0.0044,
+      "P": -0.0028
+    },
+    "state": {
+      "C": 0.3574,
+      "K": 0.5,
+      "A": 0.5848,
+      "V": 0.4,
+      "R": 0.3993,
+      "P": 0.2743
+    },
+    "scores": {
+      "consistency": 0.38,
+      "evasion": 0.365,
+      "realism": 0.914,
+      "adversarial": 0.469
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 17,
+    "question_snippet": "UKay. Do you recall it in any other context?",
+    "state_delta": {
+      "C": -0.0011,
+      "K": 0.0,
+      "A": -0.0005,
+      "V": 0.0,
+      "R": 0.0042,
+      "P": -0.0029
+    },
+    "state": {
+      "C": 0.3563,
+      "K": 0.5,
+      "A": 0.5843,
+      "V": 0.4,
+      "R": 0.4035,
+      "P": 0.2714
+    },
+    "scores": {
+      "consistency": 0.382,
+      "evasion": 0.364,
+      "realism": 0.914,
+      "adversarial": 0.47
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 18,
+    "question_snippet": "yes. was oroc I could n't have tolc you a so I don't recall what the oe. Do you ",
+    "state_delta": {
+      "C": -0.001,
+      "K": 0.0,
+      "A": -0.0005,
+      "V": 0.0,
+      "R": 0.0041,
+      "P": -0.003
+    },
+    "state": {
+      "C": 0.3553,
+      "K": 0.5,
+      "A": 0.5838,
+      "V": 0.4,
+      "R": 0.4076,
+      "P": 0.2684
+    },
+    "scores": {
+      "consistency": 0.383,
+      "evasion": 0.364,
+      "realism": 0.913,
+      "adversarial": 0.471
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 19,
+    "question_snippet": "Anc. if you sKip two more cages you'll see HD Smith 2007 versus 2008 net sales. ",
+    "state_delta": {
+      "C": -0.0009,
+      "K": 0.0,
+      "A": -0.0004,
+      "V": 0.0,
+      "R": 0.0039,
+      "P": -0.0031
+    },
+    "state": {
+      "C": 0.3544,
+      "K": 0.5,
+      "A": 0.5834,
+      "V": 0.4,
+      "R": 0.4115,
+      "P": 0.2653
+    },
+    "scores": {
+      "consistency": 0.385,
+      "evasion": 0.363,
+      "realism": 0.913,
+      "adversarial": 0.472
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 20,
+    "question_snippet": "Anc do you see that the methacone 10-milligram taps increasec. apout 238 percent",
+    "state_delta": {
+      "C": -0.0008,
+      "K": 0.0,
+      "A": -0.0004,
+      "V": 0.0,
+      "R": 0.0037,
+      "P": -0.0031
+    },
+    "state": {
+      "C": 0.3536,
+      "K": 0.5,
+      "A": 0.583,
+      "V": 0.4,
+      "R": 0.4152,
+      "P": 0.2622
+    },
+    "scores": {
+      "consistency": 0.387,
+      "evasion": 0.362,
+      "realism": 0.912,
+      "adversarial": 0.473
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 21,
+    "question_snippet": "Do you recall working with somebody else treatment?",
+    "state_delta": {
+      "C": -0.0007,
+      "K": 0.0,
+      "A": -0.0004,
+      "V": 0.0,
+      "R": 0.0036,
+      "P": -0.0032
+    },
+    "state": {
+      "C": 0.3529,
+      "K": 0.5,
+      "A": 0.5826,
+      "V": 0.4,
+      "R": 0.4188,
+      "P": 0.259
+    },
+    "scores": {
+      "consistency": 0.388,
+      "evasion": 0.362,
+      "realism": 0.912,
+      "adversarial": 0.474
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 22,
+    "question_snippet": "If further, you'll oe traditional. I don't like this. you go a couple pages see ",
+    "state_delta": {
+      "C": -0.0006,
+      "K": 0.0,
+      "A": -0.0004,
+      "V": 0.0,
+      "R": 0.0034,
+      "P": -0.003
+    },
+    "state": {
+      "C": 0.3523,
+      "K": 0.5,
+      "A": 0.5822,
+      "V": 0.4,
+      "R": 0.4222,
+      "P": 0.256
+    },
+    "scores": {
+      "consistency": 0.39,
+      "evasion": 0.361,
+      "realism": 0.911,
+      "adversarial": 0.475
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 23,
+    "question_snippet": "Anc there's zero 300/15 percent rebate offerec on that? But then it says $14 reb",
+    "state_delta": {
+      "C": -0.0006,
+      "K": 0.0,
+      "A": -0.0003,
+      "V": 0.0,
+      "R": 0.0033,
+      "P": -0.0028
+    },
+    "state": {
+      "C": 0.3517,
+      "K": 0.5,
+      "A": 0.5819,
+      "V": 0.4,
+      "R": 0.4255,
+      "P": 0.2532
+    },
+    "scores": {
+      "consistency": 0.391,
+      "evasion": 0.361,
+      "realism": 0.911,
+      "adversarial": 0.475
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 24,
+    "question_snippet": "that says, pharmacies. But you see the line here \"We will need to stimulate sale",
+    "state_delta": {
+      "C": -0.0005,
+      "K": 0.0,
+      "A": -0.0003,
+      "V": 0.0,
+      "R": 0.0031,
+      "P": -0.0027
+    },
+    "state": {
+      "C": 0.3512,
+      "K": 0.5,
+      "A": 0.5816,
+      "V": 0.4,
+      "R": 0.4286,
+      "P": 0.2505
+    },
+    "scores": {
+      "consistency": 0.393,
+      "evasion": 0.36,
+      "realism": 0.911,
+      "adversarial": 0.476
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 25,
+    "question_snippet": "If you turn to the next page. Do you see there's a reference to a cocaine to- oi",
+    "state_delta": {
+      "C": -0.0005,
+      "K": 0.0,
+      "A": -0.0003,
+      "V": 0.0,
+      "R": 0.003,
+      "P": -0.0025
+    },
+    "state": {
+      "C": 0.3507,
+      "K": 0.5,
+      "A": 0.5813,
+      "V": 0.4,
+      "R": 0.4316,
+      "P": 0.248
+    },
+    "scores": {
+      "consistency": 0.394,
+      "evasion": 0.36,
+      "realism": 0.91,
+      "adversarial": 0.477
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 26,
+    "question_snippet": "Do you recall working to evelop something called a Narcotics Story? rememl",
+    "state_delta": {
+      "C": -0.0004,
+      "K": 0.0,
+      "A": -0.0003,
+      "V": 0.0,
+      "R": 0.0029,
+      "P": -0.0024
+    },
+    "state": {
+      "C": 0.3503,
+      "K": 0.5,
+      "A": 0.581,
+      "V": 0.4,
+      "R": 0.4345,
+      "P": 0.2456
+    },
+    "scores": {
+      "consistency": 0.396,
+      "evasion": 0.359,
+      "realism": 0.91,
+      "adversarial": 0.478
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 27,
+    "question_snippet": "It goes onto state, the opjective is to have all 43,000 employees of Covid year.",
+    "state_delta": {
+      "C": -0.0004,
+      "K": 0.0,
+      "A": -0.0003,
+      "V": 0.0,
+      "R": 0.0028,
+      "P": -0.0022
+    },
+    "state": {
+      "C": 0.3499,
+      "K": 0.5,
+      "A": 0.5807,
+      "V": 0.4,
+      "R": 0.4373,
+      "P": 0.2434
+    },
+    "scores": {
+      "consistency": 0.397,
+      "evasion": 0.359,
+      "realism": 0.91,
+      "adversarial": 0.478
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 28,
+    "question_snippet": "occur -- I was gone from t at that time. All the other opioic ucts that we've lo",
+    "state_delta": {
+      "C": -0.0004,
+      "K": 0.0,
+      "A": -0.0002,
+      "V": 0.0,
+      "R": 0.0026,
+      "P": -0.0021
+    },
+    "state": {
+      "C": 0.3495,
+      "K": 0.5,
+      "A": 0.5805,
+      "V": 0.4,
+      "R": 0.4399,
+      "P": 0.2413
+    },
+    "scores": {
+      "consistency": 0.398,
+      "evasion": 0.358,
+      "realism": 0.91,
+      "adversarial": 0.479
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 29,
+    "question_snippet": "Could you give me your best estimate as to when that system was put into place?",
+    "state_delta": {
+      "C": -0.0003,
+      "K": 0.0,
+      "A": -0.0002,
+      "V": 0.0,
+      "R": 0.0025,
+      "P": -0.002
+    },
+    "state": {
+      "C": 0.3492,
+      "K": 0.5,
+      "A": 0.5803,
+      "V": 0.4,
+      "R": 0.4424,
+      "P": 0.2393
+    },
+    "scores": {
+      "consistency": 0.399,
+      "evasion": 0.358,
+      "realism": 0.91,
+      "adversarial": 0.479
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 30,
+    "question_snippet": "Do you recall seeing customer checi Mallincl <roc <lists when you were at t, liK",
+    "state_delta": {
+      "C": -0.0003,
+      "K": 0.0,
+      "A": -0.0002,
+      "V": 0.0,
+      "R": 0.0024,
+      "P": -0.0019
+    },
+    "state": {
+      "C": 0.3489,
+      "K": 0.5,
+      "A": 0.5801,
+      "V": 0.4,
+      "R": 0.4448,
+      "P": 0.2374
+    },
+    "scores": {
+      "consistency": 0.4,
+      "evasion": 0.357,
+      "realism": 0.909,
+      "adversarial": 0.48
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 31,
+    "question_snippet": "The fourth entry uncer the heacing states, \"Orcer entry system flags peculiar or",
+    "state_delta": {
+      "C": -0.0003,
+      "K": 0.0,
+      "A": -0.0002,
+      "V": 0.0,
+      "R": 0.0023,
+      "P": -0.0018
+    },
+    "state": {
+      "C": 0.3486,
+      "K": 0.5,
+      "A": 0.5799,
+      "V": 0.4,
+      "R": 0.4471,
+      "P": 0.2356
+    },
+    "scores": {
+      "consistency": 0.401,
+      "evasion": 0.357,
+      "realism": 0.909,
+      "adversarial": 0.481
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 32,
+    "question_snippet": "Anc what sorts of things woulc raise a rec flag, if anything, that you're aware ",
+    "state_delta": {
+      "C": -0.0002,
+      "K": 0.0,
+      "A": -0.0002,
+      "V": 0.0,
+      "R": 0.0022,
+      "P": -0.0017
+    },
+    "state": {
+      "C": 0.3484,
+      "K": 0.5,
+      "A": 0.5797,
+      "V": 0.4,
+      "R": 0.4493,
+      "P": 0.2339
+    },
+    "scores": {
+      "consistency": 0.402,
+      "evasion": 0.357,
+      "realism": 0.909,
+      "adversarial": 0.481
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 33,
+    "question_snippet": "What do you recall about",
+    "state_delta": {
+      "C": -0.0002,
+      "K": 0.0,
+      "A": -0.0002,
+      "V": 0.0,
+      "R": 0.0021,
+      "P": -0.0016
+    },
+    "state": {
+      "C": 0.3482,
+      "K": 0.5,
+      "A": 0.5795,
+      "V": 0.4,
+      "R": 0.4514,
+      "P": 0.2323
+    },
+    "scores": {
+      "consistency": 0.403,
+      "evasion": 0.356,
+      "realism": 0.909,
+      "adversarial": 0.482
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 34,
+    "question_snippet": "Anc ARCOS data in the controlled substance on't Know. you c on't Know whether So",
+    "state_delta": {
+      "C": -0.0002,
+      "K": 0.0,
+      "A": -0.0002,
+      "V": 0.0,
+      "R": 0.002,
+      "P": -0.0015
+    },
+    "state": {
+      "C": 0.348,
+      "K": 0.5,
+      "A": 0.5793,
+      "V": 0.4,
+      "R": 0.4534,
+      "P": 0.2308
+    },
+    "scores": {
+      "consistency": 0.404,
+      "evasion": 0.356,
+      "realism": 0.909,
+      "adversarial": 0.482
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 35,
+    "question_snippet": "Anc. that incluc.es ooth Masters and Sunrise.",
+    "state_delta": {
+      "C": -0.0002,
+      "K": 0.0,
+      "A": -0.0002,
+      "V": 0.0,
+      "R": 0.002,
+      "P": -0.0014
+    },
+    "state": {
+      "C": 0.3478,
+      "K": 0.5,
+      "A": 0.5791,
+      "V": 0.4,
+      "R": 0.4554,
+      "P": 0.2294
+    },
+    "scores": {
+      "consistency": 0.405,
+      "evasion": 0.356,
+      "realism": 0.909,
+      "adversarial": 0.483
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 36,
+    "question_snippet": "What do you recall him wasn't so oleasant. the way that he was ac I c idn't like",
+    "state_delta": {
+      "C": -0.0002,
+      "K": 0.0,
+      "A": -0.0001,
+      "V": 0.0,
+      "R": 0.0019,
+      "P": -0.0013
+    },
+    "state": {
+      "C": 0.3476,
+      "K": 0.5,
+      "A": 0.579,
+      "V": 0.4,
+      "R": 0.4573,
+      "P": 0.2281
+    },
+    "scores": {
+      "consistency": 0.406,
+      "evasion": 0.356,
+      "realism": 0.909,
+      "adversarial": 0.483
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 37,
+    "question_snippet": ".ocument mar Ked as Source:  https://www.industrydocuments.ucsf.edu/docs/xknv024",
+    "state_delta": {
+      "C": -0.0002,
+      "K": 0.0,
+      "A": -0.0001,
+      "V": 0.0,
+      "R": 0.0018,
+      "P": -0.0012
+    },
+    "state": {
+      "C": 0.3474,
+      "K": 0.5,
+      "A": 0.5789,
+      "V": 0.4,
+      "R": 0.4591,
+      "P": 0.2269
+    },
+    "scores": {
+      "consistency": 0.407,
+      "evasion": 0.355,
+      "realism": 0.908,
+      "adversarial": 0.483
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 38,
+    "question_snippet": "But I'm just as King you if you recall seeing any pictures of Sunrise or any of ",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": -0.0001,
+      "V": 0.0,
+      "R": 0.0017,
+      "P": -0.0012
+    },
+    "state": {
+      "C": 0.3473,
+      "K": 0.5,
+      "A": 0.5788,
+      "V": 0.4,
+      "R": 0.4608,
+      "P": 0.2257
+    },
+    "scores": {
+      "consistency": 0.407,
+      "evasion": 0.355,
+      "realism": 0.908,
+      "adversarial": 0.484
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 39,
+    "question_snippet": "Were you aware that South Florida aecame the largest supplier of Source:  https:",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": -0.0001,
+      "V": 0.0,
+      "R": 0.0016,
+      "P": -0.0011
+    },
+    "state": {
+      "C": 0.3472,
+      "K": 0.5,
+      "A": 0.5787,
+      "V": 0.4,
+      "R": 0.4624,
+      "P": 0.2246
+    },
+    "scores": {
+      "consistency": 0.408,
+      "evasion": 0.355,
+      "realism": 0.908,
+      "adversarial": 0.484
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 40,
+    "question_snippet": "0 . (ay. Anc. you see that Bill Ratliff is retorting, \"The DEA diversion group s",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": -0.0001,
+      "V": 0.0,
+      "R": 0.0016,
+      "P": -0.001
+    },
+    "state": {
+      "C": 0.3471,
+      "K": 0.5,
+      "A": 0.5786,
+      "V": 0.4,
+      "R": 0.464,
+      "P": 0.2236
+    },
+    "scores": {
+      "consistency": 0.409,
+      "evasion": 0.355,
+      "realism": 0.908,
+      "adversarial": 0.485
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 41,
+    "question_snippet": "least from amounts of correct?",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": -0.0001,
+      "V": 0.0,
+      "R": 0.0015,
+      "P": -0.001
+    },
+    "state": {
+      "C": 0.347,
+      "K": 0.5,
+      "A": 0.5785,
+      "V": 0.4,
+      "R": 0.4655,
+      "P": 0.2226
+    },
+    "scores": {
+      "consistency": 0.409,
+      "evasion": 0.355,
+      "realism": 0.908,
+      "adversarial": 0.485
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 42,
+    "question_snippet": "0.Kay. Anc if you turn to the next page, you'll see that it starts with the cont",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": -0.0001,
+      "V": 0.0,
+      "R": 0.0014,
+      "P": -0.0009
+    },
+    "state": {
+      "C": 0.3469,
+      "K": 0.5,
+      "A": 0.5784,
+      "V": 0.4,
+      "R": 0.4669,
+      "P": 0.2217
+    },
+    "scores": {
+      "consistency": 0.41,
+      "evasion": 0.354,
+      "realism": 0.908,
+      "adversarial": 0.485
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 43,
+    "question_snippet": "Okay. Are you familiar with who Barry Schultz is?",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": -0.0001,
+      "V": 0.0,
+      "R": 0.0014,
+      "P": -0.0009
+    },
+    "state": {
+      "C": 0.3468,
+      "K": 0.5,
+      "A": 0.5783,
+      "V": 0.4,
+      "R": 0.4683,
+      "P": 0.2208
+    },
+    "scores": {
+      "consistency": 0.411,
+      "evasion": 0.354,
+      "realism": 0.908,
+      "adversarial": 0.485
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 44,
+    "question_snippet": "Anc. you c Alliance is?",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": -0.0001,
+      "V": 0.0,
+      "R": 0.0013,
+      "P": -0.0008
+    },
+    "state": {
+      "C": 0.3467,
+      "K": 0.5,
+      "A": 0.5782,
+      "V": 0.4,
+      "R": 0.4696,
+      "P": 0.22
+    },
+    "scores": {
+      "consistency": 0.411,
+      "evasion": 0.354,
+      "realism": 0.908,
+      "adversarial": 0.486
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 45,
+    "question_snippet": "Kers bureau From generics, I don't program that the generics I'm talking aoout M",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": -0.0001,
+      "V": 0.0,
+      "R": 0.0013,
+      "P": -0.0008
+    },
+    "state": {
+      "C": 0.3466,
+      "K": 0.5,
+      "A": 0.5781,
+      "V": 0.4,
+      "R": 0.4709,
+      "P": 0.2192
+    },
+    "scores": {
+      "consistency": 0.412,
+      "evasion": 0.354,
+      "realism": 0.908,
+      "adversarial": 0.486
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 46,
+    "question_snippet": "Okay. Dia Purchase any other -- or Believe is the MallincKroct cic have access t",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": -0.0001,
+      "V": 0.0,
+      "R": 0.0012,
+      "P": -0.0007
+    },
+    "state": {
+      "C": 0.3465,
+      "K": 0.5,
+      "A": 0.578,
+      "V": 0.4,
+      "R": 0.4721,
+      "P": 0.2185
+    },
+    "scores": {
+      "consistency": 0.412,
+      "evasion": 0.354,
+      "realism": 0.908,
+      "adversarial": 0.486
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 47,
+    "question_snippet": "you go to Oh, is that the NACDS?",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": -0.0001,
+      "V": 0.0,
+      "R": 0.0012,
+      "P": -0.0007
+    },
+    "state": {
+      "C": 0.3464,
+      "K": 0.5,
+      "A": 0.5779,
+      "V": 0.4,
+      "R": 0.4733,
+      "P": 0.2178
+    },
+    "scores": {
+      "consistency": 0.413,
+      "evasion": 0.354,
+      "realism": 0.908,
+      "adversarial": 0.487
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 48,
+    "question_snippet": "Have you ever reviewec, materials published by the Tennessee Deoartment of Healt",
+    "state_delta": {
+      "C": 0.0,
+      "K": 0.0,
+      "A": -0.0001,
+      "V": 0.0,
+      "R": 0.0011,
+      "P": -0.0006
+    },
+    "state": {
+      "C": 0.3464,
+      "K": 0.5,
+      "A": 0.5778,
+      "V": 0.4,
+      "R": 0.4744,
+      "P": 0.2172
+    },
+    "scores": {
+      "consistency": 0.413,
+      "evasion": 0.353,
+      "realism": 0.908,
+      "adversarial": 0.487
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 49,
+    "question_snippet": "When you saw that roc t's sales figures for opioids, including oxy 30, were incr",
+    "state_delta": {
+      "C": 0.0,
+      "K": 0.0,
+      "A": -0.0001,
+      "V": 0.0,
+      "R": 0.0011,
+      "P": -0.0006
+    },
+    "state": {
+      "C": 0.3464,
+      "K": 0.5,
+      "A": 0.5777,
+      "V": 0.4,
+      "R": 0.4755,
+      "P": 0.2166
+    },
+    "scores": {
+      "consistency": 0.414,
+      "evasion": 0.353,
+      "realism": 0.908,
+      "adversarial": 0.487
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 50,
+    "question_snippet": "So just to be clear, have or have access to any actual messages from your time a",
+    "state_delta": {
+      "C": 0.0,
+      "K": 0.0,
+      "A": -0.0001,
+      "V": 0.0,
+      "R": 0.001,
+      "P": -0.0006
+    },
+    "state": {
+      "C": 0.3464,
+      "K": 0.5,
+      "A": 0.5776,
+      "V": 0.4,
+      "R": 0.4765,
+      "P": 0.216
+    },
+    "scores": {
+      "consistency": 0.414,
+      "evasion": 0.353,
+      "realism": 0.908,
+      "adversarial": 0.487
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "open"
+  }
+]

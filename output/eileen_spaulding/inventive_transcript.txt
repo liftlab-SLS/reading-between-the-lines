@@ -1,0 +1,206 @@
+WITNESS: Eileen Spaulding
+ARCHETYPE: Inventive
+INITIAL STATE: {'C': 0.7, 'K': 0.1, 'A': 0.5, 'V': 0.6, 'R': 0.6, 'P': 0.7}
+FINAL STATE:   {'C': 0.6059, 'K': 0.1, 'A': 0.5, 'V': 0.6043, 'R': 0.7008, 'P': 0.5042}
+======================================================================
+
+[Turn 1]
+Q: Good morning, Ms. Spaulding.
+A: Good morning. I'm here as requested for this deposition.
+
+[Turn 2]
+Q: My name is Gary Gotta. We met briefly Source:  https://www.industrydocuments.ucsf.edu/docs/glnv0249 just before we went on the record. We've never met before today, correct?
+A: That's correct, we haven't met before today. Just the brief introduction a few minutes ago before we started.
+
+[Turn 3]
+Q: Have you ever given a deposition previously?
+A: Yes, I have given depositions before. This isn't my first time being deposed in litigation matters.
+
+[Turn 4]
+Q: Okay. Well, we will -- just a few items by way of background. Please let me finish my questions if you can, and I'll certainly try to let you finish your answers before so we don't speak over each other. If any of my questions are unclear to you in any way, let me know and I'll do my best to clarify them.
+A: I understand. I'll wait for you to finish your questions before answering, and I'll let you know if anything needs clarification.
+
+[Turn 5]
+Q: If you answer a question without asking for a clarification, I'll assume you felt like you understood it. Okay?
+A: Yes, that's fine. If I answer without asking for clarification, you can assume I understood the question.
+
+[Turn 6]
+Q: And this is kind of a large table so I'll try to keep my voice up so we can all hear each other. But I'm not shouting, I'm just trying to --
+A: I understand, no problem. I can hear you fine.
+
+[Turn 7]
+Q: Okay. And who did you speak to in that regard?
+A: I'm sorry, I'm not sure what you're referring to. Who did I speak to in regard to what? Could you clarify what you're asking about?
+
+[Turn 8]
+Q: Was it some number of years?
+A: I'm confused. Could you help me understand what we're talking about? You asked who I spoke to in regard to something, and now you're asking if it was some number of years. I'm not following the context of these questions.
+
+[Turn 9]
+Q: Okay. So is there any process in place at Mallinckrodt, or has there been at any point, to review any of the steps that you take that you just described for accuracy, errors, completeness, etcetera? MR. O'CONNOR: Object to form.
+A: Wait, I'm sorry, but I think we might have gotten off track here. You asked me about who I spoke to regarding something, then about some number of years, and now you're asking about processes at Mallinckrodt for reviewing steps I described. But I don't recall describing any specific steps yet in our conversation today. Could we back up? What steps are you referring to that I described?
+
+[Turn 10]
+Q: And overgoods is what?
+A: I'm really confused now. We seem to be jumping between different topics without any connection. First you asked about who I spoke to about something, then about some number of years, then about reviewing steps I supposedly described, and now you're asking about overgoods. I haven't mentioned overgoods at all. Could you help me understand what we're discussing? Are these questions from a different deposition or case? I feel like I'm missing some context here.
+
+[Turn 11]
+Q: Okay. Next item you indicated was discrepancy reporting. What's that?
+A: I'm sorry, but I think there's been some kind of mix-up. I haven't indicated anything about discrepancy reporting in our conversation today. We just started with introductions and ground rules. I haven't described any processes or procedures yet. Are you perhaps reading from questions intended for a different witness or a different part of a deposition? I'm willing to answer questions about discrepancy reporting if that's what you want to know about, but I want to make sure we're on the same page about what's happening here.
+
+[Turn 12]
+Q: Okay. Are there other training programs of that type that you've attended?
+A: I'm still confused about what we're talking about. You're asking about other training programs "of that type" but we haven't discussed any specific training programs yet in our conversation today. Are you referring to training I've received at Mallinckrodt? I've had various types of training over the years - DEA regulations, controlled substances compliance, that sort of thing - but I'm not sure what specific type of training you're asking me to compare to. Could you be more specific about what training programs you're asking about?
+
+[Turn 13]
+Q: And so the quota allocation -- when you say API, I mean, that's active pharmaceutical ingredient, correct?
+A: Yes, API does stand for active pharmaceutical ingredient, that's correct. But again, I'm confused because I haven't mentioned quota allocation or APIs in our conversation today. Are you perhaps working from notes or transcripts from a different deposition? I'm happy to discuss quota allocation and APIs if that's what you want to talk about, but I want to make sure we're both clear on what we're discussing.
+
+[Turn 14]
+Q: And approximately what was the time frame when the longer time period applied?
+A: I'm sorry, but I have no idea what longer time period you're referring to. We haven't discussed any time frames or periods in our conversation today. You're asking me about something that hasn't come up yet. Are you reading from questions prepared for a different witness or from a different part of some proceeding? I'm completely lost about what longer time period you think I mentioned, because I haven't described any time periods at all.
+
+[Turn 15]
+Q: Okay. And then you indicated at some point you became the senior controlled substance compliance coordinator?
+A: No, I haven't indicated that at all. We haven't discussed my specific job titles or career progression today. You keep asking me about things I supposedly said or indicated, but we've only just started this deposition with introductory matters. I haven't described my job titles or roles yet. If you want to know about my position as senior controlled substance compliance coordinator, I'm happy to discuss that, but let's be clear - I haven't mentioned that title in our conversation so far.
+
+[Turn 16]
+Q: So before that time, what responsibilities did you have with respect to SOM?
+A: I'm not following you at all. You're asking about my responsibilities with respect to SOM before "that time," but we haven't established what time period you're talking about or what SOM refers to. We haven't discussed any of my job responsibilities or duties yet in this deposition. Are you perhaps referring to Suspicious Order Monitoring? And what time period are you asking about? Before what time? I need you to clarify what we're actually discussing here because none of this has come up in our conversation today.
+
+[Turn 17]
+Q: Okay. And some of the anti-diversion steps that you described, for example placebo tablets, to law enforcement, that would be related to diversion that's occurring after the product leaves your manufacturing facility, right?
+A: I'm completely lost. I haven't described any anti-diversion steps today, and I certainly haven't mentioned anything about placebo tablets or law enforcement. We haven't discussed diversion at all in our conversation. You keep referring to things I supposedly described or said, but I haven't talked about any of these topics yet. Are you working from a different transcript or notes from someone else's testimony? I'm willing to discuss anti-diversion measures and how they relate to our operations, but can we please establish what we're actually talking about first?
+
+[Turn 18]
+Q: And do those include requirements to design and maintain a suspicious order monitoring program?
+A: Now we're getting to something that makes sense. Yes, there are DEA requirements for controlled substance distributors to design and maintain suspicious order monitoring programs. That's part of our regulatory obligations under the Controlled Substances Act. But I want to be clear - we haven't been discussing this topic in our conversation today until right now. Are you asking me about Mallinckrodt's suspicious order monitoring program and our compliance with those requirements?
+   Δ: C▼0.014 V▲0.022
+
+[Turn 19]
+Q: Had you had responsibility for implementation for upgrade of any aspect of the SOM program for fiscal year 2009?
+A: Yes, I did have responsibilities related to our suspicious order monitoring program around that time. In 2009, we were working on various aspects of our SOM program implementation and upgrades. That was part of my role in compliance. But I want to make sure I'm being precise about what specific upgrades or implementations you're asking about for fiscal year 2009. Are you referring to particular system changes or procedural updates we made during that period?
+
+[Turn 20]
+Q: And that quarterly report would be the algorithm hit or peculiar order hit report that you testified to earlier today, correct?
+A: I haven't testified to anything about algorithm hits or peculiar order hit reports earlier today. We haven't discussed any quarterly reports or algorithm systems in our conversation. You keep referring to testimony I supposedly gave earlier, but we've only just been going through these questions that seem to jump from topic to topic. I haven't described any reporting systems or algorithms. Are you confusing me with another witness or reading from a different transcript?
+
+[Turn 21]
+Q: Okay. And so what steps did you take to try to confirm that?
+A: What steps to confirm what? You're asking me about steps I took to confirm something, but you haven't told me what I'm supposed to be confirming. We haven't established any specific issue or concern that would need confirmation. Are you asking about steps to confirm compliance with our SOM program? Steps to confirm suspicious orders? I need you to be specific about what you think I was trying to confirm.
+
+[Turn 22]
+Q: So the SOPs that apply to SOM, what are the subject matters that they cover?
+A: The SOPs for suspicious order monitoring cover several key areas. They address how we identify and evaluate potentially suspicious orders, the criteria we use to flag orders that might warrant further investigation, procedures for conducting due diligence on customers, documentation requirements, and our reporting obligations to the DEA. They also cover the roles and responsibilities of different personnel in the SOM process, escalation procedures when we identify concerns, and how we maintain records of our monitoring activities. The SOPs are designed to ensure we're meeting our regulatory obligations under the Controlled Substances Act.
+
+[Turn 23]
+Q: Okay. In Ms. Harper's e-mail to you,
+A: I'm going to stop you right there. You're starting to ask me about Ms. Harper's email to me, but we haven't discussed any emails from Ms. Harper or established who Ms. Harper is. This is the same pattern that's been happening - you keep referring to things we supposedly discussed or documents I supposedly reviewed, but we haven't covered any of that material. Who is Ms. Harper, and what email are you referring to? I can't answer questions about an email if we haven't established what email you're talking about.
+
+[Turn 24]
+Q: Do you ever recall that occurring, that you provided notification to DEA of any confirmed diversion?
+A: I need to be careful about how I answer that. Over my years in compliance, there have been various situations where we've had to communicate with the DEA about different matters. But you're asking about confirmed diversion specifically, and that's a very serious matter that would involve specific protocols and procedures. I'd need to review our records and communications to give you an accurate answer about whether I personally provided notification to the DEA about any confirmed diversion cases. I don't want to give you an incomplete or inaccurate response about something that important.
+
+[Turn 25]
+Q: Okay. Do you recall being aware in 2005 that MS Contin was extremely abused?
+A: In 2005, yes, there was general awareness in the industry about abuse issues with MS Contin and other extended-release opioid products. MS Contin was a well-known product that had been subject to abuse and diversion concerns. This was something that was discussed in industry publications and regulatory communications. The abuse potential of extended-release morphine products like MS Contin was recognized as a concern at that time. But I want to be clear about what level of specific awareness you're asking about - are you asking about my personal knowledge or what Mallinckrodt as a company was aware of regarding MS Contin abuse in 2005?
+
+[Turn 26]
+Q: In terms of when you were first aware of there being work on enhancing the SOM program until the time when the enhanced program was actually implemented, that was more than three years, wasn't it? MR. O'CONNOR: Objection to form.
+A: I'm not clear on the specific timeframe you're referring to. You're asking about when I first became aware of work on enhancing our SOM program versus when an enhanced program was implemented, and whether that was more than three years. I'd need to think through the specific timeline of SOM program developments and enhancements to give you an accurate answer about that timeframe. Are you asking about a particular set of enhancements or upgrades that occurred during a specific period? The SOM program has had various updates and improvements over the years, so I want to make sure I'm addressing the right timeframe you're interested in.
+
+[Turn 27]
+Q: Enhancing the SOM program.
+A: You're just repeating "enhancing the SOM program," but that doesn't clarify the timeframe or specific enhancements you're asking about. The SOM program has had multiple enhancements and updates over different periods. Are you asking about enhancements that began in a particular year? Are you referring to system upgrades, procedural changes, staffing changes? And when you say "enhanced program was actually implemented," what specific implementation are you referring to? I need more specifics to answer whether any particular enhancement process took more than three years from start to implementation.
+
+[Turn 28]
+Q: Were you aware of that before receiving this letter?
+A: What letter? You're asking if I was aware of something before receiving "this letter," but we haven't discussed any letter or identified what letter you're referring to. This is the same issue we've been having throughout this deposition - you keep referring to documents, emails, letters, and testimony that we haven't established or reviewed. I can't answer whether I was aware of something before receiving a letter if you don't tell me what letter you're talking about.
+
+[Turn 29]
+Q: Okay. So these orders were identified by application of the algorithm that you understand was in place at the time?
+A: You're asking about orders that were identified by an algorithm, but we haven't established what specific orders you're referring to or what timeframe you're talking about. You keep jumping to questions about algorithms and orders without setting up the context. What orders are you asking about? What time period? I understand we use algorithms as part of our suspicious order monitoring, but I need you to be specific about which orders and which algorithm application you're referring to before I can answer whether those particular orders were identified that way.
+
+[Turn 30]
+Q: We've marked as Exhibit 16 a two-page document beginning at Bates MNK-T1 0002940798. Please take a look at those and tell me if you I was combining and sending to DEA.
+A: I need to see the exhibit you're referring to. You've said it's marked as Exhibit 16 with a specific Bates number, but I don't have that document in front of me to review. Also, your question seems to cut off - you started to ask if I was combining and sending something to DEA, but the sentence isn't complete. Can you show me the exhibit and finish your question so I can give you a proper response?
+
+[Turn 31]
+Q: And that's the reason you sent it to Source:  https://www.industrydocuments.ucsf.edu/docs/glnv0249 whatever the algorithm was in place at the time, all those parties, right? that.
+A: I'm having trouble understanding your question. It seems like you're asking about why I sent something to someone, and you're mentioning an algorithm and "all those parties," but your question is fragmented and unclear. You also referenced a web link in the middle of your question. Can you rephrase this more clearly? What specifically are you asking about that I sent, to whom I sent it, and what connection you're making to an algorithm? I need a clear, complete question to give you a proper answer.
+
+[Turn 32]
+Q: She gross on to say "It is significant to note that neither Sunrise or Harvard triggered the algorithms that were in place for direct customers because we were looking at overall purchase trends for each distributor, not reviewing where the distributors were Source:  https://www.industrydocuments.ucsf.edu/docs/glnv0249 sending our product (and our program met CFR requirements)." And is that the phenomenon you testified about earlier today, looking at ship to rather than bill to? MR. O'CONNOR: Objection to form.
+A: I haven't testified about looking at ship to rather than bill to earlier today. We haven't discussed that topic in our conversation. You're quoting something that someone apparently said about Sunrise, Harvard, algorithms, and distributors, but I haven't seen this document or discussed these specific entities or this particular issue about ship to versus bill to analysis. You keep referring to testimony I supposedly gave earlier, but we haven't covered this material. Are you asking me to comment on this quote you've read, or are you asking if I'm familiar with this distinction between ship to and bill to monitoring?
+
+[Turn 33]
+Q: And ultimately all of those distributors had their DEA licenses terminated, didn't they? MR. O'CONNOR: Object to the form.
+A: I don't know what distributors you're referring to. You haven't identified which specific distributors you're asking about, so I can't tell you whether their DEA licenses were terminated. You mentioned Sunrise and Harvard in your previous question, but you haven't established which distributors we're discussing or provided the context I'd need to answer about their licensing status. If you want me to comment on whether certain distributors had their licenses terminated, you need to specify which distributors you're asking about.
+
+[Turn 34]
+Q: Okay. And who would have asked you to do that?
+A: Asked me to do what? You're asking who would have asked me to do something, but you haven't specified what action or task you're referring to. Throughout this deposition, you keep asking follow-up questions without establishing what the "that" refers to. What specific thing are you asking about that someone would have asked me to do?
+
+[Turn 35]
+Q: Okay. So the pharmacy would -- it could continue to buy from a Mallinckrodt distributor, but it could not apply for a Source:  https://www.industrydocuments.ucsf.edu/docs/glnv0249 distributor to Mallinckrodt on behalf of the pharmacy.
+A: I'm not following what you're saying. You're talking about a pharmacy continuing to buy from a Mallinckrodt distributor but not being able to apply for something - and then you mention a distributor to Mallinckrodt on behalf of the pharmacy, which doesn't make sense to me. Are you asking about a pharmacy's ability to purchase through distributors versus some kind of direct relationship? And there's another web link in the middle of your statement. Can you clarify what you're trying to ask about regarding pharmacy purchasing arrangements?
+
+[Turn 36]
+Q: Okay. And so there would be times when you would give them verbal information, but if they wanted that information in writing you'd tell them they needed to issue a subpoena?
+A: I'm not sure what specific situation you're referring to. You're asking about giving verbal information versus requiring a subpoena for written information, but you haven't established the context - who "them" is, what type of information we're discussing, or what circumstances would prompt this distinction between verbal and written responses. Are you asking about interactions with DEA, with attorneys, with other parties? And what kind of information are we talking about? I need more context to answer whether there were times I handled requests that way.
+
+[Turn 37]
+Q: And again, apart from conversations with counsel, did you have discussions with anyone else at Mallinckrodt with respect to how you responded to law enforcement inquiries as you describe in this paragraph?
+A: What paragraph are you referring to? You're asking about discussions I had regarding responses to law enforcement inquiries "as described in this paragraph," but we haven't identified or reviewed any specific paragraph or document. You keep referencing paragraphs, exhibits, and testimony without establishing what you're talking about. If you want me to answer about discussions I had regarding law enforcement responses, you need to show me the paragraph you're referring to or specify what context you're asking about.
+
+[Turn 38]
+Q: Okay. So the SOPs are -- is that to what's in the November 15th e-mail?
+A: I don't know what November 15th email you're referring to. You're asking about SOPs in relation to some email from November 15th, but we haven't discussed or reviewed any email from that date. You keep referencing specific documents, emails, and dates without establishing what you're talking about or showing me these materials. If you want me to comment on SOPs in relation to a November 15th email, you need to identify which email you mean and show it to me.
+
+[Turn 39]
+Q: So this was the formula that was used back in 2012?
+A: What formula? You're asking if "this" was the formula used back in 2012, but you haven't identified what formula you're referring to. We haven't been discussing any specific formula or calculation. You keep using "this" and "that" without establishing what you're talking about. If you want me to confirm whether a particular formula was used in 2012, you need to specify which formula you mean.
+
+[Turn 40]
+Q: So in previous audits, approximately how many people would be there and for approximately how long?
+A: I need more context about what audits you're asking about. Are you referring to DEA audits of Mallinckrodt? Internal audits? Third-party audits? And what timeframe are you asking about when you say "previous audits"? The number of people and duration would depend on the type and scope of the audit. I can't give you specific numbers without knowing which audits you're referring to.
+
+[Turn 41]
+Q: The next paragraph, "detect and report to the DEA orders deviating substantially from normal patterns." Again, you understood that there was a regulatory requirement to detect and report such orders, correct?
+A: Yes, that's correct. There is a regulatory requirement to detect and report orders that deviate substantially from normal patterns. That's part of our suspicious order monitoring obligations under the Controlled Substances Act and DEA regulations. We're required to identify orders that are unusual in size, frequency, or pattern compared to what would be normal for a particular customer, and report those suspicious orders to DEA.
+
+[Turn 42]
+Q: And who was it who performed your evaluations?
+A: I need more context about which evaluations you're asking about. Are you referring to my job performance evaluations as an employee? Training evaluations? Something else? And what timeframe are you asking about? I've been at Mallinckrodt for over twenty years in different roles, so the person conducting evaluations would depend on what type of evaluation and what period you're asking about.
+
+[Turn 43]
+Q: And was this before the transition over to the FedEx Express service that you talked about this morning?
+A: I haven't talked about any transition to FedEx Express service this morning. We haven't discussed FedEx or any shipping service transitions in our conversation. You're referring to something I supposedly talked about earlier, but we haven't covered that topic. Are you asking me about a shipping service transition, or are you confusing me with someone else's testimony?
+
+[Turn 44]
+Q: And flip to the next page. Do you see that the state listed there is Ohio?
+A: I don't see any page in front of me. You're asking me to flip to the next page and look at something that shows Ohio as a state, but there's no document or page for me to look at. You keep asking me to look at exhibits, pages, and documents that haven't been shown to me. If you want me to comment on something that shows Ohio, you need to show me what you're referring to.
+
+[Turn 45]
+Q: And then also on the Other Manufacturers map, the State of Tennessee is kind of more purple than other areas around it. Do you see that?
+A: I don't see any map in front of me. You're asking me about an "Other Manufacturers map" and colors showing Tennessee as more purple, but there's no map or document for me to look at. You keep asking me to look at exhibits, maps, and visual materials that haven't been shown to me. If you want me to comment on something shown on a map, you need to show me the map you're referring to.
+
+[Turn 46]
+Q: And then once again on the Mallinckrodt 30-milligram page, we see that Tennessee is green, suggesting once again larger per capita usage. Do you see that?
+A: I don't see any Mallinckrodt 30-milligram page in front of me. You're asking me about Tennessee being green on some page that supposedly shows per capita usage, but there's no document or page for me to look at. You keep referencing pages, maps, and exhibits that haven't been shown to me. If you want me to comment on something displayed on a page about 30-milligram products and Tennessee usage, you need to show me what you're referring to.
+
+[Turn 47]
+Q: You can set that aside. (Whereupon, Mallinckrodt-Spaulding-45 was marked for identification.) BY MR. GESTEL: marked as Exhibit 45. Sorry, I'm somehow down a copy. monitoring steering committee at that time, correct?
+A: I'm not sure what you're asking. You mentioned setting something aside, marking an exhibit as 45, and then your question got cut off or garbled. You said something about being down a copy and then asked about a monitoring steering committee at some time, but the question is incomplete. Can you repeat your full question about the monitoring steering committee?
+
+[Turn 48]
+Q: So -- and then there's less orders processed going down the line, and then correspondingly less order fails, correct?
+A: I need more context about what you're referring to. You're asking about orders processed going down and corresponding order fails, but we haven't established what system, timeframe, or data you're talking about. Are you referring to something shown in an exhibit? A particular reporting period? A specific process? Without knowing what orders and what system you're asking about, I can't confirm the relationship between processed orders and order fails that you're describing.
+
+[Turn 49]
+Q: Well, let me back up. Do you maintain the chargeback data?
+A: No, I don't maintain chargeback data. That's not part of my responsibilities as a compliance investigator. Chargeback data would typically be maintained by finance or accounting departments, not by compliance. My role focuses on suspicious order monitoring, ARCOS reporting, and compliance investigations, not financial data like chargebacks.
+
+[Turn 50]
+Q: What is the UOR program?
+A: I'm not familiar with what UOR stands for or what UOR program you're referring to. You'd need to spell that out or provide more context about what this program is. If it's something specific to Mallinckrodt or the pharmaceutical industry, I may be able to help once you clarify what UOR means.

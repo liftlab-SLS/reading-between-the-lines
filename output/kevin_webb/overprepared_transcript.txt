@@ -1,0 +1,208 @@
+WITNESS: Kevin Webb
+ARCHETYPE: Overprepared
+INITIAL STATE: {'C': 0.9, 'K': 0.7, 'A': 0.6, 'V': 0.5, 'R': 0.7, 'P': 0.95}
+FINAL STATE:   {'C': 0.7794, 'K': 0.7, 'A': 0.5776, 'V': 0.5, 'R': 0.7756, 'P': 0.6842}
+======================================================================
+
+[Turn 1]
+Q: Good afternoon, Mr. Webb. 14:37:40
+A: Good afternoon.
+   Δ: C▼0.011
+
+[Turn 2]
+Q: My name is Gary Gotto, as I 14:37:42 just shared. I'm with the law firm Keller 14:37:44 Rohrback representing plaintiffs in this 14:37:46 matter. 14:37:47 Thank you for taking the time 14:37:48 this afternoon to give us a head start on 14:37:49 your personal deposition so we can perhaps 14:37:53 get done earlier tomorrow than we otherwise 14:37:55 would have been able to. 14:38:01 I know you testified earlier 14:38:01 today with respect to what you did to prepare 14:38:03 for your 30(b)(6) testimony. 14:38:04 Source:  https://www.industrydocuments.ucsf.edu/docs/gknv0249 Did you engage in any other 14:38:08 preparation for your individual testimony, 14:38:11 other than the preparation you've already 14:38:12 described in the context of your 30(b)(6)? 14:38:14
+A: Yes, I did review some additional materials specific to my personal involvement and tenure at Mallinckrodt. I went back through my own records and refreshed my memory on the timeline of my role transition and the specific products I worked on during my time in product management. I also reviewed some documents related to the establishment of the advocacy function since that's been a significant part of my responsibilities.
+   Δ: C▼0.010
+
+[Turn 3]
+Q: Okay. Have you ever given a 14:38:19 deposition before today? 14:38:21
+A: Yes, I have. I've given deposition testimony in other Mallinckrodt-related litigation matters previously.
+
+[Turn 4]
+Q: And on how many occasions? 14:38:24
+A: I believe it's been three or four times in total, including today's 30(b)(6) testimony. The exact number would depend on how you count related proceedings, but somewhere in that range.
+
+[Turn 5]
+Q: Okay. And what did it pertain 14:38:28 to? 14:38:29
+A: The previous depositions were related to other opioid litigation matters involving Mallinckrodt. They generally focused on my role in the advocacy function and the company's efforts around proper disposal of unused medications. Some also touched on my transition from product management to the advocacy role and my knowledge of the company's operations during that time period.
+
+[Turn 6]
+Q: Okay. It was a 14:38:52 Mallinckrodt-related matter -- 14:38:53
+A: That's correct, yes.
+
+[Turn 7]
+Q: And describe for me, if you 14:47:50 would, generally, your duties as a senior 14:47:59 product manager at Mallinckrodt. 14:48:04
+A: As a senior product manager at Mallinckrodt, my responsibilities focused on the branded topical product portfolio. I managed the lifecycle of those products, which included working with marketing teams on promotional strategies, coordinating with regulatory affairs on labeling and compliance matters, analyzing market performance and competitive positioning, and working with sales teams on product launches and ongoing commercial activities. I also interfaced with manufacturing and supply chain teams to ensure product availability and worked on pricing and contracting decisions. These were all non-controlled substance products in the dermatology and related therapeutic areas.
+
+[Turn 8]
+Q: Okay. And if I understood your 14:57:46 testimony a few moments ago, the creation of 14:57:56 the position wasn't somehow related to the 14:58:00 Covidien/Mallinckrodt transaction that was 14:58:03 Source:  https://www.industrydocuments.ucsf.edu/docs/gknv0249 going on at the time. 14:58:06 Did I understand you correctly? 14:58:07
+A: Well, I wouldn't say it was completely unrelated to the broader changes happening at the company during that time period. The Covidien transaction was creating a lot of organizational shifts and new priorities across Mallinckrodt. The advocacy function was established as part of the company's evolving approach to various stakeholder engagement and public policy issues. So while the position wasn't created solely because of the transaction, the timing and the company's strategic direction during that transition period certainly provided the context for establishing this new function.
+
+[Turn 9]
+Q: Did you also understand that to 15:12:58 be part of your responsibility in the 15:13:00 advocacy role, to advocate for that sort of 15:13:02 approach to pain management? 15:13:05
+A: My advocacy role was primarily focused on promoting proper disposal of unused medications and supporting policies around safe medication practices. While I understood that responsible pain management was an important healthcare issue, my specific responsibilities were more centered on the disposal and safety aspects rather than advocating for particular approaches to pain treatment itself. The emphasis was on ensuring that when opioid medications were prescribed, patients and healthcare providers had proper guidance on how to safely dispose of any unused portions to prevent diversion and misuse.
+
+[Turn 10]
+Q: Sure, I understand. I'm just 15:25:59 trying to focus on the disposal -- 15:26:01
+A: Right, yes. The disposal component was absolutely central to my advocacy role. We focused on educating patients, healthcare providers, and policymakers about the importance of proper disposal methods - things like take-back programs, disposal kits, and FDA-approved disposal guidelines. The goal was to reduce the availability of unused opioid medications that could potentially be diverted or misused. That was really the core of what I was working on from an advocacy standpoint.
+
+[Turn 11]
+Q: And can you tell me who were 09:10:57 the -- the key third-party stakeholders with 09:11:00 whom you worked to build coalitions and 09:11:04 cultivate relationships? 09:11:07
+A: The key stakeholders I worked with included patient advocacy organizations, healthcare provider groups like medical associations and nursing organizations, law enforcement agencies that were involved in take-back programs, and various policy organizations focused on substance abuse prevention. We also worked with pharmacy associations since they were often the point of contact for disposal programs. Additionally, there were coalitions focused specifically on prescription drug abuse prevention where we participated alongside other pharmaceutical companies and public health organizations. The goal was always to support evidence-based disposal policies and programs that would help reduce the risk of diversion.
+
+[Turn 12]
+Q: Okay. What was provided 09:24:18 through the REMEDIES program to physicians 09:24:20 who opted into it? 09:24:22
+A: I'm not familiar with the specifics of a program called REMEDIES. That doesn't sound like something that was part of my advocacy work or that I was involved with during my tenure. Could you clarify what you're referring to or provide some additional context? It's possible this was a program that operated outside of my area of responsibility or that I'm not recalling correctly.
+
+[Turn 13]
+Q: Okay. And does the fact that 09:33:24 Mallinckrodt participated in a program aimed 09:33:32 at those ends that you just described not 09:33:35 indicate that the overprescription of opioids 09:33:39 was at least an issue at that time frame -- 09:33:42 during this time frame? 09:33:46 Source:  https://www.industrydocuments.ucsf.edu/docs/gknv0249
+A: I think it's fair to say that during this timeframe, there was growing recognition across the healthcare community and the pharmaceutical industry that prescription drug abuse and diversion were significant public health concerns. That's exactly why proper disposal became such an important focus - to address the risk that unused medications could contribute to these problems. Whether you characterize that as overprescription or other factors, the point was that there were legitimate concerns about how to ensure that opioid medications prescribed for legitimate medical purposes didn't end up being misused. That's why the disposal advocacy work was so important - it was one concrete way to help address those broader concerns.
+
+[Turn 14]
+Q: Was there any thought given at 09:49:48 any point to try and to develop some sort of 09:49:50 economic incentive to enhance patient 09:49:52 participation in the take-back program? 09:49:55
+A: I don't recall specific discussions about economic incentives for patients to participate in take-back programs during my time in the advocacy role. The focus was generally on education, awareness, and making disposal options more convenient and accessible. Most of the take-back programs I worked with were focused on removing barriers - like making sure there were sufficient collection sites, proper timing of events, and clear communication about how patients could participate. The emphasis was more on convenience and education rather than financial incentives. But I can't say definitively that such ideas were never discussed - it's possible that came up in conversations that I wasn't part of or don't recall.
+
+[Turn 15]
+Q: I guess there is a reference 10:00:08 page at the end. 10:00:10
+A: I'm not sure what reference you're looking at. Could you clarify what document or page you're referring to? I'd be happy to respond if you can provide more context about what specific reference or information you're asking about.
+
+[Turn 16]
+Q: And the events that are 10:09:18 described on these slides, these were not DEA 10:09:23 events, correct? 10:09:27
+A: I'm not sure which slides you're referring to. Could you show me the specific document or slides you're asking about? Without seeing what you're looking at, I can't tell you whether the events described were DEA events or not. If you could point me to the particular slides or document, I'd be happy to answer your question.
+
+[Turn 17]
+Q: Okay. Did Mallinckrodt 10:39:35 participate in any way in the American 10:39:37 Academy of Pain Management? 10:39:39 Source:  https://www.industrydocuments.ucsf.edu/docs/gknv0249
+A: I'm not aware of any specific participation by Mallinckrodt in the American Academy of Pain Management during my time there. That organization wasn't one of the key stakeholders I worked with in my advocacy role. My focus was more on disposal-related advocacy and the organizations I mentioned earlier - patient advocacy groups, healthcare provider associations, law enforcement, and pharmacy groups involved in take-back programs. It's possible the company had some involvement with the American Academy of Pain Management through other channels or departments, but that wasn't part of my area of responsibility or awareness.
+
+[Turn 18]
+Q: Okay. And you're aware, aren't 10:47:32 you, of materials provided by Mallinckrodt to 10:47:39 physicians that characterized the risk of 10:47:45 addiction associated with opioids? Correct? 10:47:48 MR. O'CONNOR: Objection. 10:47:50 THE WITNESS: We -- yes, we 10:47:51 show that there is -- there is a risk 10:47:54 of addiction with opioids. 10:47:56 QUESTIONS BY MR. GOTTO: 10:47:57
+A: Yes, that's correct. The company provided materials that addressed the risk of addiction associated with opioids. This was part of the standard prescribing information and educational materials that pharmaceutical companies are required to provide to healthcare professionals about their products.
+
+[Turn 19]
+Q: Okay. And were you involved in 11:01:53 contracting with APCO to prepare the report 11:02:03 that's -- that is Exhibit 10? 11:02:08
+A: I'm not familiar with contracting with APCO for a report that would be Exhibit 10. I'd need to see what specific report you're referring to. Could you show me the exhibit or provide more details about what this APCO report covered? Without seeing the document, I can't tell you whether I was involved in that contracting decision or not.
+
+[Turn 20]
+Q: And I think you indicated 11:12:10 earlier that Mallinckrodt has had a positive 11:12:11 relationship with the DEA, correct? 11:12:12 Source:  https://www.industrydocuments.ucsf.edu/docs/gknv0249
+A: I don't recall specifically characterizing Mallinckrodt's relationship with the DEA as positive or negative in my earlier testimony. Could you clarify what I said that gave you that impression? My advocacy work involved engagement with various stakeholders including law enforcement on disposal programs, but I'd want to be precise about what I actually said regarding the DEA relationship rather than make a general characterization that might not reflect what I stated earlier.
+
+[Turn 21]
+Q: And if we look at your first 11:24:37 e-mail, the earliest e-mail, which is on the 11:24:41 last two pages of the exhibit, from June 20th 11:24:43 of 2017, it's to Kian Kazemi. 11:24:46 Who is that? 11:24:53
+A: I'm not seeing the exhibit you're referring to. Could you show me the email or document you're looking at? Without being able to see the specific email from June 20th, 2017, I can't identify who Kian Kazemi is or provide context about that communication. If you could point me to the exhibit, I'd be happy to review it and answer your question.
+   Δ: P▼0.010
+
+[Turn 22]
+Q: Okay. And if I understood your 11:35:26 earlier answer, ultimately the legislation 11:35:29 that was enacted was consistent with 11:35:31 Mallinckrodt's objectives? 11:35:33 MR. O'CONNOR: Objection. 11:35:35 THE WITNESS: It was consistent 11:35:35 with the objectives to expand access 11:35:37 to addiction treatment. 11:35:39 QUESTIONS BY MR. GOTTO: 11:35:40
+A: That's correct. The legislation that was enacted was consistent with the objectives to expand access to addiction treatment, which was something we supported from an advocacy standpoint. Our goal was to support policies that would help address the opioid crisis, including improving access to treatment for those struggling with addiction.
+
+[Turn 23]
+Q: Okay. Exhibit 15 is a 12:10:36 multipage document that was produced in 12:10:38 native format at MNK-T1 0000874317. It's a 12:10:40 PowerPoint presentation from March 30, 2015, 12:10:48 entitled, "Advocacy: Pain Franchise 12:10:54 Source:  https://www.industrydocuments.ucsf.edu/docs/gknv0249 Commitments." 12:10:58 Could you take a look at that 12:10:59 PowerPoint presentation and tell me if you're 12:11:01 familiar with it? 12:11:04
+A: I'm not seeing the exhibit you're referring to. Could you show me the PowerPoint presentation from March 30, 2015, titled "Advocacy: Pain Franchise Commitments"? Without being able to see the specific document, I can't tell you whether I'm familiar with it or provide any context about its contents. If you could point me to that exhibit, I'd be happy to review it and let you know if I recognize it.
+
+[Turn 24]
+Q: Okay. Next slide. On slide 8 12:22:24 are certain state initiatives. There's a 12:22:29 Florida coalition, Missouri PDNP and ongoing 12:22:34 PDNP engagement. There's a savings of 12:22:39 $350,000 indicated. 12:22:45 Do you know if that savings was 12:22:46 realized in whole or in part? 12:22:49
+A: I'm not able to see slide 8 that you're referring to. Without being able to review the specific document and the details about the Florida coalition, Missouri PDNP initiatives, and the $350,000 savings figure you mentioned, I can't tell you whether those savings were realized or not. Could you show me that slide so I can review the specific information and provide you with an accurate answer about what I know regarding those initiatives and their outcomes?
+
+[Turn 25]
+Q: Okay. Do you know if 13:13:57 Mallinckrodt took a position with respect to 13:13:58 any proposed Florida pill mill-related 13:14:02 legislation? 13:14:05
+A: I don't recall Mallinckrodt taking a specific position on Florida pill mill legislation during my time there. That type of state legislative engagement wasn't part of my direct advocacy responsibilities, which were more focused on disposal programs and federal-level advocacy. It's possible the company had positions on such legislation that were handled through other channels or departments, but I don't have specific knowledge of Mallinckrodt's stance on Florida pill mill-related legislation.
+
+[Turn 26]
+Q: Okay. You said "shortly 13:25:24 thereof." 13:25:26 Do you mean shortly thereafter? 13:25:26
+A: Yes, that's correct. I meant shortly thereafter. Thank you for the clarification.
+
+[Turn 27]
+Q: Do you recall any other e-mails 13:34:56 you ever received from Mr. Naten in which he 13:35:02 put the term "pain groups" in quotation 13:35:05 marks? 13:35:09 MR. O'CONNOR: Objection. 13:35:09 THE WITNESS: I'm not aware if 13:35:09 there are other e-mails out there. 13:35:10 QUESTIONS BY MR. GOTTO: 13:35:12
+A: I'm not aware if there are other emails out there where Mr. Naten put "pain groups" in quotation marks. I can't recall specific instances of that phrasing being used in other communications I may have received from him.
+
+[Turn 28]
+Q: Do you recall those videos? 13:47:51
+A: I'm not sure which videos you're referring to. Could you provide more context about what specific videos you're asking about? Without knowing which videos you mean, I can't tell you whether I recall them or not.
+
+[Turn 29]
+Q: Okay. Do you recall in 2016 13:57:49 there being any state-proposed legislative or 13:57:53 regulatory action to mandate generic opioid 13:57:58 ADT? 13:58:03
+A: I don't have a specific recollection of state-proposed legislative or regulatory action in 2016 to mandate generic opioid ADT. Could you clarify what ADT stands for in this context? That would help me better understand what you're asking about and whether I have any knowledge of such initiatives from that timeframe.
+
+[Turn 30]
+Q: Mr. Webb, first, let me ask 14:18:37 you: Are you aware of separate 14:18:40 Tennessee-specific lawsuits? 14:18:41
+A: Yes, I'm aware that there have been Tennessee-specific lawsuits involving Mallinckrodt. I've been involved in litigation-related matters as part of my role, so I'm generally aware of various legal proceedings the company has faced, including those in Tennessee.
+
+[Turn 31]
+Q: And did Mallinckrodt respond to 14:25:17 that subpoena? 14:25:18
+A: I don't have specific knowledge about whether Mallinckrodt responded to that particular subpoena. Document production and legal compliance matters like subpoena responses would typically be handled by our legal department, and I wouldn't necessarily be involved in or informed about the specifics of those responses unless it related directly to my advocacy work.
+
+[Turn 32]
+Q: Can you read the green portion 09:10:08 of that topic? 09:10:11
+A: I'm not seeing the document you're referring to. Could you show me the document with the green portion you'd like me to read? Without being able to see what you're looking at, I can't read the specific text you're asking about.
+
+[Turn 33]
+Q: . D o you recal l  revi ew i ng any 09: 14: 51 docum ent s? 09: 14: 53
+A: Could you clarify what specific documents you're asking about? Are you referring to documents in preparation for this deposition, or documents related to a particular matter or time period? I want to make sure I understand what you're asking so I can give you an accurate answer about what I may have reviewed.
+
+[Turn 34]
+Q: And do you have personal 09:21:02 knowledge of that topic? 09:21:03
+A: I'm not sure which specific topic you're referring to. Could you clarify what topic you're asking about? Without knowing the specific subject matter, I can't tell you whether I have personal knowledge of it or not.
+
+[Turn 35]
+Q: Do you have any personal 09:27:51 knowledge of that topic? 09:27:52
+A: Again, I'm not clear on which specific topic you're asking about. Could you please specify what topic you're referring to so I can tell you whether I have personal knowledge of it?
+
+[Turn 36]
+Q: Do you recall how many 09:33:00 documents? 09:33:01 MR. O'CONNOR: All right. I'm 09:33:02 going to instruct not to answer to the 09:33:02 extent that the documents were 09:33:04 provided by counsel. 09:33:05 MR. KAWAMOTO: And is your 09:33:08 objection as to the question of how 09:33:09 many, does it cover that? 09:33:12 MR. O'CONNOR: I'll let him 09:33:13 answer for how many and then I'll 09:33:15 listen for the next question. 09:33:16 Go ahead. 09:33:17 Do you recall how many 09:33:17 documents? 09:33:19 THE WITNESS: One. 09:33:21 Source:  https://www.industrydocuments.ucsf.edu/docs/kknv0249 QUESTIONS BY MR. KAWAMOTO: 09:33:22
+A: One.
+
+[Turn 37]
+Q: And all four of these channels 09:40:36 would have been deployed pursuant to a 09:40:45 national strategy or a national campaign; is 09:40:49 that fair? 09:40:51
+A: I'd need to see the specific context or document you're referring to regarding these four channels to give you an accurate answer. Without knowing what channels you're talking about or what campaign or strategy is being discussed, I can't confirm whether they would have been deployed pursuant to a national strategy.
+
+[Turn 38]
+Q: And the attachment to this 09:54:43 e-mail, the e-mail references these as "two 09:54:45 pieces that we've done on pain," and one is 09:54:48 entitled "The Oxford American pocket cards on 09:54:52 Source:  https://www.industrydocuments.ucsf.edu/docs/kknv0249 breakthrough pain," and other is "the pain 09:54:56 management prospect set" that looks very 09:55:00 similar to what we viewed in Exhibit 2. 09:55:01
+A: I see you're describing the contents of an email attachment that references two pieces on pain - the Oxford American pocket cards on breakthrough pain and the pain management prospect set. Without seeing the actual document you're referring to, I can't confirm the specific details or make comparisons to other exhibits. If you'd like me to comment on this, could you show me the document so I can review what you're describing?
+
+[Turn 39]
+Q: And so this would have been 10:10:31 provided to health care professionals, would 10:10:32 it not? 10:10:33
+A: I'd need to see the specific document or material you're referring to in order to tell you whether it would have been provided to healthcare professionals. Without knowing what "this" refers to specifically, I can't confirm who the intended audience would have been.
+
+[Turn 40]
+Q: And so all of Mallinckrodt's 10:20:45 sales reps, including its Ohio sales reps, 10:20:46 would have received this training? 10:20:50
+A: I don't have specific knowledge about what training all of Mallinckrodt's sales reps, including those in Ohio, would have received. Sales training programs and their distribution would typically fall under the sales organization, and I wouldn't necessarily have been involved in or informed about the specifics of sales rep training during my time in product management of non-controlled substances or in my advocacy role.
+
+[Turn 41]
+Q: Okay. And so Mallinckrodt 10:56:49 presumably concluded that that Defeat Chronic 10:56:51 Pain Now book was accurate, correct? 10:56:54 MR. O'CONNOR: Objection. 10:56:56 THE WITNESS: That piece would 10:56:57 have been reviewed by our medical, 10:56:59 legal and regulatory team, yes. 10:57:02 (Mallinckrodt-Webb Exhibit 14 10:57:15 marked for identification.) 10:57:15 QUESTIONS BY MR. KAWAMOTO: 10:57:15
+A: That piece would have been reviewed by our medical, legal and regulatory team, yes.
+
+[Turn 42]
+Q: Okay. But you don't -- 11:07:13 Mallinckrodt doesn't know what basis 11:07:18 Dr. Gupta had for that statement, does it? 11:07:21 MR. O'CONNOR: Objection. 11:07:23 THE WITNESS: The availability 11:07:24 of any our material would have been 11:07:28 peer-reviewed and that -- we would 11:07:31 have found -- we would have been -- 11:07:34 utilized a peer-reviewed piece that 11:07:35 was accepted at the time for medical 11:07:37 Source:  https://www.industrydocuments.ucsf.edu/docs/kknv0249 accuracy. 11:07:39 QUESTIONS BY MR. KAWAMOTO: 11:07:40
+A: The availability of any our material would have been peer-reviewed and that -- we would have found -- we would have been -- utilized a peer-reviewed piece that was accepted at the time for medical accuracy.
+
+[Turn 43]
+Q: That first -- that first -- 11:14:29 well, there's a table and then it says, 11:14:30 "acute pain, eudynia," underneath that. 11:14:32
+A: I'm looking at what you're describing, but I'd need you to direct me to the specific document or exhibit so I can see the table and the text you're referring to about "acute pain, eudynia" to give you an accurate response.
+
+[Turn 44]
+Q: On the next -- on the last page 11:26:29 of this excerpt, there is a Q&A with 11:26:32 Dr. Argoff and Dr. Galer. 11:26:34 Source:  https://www.industrydocuments.ucsf.edu/docs/kknv0249 Do you see that?
+A: I'd need you to show me the specific page or document you're referring to so I can see the Q&A with Dr. Argoff and Dr. Galer that you're describing.
+
+[Turn 45]
+Q: Okay. And Mallinckrodt was a 11:37:04 leading manufacturer of Methadose, was it 11:37:09 not? 11:37:11
+A: I don't have specific knowledge about Mallinckrodt's position as a manufacturer of Methadose. That would be outside my area of responsibility during my time managing branded topical products that were not controlled substances, and it's not something I would have been involved with in my advocacy role.
+
+[Turn 46]
+Q: Okay. And then underneath that 11:52:44 it says, "Before starting long-term opioid 11:52:45 therapy, providers should establish treatment 11:52:47 goals with all patients, including realistic 11:52:50 goals for pain and function. Providers 11:52:53 11:52:55 11:52:57 11:52:59 11:53:02 11:53:03 statement? 11:53:05 MR. O'CONNOR: Objection. 11:53:06 THE WITNESS: Correct. 11:53:06 QUESTIONS BY MR. KAWAMOTO: 11:53:06
+A: Correct.
+
+[Turn 47]
+Q: Or the total overall. 12:21:59 So if I wanted to know what the 12:22:01 total payments to KOLs in, let's say, 2013 12:22:02 amounted to, where would I go to get that 12:22:07 information? 12:22:11
+A: I wouldn't know where to find that specific information. That type of financial data regarding total payments to key opinion leaders would be handled by finance or legal departments, and it's not something I would have had access to or responsibility for in either my product management role or my advocacy position.
+
+[Turn 48]
+Q: So, Mr. Webb, I would like to 13:35:49 turn to Topic 32, which is "your coordination 13:35:54 or communications with any defendant in this 13:35:56 action, including, but not limited to, your 13:35:58 participation in any industry groups or 13:36:01 professional societies or any defendant in 13:36:02 this matter is a member relating or -- 13:36:04 relating or referring to pain care, the sale 13:36:06 of opioids, the marketing or promotion of 13:36:09 opioids, regulations, rules or laws affecting 13:36:12 the sale, promotion and marketing of opioids 13:36:16 and the potential for abuse and diversion of 13:36:19 opioids." 13:36:21 And within that topic, I would 13:36:22 like to focus on the Anti-Diversion Industry 13:36:23 Working Group. 13:36:27 Are you familiar with that 13:36:27 entity or that group? 13:36:30 Source:  https://www.industrydocuments.ucsf.edu/docs/kknv0249
+A: Yes, I'm familiar with the Anti-Diversion Industry Working Group.
+
+[Turn 49]
+Q: But the focus was on the 13:50:04 Appalachia? 13:50:06
+A: I'd need more context about what specific focus or initiative you're referring to regarding Appalachia. Could you clarify what particular aspect or program you're asking about?
+
+[Turn 50]
+Q: And who is the leadership of 14:07:05 CPOP? 14:07:06 MR. O'CONNOR: Objection. 14:07:07 THE WITNESS: The meeting -- 14:07:08 the coalition was convened by Trust 14:07:11 for America's Health, the Community 14:07:13 Anti-Drug Coalitions of America and 14:07:17 former-Representative Mary Bono. 14:07:20 QUESTIONS BY MR. KELLY: 14:07:22
+A: The meeting -- the coalition was convened by Trust for America's Health, the Community Anti-Drug Coalitions of America and former-Representative Mary Bono.

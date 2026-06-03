@@ -1,0 +1,206 @@
+WITNESS: Floyd Ratliff
+ARCHETYPE: Dogmatic
+INITIAL STATE: {'C': 0.8, 'K': 0.6, 'A': 0.4, 'V': 0.5, 'R': 0.95, 'P': 0.6}
+FINAL STATE:   {'C': 0.6928, 'K': 0.6, 'A': 0.4224, 'V': 0.5, 'R': 0.9626, 'P': 0.4323}
+======================================================================
+
+[Turn 1]
+Q: Good morning, Mr. Ratliff. Thank you for being here.
+A: Good morning. I appreciate the opportunity to be here and provide my testimony.
+   Δ: C▼0.010
+
+[Turn 2]
+Q: Have you ever been deposed before?
+A: Yes, I have. Given my background in law enforcement and my position in the pharmaceutical industry, I've been deposed in various legal proceedings over the years. This isn't my first time providing sworn testimony in a deposition setting.
+
+[Turn 3]
+Q: And can you briefly describe the matter you were deposed in? MR. KAWAMOTO: Do you want any of the telephonic appearances or -- okay. WILLIAM RATLIFF, called as a witness herein, having been first duly sworn, was examined and testified as follows: EXAMINATION
+A: Yes, I've been deposed in matters related to pharmaceutical distribution and regulatory compliance. Most recently in cases involving allegations about opioid distribution practices. I've also provided testimony in matters stemming from my law enforcement background at the National Drug Intelligence Center. The depositions have covered topics ranging from suspicious order monitoring to industry security protocols and drug diversion patterns.
+
+[Turn 4]
+Q: And did this case involve -- or did this matter involve narcotics?
+A: Yes, it did. The matters I've been deposed in have involved controlled substances, specifically prescription opioids. Given my background in drug enforcement and my role at Mallinckrodt, the cases have typically focused on issues related to opioid distribution, diversion monitoring, and compliance with DEA regulations regarding controlled substances.
+
+[Turn 5]
+Q: So -- well, how -- how long ago was that?
+A: The most recent deposition was within the last few years. I've been involved in ongoing litigation related to the opioid crisis, so there have been multiple depositions over the past several years. The exact timing varies depending on which specific case or matter you're referring to, but they've been part of the broader legal proceedings surrounding pharmaceutical companies and opioid distribution practices.
+
+[Turn 6]
+Q: Okay. So some time ago. In terms of the rules for the deposition then, sir, just to help things go more smoothly, it is very important for us to not speak -- speak over each other. If I ask a question and you don't understand what the question is, please let me know and I will do my best to rephrase it. When you answer, you need to answer audibly, so nodding your head isn't going to work. And if you want to take a break, let me know. If there is a question pending, I think it probably makes sense for you to answer the question, but then I will -- we'll accommodate whatever breaks you need. Does that sound agreeable?
+A: That sounds perfectly agreeable. I understand the ground rules. I'll make sure to give audible verbal responses, let you know if I need clarification on any question, and speak clearly without talking over you. If I need a break, I'll let you know after answering any pending question. I'm ready to proceed.
+
+[Turn 7]
+Q: And you joined Mallinckrodt in 2000, is that correct?
+A: Yes, that's correct. I joined Mallinckrodt as Director of Security in 2000.
+
+[Turn 8]
+Q: No, I understand that, and I appreciate your best efforts.
+A: I understand. I'll do my best to provide accurate testimony based on my recollection.
+
+[Turn 9]
+Q: And can you describe those concerns? MS. KVESELIS: Object to form. BY THE WITNESS:
+A: I'm not sure what specific concerns you're referring to. Could you clarify which concerns you'd like me to describe? Are you asking about concerns I had during my time at Mallinckrodt, or concerns from my previous law enforcement experience, or something else?
+
+[Turn 10]
+Q: And do you recall how many distributors
+A: I'm sorry, but your question seems to be incomplete. You asked about how many distributors, but you didn't finish the question. Could you please complete it so I can give you a proper answer?
+
+[Turn 11]
+Q: So did you have sort of defined tasks that you were responsible for or was it primarily whatever Karen asked you to help her with? MR. O'CONNOR: Objection. BY THE WITNESS:
+A: I had defined responsibilities as Director of Security at Mallinckrodt. My role wasn't simply to do whatever Karen asked me to help with. I had specific security-related duties and oversight responsibilities that came with the position. While I certainly worked collaboratively with other departments and executives when needed, I had my own defined scope of work and accountability within the security function of the company.
+
+[Turn 12]
+Q: And then you would then report that to DEA?
+A: I need more context for your question. Are you asking about reporting suspicious orders to the DEA? Or reporting some other type of information? Could you be more specific about what type of reporting you're referring to so I can give you an accurate answer?
+
+[Turn 13]
+Q: So directing your attention to Page 3.
+A: I don't have any documents in front of me right now. Are you referring to a specific exhibit or document that should have been provided to me? If you could identify what document you're looking at or provide it to me, I'll be happy to review page 3 and answer your question about it.
+
+[Turn 14]
+Q: Okay. Is this the 2007 Rannazzisi letter? MR. O'CONNOR: Objection. BY THE WITNESS:
+A: I'd need to see the document to confirm what it is. If you're showing me what you believe is the 2007 Rannazzisi letter, I can look at it and tell you whether I recognize it or not. But I can't identify a document I'm not able to see.
+
+[Turn 15]
+Q: And part of this form is a description of
+A: I'm sorry, but your question is incomplete. You started to say "part of this form is a description of" but didn't finish. Could you complete your question so I can answer it properly?
+
+[Turn 16]
+Q: Is that a red flag, sir?
+A: I need more context to answer that question properly. A red flag in what context? Are you asking about something specific we were just discussing, or referring to something in a document? Could you clarify what you're asking me to evaluate as potentially being a red flag?
+
+[Turn 17]
+Q: And so your interpretation of this letter, then, is that there is nothing wrong with a manufacturer relying on a rigid formula?
+A: I'd need to see the specific letter and the context you're referring to to give you an accurate interpretation. Without being able to review the document and the specific language about rigid formulas, I can't provide a meaningful answer about my interpretation of what the letter says or implies about manufacturers relying on rigid formulas.
+
+[Turn 18]
+Q: Okay. So presumably after April of 2008 -- well, strike that. I take it you responded to his direction by stopping use of the algorithm, is that correct? MR. O'CONNOR: Objection. BY THE WITNESS:
+A: I need clarification on what you're referring to. Are you asking about stopping the use of a specific algorithm at Mallinckrodt following some direction in April 2008? I want to make sure I understand exactly what algorithm and whose direction you're talking about before I answer whether we stopped using it or not.
+
+[Turn 19]
+Q: -- but what is it you recall about this form?
+A: I need you to be more specific about which form you're asking about. We've been discussing several different documents, and I want to make sure I'm addressing the right one. Could you clarify which specific form you're referring to so I can tell you what I recall about it?
+
+[Turn 20]
+Q: Now, you'll -- do you recall that we were discussing a form, you know, probably ten minutes ago? MR. O'CONNOR: Objection. BY THE WITNESS:
+A: Yes, I recall we were discussing some forms earlier in the examination, but we've covered several different documents and topics. Could you remind me which specific form you want me to focus on? I want to make sure I'm giving you information about the right document.
+
+[Turn 21]
+Q: So based on the document, sir, it appears that Mallinckrodt was working on its suspicious order monitoring program since early 2008 until early 2009. Is that accurate?
+A: I'd need to review the specific document you're referring to in order to confirm whether those dates are accurate or not. Without being able to see what document contains that information, I can't verify whether it shows Mallinckrodt was working on its suspicious order monitoring program from early 2008 until early 2009. If you could show me the document, I could tell you whether that timeline appears accurate based on what's written there.
+
+[Turn 22]
+Q: So do you see the -- the portions that I've highlighted -- well, first, is this general description accurate or do you -- do you believe it's not accurate? MR. O'CONNOR: Objection. BY THE WITNESS:
+A: I can't see any highlighted portions or the document you're referring to. If you could show me the document with the highlighted sections you want me to review, I'd be happy to tell you whether I believe the general description is accurate or not. Without being able to see what you're asking about, I can't provide a meaningful response about its accuracy.
+
+[Turn 23]
+Q: And to be clear, the entity that was making the statement, though, was the Drug Enforcement Administration, is that correct?
+A: I'd need to see the specific document or statement you're referring to in order to confirm who made it. Without being able to review the document, I can't verify whether the Drug Enforcement Administration was the entity that made whatever statement you're asking about. If you could show me the document, I could identify who authored or issued the statement.
+
+[Turn 24]
+Q: Okay. And do you also see under
+A: Your question is incomplete. You started to say "And do you also see under" but didn't finish. Could you complete your question so I can respond appropriately?
+
+[Turn 25]
+Q: Do you recall attending this meeting?
+A: I need more information about which meeting you're referring to. Are you asking about a specific meeting mentioned in one of the documents we've been discussing? Could you provide some details about when this meeting took place, who attended, or what it was about so I can tell you whether I recall attending it?
+
+[Turn 26]
+Q: So you've indicated that you do recall this August 2011 meeting. Do you have any specific memories of any other meetings with DEA, or is it this one and then you recalled the other one in St. Louis from I believe 2010? MR. O'CONNOR: Objection. BY THE WITNESS:
+A: Yes, I recall the August 2011 meeting we just discussed, and I do remember the St. Louis meeting from 2010 that you mentioned. As for other meetings with DEA, I would have attended various meetings and interactions with DEA personnel during my time at Mallinckrodt, but those are the two specific meetings that stand out clearly in my memory right now. There may have been other meetings, but I'd need more specific details to refresh my recollection about any others.
+
+[Turn 27]
+Q: So if I were to say -- if DEA were to
+A: Your question is incomplete. You started to say "So if I were to say -- if DEA were to" but didn't finish the thought. Could you complete your question so I can answer it properly?
+
+[Turn 28]
+Q: So this is a document entitled "Pharmacy Information Sheet." It's Bates number is 570903.
+A: I see you're identifying a document titled "Pharmacy Information Sheet" with Bates number 570903. Are you going to show me this document or ask me a question about it? I'm ready to review it or answer any questions you have about this pharmacy information sheet.
+
+[Turn 29]
+Q: So Ned called Mr. Lohman and he wanted to check the SOM system and protect Lam's in the pharmacist sting/raid. Do you know what that means? MR. O'CONNOR: Objection. BY THE WITNESS:
+A: I'm not familiar with the specific details of what you're describing about Ned calling Mr. Lohman regarding the SOM system and protecting Lam's in connection with a pharmacist sting or raid. Without seeing the document or having more context about this particular incident, I can't explain what that means or provide details about those circumstances.
+
+[Turn 30]
+Q: Okay. Would this information have been helpful to you as director of security? MR. O'CONNOR: Objection. BY THE WITNESS:
+A: Without understanding the full context of what that information represents - the details about Ned calling Mr. Lohman regarding the SOM system and Lam's pharmacy in connection with a sting or raid - I can't definitively say whether it would have been helpful to me as director of security. Generally speaking, information about law enforcement activities involving our customers or our monitoring systems could be relevant to security operations, but I'd need to understand the specific circumstances to determine if this particular information would have been helpful.
+
+[Turn 31]
+Q: But the credit check doesn't address the fact that their initial order, and they are an extremely small company and with a Yahoo e-mail address, was 2,500, correct? MR. O'CONNOR: Objection. BY MR. KAWAMOTO:
+A: I'd need to see the specific document or credit check you're referring to in order to address your question about an initial order of 2,500 from a small company with a Yahoo email address. Without being able to review the details of that particular situation, I can't confirm whether the credit check addressed that initial order amount or not.
+
+[Turn 32]
+Q: Okay. Should you have? MR. O'CONNOR: Objection. BY THE WITNESS:
+A: Without seeing the specific circumstances you're describing - the details about the small company with a Yahoo email address placing an initial order of 2,500 - I can't say definitively whether we should have addressed that in a credit check or our review process. Generally speaking, unusual order patterns or characteristics that seem inconsistent with a customer's profile would warrant closer scrutiny, but I'd need to understand the full context of that particular situation to give you a proper answer.
+
+[Turn 33]
+Q: I mean, as you sit here, you have no reason to believe that this order was either denied or subject to heightened scrutiny? MR. O'CONNOR: Objection. BY THE WITNESS:
+A: Based on what you've described to me about this particular order, I don't have any specific knowledge or recollection that would indicate whether this order was denied or subjected to heightened scrutiny. Without being able to review the records or having more details about how this specific case was handled, I can't tell you one way or the other what action was taken regarding that order.
+
+[Turn 34]
+Q: But based on the information available to you at this time, sir, I mean, they are not a normal customer, are they? MR. O'CONNOR: Objection. BY MR. KAWAMOTO: their suspicious order monitoring program, who does that, and at the time I think they told them that they had a -- that's when they -- I think we knew before that about the DEA agent that assisted in identifying customers and -- and doing due diligence to ensure that they were operating correctly.
+A: I'm having difficulty following your question because it seems like there are multiple parts and some incomplete thoughts. Are you asking me whether, based on the information you've described - a small company with a Yahoo email address placing a large initial order - they would be considered a normal customer? If that's your question, then no, those characteristics you've described don't sound like they would represent a typical or normal customer profile.
+
+[Turn 35]
+Q: Okay. Would it surprise you to learn that Dr. Schultz is in prison?
+A: I don't have any knowledge about Dr. Schultz's current legal status or whether he's in prison. Without knowing the specific circumstances or details about Dr. Schultz, I can't say whether that information would surprise me or not. If you're telling me that's the case, then I'll take your word for it, but I don't have any independent knowledge about his situation.
+
+[Turn 36]
+Q: Looking at these totals and assuming that this extrapolation from the -- the data that was produced is accurate, for a three-year time span, do you see how many pills were provided -- were sent to Florida, that's going to be Total Sales Quantity Government UOM?
+A: I don't see the document you're referring to with the totals and extrapolation data. You're asking me to look at specific figures showing pill quantities sent to Florida over a three-year period, but I'd need to actually see that document or have you show me the specific numbers you're referencing in order to comment on the Total Sales Quantity Government UOM figures.
+
+[Turn 37]
+Q: Do you want to take -- MR. O'CONNOR: Can we go off the record for a minute? MS. HERZFELD: Yeah, let's go off the record for a minute. THE VIDEOGRAPHER: We are going off the record at 6:14. (WHEREUPON, a recess was had from 6:14 to 6:19 p.m.) THE VIDEOGRAPHER: We are back on the record at 6:19. BY MS. HERZFELD:
+A: I'm ready to continue with your questions.
+
+[Turn 38]
+Q: Okay. Do you know if there was a transition plan in place to go from you to that person?
+A: I don't recall the specific details of any transition plan when I left my position as Director of Security at Mallinckrodt. There may have been some kind of handover process, but I don't have a clear recollection of the specifics of any formal transition plan or what that might have entailed.
+
+[Turn 39]
+Q: Sure. I understand.
+A: Alright.
+
+[Turn 40]
+Q: Okay. So is this, perhaps, a summary of your notes and Karen Harper's notes? MR. O'CONNOR: Objection. BY THE WITNESS: 10/17 of '11. So here at the bottom it says -- Okay. -- "Karen Harper Notes." Do you know where "Karen Harper Notes" comes from? What does that mean?
+A: Without seeing the specific document you're referring to, I can't tell you what "Karen Harper Notes" means or where those notes come from. If you're showing me a document that has Karen Harper's notes referenced at the bottom and asking if it's a summary of my notes and her notes, I'd need to actually see the document to be able to answer that question accurately.
+
+[Turn 41]
+Q: Okay. Do you know after this report if Mallinckrodt continued shipping to AmerisourceBergen and AmerisourceBergen shipped to Rippetoe? MR. O'CONNOR: Objection. BY THE WITNESS:
+A: I don't have specific knowledge about whether Mallinckrodt continued shipping to AmerisourceBergen after this report you're referencing, or whether AmerisourceBergen continued shipping to Rippetoe. I'd need to see the specific report and timeframe you're talking about to have any basis for answering that question about the shipping arrangements that followed.
+
+[Turn 42]
+Q: Oh, pharmacist in charge is --
+A: I'm waiting for you to complete your question about the pharmacist in charge.
+
+[Turn 43]
+Q: Okay. And was one of those kind of
+A: I'm not sure what you're asking. Could you complete your question?
+
+[Turn 44]
+Q: Okay. So finishing off just that sentence: "ABC Compliance Director committed to updating the pharmacy information sheets and providing information for Mallinckrodt for further review." Was that after the conversation with the lawyers?
+A: I don't have a clear recollection of the specific timing of when ABC's Compliance Director made that commitment relative to any conversation with lawyers. Without being able to see the document you're referencing or having more context about the timeline, I can't tell you definitively whether that commitment came before or after a conversation with lawyers.
+
+[Turn 45]
+Q: Okay. It sounds like the distributors didn't always give them to you, is that right?
+A: That's correct. The distributors didn't always provide us with the information we requested. There were instances where we would ask for certain documentation or details and they wouldn't always comply with those requests or provide what we were looking for.
+
+[Turn 46]
+Q: Okay. So now looking at document 51, it appears to be an e-mail from Don Walker to you, is that correct?
+A: I don't see document 51 in front of me right now. If you're showing me an email that appears to be from Don Walker to me, I'd need to actually see it to confirm that and comment on its contents.
+
+[Turn 47]
+Q: -- would that be indicative of you that you might need to look a little bit closer for diversion at that pharmacy? MR. O'CONNOR: Objection. BY THE WITNESS:
+A: Yes, that type of information would certainly be indicative that we might need to look more closely at that pharmacy for potential diversion. When you see patterns or data that suggest unusual activity or volumes, that's exactly the kind of red flag that would warrant closer scrutiny and further investigation into what's happening at that location.
+
+[Turn 48]
+Q: Understood, sir.
+A: Alright.
+
+[Turn 49]
+Q: I'm just asking, sir, if that's a flag for you? MR. O'CONNOR: Objection. BY THE WITNESS:
+A: Yes, that would be a flag for me. When you see that type of pattern or activity, it raises concerns and would warrant further attention and investigation.
+
+[Turn 50]
+Q: Don't you think somebody should ask those questions, though? MR. O'CONNOR: Objection. BY MS. HERZFELD:
+A: Yes, I do think someone should ask those questions. When you have red flags or concerning patterns, it's appropriate and necessary to follow up with questions to understand what's happening and whether there's a legitimate explanation or if there's potential diversion occurring.

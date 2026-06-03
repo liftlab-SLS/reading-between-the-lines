@@ -1,0 +1,209 @@
+WITNESS: Eileen Spaulding
+ARCHETYPE: Overprepared
+INITIAL STATE: {'C': 0.9, 'K': 0.7, 'A': 0.6, 'V': 0.5, 'R': 0.7, 'P': 0.95}
+FINAL STATE:   {'C': 0.7789, 'K': 0.6918, 'A': 0.5776, 'V': 0.5052, 'R': 0.7756, 'P': 0.6842}
+======================================================================
+
+[Turn 1]
+Q: Good morning, Ms. Spaulding.
+A: Good morning.
+   Δ: C▼0.011
+
+[Turn 2]
+Q: My name is Gary Gotta. We met briefly Source:  https://www.industrydocuments.ucsf.edu/docs/glnv0249 just before we went on the record. We've never met before today, correct?
+A: That's correct. We've never met before today.
+   Δ: C▼0.010
+
+[Turn 3]
+Q: Have you ever given a deposition previously?
+A: No, I have not given a deposition before.
+
+[Turn 4]
+Q: Okay. Well, we will -- just a few items by way of background. Please let me finish my questions if you can, and I'll certainly try to let you finish your answers before so we don't speak over each other. If any of my questions are unclear to you in any way, let me know and I'll do my best to clarify them.
+A: I understand.
+
+[Turn 5]
+Q: If you answer a question without asking for a clarification, I'll assume you felt like you understood it. Okay?
+A: Yes, that's fine.
+
+[Turn 6]
+Q: And this is kind of a large table so I'll try to keep my voice up so we can all hear each other. But I'm not shouting, I'm just trying to --
+A: That's fine. I can hear you clearly.
+
+[Turn 7]
+Q: Okay. And who did you speak to in that regard?
+A: I'm sorry, could you clarify what you mean by "in that regard"? I'm not sure what you're referring to.
+
+[Turn 8]
+Q: Was it some number of years?
+A: I'm not following your question. Could you please be more specific about what you're asking me? What time period or topic are you referring to?
+
+[Turn 9]
+Q: Okay. So is there any process in place at Mallinckrodt, or has there been at any point, to review any of the steps that you take that you just described for accuracy, errors, completeness, etcetera? MR. O'CONNOR: Object to form.
+A: Yes, there are review processes in place. The ARCOS reports that I prepare are reviewed by my supervisor before they're submitted to the DEA. We have internal quality control procedures to check for accuracy and completeness. There are also periodic audits of our compliance processes by both internal audit teams and external auditors to ensure we're meeting all regulatory requirements.
+
+[Turn 10]
+Q: And overgoods is what?
+A: I'm sorry, could you repeat the question? I didn't catch what you're asking about "overgoods."
+
+[Turn 11]
+Q: Okay. Next item you indicated was discrepancy reporting. What's that?
+A: Discrepancy reporting involves identifying and documenting any differences or inconsistencies in our controlled substance inventory records. This could be differences between what our systems show we should have versus what we actually have on hand, or discrepancies in shipping records, receiving records, things of that nature. When we find these discrepancies, we have to investigate them, document the findings, and report them to the DEA as required under the regulations.
+
+[Turn 12]
+Q: Okay. Are there other training programs of that type that you've attended?
+A: Yes, I've attended various other compliance training programs over the years. There are regular DEA training sessions on controlled substances regulations, updates on the Controlled Substances Act requirements, and internal Mallinckrodt training on our specific compliance procedures. We also receive training when there are regulatory changes or updates to our internal processes. It's ongoing training that we're required to complete to stay current with the requirements.
+
+[Turn 13]
+Q: And so the quota allocation -- when you say API, I mean, that's active pharmaceutical ingredient, correct?
+A: That's correct. API stands for active pharmaceutical ingredient.
+
+[Turn 14]
+Q: And approximately what was the time frame when the longer time period applied?
+A: I'm sorry, could you clarify what longer time period you're referring to? I want to make sure I'm answering the right question.
+
+[Turn 15]
+Q: Okay. And then you indicated at some point you became the senior controlled substance compliance coordinator?
+A: Yes, that's correct. I was promoted to senior controlled substance compliance coordinator at some point during my time in the compliance department.
+
+[Turn 16]
+Q: So before that time, what responsibilities did you have with respect to SOM?
+A: I'm not sure what SOM refers to. Could you clarify what you mean by SOM so I can answer your question properly?
+
+[Turn 17]
+Q: Okay. And some of the anti-diversion steps that you described, for example placebo tablets, to law enforcement, that would be related to diversion that's occurring after the product leaves your manufacturing facility, right?
+A: Yes, that's correct. The placebo tablets and assistance we provide to law enforcement are related to diversion that occurs in the marketplace after our products have left our manufacturing facility. These are post-distribution diversion activities that we help law enforcement investigate and combat.
+
+[Turn 18]
+Q: And do those include requirements to design and maintain a suspicious order monitoring program?
+A: Yes, that's correct. The regulations require us to design, implement, and maintain a suspicious order monitoring program. This is one of our key regulatory obligations to help identify and prevent diversion of controlled substances.
+   Δ: C▼0.018 K▼0.049 V▲0.027
+
+[Turn 19]
+Q: Had you had responsibility for implementation for upgrade of any aspect of the SOM program for fiscal year 2009?
+A: I'm not certain about specific responsibilities I may have had for SOM program upgrades in fiscal year 2009 without reviewing my records from that time period. Could you be more specific about what aspect of the implementation or upgrade you're asking about?
+
+[Turn 20]
+Q: And that quarterly report would be the algorithm hit or peculiar order hit report that you testified to earlier today, correct?
+A: I'm not sure I follow. Could you clarify what quarterly report you're referring to? I want to make sure we're talking about the same thing before I confirm that.
+
+[Turn 21]
+Q: Okay. And so what steps did you take to try to confirm that?
+A: I'm sorry, but I need you to be more specific about what you're asking me to confirm. What particular matter or issue are you referring to that I was supposed to take steps to confirm?
+   Δ: P▼0.010
+
+[Turn 22]
+Q: So the SOPs that apply to SOM, what are the subject matters that they cover?
+A: The SOPs that apply to SOM cover various subject matters including the criteria for identifying suspicious orders, the process for investigating potential suspicious orders, documentation requirements, reporting procedures to the DEA, escalation processes within the company, and the roles and responsibilities of different personnel involved in the suspicious order monitoring program. They outline the step-by-step procedures we follow to comply with our regulatory obligations.
+
+[Turn 23]
+Q: Okay. In Ms. Harper's e-mail to you,
+A: I'm sorry, but you haven't finished your question about Ms. Harper's email. Could you complete the question so I can respond appropriately?
+
+[Turn 24]
+Q: Do you ever recall that occurring, that you provided notification to DEA of any confirmed diversion?
+A: I would need to review specific records to give you an accurate answer about particular instances where I may have provided notification to the DEA regarding confirmed diversion. Without looking at the documentation, I can't recall specific cases off the top of my head.
+
+[Turn 25]
+Q: Okay. Do you recall being aware in 2005 that MS Contin was extremely abused?
+A: I was aware that MS Contin, being a controlled substance opioid medication, had potential for abuse. That's something we were generally aware of in the compliance department given the nature of controlled substances. The specific extent of abuse patterns in 2005, I'd need to look at records from that time to speak to with certainty.
+
+[Turn 26]
+Q: In terms of when you were first aware of there being work on enhancing the SOM program until the time when the enhanced program was actually implemented, that was more than three years, wasn't it? MR. O'CONNOR: Objection to form.
+A: I'm not certain about the specific timeline you're referring to regarding the SOM program enhancements. Without reviewing the relevant documentation and records, I can't confirm whether that timeframe was more than three years. I'd need to look at the specific dates to give you an accurate answer.
+
+[Turn 27]
+Q: Enhancing the SOM program.
+A: I understand you're asking about enhancing the SOM program, but could you complete your question? Are you asking about a specific aspect of the enhancements, the timeline, or something else related to the program improvements?
+
+[Turn 28]
+Q: Were you aware of that before receiving this letter?
+A: I'm sorry, but you haven't specified which letter you're referring to. Could you clarify which letter you mean so I can answer whether I was aware of something before receiving it?
+
+[Turn 29]
+Q: Okay. So these orders were identified by application of the algorithm that you understand was in place at the time?
+A: Yes, that's my understanding. The orders in question would have been identified through the application of whatever algorithm was in place at that particular time period.
+
+[Turn 30]
+Q: We've marked as Exhibit 16 a two-page document beginning at Bates MNK-T1 0002940798. Please take a look at those and tell me if you I was combining and sending to DEA.
+A: I'm looking at the document you've marked as Exhibit 16. However, your question appears to be incomplete. You mentioned something about combining and sending to DEA, but could you finish your question so I can respond appropriately?
+
+[Turn 31]
+Q: And that's the reason you sent it to Source:  https://www.industrydocuments.ucsf.edu/docs/glnv0249 whatever the algorithm was in place at the time, all those parties, right? that.
+A: I'm having difficulty understanding your question as it seems incomplete or unclear. Could you rephrase what you're asking me about regarding the algorithm and the parties involved? I want to make sure I give you an accurate response.
+
+[Turn 32]
+Q: She gross on to say "It is significant to note that neither Sunrise or Harvard triggered the algorithms that were in place for direct customers because we were looking at overall purchase trends for each distributor, not reviewing where the distributors were Source:  https://www.industrydocuments.ucsf.edu/docs/glnv0249 sending our product (and our program met CFR requirements)." And is that the phenomenon you testified about earlier today, looking at ship to rather than bill to? MR. O'CONNOR: Objection to form.
+A: Yes, that sounds like it's referring to the distinction I testified about earlier regarding looking at ship-to versus bill-to addresses. The algorithm was focusing on the overall purchase patterns of the distributors themselves rather than tracking where those distributors were subsequently shipping the product to their customers.
+
+[Turn 33]
+Q: And ultimately all of those distributors had their DEA licenses terminated, didn't they? MR. O'CONNOR: Object to the form.
+A: I can't recall off the top of my head the specific outcome for each of those distributors' DEA licenses. That would require me to review records to give you an accurate answer about what ultimately happened to their licensing status.
+
+[Turn 34]
+Q: Okay. And who would have asked you to do that?
+A: I'm sorry, but could you clarify what you're referring to when you ask who would have asked me to do "that"? Are you asking about a specific task or action you mentioned previously?
+
+[Turn 35]
+Q: Okay. So the pharmacy would -- it could continue to buy from a Mallinckrodt distributor, but it could not apply for a Source:  https://www.industrydocuments.ucsf.edu/docs/glnv0249 distributor to Mallinckrodt on behalf of the pharmacy.
+A: I'm not entirely clear on what you're stating or asking. Could you rephrase that? Are you asking about the relationship between pharmacies, distributors, and their ability to purchase or apply for something with Mallinckrodt?
+
+[Turn 36]
+Q: Okay. And so there would be times when you would give them verbal information, but if they wanted that information in writing you'd tell them they needed to issue a subpoena?
+A: I don't recall specifically telling anyone they would need to issue a subpoena to get written information. I'd need to review any specific instances or communications you're referring to to give you an accurate answer about what I may have said in particular situations.
+
+[Turn 37]
+Q: And again, apart from conversations with counsel, did you have discussions with anyone else at Mallinckrodt with respect to how you responded to law enforcement inquiries as you describe in this paragraph?
+A: I don't recall having specific discussions with others at Mallinckrodt, apart from counsel, about how to respond to law enforcement inquiries. My responses would have been based on company policy and procedures that were in place for handling such requests.
+
+[Turn 38]
+Q: Okay. So the SOPs are -- is that to what's in the November 15th e-mail?
+A: I'm not sure which November 15th email you're referring to or what specific SOPs you're asking about in relation to that email. Could you clarify which email and which standard operating procedures you mean so I can give you an accurate response?
+
+[Turn 39]
+Q: So this was the formula that was used back in 2012?
+A: I'd need you to specify which formula you're referring to. Are you asking about a calculation method, an algorithm, or some other type of formula that was in use in 2012? Could you clarify what specific formula you mean?
+
+[Turn 40]
+Q: So in previous audits, approximately how many people would be there and for approximately how long?
+A: I don't have a clear recollection of the exact number of people who would typically be involved in previous audits or their specific duration. The size and length would likely have varied depending on the scope and nature of each particular audit. I'd need to review records to give you more precise information about staffing levels and timeframes for specific audits.
+
+[Turn 41]
+Q: The next paragraph, "detect and report to the DEA orders deviating substantially from normal patterns." Again, you understood that there was a regulatory requirement to detect and report such orders, correct?
+A: Yes, that's correct. I understood that there was a regulatory requirement to detect and report orders that deviated substantially from normal patterns to the DEA.
+
+[Turn 42]
+Q: And who was it who performed your evaluations?
+A: I don't have a clear recollection of who specifically performed my evaluations. That would depend on the time period and the organizational structure at the time. It would likely have been my direct supervisor or manager, but I'd need to review records to give you the specific names and details.
+
+[Turn 43]
+Q: And was this before the transition over to the FedEx Express service that you talked about this morning?
+A: I don't recall specifically testifying about a transition to FedEx Express service this morning. Could you clarify what transition you're referring to so I can give you an accurate response about the timing?
+
+[Turn 44]
+Q: And flip to the next page. Do you see that the state listed there is Ohio?
+A: Yes, I can see that the state listed there is Ohio.
+
+[Turn 45]
+Q: And then also on the Other Manufacturers map, the State of Tennessee is kind of more purple than other areas around it. Do you see that?
+A: Yes, I can see that Tennessee appears more purple compared to the surrounding areas on the Other Manufacturers map.
+
+[Turn 46]
+Q: And then once again on the Mallinckrodt 30-milligram page, we see that Tennessee is green, suggesting once again larger per capita usage. Do you see that?
+A: Yes, I can see that Tennessee is shown in green on the Mallinckrodt 30-milligram page, which according to the legend would indicate larger per capita usage.
+
+[Turn 47]
+Q: You can set that aside. (Whereupon, Mallinckrodt-Spaulding-45 was marked for identification.) BY MR. GESTEL: marked as Exhibit 45. Sorry, I'm somehow down a copy. monitoring steering committee at that time, correct?
+A: I'm sorry, but your question seems to have been cut off or garbled. You mentioned something about a monitoring steering committee, but I'm not clear on what you're asking. Could you repeat the full question?
+
+[Turn 48]
+Q: So -- and then there's less orders processed going down the line, and then correspondingly less order fails, correct?
+A: Yes, that's correct. If there are fewer orders being processed, then correspondingly there would be fewer order fails as well.
+
+[Turn 49]
+Q: Well, let me back up. Do you maintain the chargeback data?
+A: I don't recall specifically maintaining chargeback data as part of my regular responsibilities. That type of data would typically be handled by other departments, possibly finance or sales operations. I'd need to clarify what specific chargeback data you're referring to and review my actual responsibilities to give you a more accurate answer.
+
+[Turn 50]
+Q: What is the UOR program?
+A: I'm not immediately familiar with what the UOR program refers to. Could you provide more context or clarify what UOR stands for so I can give you an accurate response?

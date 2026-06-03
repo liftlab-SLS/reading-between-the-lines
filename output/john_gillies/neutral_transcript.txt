@@ -1,0 +1,206 @@
+WITNESS: John Gillies
+ARCHETYPE: Neutral
+INITIAL STATE: {'C': 0.8, 'K': 0.8, 'A': 0.6, 'V': 0.4, 'R': 0.5, 'P': 0.3}
+FINAL STATE:   {'C': 0.6898, 'K': 0.8, 'A': 0.5773, 'V': 0.4, 'R': 0.6303, 'P': 0.2134}
+======================================================================
+
+[Turn 1]
+Q: Would you please state and spell your name for the record?
+A: My name is John Gillies. That's J-O-H-N, G-I-L-L-I-E-S.
+   Δ: C▼0.010
+
+[Turn 2]
+Q: And Mr. Gillies, where do you currently reside? Porter on behalf of Endo and Par entities. MS. RUSSO: Shana Russo, Reed Smith, on behalf of AmerisourceBergen Drug Corporation. THE VIDEOGRAPHER: The court reporter is John Arndt and he will now swear in the witness. Source:  https://www.industrydocuments.ucsf.edu/docs/xlnv0249
+A: I currently reside in St. Louis, Missouri.
+
+[Turn 3]
+Q: And have you had your deposition taken before?
+A: Yes, I have. Given my background with the FBI, I've been deposed in various cases over the years. This isn't my first time being deposed.
+
+[Turn 4]
+Q: Approximately how many times?
+A: I'd estimate somewhere in the neighborhood of fifteen to twenty times. Most of those were during my FBI career, though I've had a few since joining Mallinckrodt as well.
+
+[Turn 5]
+Q: And was that in connection with your time at FBI or in connection with your time at Mallinckrodt?
+A: Both. The majority were during my time with the FBI - that would account for most of those fifteen to twenty depositions I mentioned. Since joining Mallinckrodt, I've been deposed a handful of times, maybe three or four occasions, in connection with my role there.
+
+[Turn 6]
+Q: Not Mallinckrodt?
+A: I'm sorry, could you clarify your question? Are you asking if the recent depositions were not related to Mallinckrodt? The handful of depositions since I joined the company have been in connection with my position at Mallinckrodt, yes.
+
+[Turn 7]
+Q: Now, is it accurate to state that Mallinckrodt did not always comply with these duties? MR. O'CONNOR: Objection to form. Source:  https://www.industrydocuments.ucsf.edu/docs/xlnv0249
+A: I need to understand what specific duties you're referring to. Could you clarify which duties you're asking about? I want to make sure I'm answering your question accurately.
+
+[Turn 8]
+Q: So you -- have you seen any documents at all that -- Mallinckrodt documents that reference the 0xy Express?
+A: I'm not familiar with any documents that reference something called "Oxy Express." Could you provide more context about what you're referring to? I want to make sure I understand your question correctly.
+
+[Turn 9]
+Q: It would not be accurate to say that?
+A: I'm sorry, I'm not following your question. You asked if I've seen documents referencing "Oxy Express," and I said I'm not familiar with that term. Are you asking me to confirm that it would not be accurate to say I've seen such documents? If that's your question, then yes, that's correct - I have not seen Mallinckrodt documents that reference "Oxy Express."
+
+[Turn 10]
+Q: And to be clear, Mallinckrodt distinguished between a peculiar order and a suspicious order; is that accurate?
+A: Yes, that's accurate. Mallinckrodt did make distinctions in its monitoring systems between what we classified as peculiar orders versus suspicious orders. These were different categories with different thresholds and different response protocols.
+
+[Turn 11]
+Q: Do you know -- do you have any understanding of whether or not she was the team leader prior to 2008? MR. O'CONNOR: Objection to form.
+A: I'm not sure who "she" refers to in your question. Could you clarify which person you're asking about as team leader prior to 2008?
+
+[Turn 12]
+Q: You did not? Okay. Is it accurate -- regardless of whether or not you reviewed this particular one, is it accurate to state that this is a draft of Mallinckrodt's SOM policy?
+A: I can't confirm whether a specific document is a draft of Mallinckrodt's SOM policy without seeing it. If you're showing me a document, I'd need to review it to give you an accurate answer about what it represents. Are you referring to a particular document that's in front of us?
+
+[Turn 13]
+Q: And then going back to the Draft 3 that we were discussing a moment ago.
+A: I'm sorry, but I don't recall discussing a Draft 3 document. Could you refresh my recollection about what Draft 3 you're referring to? I want to make sure we're talking about the same document.
+
+[Turn 14]
+Q: So this particular document dated 11-4-2009 regarding Mallinckrodt's controlled substance suspicious order monitoring program appears to be a draft; is that fair to say?
+A: If you're showing me a document dated November 4th, 2009, I'd need to look at it to confirm whether it appears to be a draft. Are you presenting a document for me to review? I can't confirm the nature or status of a document without being able to examine it.
+
+[Turn 15]
+Q: And is it your testimony that Mallinckrodt did in fact have a formal written policy as of 2011 regarding its SOM program? MR. O'CONNOR: Objection to form.
+A: Yes, Mallinckrodt did have a formal written policy regarding its suspicious order monitoring program by 2011. The company had established written procedures and policies governing how we identified, evaluated, and reported suspicious orders.
+
+[Turn 16]
+Q: And by largest customers you mean ABC, McKesson, Cardinal, and H.D. Smith?
+A: Yes, those were among our largest wholesale customers - ABC, McKesson, Cardinal Health, and H.D. Smith. Those four distributors represented a significant portion of our wholesale volume.
+
+[Turn 17]
+Q: -- 24. And for the record, this document ends in Bates 511246, and it is titled identification, investigation, and reports of controlled substances suspicious orders, and the effective date is August 17th, 2015, in the top right-hand corner. Do you see that, Mr. Gillies? [Exhibit Mallinckrodt-Gillies-024 marked for identification.] Yes. Did you review this particular policy in preparation for your deposition today?
+A: Yes, I can see the document you're referring to with the Bates number ending in 511246 and the title "Identification, Investigation, and Reports of Controlled Substances Suspicious Orders" with an effective date of August 17th, 2015. Yes, I did review this policy in preparation for my deposition today.
+
+[Turn 18]
+Q: Going back to Buzzeo. When were they retained, and for approximately how long? MR. 0'C0NN0R: I'm going to object to -- Source:  https://www.industrydocuments.ucsf.edu/docs/xlnv0249 Buzzeo was retained in connection with this litigation in 2018 in connection with suspicious order monitoring, and so John, I'm going to instruct you not to answer with respect to anything beyond the fact of the engagement. BY MR. KO:
+A: I understand counsel's instruction. I can confirm that Buzzeo was retained in 2018 in connection with this litigation regarding suspicious order monitoring matters, but I'm instructed not to discuss details beyond the fact of their engagement.
+
+[Turn 19]
+Q: So are you aware of any 2017 subpoena by the Department of Justice regarding Mallinckrcdt's manufacturing and marketing of Exalgo, Xartemis, and Roxicodone, among other products? investigations performed by any entity regarding Mallinckrodt's manufacturing or distribution cf its opioid products? MR. O'CONNOR: Objection to form. I don't know of any. last year in the beginning of 2018, prosecutors from the Southern District of Florida had issued grand jury subpoenas to Mallinckrodt regarding its manufacturing and distribution of prescription opioids?
+A: I'm not aware of a specific 2017 subpoena by the Department of Justice regarding those particular products you mentioned - Exalgo, Xartemis, and Roxicodone. As for the Southern District of Florida grand jury subpoenas in early 2018, I'd need to be more careful about discussing ongoing legal matters and would defer to counsel's guidance on what I can say about any federal investigations.
+
+[Turn 20]
+Q: And which -- the same procedures we were kind of discussing before?
+A: I'm not sure which specific procedures you're referring to when you say "the same procedures we were discussing before." Could you clarify what procedures you mean? We've covered several different topics and I want to make sure I'm addressing the right issue.
+
+[Turn 21]
+Q: What about specific investigations of potential diversion of opioids in Tennessee? Did Mallinckrodt do anything specific -- strike that. I got all caught up on that one. Did Mallinckrodt do anything specifically to investigate the potential diversion of its opioids potential diversion of opioids in Tennessee? Did Mallinckrodt do anything specifically for Tennessee in auditing potential diversion of ()plaids in Tennessee? MR. O'CONNOR: Objection to form. Not that I'm aware of. Source:  https://www.industrydocuments.ucsf.edu/docs/xlnv0249 in Tennessee?
+A: Not that I'm aware of. I'm not familiar with Mallinckrodt conducting any specific investigations or audits targeted specifically at potential diversion of opioids in Tennessee as a particular state focus.
+
+[Turn 22]
+Q: When we all get over a certain age, it makes it difficult to see. Okay. Okay. If you'll take a look at this document.
+A: I'm looking at the document you've provided. What would you like me to focus on or what questions do you have about it?
+
+[Turn 23]
+Q: Complaints about there being a pill mill someplace? Source:  https://www.industrydocuments.ucsf.edu/docs/xlnv0249 MR. O'CONNOR: Objection to form.
+A: I'm not sure what specific complaints or pill mill situations you're referring to. Could you be more specific about what you're asking - are you asking about a particular location, time period, or document that mentions pill mill complaints?
+
+[Turn 24]
+Q: So Mr. Gillies, why did you leave the FBI?
+A: I retired from the FBI after completing my career there. It was time to move into the private sector and apply the experience I had gained in federal law enforcement to corporate security and compliance work.
+
+[Turn 25]
+Q: And they are a customer of Mallinckrodt, are they not?
+A: I'm sorry, but I need clarification on who "they" refers to in your question. We've discussed several different entities today - are you asking about one of the distributors we mentioned earlier, or a different company or organization?
+
+[Turn 26]
+Q: This is based on Exhibit 42.
+A: I'd need to look at Exhibit 42 to answer your question about whether they are a customer of Mallinckrodt. Could you show me the exhibit or clarify which entity from the exhibit you're asking about?
+
+[Turn 27]
+Q: Well, so let me rephrase that question.
+A: Alright, go ahead with your rephrased question.
+
+[Turn 28]
+Q: And would that have been a general practice, or was it one that you applied only to your meetings with DEA? MR. O'CONNOR: Objection to form.
+A: I'm not sure what specific practice you're referring to. Are you asking about note-taking, meeting procedures, or something else? Could you clarify what practice you mean so I can answer your question properly?
+
+[Turn 29]
+Q: It's oxycodone, it's oxy 15 and oxy 30s?
+A: Yes, that's correct - oxycodone 15 milligram and 30 milligram tablets. Those are controlled substance products that Mallinckrodt manufactures.
+
+[Turn 30]
+Q: So based on these three e-mails, you have a new customer, Sunrise, that is ordering a large amount of oxy 30 that we've discussed as a product of heightened interest or heightened concern for DEA. It is a very small company. It's got a $35,000 credit limit and they're ordering $195,000. It's got a Yahoo -- @yahoo.com e-mail address. It's got two web screens, and it was started five years ago. Given this information, wouldn't you have concerns about shipping 2,520 bottles of oxy to this company? MR. O'CONNOR: Objection to form.
+A: Looking at those red flags you've outlined - a new customer, ordering high volumes of oxy 30s which are indeed a product of concern, the small size relative to the large order, the Yahoo email address, limited web presence, and recent establishment - yes, those would collectively raise significant concerns that would warrant further investigation before shipping. That combination of factors would certainly trigger our suspicious order monitoring protocols and require additional due diligence on the customer.
+
+[Turn 31]
+Q: The cover e-mail indicates that this is -- or the subject matter -- or the subject line indicates that this is a Sunrise chargeback summary. Do you see that, sir?
+A: Yes, I can see that the subject line indicates this is a Sunrise chargeback summary. I see that reference in the document.
+
+[Turn 32]
+Q: She says to -- she writes to Jennifer, thank you very much. I have another question, if you don't mind. Have you seen a trend of hydromorphone being prescribed instead of the oxycodone? Margaret. Jennifer's response is, Margaret, the short answer is no. While we don't track hydromorphone the same way as oxycodone from an S0M perspective, we have not seen any increases in trends which would warrant concern. What does she mean by, we don't track hydromorphone in the same way as hydrocodone from an SOM perspective?
+A: SOM refers to our Suspicious Order Monitoring system. When Jennifer says we don't track hydromorphone the same way as oxycodone from an SOM perspective, she means that hydromorphone wasn't subject to the same level of monitoring protocols or threshold parameters in our suspicious order monitoring system as oxycodone was. The monitoring criteria, alert thresholds, or review processes for hydromorphone orders were different - likely less stringent - than what we applied to oxycodone orders.
+
+[Turn 33]
+Q: And for how long?
+A: I would need more context about what specific time period you're asking about. Are you asking how long hydromorphone had different monitoring criteria than oxycodone, or how long a particular practice or situation lasted? Could you clarify what timeframe you're referring to?
+
+[Turn 34]
+Q: And you didn't go -- you said you don't think you went to the --
+A: I'm sorry, but your question seems to have been cut off. You mentioned that I said I don't think I went to something, but I need you to complete the question so I can respond appropriately. What didn't I go to?
+
+[Turn 35]
+Q: Do you recall ever receiving another e-mail like this from anyone -- Ms. McKenzie or anyone else? MR. O'CONNOR: Objection to form.
+A: I don't have a specific recollection of receiving another email exactly like this one from Ms. McKenzie or anyone else. Without being able to review other communications, I can't say definitively whether similar emails were sent, but this particular type of communication doesn't stand out as something I received regularly.
+
+[Turn 36]
+Q: And when did you provide the name of Mark Murphy to the DEA?
+A: I don't recall the specific date when I provided Mark Murphy's name to the DEA. Do you have a document or exhibit that shows when that occurred? That would help refresh my recollection about the timing.
+
+[Turn 37]
+Q: Look at Page -- the one that ends 9707.
+A: I'd need to see the document ending in 9707 to answer your question about when Mark Murphy's name was provided to the DEA. Could you show me that page or exhibit?
+
+[Turn 38]
+Q: Did you hear anything about Geraldo Rivera going to Celina, Tennessee, recently?
+A: No, I don't recall hearing anything about Geraldo Rivera going to Celina, Tennessee recently. I'm not aware of any media coverage or reports involving him and that location.
+
+[Turn 39]
+Q: To help them make a decision?
+A: I'm not sure what decision you're referring to. Could you provide more context about what decision and who you're asking about?
+
+[Turn 40]
+Q: Which is the failure prior to 2012 to follow the directives that were given to you by the DEA? MR. BUEKER: Objection. Form.
+A: I would need you to be more specific about which particular DEA directives you're referring to. The DEA has provided various guidance and directives over time on different aspects of our operations. Could you clarify which specific directives or timeframe you're asking about so I can respond appropriately?
+
+[Turn 41]
+Q: So did you talk to the DEA in that case Source:  https://www.industrydocuments.ucsf.edu/docs/xnnv0249 because you thought there might be a diversion of opioids going on with respect to that prescriber? MR. BUEKER: Can I hear that question read back? [The requested portion of the transcript was read by the reporter.] MR. BUEKER: You can answer.
+A: I would need to see the specific document or case you're referencing to answer accurately about whether I contacted the DEA regarding concerns about potential diversion by a particular prescriber. Without being able to review the specific circumstances you're referring to, I can't confirm what my reasoning or concerns were at that time.
+
+[Turn 42]
+Q: -- being advised -- or advising DI Hamilton that Mallinckrodt utilizes 69,000 as an average sales of oxy 30 --
+A: I'm sorry, but your question appears to be incomplete. You mentioned something about advising DI Hamilton regarding Mallinckrodt utilizing 69,000 as an average sales figure for oxy 30, but the question cuts off. Could you complete your question so I can respond appropriately?
+
+[Turn 43]
+Q: Do you know if Mallinckrodt ever reported the Bearden clinic to law enforcement?
+A: I don't have a specific recollection of whether Mallinckrodt reported the Bearden clinic to law enforcement. That would be something I'd need to check our records on or see documentation about to give you an accurate answer.
+
+[Turn 44]
+Q: Do you see that this is an e-mail from Bill de Gutierrez-Mahoney to Jennifer Buist?
+A: I don't see the email you're referring to. Could you show me the document or exhibit so I can confirm what I'm looking at?
+
+[Turn 45]
+Q: And what did they say?
+A: I need more context about who "they" refers to and what conversation or communication you're asking about. Could you clarify what specific statement or response you're referring to?
+
+[Turn 46]
+Q: Do you see that in this document that your memo of October 5th, 2012, you note according to available data from September 11th to two thousand -- pardon me. I'll say that again. Do you see where you write in this October Source:  https://www.industrydocuments.ucsf.edu/docs/xnnv0249 5th, 2012, memorandum according to available data from September 2011 to September 2012, Dr. Andreassan wrote more than 29,000 narcotic prescriptions, of which more than 13 were for hydrocodone?
+A: I don't see the October 5th, 2012 memorandum you're referring to. Could you show me that document so I can review what I wrote about Dr. Andreassan's prescribing data? I'd need to see the actual memo to confirm those specific figures and what I documented.
+
+[Turn 47]
+Q: And so where would the identified order come in? Who would look at it first after the computer system had determined it needed to be looked at?
+A: The identified order would typically go to our suspicious order monitoring team first. That would be the initial human review after our computer system flagged it as potentially suspicious. The team would then evaluate the order based on our established criteria and procedures to determine what action, if any, needed to be taken.
+
+[Turn 48]
+Q: And do you see this follows her e-mail saying Scott, as this is a new item, we're trying to understand what anticipated order quantities may be. Because it is a new item, it trips our algorithm and goes on a U2 hold. We're trying to better understand what estimated order quantity may -- quantities may be moving forward. Do you see that?
+A: I don't see the email you're referencing. Could you show me that document so I can review what it says about the new item, the algorithm, and the U2 hold? I'd need to see the actual communication to confirm what's written there.
+
+[Turn 49]
+Q: And she says Steve, we had a Dakota drug order on U2 hold for Oxycodone HCL five milligram tabs USP. We released the order. However, please provide an updated forecast for this customer SKU as the MTD THE VIDEOGRAPHER: We are going off the record at 2:21 PM. [A brief recess was taken.] THE VIDEOGRAPHER: We are back on the record at 2:41 PM. BY MR. STEWART: Source:  https://www.industrydocuments.ucsf.edu/docs/xnnv0249 volume for December equates to 29 percent of their year-to-date orders. See attached for data and chart. Do you see that?
+A: I don't see the document you're reading from. Could you show me that communication so I can review what it says about the Dakota drug order, the U2 hold for Oxycodone HCL five milligram tablets, and the volume data you're referencing? I'd need to see the actual document to confirm those details.
+
+[Turn 50]
+Q: Do you see it? MR. BUEKER: Objection to scope.
+A: I still don't see the document you're referring to. Could you show me what you'd like me to look at?

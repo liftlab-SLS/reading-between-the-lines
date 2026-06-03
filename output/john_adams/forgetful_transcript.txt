@@ -1,0 +1,467 @@
+WITNESS: John Adams
+ARCHETYPE: Forgetful
+INITIAL STATE: {'C': 0.4, 'K': 0.5, 'A': 0.6, 'V': 0.4, 'R': 0.3, 'P': 0.3}
+FINAL STATE:   {'C': 0.3464, 'K': 0.5, 'A': 0.5776, 'V': 0.4, 'R': 0.4765, 'P': 0.216}
+======================================================================
+
+[Turn 1]
+Q: We met oriefly off the record, but coulc full name and ac .c you please state your ress for the record?
+A: My name is John Adams. John Michael Adams. My current address is... uh... 847 Maple Ridge Drive, Westfield, New Jersey. Zero seven zero nine zero.
+
+I'm sorry, could you repeat the first part of your question? I didn't quite catch what you said about meeting off the record.
+
+[Turn 2]
+Q: Anc. have you ever hac your ceposition taken oefore?
+A: No, no I haven't. This is... this is my first time doing anything like this. I mean, I've been in plenty of business meetings and presentations, but nothing like a deposition. I'm not really sure what to expect here.
+
+Should I have an attorney present? I wasn't sure if I needed one or not. Nobody really explained the process to me very clearly.
+
+[Turn 3]
+Q: So you're generally familiar with the -- the protocols for -- for eoosition?
+A: Not really, no. I mean, I know it's some kind of legal proceeding where you ask questions and I answer them under oath, but beyond that... I'm honestly not sure what the protocols are.
+
+I know I'm supposed to tell the truth, obviously. And I assume you'll be recording this or there's a court reporter or something? But the specific rules or procedures, no, I don't really know what those are.
+
+Is there something I should know? Some particular way I'm supposed to answer or respond?
+
+[Turn 4]
+Q: Correct. 0 . (a.y. Have you had your ceposition taken in connection with any sort of opioic products or litigation?
+A: No, no I haven't. This is... well, like I said, this is the first time I've ever had my deposition taken at all, so definitely not about opioids or any litigation.
+
+I mean, I've worked on opioid products in my career, yes, but I've never been involved in any legal proceedings about them before. This is all new territory for me.
+
+Is that... is that what this is about? Opioid litigation?
+
+[Turn 5]
+Q: Anc . what c id you do to Source:  https://www.industrydocuments.ucsf.edu/docs/xknv0249 prepare for tocay's reposition?
+A: I... well, I tried to think back through my time at Mallinckrodt, you know, refresh my memory on key events and timelines. I looked through some of my old files and notes that I still had from when I worked there.
+
+I also... I mean, I tried to recall the organizational structure, who reported to whom, that sort of thing. Since I don't really know what you're going to ask about.
+
+But honestly, I'm not sure I prepared the right way. Like I said, I've never done this before, so I wasn't really sure what kind of preparation was expected or appropriate. Should I have done something differently?
+
+I didn't talk to anyone else about what might come up today, if that's what you're asking.
+
+[Turn 6]
+Q: Mallincroct? Six hours one c another. Dic Dic ay, anc maybe you read any deposition you talk to any
+A: I'm sorry, could you... could you repeat that question? I'm having trouble understanding what you're asking. Something about Mallinckrodt and six hours and depositions?
+
+Are you asking if I talked to anyone about depositions? Or if I read other depositions? I'm just... I'm not following the question clearly.
+
+Could you maybe rephrase it? I want to make sure I'm answering what you're actually asking.
+
+[Turn 7]
+Q: Anc. how c.id your responsioilities change when you became VP of sales?
+A: When I became VP of sales, well, the scope of responsibility expanded significantly. Instead of managing just specific product lines or regions, I was overseeing the entire sales organization for Mallinckrodt Generics.
+
+I had... let's see... I had regional sales managers reporting to me, and they each had teams under them. So instead of being hands-on with individual accounts, I was more focused on strategy, setting targets, managing budgets for the sales force.
+
+I was also more involved in cross-functional work with marketing, regulatory affairs, operations. More executive-level meetings, board presentations, that kind of thing.
+
+The day-to-day was less about individual customer relationships and more about... well, managing managers. Making sure we were hitting our numbers across all our product portfolios.
+
+It was a big shift from the more tactical work I'd been doing as a senior product manager.
+
+[Turn 8]
+Q: Anc Know his title. Know what company he .o not. . when you were VP of sales, who dic you report to?
+A: When I was VP of sales, I reported to... let me think... it was the Chief Commercial Officer. 
+
+I'm trying to remember his name exactly. The organizational structure changed a few times during my tenure there, so there were different people in that role at different points.
+
+Are you asking about a specific time period? Because depending on when we're talking about, it might have been different people. The company went through some reorganizations while I was there.
+
+I want to make sure I'm giving you the right name for the right timeframe.
+
+[Turn 9]
+Q: oosition No. Do you toc ay? Know whether those ocuments were produced in I c Anc .on't recall. did you -- c I c on't id you use Source:  https://www.industrydocuments.ucsf.edu/docs/xknv0249 the text messaging to communicate with colleagues at MallincKrodt?
+A: Yes, yes I did use text messaging to communicate with colleagues at Mallinckrodt. That was pretty standard practice, especially for quick updates or urgent matters when we were traveling or in meetings.
+
+I mean, we used email for most formal communications, but texting was common for things like "running late to the meeting" or quick status updates on deals or customer issues.
+
+Are you asking about specific text messages? Because I don't... I mean, I don't have access to those old messages anymore. That was years ago and I've changed phones since then.
+
+Is that... are those the documents you're referring to? Text messages that were produced in litigation?
+
+[Turn 10]
+Q: Anc what was the sales aid
+A: I'm sorry, what sales aid are you referring to? 
+
+We had... I mean, during my time at Mallinckrodt we had various sales materials and aids for different products. Are you asking about a specific product or a particular sales aid?
+
+Could you be more specific about which one you mean? We had detailing pieces, product brochures, clinical data summaries... different materials for different situations and different products.
+
+I want to make sure I'm answering about the right thing.
+
+[Turn 11]
+Q: journal ac opioid pro
+A: I'm sorry, I'm still not following what you're asking about. Are you asking about a journal ad for an opioid product? Or some kind of sales aid related to opioids?
+
+Could you finish your question? I heard "journal ad opioid pro" but I'm not sure what the complete question is.
+
+I want to make sure I understand what you're asking before I try to answer.
+
+[Turn 12]
+Q: You wantec to increase mar<et share?
+A: Well, yes, of course. I mean, that's... that was part of my job, right? We were always looking to grow market share for our products. That's what sales organizations do.
+
+For any product we were selling, whether it was opioids or other generics, we had targets and goals to increase our market presence. We'd analyze competitor pricing, look at formulary positions, work with our marketing team on positioning.
+
+Is that... are you asking about specific strategies we used? Or about opioid products in particular? Because yes, market share growth was always an objective across our portfolio.
+
+That's pretty standard in the pharmaceutical industry. Every company is trying to grow their business.
+
+[Turn 13]
+Q: Anc annual target 15 percent. it inc icates that your salary is about $110,000 anc your oonus opportunity was about Do you see that?
+A: I... well, I can't see what document you're looking at right now. Are you showing me something? 
+
+But those numbers... I mean, the salary range sounds about right for that timeframe, and yes, we did have bonus structures tied to performance targets. Fifteen percent growth targets were... that was aggressive but not unusual in our industry.
+
+Are you reading from my employment agreement or some kind of compensation document? I'd need to see what you're referring to to confirm the specific details, but the general structure of salary plus performance bonus, that's accurate.
+
+Is this from my personnel file or something like that?
+
+[Turn 14]
+Q: Anc o. it states, "Fiscal year '09 NS goal was $80,127,760 and NS for the year came in at $108,199,828." Do you see that?
+A: I still can't see the document you're reading from. You're asking if I see it, but I don't have it in front of me.
+
+But those numbers... fiscal year '09... that sounds like net sales figures. If the goal was around eighty million and we came in at one-oh-eight million, that would have been... well, that's significantly over target. That's about thirty-five percent over goal.
+
+That would have been a really strong year if those numbers are accurate. But I'd need to see the actual document to confirm what product or division those figures are referring to.
+
+Are you showing me a performance report or something like that? Can you tell me what the document is?
+
+[Turn 15]
+Q: page, do you ER it's only 7 percent. Do you see that?
+A: No, I still can't see what document you're looking at. You keep asking if I see things but I don't have anything in front of me.
+
+Are you looking at some kind of performance report or sales analysis? You mentioned seven percent - is that a growth rate or market share figure?
+
+I'm trying to follow what you're reading but without being able to see the document myself, I can only respond to the pieces you're telling me about. Can you either show me the document or tell me what it is you're reading from?
+
+[Turn 16]
+Q: understood that c emand
+A: I'm sorry, could you finish that question? You said "understood that demand" but I'm not sure what you're asking about.
+
+Are you asking if I understood demand for a particular product? Or demand in the market? I need the complete question to give you a proper answer.
+
+Could you repeat the full question?
+
+[Turn 17]
+Q: UKay. Do you recall it in any other context?
+A: I'm sorry, do I recall what in any other context? 
+
+You haven't... I mean, we've been talking about several different things - documents I can't see, sales figures, demand for something. I'm not sure what specific thing you're asking me to recall in another context.
+
+Could you be more specific about what "it" refers to? I want to give you an accurate answer but I need to understand what you're asking about.
+
+[Turn 18]
+Q: yes. was oroc I could n't have tolc you a so I don't recall what the oe. Do you recall it being high?
+A: I'm really having trouble following your question. You're asking if I recall something being high, but I'm not clear on what you're referring to.
+
+Are you asking about demand being high? Sales figures being high? Market share? 
+
+I'm getting fragments of what you're saying but I can't piece together the complete question. Could you slow down and ask me the full question again? I want to give you a proper answer but I need to understand what specifically you're asking about.
+
+What is it that you're asking if I recall being high?
+
+[Turn 19]
+Q: Anc. if you sKip two more cages you'll see HD Smith 2007 versus 2008 net sales. Do you see that?
+A: No, I still can't see whatever document you're looking at. You keep asking if I see things, but I don't have any papers or documents in front of me.
+
+HD Smith... that's a pharmaceutical distributor, right? If you're looking at their net sales figures for 2007 versus 2008, that would be their purchasing data from us, I assume.
+
+But I can't see the specific numbers you're referring to. Are you going to tell me what those figures show, or... can you put the document where I can actually look at it?
+
+I'm trying to follow along but you keep referencing things I can't see.
+
+[Turn 20]
+Q: Anc do you see that the methacone 10-milligram taps increasec. apout 238 percent from 2007 to 2008? it c
+A: I can't see the document you're reading from. You keep asking if I see things but I don't have it in front of me.
+
+But you're saying methadone 10-milligram tablets increased about 238 percent from 2007 to 2008? That's... that's a significant increase. That would be more than doubling the volume.
+
+If those are the numbers from HD Smith, that would be reflecting their purchases from us. That kind of growth... I mean, that's substantial.
+
+But I can't confirm those specific figures without seeing the document myself. Are you going to show me what you're reading from?
+
+[Turn 21]
+Q: Do you recall working with somebody else treatment?
+A: I'm sorry, could you finish that question? You said "Do you recall working with somebody else treatment" but that doesn't make complete sense to me.
+
+Are you asking if I recall working with someone else on treatment protocols? Or working with treatment centers? Or something about addiction treatment?
+
+I need you to complete the question so I can give you a proper answer. Working with somebody else about what kind of treatment?
+
+[Turn 22]
+Q: If further, you'll oe traditional. I don't like this. you go a couple pages see on Page 19 of the oresentation, it states, "Customers C Mallinc riving moc
+A: I still can't see the document you're reading from. You keep referencing pages and asking if I see things, but I don't have anything in front of me to look at.
+
+You mentioned Page 19 of some presentation and something about customers and Mallinckrodt, but you cut off in the middle. You said "Customers C Mallinc riving moc" - I can't make out what that's supposed to say.
+
+Can you either show me this presentation or tell me clearly what it says? I can't respond properly when I'm only getting fragments of sentences that I can't see myself.
+
+What does Page 19 actually say about customers and Mallinckrodt?
+
+[Turn 23]
+Q: Anc there's zero 300/15 percent rebate offerec on that? But then it says $14 rebate per bottle. What does that $14 figure mean? Source:  https://www.industrydocuments.ucsf.edu/docs/xknv0249
+A: I can't see the document you're referencing. You're asking about a $14 rebate per bottle and what that figure means, but without seeing the context of the document, I can't tell you specifically what that rebate was for.
+
+Rebates in the pharmaceutical industry can be structured different ways - volume rebates, formulary rebates, market share rebates. Fourteen dollars per bottle... that would depend on what product we're talking about and what the rebate program was designed to incentivize.
+
+If this is from some internal presentation or contract document, I'd need to see the full context to explain what that specific rebate structure was about. Was this tied to a particular customer or distribution agreement?
+
+Without seeing the document myself, I can't give you a definitive answer about what that fourteen dollar figure represented.
+
+[Turn 24]
+Q: that says, pharmacies. But you see the line here "We will need to stimulate sales demand through a promotion, et cetera." Do you see that?
+A: No, I still can't see the document you're reading from. You keep asking if I see lines and text, but I don't have anything in front of me.
+
+You're saying there's a line about needing to stimulate sales demand through promotions? That sounds like standard marketing language for any pharmaceutical product. Companies always look at promotional strategies to drive demand.
+
+But without seeing the actual document and the full context, I can't tell you what specific promotion or product this was referring to, or what the strategy was.
+
+Can you either show me the document or tell me what the complete sentence says? I'm only getting pieces of what you're reading.
+
+[Turn 25]
+Q: If you turn to the next page. Do you see there's a reference to a cocaine to- oical?
+A: I can't see the document you're looking at. You keep asking if I see things on different pages, but I don't have any document in front of me.
+
+You mentioned something about a reference to cocaine... I'm not sure what you're asking about. Are you asking if there's some reference to a topical product? 
+
+I can't make out what you're saying exactly - "cocaine to-oical" doesn't make sense to me. Could you clarify what you're reading and what you're asking about?
+
+Without being able to see the document myself, I can't confirm what's on any particular page.
+
+[Turn 26]
+Q: Do you recall working to evelop something called a Narcotics Story? rememl
+A: I'm not... I don't recall anything specifically called a "Narcotics Story." 
+
+Are you asking about some kind of marketing narrative or positioning document? I mean, we worked on various product strategies and messaging for our controlled substance products, but I'm not sure what you're referring to with "Narcotics Story" specifically.
+
+Can you give me more context about what this was supposed to be? Was this some kind of internal document or presentation you're looking at?
+
+I don't want to guess at what you're asking about if I'm not clear on what "Narcotics Story" means.
+
+[Turn 27]
+Q: It goes onto state, the opjective is to have all 43,000 employees of Covid year. ien be trained by the end Do you recall?
+A: I'm having trouble following what you're reading. You said something about 43,000 employees and training by the end of something, but I can't make out the full sentence.
+
+Are you asking if I recall some kind of company-wide training program? Forty-three thousand employees sounds like it would be across the entire Mallinckrodt organization, not just our division.
+
+I don't recall the specific details of whatever training program you're referring to. Can you tell me what this training was supposed to cover? And what document you're reading this from?
+
+I'm trying to follow along but the fragments I'm getting aren't clear enough for me to know what specific program or initiative you're asking about.
+
+[Turn 28]
+Q: occur -- I was gone from t at that time. All the other opioic ucts that we've lookec Schec at so far were ule II at the time; is that right?
+A: Yes, that's correct. The opioid products we manufactured - oxycodone, morphine, methadone - those were all Schedule II controlled substances.
+
+Schedule II means they have accepted medical use but high potential for abuse and dependence. That's the most restrictive category for products that can still be prescribed.
+
+So yes, during my time at Mallinckrodt, the opioid products we were dealing with were Schedule II under the Controlled Substances Act.
+
+[Turn 29]
+Q: Could you give me your best estimate as to when that system was put into place?
+A: You mean when the DEA quota system was put into place for Schedule II substances? 
+
+That goes back... I believe that was established with the original Controlled Substances Act in the early 1970s. The DEA has had the authority to set production quotas for Schedule II controlled substances for decades.
+
+But if you're asking about when some specific internal system at Mallinckrodt was implemented, I'd need more context about what system you're referring to. The quota system itself has been around since the CSA was enacted, but companies have their own internal processes for managing those quotas.
+
+Are you asking about the federal quota system or some internal company system?
+
+[Turn 30]
+Q: Do you recall seeing customer checi Mallincl <roc <lists when you were at t, liKe this?
+A: You're asking if I recall seeing customer check lists when I was at Mallinckrodt? 
+
+I mean, we had various customer-related documentation and tracking systems. Sales teams typically have customer lists, account information, that sort of thing.
+
+But I can't see whatever specific document you're showing me, so I can't tell you if I've seen that particular list before.
+
+What kind of customer check list are you referring to? Is this something about account management or compliance monitoring or what?
+
+Without seeing the actual document, I can't say whether I've encountered that specific format or list before.
+
+[Turn 31]
+Q: The fourth entry uncer the heacing states, "Orcer entry system flags peculiar orders of unusual size/frequency oasec upon algorithm." Do you see that? Source:  https://www.industrydocuments.ucsf.edu/docs/xknv0249
+A: I can't see the document you're reading from. You keep asking if I see things, but I don't have any papers or documents in front of me.
+
+But you're saying there's something about an order entry system that flags peculiar orders based on unusual size or frequency using some kind of algorithm? That sounds like it would be part of compliance monitoring - tracking orders that fall outside normal patterns.
+
+That would make sense for controlled substances. Companies are supposed to monitor for suspicious orders and report them.
+
+But I can't confirm I've seen that specific document or language before without being able to look at it myself. Are you going to show me what you're reading from?
+
+[Turn 32]
+Q: Anc what sorts of things woulc raise a rec flag, if anything, that you're aware of?
+A: Well, there are several things that would typically raise red flags in the order monitoring systems.
+
+Unusual volume spikes - if a pharmacy that normally orders, say, a hundred bottles a month suddenly wants a thousand bottles, that would get flagged. 
+
+Geographic patterns that don't make sense - like a small pharmacy in a rural area ordering volumes that would serve a much larger population.
+
+Frequency issues - customers placing orders much more often than their normal pattern, or right after getting a delivery.
+
+Cash payments when they normally use credit terms. Multiple small orders instead of their usual larger ones, which could indicate they're trying to stay under detection thresholds.
+
+Distance issues - pharmacies ordering from distributors that are unusually far away when there are closer options available.
+
+These are the kinds of patterns the algorithms would be designed to catch. The idea is to identify orders that don't fit normal dispensing patterns for legitimate medical use.
+
+[Turn 33]
+Q: What do you recall about
+A: You started to ask what I recall about something, but you didn't finish the question.
+
+What do I recall about what?
+
+[Turn 34]
+Q: Anc ARCOS data in the controlled substance on't Know. you c on't Know whether Source:  https://www.industrydocuments.ucsf.edu/docs/xknv0249 Mallinckroc t usec IntegriChain to use ARCOS data in connection with controllec su ostance monitoring, right?
+A: I'm not sure about the specific details of whether Mallinckrodt used IntegriChain for ARCOS data monitoring.
+
+ARCOS is the DEA's system - the Automation of Reports and Consolidated Orders System - that tracks controlled substance transactions. Companies have to report their distributions through ARCOS.
+
+But as for whether we specifically used IntegriChain as a vendor to help analyze that ARCOS data for our monitoring purposes... I don't have clear recollection of that specific arrangement.
+
+There were various systems and vendors involved in our compliance monitoring, but I can't say definitively whether IntegriChain was one of them for ARCOS data analysis.
+
+You seem to have documents that show more detail about this than I can recall off the top of my head.
+
+[Turn 35]
+Q: Anc. that incluc.es ooth Masters and Sunrise.
+A: I'm not following what you're saying about Masters and Sunrise. Are those customer names? System names? 
+
+You mentioned IntegriChain and ARCOS data, and now you're saying something includes both Masters and Sunrise, but I don't have the context to understand what you're referring to.
+
+Can you clarify what Masters and Sunrise are in relation to whatever we're discussing about the monitoring systems?
+
+[Turn 36]
+Q: What do you recall him wasn't so oleasant. the way that he was ac I c idn't like vertising at a national trade show that I attencec He was acvertising, basically calling AmerisourceBergen, his advertising was for the industry as a whole. Carc inal and McKesson, The Three Stooges. Anc I too that? K issues with how un Anc orofessional dic you let him Know Source:  https://www.industrydocuments.ucsf.edu/docs/xknv0249
+A: I'm having trouble following what you're saying. You're talking about someone at a trade show who was advertising something and called AmerisourceBergen, Cardinal, and McKesson "The Three Stooges"?
+
+Are you asking if I remember someone being unprofessional at a trade show? And whether I let them know I had issues with how they were behaving?
+
+I'm not clear on who "him" refers to or what specific incident you're talking about. Can you be more specific about what trade show this was and who was doing this advertising?
+
+The way you're phrasing this, it sounds like you're reading from something, but I can't piece together the full story from the fragments I'm hearing.
+
+[Turn 37]
+Q: .ocument mar Ked as Source:  https://www.industrydocuments.ucsf.edu/docs/xknv0249 Exhibit 20.
+A: I can't see Exhibit 20 or any document you're referencing. You keep mentioning documents and asking if I see things, but I don't have any exhibits or papers in front of me.
+
+If you want me to respond to something specific in Exhibit 20, you'll need to show it to me or read the relevant part clearly so I can understand what you're asking about.
+
+I'm trying to follow along, but I can't respond to documents I can't see.
+
+[Turn 38]
+Q: But I'm just as King you if you recall seeing any pictures of Sunrise or any of its customers this orc er.
+A: I don't recall seeing pictures of Sunrise or its customers in any particular order or document.
+
+I'm not even clear on what Sunrise is in this context - is that a customer of ours? A competitor? Some kind of system or platform?
+
+You've mentioned Sunrise a couple times now but I don't have a clear recollection of what company or entity you're referring to. Can you clarify what Sunrise is so I understand what pictures you're asking about?
+
+[Turn 39]
+Q: Were you aware that South Florida aecame the largest supplier of Source:  https://www.industrydocuments.ucsf.edu/docs/xknv0249 illegal country?
+A: You're cutting off again. You said South Florida became the largest supplier of something illegal in the country? 
+
+Are you asking if I was aware that South Florida became a major source for illegal opioids? Like pill mills and diversion?
+
+Yeah, I mean, South Florida was definitely known in the industry as a problem area. There were a lot of pain clinics down there that were basically pill mills - doctors writing huge quantities of prescriptions with minimal medical justification. It was all over the news and industry publications.
+
+The DEA was cracking down on that area pretty heavily during my time at Mallinckrodt. Everyone in the industry knew South Florida was a hot spot for diversion and abuse.
+
+Is that what you're referring to?
+
+[Turn 40]
+Q: 0 . (ay. Anc. you see that Bill Ratliff is retorting, "The DEA diversion group supervisor recommencec that we auc it Sunrise as soon as oossible." Do you see that?
+A: No, I can't see what you're reading from. You keep asking if I see things, but I don't have any document in front of me.
+
+But you're saying Bill Ratliff reported that a DEA diversion group supervisor recommended auditing Sunrise as soon as possible? 
+
+That sounds like there were concerns about Sunrise - whoever that customer is - that warranted DEA attention and an audit recommendation.
+
+I don't have specific recollection of that particular communication from Bill Ratliff, but if the DEA was recommending an audit of one of our customers, that would be a serious compliance matter that would get escalated quickly.
+
+Is Bill Ratliff someone from our compliance or regulatory affairs team?
+
+[Turn 41]
+Q: least from amounts of correct?
+A: I'm sorry, I can't understand what you're asking. You said "least from amounts of correct?" but that doesn't make sense to me.
+
+Are you asking about amounts of something? Can you rephrase the question so I can understand what you're trying to ask?
+
+[Turn 42]
+Q: 0.Kay. Anc if you turn to the next page, you'll see that it starts with the controlled substance compliance suspicious orc er monitoring customer audit checKlist. Do you see that?
+A: No, I can't see the next page or any page. I don't have any documents in front of me.
+
+You're describing a controlled substance compliance suspicious order monitoring customer audit checklist. That sounds like it would be part of our compliance procedures for auditing customers who had been flagged for suspicious ordering patterns.
+
+But I can't see whatever specific checklist you're looking at. If you want me to respond to something on that checklist, you'll need to read it to me or describe what you're asking about.
+
+[Turn 43]
+Q: Okay. Are you familiar with who Barry Schultz is?
+A: I'm not immediately recalling who Barry Schultz is. The name doesn't ring a bell right off the bat.
+
+Was he someone at Mallinckrodt? Or with one of our customers or business partners? Can you refresh my memory on who Barry Schultz is and what his role was?
+
+[Turn 44]
+Q: Anc. you c Alliance is?
+A: You're cutting off again. Are you asking if I know what Alliance is?
+
+Alliance Healthcare? Alliance Rx? There are several companies with Alliance in the name in the pharmaceutical space.
+
+Can you be more specific about which Alliance you're referring to and finish your question?
+
+[Turn 45]
+Q: Kers bureau From generics, I don't program that the generics I'm talking aoout Mallinc- Kroct generally. a speakers program regardless.
+A: I'm having trouble following what you're saying. It sounds like you're asking about a speakers bureau program at Mallinckrodt generics?
+
+Are you asking if I'm familiar with whether Mallinckrodt had speakers bureau programs for our generic products? 
+
+Most pharmaceutical companies, including generics companies, do have speakers programs where they pay physicians to give presentations about their products at medical conferences or educational events.
+
+But I can't make out the full question you're asking. Can you rephrase it more clearly?
+
+[Turn 46]
+Q: Okay. Dia Purchase any other -- or Believe is the MallincKroct cic have access to any other c was tracKing essentially?
+A: I'm sorry, I'm still having trouble understanding your question. It sounds like you're asking if Mallinckrodt had access to some kind of tracking data or system beyond what we've already discussed?
+
+Are you asking about what data sources or tracking systems Mallinckrodt had access to for monitoring controlled substance distributions? Beyond ARCOS data?
+
+Can you slow down and ask the question more clearly? I want to answer but I need to understand what you're asking about.
+
+[Turn 47]
+Q: you go to Oh, is that the NACDS?
+A: NACDS - that's the National Association of Chain Drug Stores. Yes, I'm familiar with NACDS. They're the trade association that represents chain pharmacies.
+
+Are you asking if we had some kind of relationship or data sharing arrangement with NACDS? Or if they were involved in some tracking system you're asking about?
+
+What's the context of your question about NACDS?
+
+[Turn 48]
+Q: Have you ever reviewec, materials published by the Tennessee Deoartment of Health on Tennessee's ooioid crisis?
+A: No, I don't recall reviewing specific materials published by the Tennessee Department of Health on Tennessee's opioid crisis.
+
+I mean, I was generally aware that Tennessee was one of the states hit hard by the opioid crisis - it was in the news and industry publications. But I don't remember looking at specific reports or materials put out by Tennessee's health department.
+
+Is there something specific in those Tennessee health department materials that's relevant to what we're discussing?
+
+[Turn 49]
+Q: When you saw that roc t's sales figures for opioids, including oxy 30, were increasing, what investigation d id you do to ensure that those sales were legitimate mec oeing driven ical neec s? oy MR. TSAI: Ooject to form. THE WITNESS: As far as investigating, that is a compliance. The compliance team Source:  https://www.industrydocuments.ucsf.edu/docs/xknv0249 has the processes in place to investigate those. Again, as those -- certain things -- when there's an orcer placed anc it seems to be out, there is a suspicious orcer monitoring Process that's in Place anc those controls are certainly designec to highlight that. Now, growth can mentionec testimony, the fact their sales oe c riven, as I I aelieve uring my it can oe c number of scenarios. One is, it coulc customer who we gainec _riven on a . be a new . Anc SO the comparison from the first set of data to the second could be going from zero to -- or from one aottle to 100. Okay, great, you've got a huge percent increase, right. It coulc be that we oasically lookec at that -- or Source:  https://www.industrydocuments.ucsf.edu/docs/xknv0249 that customer looked at us and said, you know what, we want you to be the primary, anc . we no longer want to be aole to -- or have additional manufacturers of this oroc .uct within our distrioution network. oe their c the ecision to c The other one is, oroc uct launchec That could .o that. when was . Was the or ocuct just launched So you're comparing a -- two months of sales versus 12 months of sales. There's many variaoles that can happen there. Or was there a supply disruption that occurred from another manufacturer or a iscontinuation of a prod uct. All of those factor into what can crive a number. BY MR. GASTEL:
+A: Right, so as I was saying, when we saw sales figures increasing for opioids like oxy 30, the investigation into whether those sales were legitimate wasn't really my responsibility as a sales executive. That fell under the compliance team.
+
+We had suspicious order monitoring processes in place that were designed to flag unusual patterns. Those controls were supposed to catch orders that seemed out of line.
+
+As for the growth itself, there could be legitimate reasons for big increases in sales figures. Like I mentioned, it could be a new customer where you're going from zero or very low volumes to much higher volumes - that creates a huge percentage increase even if the actual numbers aren't that dramatic.
+
+Or it could be that an existing customer decided to make us their primary supplier and consolidate their purchasing with us instead of buying from multiple manufacturers.
+
+Timing matters too - if you're comparing a new product launch period to a full year of sales, or if there was a supply disruption from a competitor, those factors can drive significant increases in our numbers.
+
+The compliance team had the processes and expertise to dig into whether increases were driven by legitimate medical need or something else.
+
+[Turn 50]
+Q: So just to be clear, have or have access to any actual messages from your time at Mallinc
+A: No, I don't have access to any actual messages from my time at Mallinckrodt. I left the company and went to Ajanta Pharma. I don't have copies of internal emails or communications from when I was there.
+
+Are you asking because you have some specific messages or communications you want to ask me about? If you show me something I might be able to recall the context or situation, but I don't have access to old company emails or documents myself.

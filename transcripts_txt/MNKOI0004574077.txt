@@ -1,0 +1,6078 @@
+Page
+1 APPEARANCES :
+3 MOTLEY RICE LLC
+4 BY: VINCENT L. GREENE, IV
+5 55 Cedar Street, Suite 100
+6 Providence, Rhode Island 02903
+7 (401) 457-7700
+8 and
+9 MOTLEY RICE LLC
+10 BY: MIMI Y. LIU
+11 mliu@motleyrice.com
+12 401 9th Street NW, Suite 1001
+13 Washington DC 20004
+14 (202) 232-5504
+15 Counsel for Plaintiffs
+16
+17 ROPES & GRAY, LLP
+18 BY: ANDREW O'CONNOR
+19 andrew.o'connor@ropesgray.com
+20 ELISSA UPENSKY
+21 elissa.upensky@ropesgray.com
+22 800 Boylston Street
+23 Boston, Massachusetts 02199-3600
+24 (617) 951-7000
+25 Counsel for Mallinckrodt & SpecGx
+26
+27 MORGAN, LEWIS & BOCKIUS LLP
+28 BY: GURINDER S. GREWAL
+29 gurinder.grewal@morganlewis.com
+30 One Market, Spear Street Tower
+31 San Francisco, California 94105-1596
+32 (415) 442-1000
+33 Counsel for Teva Pharmaceuticals
+34 USA, Inc., Cephalon, Inc., Watson
+35 Laboratories, Inc., Actavis LLC,
+36 Actavis Pharma, Inc., f/k/a Watson
+37 Pharma, Inc.
+38
+39
+MNKOI 0004574081
+
+Page
+1 VIDEOGRAPHER: We are now on
+2 the record.
+3 My name is Chris Ritona. I'm
+4 the videographer with Golkow
+5 Litigation Services.
+6 Today's date is October 1,
+7 2020, and the time is approximately
+8 8:02 a.m. Mountain Time.
+9 This remote video deposition is
+10 being held in the matter of the State
+11 of Rhode Island, et al., versus Purdue
+12 Pharma, et al., for the Superior Court
+13 of the State of Rhode Island, Number
+14 PC-2018-4555.
+15 The deponent today is Matt
+16 Harbaugh.
+17 All parties to this deposition
+18 are appearing remotely and have agreed
+19 to the witness being sworn in
+20 remotely.
+21 Due to the nature of the remote
+22 reporting, please pause briefly before
+23 speaking to ensure all parties are
+24 heard completely.
+25 Will counsel please identify
+MNKOI 0004574084
+
+Page
+1 themselves for the record?
+2 MR. GREENE: This is Vincent
+3 Greene from Motley Rice for the State
+4 of Rhode Island.
+5 MS. LIU: And Mimi Liu from
+6 Motley Rice, also for the State of
+7 Rhode Island.
+8 MR. O'CONNOR: Andrew O'Connor,
+9 Ropes & Gray, for Mallinckrodt LLC,
+10 SpecGx and the witness.
+11 MS. USPENSKY: Elissa Uspensky
+12 from Ropes & Gray for Mallinckrodt
+13 LLC, SpecGx and the witness.
+14 MR. FENLON: Chris Fenlon,
+15 Hinckley, Allen & Snyder, for
+16 AmerisourceBergen.
+17 MR. GREWAL: Gurinder Grewal
+18 for Teva.
+19 VIDEOGRAPHER: Okay. Thank you
+20 very much.
+21 The court reporter today is
+22 Carrie Campbell, and she will now
+23 please swear in the witness.
+24
+25
+MNKOI 0004574085
+
+Page
+1 MATTHEW HARBAUGH,
+2 of lawful age, having been first duly sworn
+3 to tell the truth, the whole truth and
+4 nothing but the truth, deposes and says on
+5 behalf of the Plaintiffs, as follows:
+6
+7 DIRECT EXAMINATION
+8 QUESTIONS BY MR. GREENE:
+9 Q. Good morning, Mr. Harbaugh.
+10 I know I introduced myself off
+11 the record, but my name is Vin Greene, and
+12 I'm probably going to be asking you most of
+13 the questions here this morning.
+14 Okay?
+15 A. Sure.
+16 Q. Okay. First, I asked you this
+17 earlier, but can you hear okay?
+18 A. I can hear you fine, yes.
+19 Q. Great.
+20 If at any point you can't hear
+21 me or you don't understand anything I've
+22 asked, please let me know.
+23 Okay?
+24 A. Will do.
+25 Q. Mr. Harbaugh, could you just
+MNKOI 0004574086
+
+Page
+1 state your full name and home address for the
+2 record?
+3 A. Yeah. Matthew Coller Harbaugh,
+4 *Redacted - Pll
+5
+HReclacted-RI:
+6 Q. Well, that raises the first
+7 issue. I may have been mispronouncing your
+8 last name.
+9 Is it Harbaugh or Harbaugh?
+10 A. Harbaugh. Just think -- just
+11 think an 0.
+12 Q. Right.
+13 Mr. Harbaugh, have you ever had
+14 your deposition taken before?
+15 A. No, I have not.
+16 Q. Okay. Then I want to go over
+17 just a few ground rules.
+18 As you heard, the court
+19 reporter -- the videographer say earlier,
+20 there's a little delay here, and there is a
+21 court reporter taking down everything we say.
+22 So if you let me finish my question before
+23 you answer, and try to take account of the
+24 delay in the video, I'd appreciate that.
+25 Okay?
+MNKOI 0004574087
+
+Page
+1 A. You bet.
+Q. And as I mentioned, I'm sure
+3 I'm going to ask you at least one, if not
+4 more than one, question that makes no sense.
+5 So if and when I do, please let me know, and
+6 I'll be glad to rephrase it.
+7 Okay?
+8 A. You bet, yeah.
+9 Q. You're doing fine so far, but
+10 the other issue is, even though we're on
+11 video, the court reporter can't take down a
+12 nod of the head, so all of your answers have
+13 to be verbalized.
+14 Okay?
+15 A. Yes.
+16 Q. Last point. Even though I know
+17 we are under a little bit of a time
+18 constraint today, we can take a break at any
+19 point. This isn't meant to be a torture
+20 session. The only thing I ask is that we not
+21 take a break when a question's pending.
+22 Okay?
+23 A. That's fine.
+24 Q. I typically take at least
+25 somewhat of a break about every hour.
+MNKOI 0004574088
+
+1 Whether we take a lunch break or not, we can
+discuss. I know, again, we've got a hard
+stop at one o'clock your time, so we'll
+4 figure that out as we go.
+5 My sense is we may not take a
+6 lunch break. We may just roll right through.
+7 Okay?
+8 A. Yes, that's fine.
+9 Q. Okay. And lastly, is it your
+10 understanding you're being represented by
+11 counsel here today?
+12 A. Yes.
+13 Q. And who do you understand to be
+14 your counsel representing you for this
+15 deposition?
+16 A. Andrew J. O'Connor and Elissa
+17 Uspensky.
+18 Q. Okay. I don't want to ask you
+19 about anything that you've talked about with
+20 them, any substance, but have you had a
+21 chance to meet with them, presumably visually
+22 or verbally -- strike that -- virtually, to
+23 prepare for the deposition?
+24 A. Yes, I have.
+25 Q. And when did you meet with them
+MNKOI 0004574089
+
+1 or discuss the deposition with them?
+2 A. Over the course of the last
+3 month or so.
+4 Q. And how many times did that
+5 occur?
+6 A. I don't know exactly. Probably
+7 less than a handful.
+8 Q. Okay. That would be somewhere
+9 between three and six?
+10 A. Well, five or less. I only
+11 have five fingers, so five or less.
+12 Q. Okay. Fair enough.
+13 And how long, roughly, were
+14 each of those phone calls or meetings?
+15 A. A couple hours.
+16 Q. Were they phone calls?
+17 A. Yes. Or video.
+18 Q. Did you review anything to
+19 prepare for your deposition here today?
+20 A. We just really went through a
+21 few materials, but really it was a
+22 discussion, just to let me understand how
+23 this process works since I've never gone
+24 through it before.
+25 Q. Was there anything that you
+MNKOI 0004574090
+
+1 reviewed that refreshed your recollection
+2 about any of the work that you performed at
+3 Mallinckrodt?
+4 A. Yeah, some of it did refresh my
+5 memory, but most of it I have pretty good
+6 recollection of.
+7 Q. And what specifically refreshed
+8 your recollection, or what is your refreshed
+9 recollection after having reviewed documents?
+10 MR. O'CONNOR: Object on the
+11 basis of privilege.
+12 And, Matt, you can go ahead and
+13 answer the question in general terms.
+14 THE WITNESS: Yeah, we just
+15 kind of did a refresh on some of our
+16 public disclosures that, you know, I
+17 read many, many years ago. And we
+18 looked at just a number of documents
+19 that were -- that are in your hands,
+20 frankly.
+21 So -- and by the way, I have
+22 not opened this box you sent me.
+23 This --
+24 QUESTIONS BY MR. GREENE:
+25 Q. Great. We will -- we will get
+MNKOI 0004574091
+
+1 to that, and actually thanks -- thanks for
+raising that.
+3 When we do go through the box,
+4 just to give you a preview, there are tabs
+5 numbered in that box 1 through 169. It's my
+6 hope that when we do get to the documents,
+7 I'll be able to direct you to the right tab.
+8 And our document tech will be able to put
+9 them up on the screen as well.
+10 There are a handful of
+11 documents that we had printing issues with,
+12 just for the record, and I believe we've
+13 gotten them all to counsel and the tech for
+14 the deposition prior to starting this
+15 morning.
+16 So some of those issues were
+17 unavoidable, but we'll deal with them as they
+18 come up.
+19 Okay?
+20 A. No problem.
+21 Yeah, Vin, just for your
+22 knowledge, in case something comes up between
+23 now and 1, the e-mail did not make it into my
+24 inbox. I did get it from Andrew, you know,
+25 about five, ten minutes ago.
+MNKOI 0004574092
+
+1 So if you are sending something
+2 to me, we'll just need to verify whether I
+3 actually received it or not.
+4 Q. Right. And I --
+5 A. It might have been because it
+6 was so large. Sorry.
+7 Q. I suspect that the easiest way
+8 to deal with that would be to just address
+9 the documents visually. You know, we're
+10 trying to get things to you if you need to
+11 look at them, but I think we'll be able to
+12 give you control of the documents if you need
+13 to.
+14 Okay?
+15 A. Sure.
+16 Q. Okay.
+17 A. Great.
+18 Q. Let me briefly go over some of
+19 your background, Mr. Harbaugh.
+20 Am I correct you went to
+21 St. Louis University from 1988 to 1992?
+22 A. Correct.
+23 Q. Okay. And that you went to
+24 Northwestern Kellogg School of Management
+25 from 2000 to 2003; is that correct?
+MNKOI 0004574093
+
+1 A. No, it's 2001 to 2003.
+Q. Oh, okay.
+And did you receive at
+4 Northwestern University, did you receive an
+5 executive master's degree in business
+6 administration?
+7 A. I did, yes.
+8 Q. Okay. And just briefly going
+9 over some of your employment history, did
+10 you -- were you at Enterprise Rent-a-Car from
+11 1992 to 1997?
+12 A. Yes.
+13 Q. And were you an accounting and
+14 operations manager there for those years?
+15 A. For most of it. I actually
+16 started out as a rental representative. That
+17 lasted about a year.
+18 I was a -- I don't remember
+19 what the title was, but I was the number 3 in
+20 the branch.
+21 And then I went into the
+22 accounting function, and I had a variety of
+23 roles which crescendoed with me living in
+24 Washington, DC, where I was the finance lead
+25 for the territory from Regan National Airport
+MNKOI 0004574094
+
+1 up to Fredricksburg.
+2 Q. You and I probably crossed
+3 paths in that airport at some point during
+4 those years.
+5 A. I can tell you if you rented a
+6 car, I was responsible for it.
+7 Q. And that was -- that was the
+8 old Reagan, wasn't it?
+9 A. That was the old Reagan, yes.
+10 And the Enterprise location was in the Days
+11 Inn. It was crazy.
+12 Q. Were you then at Monsanto from
+13 2000 to 2007?
+14 A. No. I was at Monsanto from
+15 probably October 1997 to April 2007.
+16 Q. Oh, okay. Great.
+17 And that's why we ask these
+18 questions, Mr. Harbaugh. Thank you for
+19 correcting that.
+20 A. Yeah.
+21 Q. And then were you at Cerberus
+22 Capital Management for a brief period of
+23 time?
+24 A. Yeah, I was there April through
+25 late July or early August of 2007.
+MNKOI 0004574095
+
+1 Q. So just for a few months,
+2 correct?
+3 A. Yes.
+4 Q. And then you took a position at
+5 Mallinckrodt companies, correct?
+6 A. Well, not at the time. If I
+7 looked at my paycheck, I worked for Covidien,
+8 and I was in the Covidien Pharmaceuticals
+9 division. We didn't use the term
+10 "Mallinckrodt" until 2012, going into 2013,
+11 when the spin was occurring.
+12 Q. So you started at Covidien in
+13 2007, correct?
+14 A. Yeah, August 27, '07, yes.
+15 Q. Okay. And the folks you got
+16 your W-2 from were Covidien until
+17 approximately 2012; is that correct?
+18 A. I think technically it was
+19 Tyco, but I'd have to go back and look
+20 because Tyco Health Care changed its name to
+21 Covidien, but for a while there the paycheck
+22 was Tyco.
+23 Q. Okay. Thank you. I was going
+24 to get into that.
+25 So while you were at Covidien,
+MNKOI 0004574096
+
+1 was Covidien owned by Tyco?
+A. No.
+3 Q. What was the relationship
+4 between Tyco and Covidien when you started at
+5 Covidien?
+6 A. Covidien, I believe -- I wasn't
+7 there at the time, but I believe they were
+8 spun in late June of 2007, and as I said
+9 earlier, I joined in late August of '07.
+10 Q. Okay. Okay. And so help me
+11 out with that. If that's what occurred, when
+12 it occurred, how is it that at some point
+13 your W-2 was from Tyco and not Covidien?
+14 A. I don't really know.
+15 Q. Okay.
+16 A. I only remember -- I only
+17 remember it because I was disappointed that I
+18 had Tyco on my paycheck. I think they were
+19 in the process -- because of the reputational
+20 issues of that company.
+21 But I think at some point they
+22 transitioned it to Covidien, but I don't know
+23 when that occurred. It was probably a
+24 transition service-type arrangement between
+25 Tyco, parent, and Covidien, the spun company.
+MNKOI 0004574097
+
+1 Q. So let me just make sure our
+2 record is clear.
+3 Do you have an understanding
+4 that in August of 2007 when you took a
+5 position at Covidien, Tyco was no longer
+6 Covidien's parent? Is that correct?
+7 A. Correct.
+8 MR. O'CONNOR: Mr. Greene, I
+9 apologize. You cut off at the
+10 beginning of that question. Could --
+11 what was the beginning of the
+12 question?
+13 MR. GREENE: Sure.
+14 All I said was, just to make
+15 sure our record's correct, that at the
+16 time he took a position at Covidien in
+17 August of 2007, Tyco was no longer the
+18 parent.
+19 MR. O'CONNOR: Understood.
+20 Thank you.
+21 QUESTIONS BY MR. GREENE:
+22 Q. And so what was your position
+23 at Covidien when you started in August
+24 of 2007?
+25 A. I was the vice president of
+MNKOI 0004574098
+
+1 finance and controller for the imaging
+solutions business.
+3 Q. All right. And can you tell me
+4 in your own words, what does that mean? What
+5 were your job responsibilities?
+6 A. Yes. So I supported the
+7 president of the imaging solutions business.
+8 I was his, as we call it in our world, the
+9 finance partner. And he and I were
+10 responsible for the results of the nuclear
+11 medicine business and the contrast media and
+12 delivery business systems business.
+13 Q. And did you hold that position
+14 for approximately a year?
+15 A. A little under. In March --
+16 well, my boss was the CFO of the Covidien
+17 pharmaceutical division of Covidien, and he
+18 retired in January. And in March we started
+19 the discussion around me transitioning to be
+20 the CFO, but it officially occurred, I
+21 believe, in June of 2008.
+22 Q. And so in about June of 2008,
+23 did you become a chief financial officer and
+24 vice president for global finance and shared
+25 services of Covidien?
+MNKOI 0004574099
+
+1 A. Of Covidien Pharmaceuticals,
+yes.
+4. Okay.
+4 A. Not Covidien. That would have
+5 been my boss, the CFO of the entire
+6 enterprise.
+7 Q. And at that time, what was your
+8 understanding of the relationship between
+9 Covidien pharma and Covidien?
+10 A. It was kind of a holding
+11 company, I would say. We had three
+12 divisions. We had pharmaceuticals, we had
+13 medical supplies, and we had medical devices.
+14 And there was a president and a CFO for each
+15 of those divisions, and the six of us
+16 collectively reported in to the CEO or the
+17 CFO of the company.
+18 Q. The company being Covidien
+19 itself?
+20 A. Correct, yes.
+21 Q. Okay. And then did you become
+22 interim president of Covidien pharma in 2010?
+23 A. Yes, in late -- I want to say
+24 November of 2010, the CEO of Covidien asked
+25 the president, and prior to that the chief
+MNKOI 0004574100
+
+1 operating officer, to transition out of the
+2 business, and he asked me to step in on a
+3 temporary basis to serve as the interim
+4 president during that period.
+5 Q. Prior to that, as the chief
+6 financial officer, were you responsible for
+7 revamping the R&D, the research and
+8 development, investment of Covidien pharma?
+9 A. I was very involved in it, yes.
+10 Q. And were you involved in the
+11 allocation of capital and individual business
+12 investments with respect to Covidien pharma?
+13 A. Yes. The intent at the time
+14 was to transition away from investment in the
+15 imaging business to -- transition that
+16 towards pharmaceuticals.
+17 Q. And was one of the
+18 pharmaceuticals that you looked at at that
+19 point the opioid area of the pharmaceutical
+20 industry?
+21 MR. O'CONNOR: Objection to
+22 form.
+23 THE WITNESS: Sorry, Andrew.
+24 Go ahead.
+25
+MNKOI 0004574101
+
+1 QUESTIONS BY MR. GREENE:
+2 Q. As one of those -- strike that.
+3 As one of those areas to expand
+4 into, did that involve opioids?
+5 A. Yes, we did look at opioids.
+6 Q. And as you sit here today, do
+7 you recall which opioids, which drugs, you
+8 were involved in the development of?
+9 A. Well, we acquired Exalgo during
+10 that period, and we were investing in a
+11 product that ultimately was launched, but it
+12 was a failure, called Xartemis XR.
+13 And we -- right before we were
+14 spun, we acquired a product called
+15 Roxicodone.
+16 Q. What was the impact of Exalgo
+17 on Covidien pharma's business?
+18 A. Financially?
+19 Q. Yes. Yes.
+20 A. I think at peak, Exalgo may
+21 have been 100 million-plus revenue product,
+22 something like that. It was not anywhere
+23 near what we had hoped or, you know, what the
+24 financial model was. But I seem to recall it
+25 was above 100 million before we lost
+MNKOI 0004574102
+
+1 exclusivity on it in -- I want to say 2013,
+2 might have been 2014. It's been a long time.
+3 Q. And were you, in part,
+4 responsible for bringing that product line
+5 into Covidien pharma?
+6 MR. O'CONNOR: Objection.
+7 Form.
+8 THE WITNESS: I had a very
+9 tertiary role. The discussion really
+10 was between the president and the CEO
+11 around acquiring that. I saw the
+12 financial model, but I would not say I
+13 was a key decision-maker.
+14 QUESTIONS BY MR. GREENE:
+15 Q. Did you do the financial
+16 analysis for acquiring that pharmaceutical?
+17 A. My team would have done the
+18 analysis. I personally didn't do the
+19 analysis.
+20 Q. The team that you were
+21 responsible for would have done that
+22 analysis, correct?
+23 A. That's correct. Working with
+24 our corporate parent. They would have been
+25 very involved as well.
+MNKOI 0004574103
+
+1 Q. And then did you have to make a
+final recommendation to the corporate parent
+3 about acquisition of that pharmaceutical?
+4 A. I -- as far as I can remember,
+5 I was in the room, but, again, it was really
+6 the president that was driving the -- the
+7 acquisition in talking with our CEO.
+8 Q. But did you have to offer your
+9 opinion with respect to acquisition?
+10 A. I don't recall.
+11 I think the problem was, I
+12 had -- I was really new in the CFO role, and
+13 so it was early on in that transition for me.
+14 So -- and again, it was
+15 12 years ago, so I really think it was driven
+16 by the president at the time, if memory
+17 serves.
+18 Q. And then as we discussed, you
+19 became interim president in 2010, correct?
+20 A. Yeah, November of 2010.
+21 Q. But that was -- that was
+22 concurrent with your CFO responsibilities at
+23 Covidien pharma, correct?
+24 A. Correct.
+25 Q. And as part of that additional
+MNKOI 0004574104
+
+1 role, were you responsible for redirecting
+2 strategic emphasis to volume growth
+3 opportunities?
+4 MR. O'CONNOR: Objection to
+5 form.
+6 QUESTIONS BY MR. GREENE:
+7 Q. You want me to ask that again?
+8 A. Yeah, I'm sorry, I lost track
+9 when Andrew spoke.
+10 Q. Sure.
+11 As part of that role, were you
+12 responsible for redirecting strategic
+13 emphasis to volume growth opportunities?
+14 MR. O'CONNOR: Objection to
+15 form.
+16 You can answer.
+17 THE WITNESS: Okay. Yes. Then
+18 what was going on at the time was
+19 Covidien was trying to sell the
+20 pharmaceutical business, and so the
+21 emphasis was on driving performance
+22 out of the business as best we could
+23 to maximize the value of the asset.
+24 QUESTIONS BY MR. GREENE:
+25 Q. Okay. With respect to Covidien
+MNKOI 0004574105
+
+1 pharma's business at that point when you were
+2 interim president, did you also perform
+3 customer outreach?
+4 A. Yes.
+5 MR. O'CONNOR: Objection to
+6 form.
+7 QUESTIONS BY MR. GREENE:
+8 Q. Did you also, in that regard,
+9 reach out to wholesalers and resale -- excuse
+10 me, retailers who were Covidien pharma's
+11 customers?
+12 A. On a very minor basis. We
+13 received a letter from Walmart that indicated
+14 and expected us to come to Bentonville for a
+15 visit, but most of the time I was too busy
+16 with my greater than 20 direct reports to
+17 spend time with customers.
+18 Q. Now, in approximately 2013,
+19 Covidien spun off its Covidien pharma
+20 division; is that correct?
+21 A. Yes, in June of 2013.
+22 Q. Okay. When did discussions
+23 begin at Covidien concerning spinning off
+24 Covidien pharma?
+25 A. You'd have to ask the -- my
+MNKOI 0004574106
+
+1 parent or the board members because I wasn't
+2 in those conversations.
+3 What I understand is, somewhere
+4 around August or September of 2011, the CEO
+5 of Covidien called to let me know what their
+6 plan was. And the reason he called me was he
+7 wanted to understand what that meant for my
+8 career.
+9 And it was announced in -- and
+10 I may be fuzzy on the timing here, but I
+11 believe it was announced in December of 2011,
+12 publicly, that that was the intention.
+13 Q. And at the point that you
+14 received that phone call, did you -- were you
+15 provided any information as to why Covidien
+16 wanted to spin off its pharma division?
+17 A. Well, the only thing that I
+18 knew is we had a number of discussions with
+19 other companies, and I don't think they got
+20 an offer that they found acceptable.
+21 But I wasn't really in that.
+22 That would have been a board decision.
+23 Q. At the time of the spin-off,
+24 would you be able to tell me what the assets
+25 were of the pharmaceutical division?
+MNKOI 0004574107
+
+1 A. No, I don't recall what the
+2 assets were. I do recall what the net sales
+3 were, if that was closer to the question you
+4 were asking.
+5 Q. Sure. Well, let me ask you
+6 that first.
+7 What were the net sales?
+8 A. Yeah, we had 2.2 billion.
+9 Q. If I said to you that in 2008's
+10 Covidien annual report that Covidien pharma
+11 was listed as the largest manufacturer of
+12 medicinal narcotics in the United States,
+13 would you have any reason to disagree with
+14 that?
+15 A. No, I think that's accurate.
+16 Q. If I said to you that in a 2011
+17 REMS press release that Covidien pharma was
+18 listed as the largest supplier of opioid pain
+19 medications in the United States, would you
+20 have any reason to disagree with that?
+21 A. No, I would think at that time
+22 it would have been either ourselves or Endo.
+23 It would be a calculation based on quota
+24 allocated from the DEA.
+25 Q. Prior to the spin-off, did you
+MNKOI 0004574108
+
+1 take any position at the Covidien parent
+2 company?
+3 A. Did I take any -- no. My role
+4 really didn't change.
+5 Q. So let me ask it a little
+6 differently.
+7 Prior to the spin-off, did you
+8 have any position at the Covidien parent
+9 company?
+10 A. No. I reported in to the
+11 parent, but I had no corporate position, if
+12 I'm interpreting your question correctly.
+13 Q. When you started at Covidien
+14 pharma, do you know whether there was any
+15 contemplation of a spin-off of Covidien
+16 pharma by the parent company at that point?
+17 A. I don't think they had any
+18 concrete plans. In the interview process,
+19 they did indicate that pharma was not a
+20 strategic fit and that long-term, down the
+21 road, they felt medical devices was the core
+22 of the company.
+23 Q. So that's a discussion that
+24 the -- at least you had when you interviewed
+25 for your position; is that correct?
+MNKOI 0004574109
+
+1 A. Yes.
+2 Q. And then am I correct that the
+3 next time you had any discussion about that
+4 was sometime in 2011?
+5 A. Yeah, it would have been 2011
+6 when they initiated the sale process, at
+7 about the time that I was asked to kind of
+8 shepherd the business along on an interim
+9 basis.
+10 Q. And so from 2011 on, was it
+11 your understanding that your shepherding of
+12 the Covidien pharma division was for the
+13 purpose of spinning it off?
+14 A. No. From -- in my mind, from
+15 November of 2010 through to, call it the
+16 summer of 2011, maybe late spring, they were
+17 still looking for a sale.
+18 I don't actually -- I wasn't in
+19 the loop on any sort of bids or where the
+20 discussions went. That was all handled at
+21 corporate.
+22 I was only involved in some of
+23 the due diligence process that they had going
+24 on.
+25 Q. When did you start working on
+MNKOI 0004574110
+
+1 the due diligence process? Was it sometime
+2 after your phone call in 2011?
+3 A. I think that the process had
+4 started, the slides and, if you will, the
+5 pitch deck, I believe, was being put together
+6 at the time that I was asked to serve as the
+7 interim.
+8 Q. So that would be sometime
+9 around 2010. Would that be correct?
+10 A. Yeah, it would have been around
+11 November, October, November of 2010.
+12 Q. Let me ask my earlier question
+13 again, differently. So at some point in
+14 2010, you were asked to start doing due
+15 diligence to evaluate spinning off Covidien
+16 pharma from its parent; is that accurate?
+17 A. No.
+18 MR. O'CONNOR: Objection to
+19 form.
+20 THE WITNESS: That would have
+21 been in 2011.
+22 QUESTIONS BY MR. GREENE:
+23 Q. Okay.
+24 A. And I would not have done that
+25 work. That work would have been done by the
+MNKOI 0004574111
+
+1 parent. I was there to be the CFO and
+2 shepherd the business, as I said earlier. My
+3 parent would have made the decision with the
+4 board as to what they wanted to do with
+5 Mallinckrodt.
+6 And, frankly, I think they,
+7 rightly so, largely kept me in the dark,
+8 because all they wanted me to do was to kind
+9 of keep the business on track.
+10 Q. Do you have an understanding as
+11 to why the Covidien parent company decided to
+12 spin-off the pharma division?
+13 A. The only thing I seem to recall
+14 is they didn't get the valuation they were
+15 hoping for, and the board decided that they
+16 still wanted to transition the pharmaceutical
+17 business out, and they made the decision to
+18 spin it out. But, again, I wasn't in the
+19 room for those discussions.
+20 Q. When you say they didn't get
+21 the valuation that they were hoping for, what
+22 do you mean? Are you saying that the
+23 division hadn't grown to a point that the
+24 parent company wanted?
+25 MR. O'CONNOR: Objection to
+MNKOI 0004574112
+
+1 form.
+THE WITNESS: Vin, what I would
+say is, what I recall -- and again, I
+4 would have on the fringe of this
+5 was they were hoping to get X amount
+6 of dollars for the business, and they
+7 didn't get a bid that met their needs.
+8 And in the end, they decided
+9 strategically that pharmaceuticals was
+10 not a fit for the company long-term.
+11 QUESTIONS BY MR. GREENE:
+12 Q. Do you have a sense of when
+13 that decision was made, meaning that -- the
+14 breakpoint between trying to get a bid for
+15 the division and spinning off the division?
+16 A. No.
+17 MR. O'CONNOR: Objection to
+18 form.
+19 THE WITNESS: It was a very
+20 confusing time. Oh, I'm sorry,
+21 Andrew.
+22 MR. O'CONNOR: Go ahead.
+23 THE WITNESS: Okay.
+24 Vin, it was a very confusing
+25 time because the CEO, who asked me to
+MNKOI 0004574113
+
+1 serve as interim, transitioned away
+2 from his role during this period. And
+3 we had a new CEO in, call it June or
+4 July of 2011, and so there was a lot
+5 of transition going on.
+6 And frankly, rightly so, I was
+7 a. bit of an afterthought as to
+8 everything that was going on in the
+9 company at the time. Therefore, the
+10 discussions around what to do with
+11 pharma were kept at the highest level
+12 in the company, which did not include
+13 me, largely.
+14 QUESTIONS BY MR. GREENE:
+15 Q. Okay. Given how you've
+16 described that, would you be able to tell me
+17 who made the decision to abandon the plan of
+18 getting a bid and to go forward with spinning
+19 the division off?
+20 A. I really don't know with the
+21 CEO transition which CEO made that ultimate
+22 judgment call.
+23 I -- all I know is in April
+24 of 2011 or so, maybe May, the CEO called me
+25 to let me know that he was going to be
+MNKOI 0004574114
+
+1 transitioning out of the business and that I
+2 would have a new boss. And he wished me well
+3 and thanked me for serving during the
+4 challenging period for the pharmaceutical
+5 business.
+6 Q. Would you agree with me that
+7 when the pharma division was spun off, that
+8 all the assets and the liabilities of that
+9 division went with the new entity?
+10 MR. O'CONNOR: Objection to
+11 form.
+12 THE WITNESS: Vin, I would say
+13 that, yes, the assets that were
+14 associated with the pharmaceutical
+15 business went with what became
+16 Mallinckrodt PLC.
+17 QUESTIONS BY MR. GREENE:
+18 Q. And in addition to the assets,
+19 would you agree with me that any liabilities
+20 that the pharma division had went with that
+21 entity in the spin-off?
+22 MR. O'CONNOR: Objection to
+23 form. Legal conclusion.
+24 THE WITNESS: So I should
+25 answer yet, though, Andrew?
+MNKOI 0004574115
+
+1 MR. O'CONNOR: Yeah, you can
+2 answer the question asked.
+3 THE WITNESS: Okay.
+4 It's a complicated answer, Vin.
+5 We accepted the lion's share of the
+6 liabilities, but there were transition
+7 service agreements in the tax arena,
+8 and there were some backstop
+9 agreements I seem to recall on some
+10 environmental -- legacy environmental
+11 issues, but largely the liabilities
+12 that were associated with
+13 pharmaceuticals went to Mallinckrodt
+14 PLC.
+15 QUESTIONS BY MR. GREENE:
+16 Q. So let me just follow up on
+17 that.
+18 Is there some agreement with
+19 respect to tax liabilities that stayed with
+20 the Covidien parent after the spin-off?
+21 A. It was actually what I would
+22 call or characterize as a -- kind of a
+23 cost-sharing agreement. There were some Tyco
+24 tax matters, pardon me, from, I want to say,
+25 1998 to 2000, 2001, that was pending with the
+MNKOI 0004574116
+
+1 IRS at the time of the spin.
+2 And I believe -- I seem to
+3 recall, I should say, that the -- there were
+4 a. lot of spin-offs of Tyco, and the tax issue
+5 was related to total Tyco at the time. And
+6 so there was an agreement as to kind of how
+7 it was allocated out.
+8 I'm no tax expert, but that's
+9 kind of the best of my memory, Vin.
+10 Q. And then you also mentioned
+11 some environmental liabilities.
+12 Were there environmental
+13 liabilities that stayed with the parent or
+14 were shared between the parent and spin-off?
+15 MR. O'CONNOR: Objection to
+16 form.
+17 THE WITNESS: There was one
+18 environmental issue in Orrington,
+19 Maine, that stayed with the parent,
+20 and then Mallinckrodt took the
+21 remaining environmental liabilities.
+22 QUESTIONS BY MR. GREENE:
+23 Q. Other than those, other than
+24 any tax liabilities and any environmental
+25 liabilities, as you sit there today, are you
+MNKOI 0004574117
+
+1 aware of any other liabilities that were
+2 retained or shared by the Covidien parent
+3 that did not go with the spin-off entity,
+4 either in whole or in part?
+5 MR. O'CONNOR: Objection to
+6 form.
+7 THE WITNESS: Oh, boy, it was a
+8 long time ago. Those are the ones
+9 that stand out to me in my memory as
+10 being the most significant items at
+11 the time.
+12 QUESTIONS BY MR. GREENE:
+13 Q. And that's fine. All I can ask
+14 you is to the best of your recollection.
+15 So to the best of your
+16 recollection, are you aware of any other
+17 liabilities that did not go with the spin-off
+18 entity, either in whole or in part?
+19 MR. O'CONNOR: Same objection.
+20 THE WITNESS: I don't recall
+21 any more than I've already shared with
+22 you now, but I -- we would have to go
+23 back to the transition service
+24 agreements.
+25
+MNKOI 0004574118
+
+1 QUESTIONS BY MR. GREENE:
+2 Q. And was there anything in the
+3 documents that you reviewed for your
+4 deposition here today that refreshed your
+5 recollection in that regard?
+6 A. No.
+7 Q. Okay. Can you tell me -- let
+8 me walk through this, if I can.
+9 Did you have -- you had some
+10 discussions about the potential for a
+11 spin-off in 2010; is that correct?
+12 A. No, I think in 2010 the
+13 discussion was around selling the business
+14 and my role in selling the business.
+15 Q. Fair enough.
+16 That's the first clarification
+17 I wanted to get to.
+18 Who did you have conversations
+19 with in 2010 about selling the business?
+20 A. That would have been the CEO of
+21 the company.
+22 Q. Okay. And who was that at the
+23 time?
+24 A. Richard J. Meelia.
+25 Q. And was that the first
+MNKOI 0004574119
+
+1 conversation? I know we went over this
+2 earlier, but I just want to make sure we've
+3 got it locked down. Was that the first
+4 conversation you had either about a sale or a
+5 spin-off since you were hired in 2007?
+6 A. That was the first concrete
+7 discussion we had that Rich shared with me
+8 what the thinking was around sale.
+9 There was always speculation
+10 that pharma did not fit within -- within
+11 Covidien, but that was the first time someone
+12 actually said to me concretely: Here is what
+13 we are doing; we're going on a sale process.
+14 Q. And I know you spoke to this a
+15 little bit earlier, but I just want to follow
+16 up on it.
+17 Why, in your words, did pharma
+18 not fit within Covidien?
+19 A. There was a belief, and I agree
+20 with it, that pharmaceutical businesses and
+21 medical device businesses are so different,
+22 that it was like having a horse and a zebra
+23 in the same stable. Those animals take
+24 different care and feeding and are very
+25 different business models.
+MNKOI 0004574120
+
+1 And the core of the company was
+2 medical devices, and that -- from a capital
+3 allocation perspective, that's where Covidien
+4 wanted to reinvest, ultimately.
+5 Q. In 2010, did you discuss the
+6 sale of Covidien with anyone other than the
+7 CEO of the parent at that point?
+8 A. Yeah, well, I would have
+9 discussed it with the CEO, and then I would
+10 have discussed it with the potential
+11 companies that we reached out to to see if
+12 they were interested in buying the asset.
+13 Q. And at the time, who were they,
+14 to the best of your recollection?
+15 A. Teva would have been one. I
+16 think we -- I think they had Ely Lilly on the
+17 list. I wasn't involved in that discussion.
+18 And it might have been Bristol-Myers Squibb.
+19 The only one I was actively
+20 involved in, where I was in New York in a
+21 room, was with Teva.
+22 What happened was, is once I
+23 took the interim role, I had greater than 20
+24 direct reports. And the parent, along with
+25 some of the colleagues in the pharmaceutical
+MNKOI 0004574121
+
+1 business, kind of handled the discussions
+2 with the other suitors.
+3 So Teva was the only one that I
+4 personally was involved in and was in a room
+5 with their executives.
+6 Q. Do you have an understanding as
+7 you sit there today as to why Teva passed on
+8 firing the Covidien pharma division?
+9 A. The only thing that I recall is
+10 that they did put in a bid and that Rich told
+11 me that he thought it was -- Richard Meelia,
+12 that is, told me that they got in a bid -- I
+13 don't recall what it was -- and that they
+14 were reviewing it. But obviously we know
+15 what the outcome was, ultimately.
+16 Q. Let me ask you that question
+17 differently.
+18 As you sit here today, is it
+19 your understanding that the bid wasn't high
+20 enough for Covidien and they passed on it,
+21 would be the better way to say it?
+22 MR. O'CONNOR: Objection to
+23 form.
+24 THE WITNESS: As far as I
+25 recall, that is what happened at the
+MNKOI 0004574122
+
+1 time.
+2 QUESTIONS BY MR. GREENE:
+3 Q. Okay. Do you recall what the
+4 amount of that bid was?
+5 A. No.
+6 Q. Now, did you have -- during
+7 2010, did you have any other discussions
+8 or any discussions with anyone else about
+9 either selling the pharma division or
+10 spinning it off?
+11 A. Well, as I said earlier, I
+12 don't recall exactly when it was, but Rich
+13 left, I want to say, by the end of June as
+14 our CEO, and the new CEO came in. And I want
+15 to say later that year, I don't know whether
+16 it was August, September or October,
+17 somewhere in there, he called me and said
+18 that the board was contemplating a spin, and
+19 he wanted to know where my head was at as far
+20 as personally whether that was something I
+21 wanted to be involved in.
+22 And then also during that
+23 period, the CFO of the company, who was my
+24 primary boss throughout my entire time with
+25 Covidien, reached out and asked me whether I
+MNKOI 0004574123
+
+1 wanted to go with the spin co or whether I
+2 wanted to move to Boston to work at the
+3 parent.
+4 Q. And where was your head at at
+5 that point? What did you tell the new CEO?
+6 A. So I was 42 at the time, and I
+7 think they were concerned that since I had
+8 been serving as the interim president, that I
+9 may have had interest in trying to take the
+10 company public as CEO.
+11 And I told them that I thought
+12 that the company would be better served
+13 finding someone who had a pure pharmaceutical
+14 background and that I would prefer to stay
+15 with the pharmaceutical division and vie to
+16 compete to be the CFO.
+17 Q. And let me go back for a
+18 moment.
+19 Who was the new CFO of
+20 Covidien?
+21 A. He wasn't new. The new CEO
+22 was --
+23 Q. I'm sorry, that's what I meant.
+24 I said it wrong. My apologies.
+25 Who was the new CEO?
+MNKOI 0004574124
+
+1 A. Yeah, I knew where you were
+going, Vin.
+3 Joe Almeida.
+4 Q. And so am I correct somewhere
+5 towards the end of 2010 or 2011, you had your
+6 first discussion with Joe about spinning off
+7 the pharma division instead of getting a bid
+8 to buy it? Correct?
+9 A. No, I would not --
+10 MR. O'CONNOR: Objection to
+11 form.
+12 THE WITNESS: -- have had a
+13 discussion with Joe until late 2011 --
+14 QUESTIONS BY MR. GREENE:
+15 Q. Okay.
+16 A. -- because Rich was the CEO
+17 until June of 2011, and Joe would have been
+18 my peer. Joe was the head of the medical
+19 device business, and I was the head of the
+20 pharmaceutical business. So we were kind of
+21 peers. So I only had that discussion with
+22 Joe once he became the CEO.
+23 Q. There we go.
+24 I was just trying to lock down
+25 the time frame.
+MNKOI 0004574125
+
+1 So that's about late 2011, you
+said?
+3 A. Correct, yeah.
+4 Q. Okay. And so when that
+5 happens, are you provided or given any
+6 responsibilities with respect to the
+7 spin-off?
+8 A. The only thing that I was
+9 engaged in was probably three things. One
+10 was, the parent asked me to talk to
+11 candidates for the CEO role, which makes
+12 sense.
+13 The second thing is, is they
+14 put me through an assessment with Spencer
+15 Stewart for whether I had the right skill set
+16 to be the CFO of a publicly traded company.
+17 And the third thing, once they
+18 told me that I was -- they were comfortable
+19 with me as the CFO, I spent a lot of time
+20 from 2012 into 2013 building up the finance
+21 function to take the company public. Because
+22 as a division, treasury, investor relations,
+23 tax and other finance functions, internal
+24 audit, were all done at the parent level, and
+25 so I was responsible for building those
+MNKOI 0004574126
+
+1 functions out so that we could operate as a
+publicly traded company.
+3 Q. Prior to the spin-off, was
+4 there one single e-mail system across
+5 Covidien?
+6 MR. O'CONNOR: Objection to
+7 form.
+8 THE WITNESS: I don't really
+9 know. I don't know what we had. I
+10 mean, as far as I know, we had one
+11 system, but we'd have to go back and
+12 look.
+13 QUESTIONS BY MR. GREENE:
+14 Q. Well, and that's essentially
+15 what I was asking.
+16 To the best of your
+17 recollection, there wasn't a pharma division
+18 e-mail system, a medical device division
+19 e-mail system.
+20 Is that your recollection?
+21 MR. O'CONNOR: Objection to
+22 form.
+23 THE WITNESS: Yeah, I don't --
+24 I don't know, but I can tell you I
+25 could send e-mails to my colleagues in
+MNKOI 0004574127
+
+1 the company and they got them.
+2 QUESTIONS BY MR. GREENE:
+3 Q. And do you know whether the
+4 parent had its own e-mail system, or did they
+5 operate on the same system as the divisions?
+6 MR. O'CONNOR: Objection to
+7 form.
+8 THE WITNESS: I don't -- I
+9 don't know, Vin.
+10 QUESTIONS BY MR. GREENE:
+11 Q. Now, as part of your role at
+12 the pharma division, did you need to be
+13 familiar with the spin-off agreement?
+14 A. Yes.
+15 Q. And what's your understanding
+16 of what that agreement accomplished?
+17 A. Well, in the end, it enabled
+18 Covidien to spin off the pharmaceutical
+19 division into Mallinckrodt PLC, and separate
+20 as quickly as possible some shared service
+21 issues post-spin.
+22 Q. Now, am I correct,
+23 Mr. Harbaugh, that the Mallinckrodt name
+24 actually dates back to about 1867? Is that
+25 correct?
+MNKOI 0004574128
+
+1 A. It does. It's the legacy of
+2 the pharmaceutical business.
+3 Q. Do you know why the spin-off
+4 division, you know, took its name to be
+5 Mallinckrodt? Do you know what the process
+6 or thought process there was?
+7 A. Yes. At the time, Mallinckrodt
+8 was based in St. Louis, Missouri, and
+9 Mallinckrodt was looked upon in that
+10 community as a premier employer and a great
+11 place to work. And the reason Mallinckrodt
+12 was selected was to respect the heritage of
+13 the business.
+14 Mallinckrodt was privately held
+15 until the 1950s, and then it was a publicly
+16 traded company until 2000 when Tyco acquired.
+17 So the name still had cache for a lot of
+18 employees.
+19 Q. Was it Tyco that acquired
+20 Mallinckrodt or was it the Covidien limited
+21 subsidiary of Tyco that acquired
+22 Mallinckrodt?
+23 MR. O'CONNOR: Objection to
+24 form.
+25 THE WITNESS: I don't know.
+MNKOI 0004574129
+
+1 Yeah, I don't know since I wasn't
+2 there.
+3 QUESTIONS BY MR. GREENE:
+4 Q. But regardless of how that
+5 happened, the Mallinckrodt -- let me back up
+6 for a second.
+7 Is it your understanding there
+8 was an entity at that time called
+9 Mallinckrodt, Incorporated? Is that right?
+10 A. I don't actually know what it
+11 was called. That sounds right, but I don't
+12 know for sure.
+13 What I do know is that the
+14 Mallinckrodt business reported in to what was
+15 called Tyco Health Care prior to my arrival.
+16 Q. And when you arrived, what was
+17 the status of Mallinckrodt, Incorporated?
+18 MR. O'CONNOR: Objection to
+19 form.
+20 THE WITNESS: Yeah, what do you
+21 mean by status?
+22 QUESTIONS BY MR. GREENE:
+23 Q. Well, great point. Let me ask
+24 you a more specific question.
+25 At the time you arrived, was
+MNKOI 0004574130
+
+1 Mallinckrodt, Incorporated, part of the
+2 Covidien pharma division or was it held in
+3 some other capacity?
+4 A. So when Mallinckrodt was
+5 acquired, the medical device business took
+6 the respiratory and monitoring services
+7 business, which was not really pharma, and
+8 then they cleaved off the imaging businesses
+9 and the pharmaceutical businesses. And that
+10 was the pharma business that I joined in
+11 2007.
+12 Obviously, I was imaging first,
+13 and then ultimately imaging and the pharma
+14 side.
+15 Q. Let me see if I can work
+16 through that.
+17 Is it your understanding that
+18 the Covidien pharma division that you were at
+19 was essentially the pharma business that
+20 remained of Mallinckrodt, Incorporated, that
+21 had been acquired by either Tyco or Covidien
+22 sometime in 2000?
+23 Have I said that correctly?
+24 MR. O'CONNOR: Objection to
+25 form. Objection.
+MNKOI 0004574131
+
+1 THE WITNESS: Yeah, I believe
+2 what you said, Vin, is accurate.
+3 QUESTIONS BY MR. GREENE:
+4 Q. Okay.
+5 And so that division continues
+6 in its pharma business until about 2011, or
+7 late 2011, when the spin-off process begins.
+8 Is that accurate?
+9 MR. O'CONNOR: Objection.
+10 THE WITNESS: Yeah, I think it
+11 was announced in December of 2011, if
+12 memory serves, that we announced
+13 publicly that Mallinckrodt was going
+14 to be spun out as a publicly traded
+15 company.
+16 QUESTIONS BY MR. GREENE:
+17 Q. Okay. And do you know as you
+18 sit there today, Mr. Harbaugh -- Harbaugh,
+19 I'm sorry. I'm going to do that a couple
+20 times, so when I do, my apologies.
+21 A. No worries.
+22 Q. Do you know whether, prior to
+23 either Tyco or Covidien's acquisition of
+24 Mallinckrodt, whether Mallinckrodt had been
+25 making opioids?
+MNKOI 0004574132
+
+1 A. Mallinckrodt had been making
+2 opioids since the early 1900s, maybe even
+3 prior to that. They were featured in the
+4 World's Fair in 1902, and there are pictures,
+5 historical pictures, of that in the company.
+6 Q. And is it your understanding
+7 that that continued, you know, right up until
+8 the Tyco acquisition and after?
+9 A. Yes.
+10 Q. Now, do you know as you sit
+11 there today, Mr. Harbaugh, whether the board
+12 of directors of the Covidien parent and the
+13 new Mallinckrodt, whether they both had to
+14 vote on the spin-off agreement?
+15 MR. O'CONNOR: Objection to
+16 form.
+17 THE WITNESS: I don't know.
+18 QUESTIONS BY MR. GREENE:
+19 Q. If you don't know that, can I
+20 assume that you don't know when those votes
+21 occurred, if they occurred?
+22 A. Yeah, I don't know. I wasn't
+23 there.
+24 Q. Do you know who signed the
+25 agreement on behalf of each company?
+MNKOI 0004574133
+
+1 A. I don't recall.
+Q. Do you know which law firms, if
+3 at all, represented each company?
+4 A. Yeah, I don't recall.
+5 Q. At some point after that
+6 spin-off, there was an agreement between
+7 Medtronic and Covidien; is that correct?
+8 MR. O'CONNOR: Objection to
+9 form.
+10 THE WITNESS: I don't know what
+11 agreement you're referring to.
+12 QUESTIONS BY MR. GREENE:
+13 Q. Are you aware of an acquisition
+14 or a merger between Covidien and Medtronic in
+15 2014?
+16 A. Yes, I'm very aware of that.
+17 Q. Was that acquisition or merger,
+18 was that a contingency at any point of the
+19 Covidien pharma spin-off?
+20 MR. O'CONNOR: Objection to
+21 form.
+22 THE WITNESS: Not to my
+23 knowledge. I would not have been in
+24 those conversations.
+25
+MNKOI 0004574134
+
+1 QUESTIONS BY MR. GREENE:
+2 Q. Let me ask you that
+3 differently.
+4 Do you know whether the
+5 spin-off of the Covidien pharma division was
+6 a. contingency of the Covidien/Medtronic
+7 merger or acquisition?
+8 MR. O'CONNOR: Objection to
+9 form.
+10 THE WITNESS: I have no idea.
+11 QUESTIONS BY MR. GREENE:
+12 Q. Are you aware, Mr. Harbaugh,
+13 that the June 28, 2013 separation and
+14 distribution agreement between Covidien and
+15 Mallinckrodt contemplates solvency opinions
+16 that Covidien was required to obtain?
+17 MR. O'CONNOR: Objection to
+18 form.
+19 THE WITNESS: I was not a
+20 party, nor did I see those -- those
+21 solvency opinions, if they occurred,
+22 but I would think that would be
+23 standard course for a transaction of a
+24 spin.
+25
+MNKOI 0004574135
+
+1 QUESTIONS BY MR. GREENE:
+2 Q. That was going to be my next
+3 question.
+4 Do you know whether they were
+5 obtained or created?
+6 A. I don't know.
+7 Q. If they were, would you expect
+8 them to be in the records of both
+9 Mallinckrodt and Covidien?
+10 MR. O'CONNOR: Objection to
+11 form.
+12 THE WITNESS: I would have to
+13 assume they were held with Covidien.
+14 I'm not aware of us having any
+15 solvency opinions, but it may have
+16 been in my legal group.
+17 And if -- Vin, if it's okay,
+18 can I go back? I do recall one firm
+19 that we worked with from your question
+20 earlier.
+21 QUESTIONS BY MR. GREENE:
+22 Q. Sure.
+23 A. Yeah, we did a lot of work with
+24 Wachtell at the time.
+25 Q. To the best of your
+MNKOI 0004574136
+
+1 recollection, have you reviewed, to prepare
+for this deposition today, any documents from
+Wachtell or Wachtell Lipton?
+4 MR. O'CONNOR: Objection to
+5 form. Objection to form and it's
+6 privileged. We're not getting into
+7 what specific documents he reviewed.
+8 MR. GREENE: Well, that's fine.
+9 I'm just going to put a pin in that
+10 because I do believe under the Rhode
+11 Island rules, anything he reviewed to
+12 prepare himself for the deposition
+13 today is discoverable.
+14 Obviously any conversations he
+15 had with counsel is not, but anything
+16 he reviewed to prepare is, in plain
+17 English, fair game.
+18 QUESTIONS BY MR. GREENE:
+19 Q. Let me ask that question
+20 differently, Mr. Harbaugh.
+21 Did you review anything today
+22 from Wachtell or Wachtell Lipton that
+23 refreshed your recollection as it relates to
+24 your testimony here today?
+25 A. Not that I recall. I may have
+MNKOI 0004574137
+
+1 reviewed documents that they had looked at,
+2 but I don't recall going through any
+3 documents from Wachtell specifically.
+4 Q. Can you tell me, Mr. Harbaugh,
+5 what was the primary business of the Covidien
+6 pharma division at the time it was spun off?
+7 MR. O'CONNOR: Objection to
+8 form.
+9 THE WITNESS: It was really --
+10 I would say it was really for
+11 disparate businesses in some respects.
+12 We had a nuclear medicine business.
+13 We had a contrast media and delivery
+14 systems business, which was roughly
+15 half of the 2.2 billion we discussed
+16 earlier.
+17 And then the other half of the
+18 business was active pharmaceutical
+19 ingredients, which had acetaminophen
+20 and controlled substances.
+21 And then we had what we called
+22 our dosage business, which was dosage
+23 pharmaceuticals, and those were what
+24 we called specialty generics.
+25 And then to your question
+MNKOI 0004574138
+
+1 earlier then around Exalgo, we had a
+branded pharma business that was, I
+3 don't know, 100, 150 million in
+4 revenue, and it was a product called
+5 Exalgo and a product called Gablofen
+6 and a product called PENNSAID. There
+7 was some smaller products, but those
+8 were the principal ones.
+9 QUESTIONS BY MR. GREENE:
+10 Q. As you sit there today,
+11 Mr. Harbaugh, do you know at the time of the
+12 spin-off, when the Mallinckrodt entity came
+13 into existence, do you know what percentage
+14 of the revenue opioids constituted?
+15 A. No, it's pretty complicated
+16 because the API business, we sold the active
+17 pharmaceutical ingredient to our competitors,
+18 and then we had the dosage form. So it
+19 depends on whether you add those or not as
+20 far as share.
+21 Generally, we did not. We
+22 had -- we separated those businesses out.
+23 MR. GREENE: You know, I'm just
+24 at about an hour. Why don't we take
+25 about a five-minute break.
+MNKOI 0004574139
+
+1 THE WITNESS: All right.
+2 VIDEOGRAPHER: 9 a.m., we're
+3 off the video record.
+4 (Off the record at 9:00 a.m.}
+5 VIDEOGRAPHER: 9:09, we are on
+6 the video record.
+7 QUESTIONS BY MR. GREENE:
+8 Q. Mr. Harbaugh, welcome back.
+9 Are you okay to continue?
+10 A. Yes.
+11 Q. Can you tell me, Mr. Harbaugh,
+12 as you sit there today, do you know whether
+13 there was an indemnification agreement
+14 between the new Mallinckrodt entity and
+15 Covidien at the time of or subsequent to the
+16 spin-off?
+17 A. I believe there was one, but I
+18 don't remember the details.
+19 Q. Have you ever seen a copy of
+20 that indemnification agreement?
+21 A. I believe I did somewhere along
+22 the way.
+23 Q. Do you have an understanding as
+24 you sit there today as to what liabilities
+25 are contemplated by the indemnification
+MNKOI 0004574140
+
+1 agreement?
+2 A. I don't know the specific
+3 details within that agreement, it's been so
+4 long ago.
+5 But to your question earlier
+6 around assets and liabilities, I know broadly
+7 what came with us in the spin.
+8 Q. Do you know whether that
+9 indemnification agreement was between
+10 Mallinckrodt and Covidien or Mallinckrodt and
+11 Medtronic?
+12 A. Well, it would have been
+13 between Covidien and Mallinckrodt.
+14 Q. Do you know whether any of
+15 Mallinckrodt's potential opioid liabilities
+16 are involved in that indemnification
+17 agreement?
+18 MR. O'CONNOR: Objection to
+19 form.
+20 THE WITNESS: I don't recall
+21 whether that was in the agreement or
+22 not.
+23 QUESTIONS BY MR. GREENE:
+24 Q. Did you have an opportunity to
+25 review that agreement prior to your
+MNKOI 0004574141
+
+1 deposition here today?
+A. No.
+3 Q. Would you be able to tell me as
+4 you sit there today, at the time of the
+5 spin-off, all the opioid-based products that
+6 Mallinckrodt was selling?
+7 A. Can you ask me the question
+8 again? I missed it.
+9 Q. Sure.
+10 Can you tell as you sit there
+11 today all of the opioid-based products
+12 Mallinckrodt sold at the time of the
+13 spin-off?
+14 A. There were -- there were a
+15 number. I can name the ones that were more
+16 material in nature, but we -- we were -- we
+17 had a broad portfolio.
+18 Q. Sure.
+19 Why don't you give me the ones
+20 you can remember.
+21 A. Hydrocodone, oxycodone,
+22 morphine, morphine extended release, codeine,
+23 Roxicodone, Exalgo, cocaine. Those are the
+24 ones that come to mind. Those are the
+25 ones -- cocaine was very small, but those
+MNKOI 0004574142
+
+1 were the larger products. Hydrocodone and
+2 oxycodone were the larger of the products.
+3 Q. And as you sit here today, do
+4 you know whether that list is the same for
+5 2020 or whether it's changed?
+6 A. I believe it has changed, but I
+7 think some products probably have been taken
+8 out of the portfolio. But I have no
+9 knowledge beyond September of last year.
+10 Q. And is September of last year
+11 when you left Mallinckrodt?
+12 A. Correct.
+13 Q. Are you able to tell me whether
+14 that list was the same as of September of
+15 last year?
+16 A. No, I have no idea what they've
+17 done since I left.
+18 Q. Are you able to tell me
+19 prior -- that wasn't my question. Let me ask
+20 you that differently.
+21 Was that list the same at the
+22 time that you left?
+23 MR. O'CONNOR: Objection to
+24 form.
+25 THE WITNESS: The same as it
+MNKOI 0004574143
+
+1 was in 2013?
+QUESTIONS BY MR. GREENE:
+3 Q. Yes.
+4 A. I don't know the specifics, but
+5 I believe we did get out of some product
+6 lines during that seven-year period or
+7 six-year period.
+8 Q. And do you know which ones
+9 those were?
+10 A. I don't recall specifically
+11 which ones they were. They were smaller-type
+12 products.
+13 Q. Are you able to tell me what
+14 the revenues were for opioids generally for
+15 each year between 2013 and 2019?
+16 A. No, I don't really have that --
+17 I didn't look at it that way because we had a
+18 branded pharma business, and so it was -- it
+19 was part of the totality of the company.
+20 Q. Well, if I asked you what the
+21 revenues were for each of the individual
+22 product lines, would you be able to tell me
+23 that?
+24 A. No.
+25 Q. When Mallinckrodt came into
+MNKOI 0004574144
+
+1 existence and was spun off, I'm correct that
+2 there was something known as the PLC,
+3 correct?
+4 A. Yes.
+5 MR. O'CONNOR: Objection to
+6 form.
+7 QUESTIONS BY MR. GREENE:
+8 Q. And where is the PLC
+9 incorporated?
+10 A. Ireland.
+11 Q. And what was the purpose of
+12 incorporating a PLC in Ireland?
+13 A. Covidien was an Irish-based
+14 company, and we were spun off as an
+15 Irish-based company. It wasn't -- it wasn't
+16 anything that was a choice on our part.
+17 Q. And then there's another entity
+18 called Mallinckrodt LLC, correct?
+19 A. Yes.
+20 Q. And where is Mallinckrodt LLC
+21 located?
+22 MR. O'CONNOR: Objection to
+23 form.
+24 THE WITNESS: I believe
+25 Delaware, but I'm not exactly sure.
+MNKOI 0004574145
+
+1 QUESTIONS BY MR. GREENE:
+Q. And does the Mallinckrodt PLC
+3 in Ireland, does that entity generate any
+4 revenue on its own? Does it have any product
+5 lines?
+6 MR. O'CONNOR: Objection to
+7 form.
+8 THE WITNESS: I think of
+9 Mallinckrodt PLC as the entity that
+10 holds all of the revenue of the
+11 company.
+12 QUESTIONS BY MR. GREENE:
+13 Q. But it doesn't itself have any
+14 product lines, correct?
+15 A. I don't know. I don't know
+16 exactly how that was structured within the
+17 legal entity structure.
+18 Q. Well, to your knowledge as you
+19 sit there today, does Mallinckrodt PLC sell
+20 anything?
+21 A. Again, my understanding -- the
+22 way we think about Mallinckrodt PLC is that
+23 is the total -- that is the parent of all of
+24 the entities within Mallinckrodt, so,
+25 therefore, Mallinckrodt PLC holds all of the
+MNKOI 0004574146
+
+1 revenue of the company.
+2 Q. What's your understanding of
+3 the entities other than Mallinckrodt LLC?
+4 A. Limited. The -- sorry,
+5 something just came up. Never easy.
+6 Q. I'm sorry?
+7 A. Something came up on my screen.
+8 I'm trying to close it out.
+9 Q. All right.
+10 A. Sorry about that.
+11 Q. What are the other entities
+12 that you understand that Mallinckrodt PLC
+13 holds?
+14 A. I know there's a broad number
+15 of entities that all roll up to Mallinckrodt
+16 PLC.
+17 Q. Okay. Tell me what they are.
+18 A. Well, there's SpecGx LLC, and
+19 then there are other legal entities from
+20 acquisitions that were done post-spin.
+21 Q. Do you know what those other
+22 legal entities are?
+23 A. I don't have absolute recall of
+24 all of them, but, you know, I can recall the
+25 acquisitions that we did and the legal
+MNKOI 0004574147
+
+1 entities that rolled into Mallinckrodt and
+Mallinckrodt PLC throughout that period.
+3 Q. Okay. Well, are you able to
+4 tell me as you sit here today what they were
+5 and what the structure is?
+6 MR. O'CONNOR: Objection to
+7 form.
+8 THE WITNESS: I can't really
+9 get into great detail.
+10 Sorry, Andrew.
+11 MR. O'CONNOR: You can answer.
+12 THE WITNESS: Yeah, I can't get
+13 into great detail because I was more
+14 at the strategic level, focused on
+15 capital allocation.
+16 QUESTIONS BY MR. GREENE:
+17 Q. Are you able to tell me what
+18 the relationship is between SpecGx and
+19 Mallinckrodt LLC?
+20 A. The SpecGx business was a
+21 division within Mallinckrodt PLC.
+22 Q. And so is it your understanding
+23 that SpecGx and Mallinckrodt US, the entity
+24 that's in Delaware, are separate entities?
+25 A. Yes, they're separate.
+MNKOI 0004574148
+
+1 MR. O'CONNOR: Objection to
+form.
+3 QUESTIONS BY MR. GREENE:
+4 Q. And does SpecGx have a board?
+5 A. I believe we have managers, I
+6 believe is the term that is used. I was not
+7 one of them.
+8 Q. So is it your understanding
+9 SpecGx does not have a board?
+10 MR. O'CONNOR: Objection to
+11 form.
+12 THE WITNESS: No, I'm not aware
+13 of any board for SpecGx.
+14 QUESTIONS BY MR. GREENE:
+15 Q. Okay. Does SpecGx have
+16 officers?
+17 A. I believe they were called
+18 managers, but I believe for legal entity
+19 purposes they're our managers.
+20 Q. Are there any common managers
+21 or officers -- strike that -- officers
+22 between SpecGx and Mallinckrodt PLC?
+23 A. I don't actually know
+24 specifically who those folks are that are
+25 signing off on the legal entity stuff,
+MNKOI 0004574149
+
+1 especially since I've been gone now for a
+year.
+3 Q. Well, let me ask you that
+4 differently.
+5 Between 2013 and 2019, were
+6 there any managers or officers that were
+7 common between SpecGx and Mallinckrodt PLC?
+8 A. From a legal entity
+9 perspective, signing-off perspective, I don't
+10 believe there were changes.
+11 Obviously there were changes in
+12 oversight throughout that period.
+13 Q. I'm not sure you answered the
+14 question that I asked, so let me ask it
+15 again.
+16 A. Okay.
+17 Q. Between 2013 and 2019, there's
+18 a. group of managers or officers at SpecGx,
+19 correct?
+20 A. Yes.
+21 Q. And during the same period,
+22 there's a group of officers at Mallinckrodt
+23 PLC, correct?
+24 A. Yes.
+25 Q. During that period of time,
+MNKOI 0004574150
+
+1 were any of those people in common, meaning
+2 were any of them the same, between SpecGx and
+3 Mallinckrodt PLC?
+4 MR. O'CONNOR: Objection to
+5 form.
+6 THE WITNESS: Not to my
+7 knowledge, no.
+8 QUESTIONS BY MR. GREENE:
+9 Q. Give me one moment,
+10 Mr. Harbaugh.
+11 A. Yeah.
+12 Q. Do you know, Mr. Harbaugh, as
+13 you sit there today whether SpecGx has ever
+14 paid dividends to Mallinckrodt PLC?
+15 A. I'm not sure. I don't know
+16 whether -- no, I don't believe the word
+17 "dividend" was ever used.
+18 Q. Does SpecGx own any
+19 intellectual property?
+20 A. I believe it probably has some,
+21 but not a lot.
+22 Q. Okay. What intellectual
+23 property do you understand that SpecGx owns?
+24 A. There was work in SpecGx from
+25 an R&D perspective, research and development,
+MNKOI 0004574151
+
+1 that is, that we would have tried to have
+intellectual property protection on.
+3 Q. Is it your understanding,
+4 Mr. Harbaugh, that SpecGx sold opioids?
+5 A. Yes.
+6 Q. Are you able to tell me what
+7 opioid line SpecGx sold?
+8 A. Yeah, they're the ones that I
+9 referred to earlier, the hydrocodone, the
+10 oxycodone, the morphine, the morphine ER,
+11 codeine and so on.
+12 Q. And those opioids have
+13 formulations, correct?
+14 A. They do.
+15 Q. And are those formulations
+16 intellectual property?
+17 A. Largely, no. Most of what
+18 SpecGx sold are very old products that don't
+19 enjoy any intellectual property around them.
+20 Q. Do you know whether SpecGx owns
+21 any of the formulations for those ()plaids?
+22 MR. O'CONNOR: Objection to
+23 form.
+24 THE WITNESS: The know-how to
+25 produce those products is within
+MNKOI 0004574152
+
+1 specialty with SpecGx, and then
+2 anything that was being created from a
+3 research and development perspective
+4 would have opioids in there and
+5 intellectual property.
+6 QUESTIONS BY MR. GREENE:
+7 Q. And did SpecGx develop any
+8 opioids for which it owns the intellectual
+9 property?
+10 A. Yes.
+11 Q. And what was that?
+12 A. We were working on a
+13 formulation with Roxicodone for
+14 abuse-deterrent technology.
+15 Q. And as you sit there today,
+16 Mr. Harbaugh, do you know whether SpecGx
+17 holds intellectual property or is it
+18 Mallinckrodt PLC?
+19 A. It's my understanding that the
+20 intellectual property is with SpecGx LLC.
+21 Q. As you sit there today, do you
+22 know whether Mallinckrodt PLC owns any
+23 intellectual property for any opioids?
+24 A. I believe Mallinckrodt may own
+25 the intellectual property for branded
+MNKOI 0004574153
+
+1 products that were sold.
+Q. And what -- which ones are
+3 those?
+4 A. I don't think there's any real
+5 intellectual property, but Exalgo would have
+6 been a branded product.
+7 We haven't sold Exalgo for
+8 many, many years, but there may be some
+9 intellectual property there that still
+10 exists. I don't know.
+11 Q. And to the best of your
+12 recollection, when did Mallinckrodt stop
+13 selling Exalgo?
+14 A. I want to say we lost
+15 exclusivity in May of 2014 on three of the
+16 four dosage strengths. The only one that we
+17 continued was the 32-milligram. And I
+18 believe by the end of 2014 we lost
+19 exclusivity on that product as well, to the
+20 best of my recollection.
+21 Q. Is that something that
+22 Mallinckrodt was selling at the time of the
+23 spin-off?
+24 A. Yes.
+25 Q. Are there any other opioids
+MNKOI 0004574154
+
+1 that you're aware of that Mallinckrodt PLC
+owns the intellectual property for?
+3 A. There may be some intellectual
+4 property around Xartemis XR, which was a
+5 failed launch, as I said earlier, that was
+6 within a year post-spin, we launched that
+7 product.
+8 There may be other products
+9 that our R&D group was working on that we
+10 sought intellectual property on, but none of
+11 those products on the branded side saw the
+12 light of day, to my knowledge.
+13 Q. As you sit there today, other
+14 than what we've discussed, is there any
+15 intellectual property for any opioids that
+16 Mallinckrodt PLC owns?
+17 A. Can you ask me that question
+18 again?
+19 Q. Sure.
+20 Other than what we've
+21 discussed, are you aware of any other opioids
+22 for which Mallinckrodt PLC owns the
+23 intellectual property for?
+24 A. Not that I'm aware of.
+25 Q. Now, am I correct,
+MNKOI 0004574155
+
+1 Mr. Harbaugh, that you at some point were
+2 employed by SpecGx?
+3 A. Correct, yeah.
+4 Q. And when did that occur?
+5 A. I don't know the exact date,
+6 but in December of 2018, we announced
+7 publicly that I was leaving my CFO role and
+8 moving over to SpecGx LLC to be the CEO
+9 designate.
+10 My paycheck ultimately was
+11 SpecGx LLC.
+12 Q. And what year was that?
+13 A. Pardon me?
+14 Q. What year was that?
+15 A. As I said, I don't know whether
+16 they moved me in payroll in December of '18
+17 or whether it was as of January 1, 2019, but
+18 it was on the heels of that announcement.
+19 Q. Now, when you made that change,
+20 did you retain a position at the LLC?
+21 MR. O'CONNOR: Objection to
+22 form.
+23 THE WITNESS: No. As CFO, I
+24 was an LLC employee. And as that
+25 announcement came out, plus or minus,
+MNKOI 0004574156
+
+1 I became a SpecGx LLC employee.
+2 QUESTIONS BY MR. GREENE:
+3 Q. And you took that position, we
+4 say, at the end of 2018 or the beginning of
+5 2019?
+6 A. Well, it was a very clean
+7 break. So the day of the announcement, I
+8 moved my office from Hazelwood, Missouri, to
+9 Webster Groves, which is where SpecGx LLC is,
+10 the headquarters.
+11 Q. So let me back up,
+12 Mr. Harbaugh.
+13 At that point, at the end of
+14 2018, beginning of 2019, was your position at
+15 the LLC or was it at the PLC?
+16 A. It was at the SpecGx LLC.
+17 Q. That wasn't quite the question
+18 I asked. Let me ask that again.
+19 Prior to taking your position
+20 at SpecGx LLC, did you have a CFO position at
+21 Mallinckrodt LLC?
+22 MR. O'CONNOR: Objection to
+23 form.
+24 THE WITNESS: I believe it was
+25 Mallinckrodt PLC.
+MNKOI 0004574157
+
+1 QUESTIONS BY MR. GREENE:
+2 Q. Okay. That's what I was
+3 getting at.
+4 So let me ask you this
+5 question: Have you ever held a position at
+6 the LLC, at Mallinckrodt LLC?
+7 A. Not to my knowledge.
+8 Q. And your position was CFO at
+9 Mallinckrodt PLC, the Irish entity, correct?
+10 A. That's my understanding, yes.
+11 Q. And sometime at the end of 2018
+12 or the beginning of 2019, you then took a
+13 position at SpecGx LLC; is that correct?
+14 A. Correct.
+15 Q. And when that occurred, did you
+16 retain any position at the PLC?
+17 A. No.
+18 Q. Did you retain any
+19 responsibilities with the PLC?
+20 A. No.
+21 Q. Was there any overlap in your
+22 positions between the PLC and SpecGx?
+23 A. No. It was a clean break.
+24 Q. Can you tell me, just so we can
+25 get the record down, what's the difference
+MNKOI 0004574158
+
+1 between the business for SpecGx and
+Mallinckrodt LLC?
+3 A. I didn't really work with
+4 Mallinckrodt LLC. I worked at the
+5 Mallinckrodt PLC level. There are other
+6 folks in the company that can tell you what's
+7 in what legal entity. That was not something
+8 that I needed to focus on.
+9 Q. Well, that's fine. I just -- I
+10 wanted to know if you were able to tell me
+11 that.
+12 Are you able to tell me what
+13 the difference is between the business with
+14 SpecGx and Mallinckrodt LLC?
+15 A. No.
+16 Q. Okay. Do you know whether
+17 those two entities share a common purchasing
+18 department?
+19 A. No, I don't know exactly how
+20 that process works.
+21 Q. Does the PLC have a purchasing
+22 department?
+23 A. I believe it does, yes, because
+24 we purchase lots of -- or we purchased lots
+25 of goods for all of the entities.
+MNKOI 0004574159
+
+1 Q. Do SpecGx and the PLC have a
+2 common purchasing department?
+3 A. I believe they were separated,
+4 largely.
+5 Q. Was there ever a point in which
+6 they weren't separated?
+7 A. I believe we always had some
+8 dedicated people in procurement or
+9 purchasing, to use the word, specifically
+10 associated with the generics business. There
+11 may have been efforts throughout to try and
+12 leverage to the totality of the company
+13 benefit by combining purchases, but I believe
+14 we did have people in procurement dedicated
+15 to SpecGx LLC throughout.
+16 Q. And I need to clarify what you
+17 just said.
+18 Did the PLC have anyone in
+19 procurement that worked on procuring for
+20 SpecGx?
+21 A. I don't know exactly --
+22 MR. O'CONNOR: Objection to
+23 form.
+24 THE WITNESS: -- where the --
+25 where the employees were put in what
+MNKOI 0004574160
+
+1 legal entity.
+2 When you say Mallinckrodt PLC,
+3 I think of corporate, which
+4 encompasses all of Mallinckrodt.
+5 QUESTIONS BY MR. GREENE:
+6 Q. That purchasing department at
+7 the PLC, what goods did it purchase?
+8 A. Oh, everything from paper to
+9 raw materials for products we produce, to
+10 getting capital equipment for facilities.
+11 But product-specific materials, particularly
+12 in SpecGx LLC, such as getting DEA quota,
+13 would have always resided within SpecGx LLC.
+14 Q. So let me go back.
+15 What kinds of things would the
+16 PLC purchase for SpecGx? You said paper.
+17 What else?
+18 A. I would say that from my
+19 understanding we leveraged the -- and when we
+20 negotiated between -- to buy whatever we were
+21 buying, if we could get a greater discount by
+22 giving full business to the company we were
+23 buying from, we would leverage that, but that
+24 SpecGx would pay for the materials that were
+25 procured for SpecGx, and brands would pay for
+MNKOI 0004574161
+
+1 brands.
+2 Q. You said raw materials. Did
+3 the PLC procure raw materials for the
+4 manufacture of any drugs for either SpecGx or
+5 Mallinckrodt LLC?
+6 MR. O'CONNOR: Objection to
+7 form.
+8 THE WITNESS: I believe all of
+9 the raw materials purchased for the
+10 specialty generics business flowed
+11 through SpecGx LLC.
+12 QUESTIONS BY MR. GREENE:
+13 Q. Let me ask you that
+14 differently.
+15 First, did PLC purchase any raw
+16 materials for any opioids for Mallinckrodt
+17 LLC?
+18 A. Not that I'm aware of, but,
+19 again, there are people that are far closer
+20 to this than I.
+21 Q. So are you saying that's
+22 something you can't answer as you sit there
+23 today?
+24 A. I don't know exactly.
+25 Q. And just to be clear, as the
+MNKOI 0004574162
+
+1 chief financial officer, you can't tell me
+2 one way or the other whether the PLC
+3 purchased the raw materials for opioids for
+4 the Mallinckrodt LLC?
+5 MR. O'CONNOR: Objection to
+6 form.
+7 THE WITNESS: No, I don't know
+8 that detail.
+9 QUESTIONS BY MR. GREENE:
+10 Q. Did the PLC purchase any raw
+11 materials that were used by Mallinckrodt LLC?
+12 Anything?
+13 A. Again, we would have to get
+14 someone that was much closer to this than I.
+15 Q. Well, I just -- I'm asking,
+16 Mr. Harbaugh, because at the start of your
+17 answer earlier, you said the PLC did purchase
+18 raw materials.
+19 So which -- which raw materials
+20 did the PLC purchase?
+21 A. I didn't say --
+22 MR. O'CONNOR: Objection to
+23 form.
+24 THE WITNESS: -- raw materials.
+25 I believe the raw materials that were
+MNKOI 0004574163
+
+1 needed for the specialty generic
+2 business were purchased by the
+3 specialty generic business.
+4 QUESTIONS BY MR. GREENE:
+5 Q. Okay. Well, let me ask you
+6 that differently.
+7 Did the PLC purchase any raw
+8 materials?
+9 A. Did the PLC?
+10 Q. Yes.
+11 A. I believe they did for the
+12 branded business but not for the generics
+13 business.
+14 Q. Okay. And would that include
+15 raw materials for branded opioids?
+16 A. I don't recall, because we were
+17 largely out of the opioid business in 2014,
+18 as we discussed earlier.
+19 Q. What raw materials would the
+20 PLC purchase for the branded business?
+21 A. Well, we would have purchased
+22 the raw materials needed to produce Exalgo
+23 back then, and then we would have purchased
+24 the raw materials for Xartemis XR.
+25 Q. Did -- let me just clarify.
+MNKOI 0004574164
+
+1 Did the PLC purchase any raw
+2 materials for SpecGx?
+3 A. Not to my recollection.
+4 Q. Did the PLC negotiate the price
+5 for any raw materials for SpecGx?
+6 A. Not to my recollection.
+7 Q. Do you know what I mean if I
+8 refer to a ledger system?
+9 A. A general ledger system? Yes.
+10 Q. Yes. Yes.
+11 A. Yes.
+12 Q. I presume that you know what I
+13 mean.
+14 A. Yeah, I do.
+15 Q. Is there a common general
+16 ledger system between the PLC and SpecGx?
+17 A. Yes.
+18 MR. O'CONNOR: Objection to
+19 form.
+20 QUESTIONS BY MR. GREENE:
+21 Q. Can you tell me how that
+22 operates?
+23 A. It's like any general ledger.
+24 It, you know, books debits and credits and
+25 is -- is set up by US GAAP.
+MNKOI 0004574165
+
+1 Q. Is there a common server on
+2 which that resides for both the PLC and
+3 SpecGx?
+4 A. I don't know.
+5 Q. Is that -- is that common
+6 software accessible by both SpecGx and the
+7 PLC?
+8 A. All I know in this area is that
+9 SpecGx would process their results and issue
+10 them to the parent. And how that worked, I
+11 was never involved in that.
+12 Q. Well, does the PLC have access
+13 to SpecGx's ledger system?
+14 A. I don't know.
+15 Q. Let me go back for a moment.
+16 Prior to SpecGx coming into
+17 existence, did the PLC purchase raw materials
+18 for any opioids?
+19 A. I don't know one way or the
+20 other. I don't recall, it's been so long
+21 ago.
+22 Q. Prior to SpecGx coming into
+23 existence, did the PLC purchase the raw
+24 materials for any generic opioids?
+25 A. Again, same answer. I don't
+MNKOI 0004574166
+
+1 recall.
+2 Q. If you don't know that,
+3 Mr. Harbaugh, who would?
+4 A. The best person would be Kathy
+5 Schaefer, the corporate controller.
+6 Q. Would you have to sign off on
+7 any of those expenses as the CFO?
+8 A. We had a very rigorous
+9 delegation of authority within the company,
+10 and so anything that met a certain criteria
+11 would come to me, but I would say generally
+12 it was rare.
+13 Q. And I believe I covered this,
+14 but just to clarify, would the PLC negotiate
+15 the price of any raw materials on behalf of
+16 all of its subsidiaries jointly?
+17 MR. O'CONNOR: Objection to
+18 form.
+19 THE WITNESS: Well, as I said
+20 earlier, I believe SpecGx LLC
+21 negotiated largely, if not in
+22 entirety, for raw materials for that
+23 business.
+24 QUESTIONS BY MR. GREENE:
+25 Q. That wasn't quite what I asked.
+MNKOI 0004574167
+
+1 At any point between 2013 and
+2 2019, to the best of your recollection, did
+3 the PLC negotiate the price of any raw
+4 materials collectively for its subsidiaries?
+5 A. I don't know. I can't be
+6 definitive on that, but I'm not aware of
+7 anything that PLC bought on behalf of SpecGx
+8 during that time.
+9 Q. I wasn't talking just about
+10 SpecGx. I was talking generally about any of
+11 its subsidiaries, including the LLC.
+12 A. Yeah. Again, you probably
+13 should talk to Kathy Schaefer because she
+14 knows how all of that flows.
+15 I was PLC, and I was strategy
+16 and capital allocation and other activities.
+17 Q. Okay. Well, am I correct that
+18 as a CFO, ultimately you're responsible in
+19 part for what the entity is spending?
+20 Correct?
+21 A. Yes, I am responsible for the
+22 consolidated financial reports that go into
+23 SEC filings.
+24 Q. And as part of the consolidated
+25 financials of the PLC, to your knowledge, did
+MNKOI 0004574168
+
+1 it ever negotiate the price of any raw
+2 materials for its collective subsidiaries?
+3 MR. O'CONNOR: Objection.
+4 Asked and answered.
+5 QUESTIONS BY MR. GREENE:
+6 Q. If you know.
+7 A. Sorry?
+8 Q. I said, if you know.
+9 A. I don't -- I don't exactly
+10 know. I believe that the PLC ultimately was
+11 the -- was the consolidation of all those
+12 entities, and goods were procured within
+13 those entities, and that would have been
+14 included in our SG&A or our cost of goods
+15 sold at the highest level in our external
+16 reporting.
+17 Q. That's not the question I
+18 asked. I asked if the PLC negotiated the
+19 price of anything for its collective
+20 subsidiaries.
+21 Can you tell me that one way or
+22 the other?
+23 MR. O'CONNOR: Objection.
+24 Asked and answered several times.
+25
+MNKOI 0004574169
+
+1 QUESTIONS BY MR. GREENE:
+2 Q. Can you tell me that one way or
+3 the other?
+4 A. I'm not exactly sure.
+5 Q. Do you know what I mean if I
+6 refer to a common treasury function?
+7 A. Yes.
+8 Q. Was there a common treasury
+9 function between the PLC and SpecGx?
+10 A. There was a shared treasury
+11 function, yes.
+12 Q. Can you describe that process
+13 for me?
+14 A. Yeah. So we had a treasurer
+15 who oversaw the cash flows within the legal
+16 entities, and he had people outside of the
+17 United States and in the United States that
+18 worked for him, and he reported to me.
+19 Q. And who was that?
+20 A. John Einwalter.
+21 Q. And I apologize if you said it
+22 and I missed it, but what was his title, what
+23 was his position?
+24 A. It may have changed, but at the
+25 time that he worked for me, he was, I
+MNKOI 0004574170
+
+1 believe, vice president and treasurer. Might
+2 have been vice president of finance and
+3 treasurer. I don't exactly recall. But it
+4 would have been something of that nature.
+5 Q. Okay. And just to clarify, was
+6 he the treasurer of SpecGx?
+7 A. No. PLC.
+8 Q. Okay. And I want to make sure
+9 I -- make sure I ask the right question.
+10 Was there a common treasury
+11 function between SpecGx and the PLC?
+12 MR. O'CONNOR: Objection to
+13 form.
+14 THE WITNESS: There was --
+15 bifurcated between SpecGx or the
+16 branded business. We had a treasury
+17 function that oversaw the cash flows
+18 within the enterprise.
+19 QUESTIONS BY MR. GREENE:
+20 Q. Okay. So was there a shared
+21 treasury function between the PLC and all of
+22 its -- it's fair to call them subsidiaries,
+23 right?
+24 A. The treasury function was --
+25 was responsible for making sure that all
+MNKOI 0004574171
+
+1 those legal entities were correctly accounted
+2 for as the cash moved through those legal
+3 entities. And John and his team would have
+4 been responsible to do that on behalf of the
+5 company.
+6 Q. And was there a common account
+7 that revenues from each of those entities
+8 flowed into?
+9 MR. O'CONNOR: Objection to
+10 form.
+11 THE WITNESS: You would have to
+12 ask John that question, or Kathy,
+13 because I only looked at it at the PLC
+14 level, which was a consolidation
+15 level.
+16 QUESTIONS BY MR. GREENE:
+17 Q. Was it John's job to manage the
+18 treasury functions of each of those entities?
+19 A. Yes. He and his team, that is.
+20 Q. And I realize I may have asked
+21 you this. I'm going to -- I'm going to ask
+22 sort of the same question but in a different
+23 way.
+24 To your knowledge, did all the
+25 revenue from each of those other entities end
+MNKOI 0004574172
+
+1 up in an account that the PLC managed?
+MR. O'CONNOR: Objection to
+3 form.
+4 THE WITNESS: I don't -- I
+5 don't know if I would use the word
+6 "account."
+7 We consolidated all of the
+8 revenue across all of the businesses
+9 under US GAAP and then reported that
+10 consolidation externally via our SEC
+11 filings.
+12 QUESTIONS BY MR. GREENE:
+13 Q. So the revenue from each of the
+14 entities was consolidated, and it was John's
+15 job to manage that consolidation; is that
+16 correct?
+17 MR. O'CONNOR: Objection to
+18 form.
+19 THE WITNESS: John --
+20 QUESTIONS BY MR. GREENE:
+21 Q. I'm sorry?
+22 Go ahead.
+23 A. John worked with the corporate
+24 controller. John Einwalter, the treasurer,
+25 that is, worked with the corporate controller
+MNKOI 0004574173
+
+1 and the head of tax, and then the three of
+2 them were the subject matter experts that
+3 ensured that all the flows between legal
+4 entities were done correctly on behalf of the
+5 company and myself.
+6 Q. And with respect to that flow,
+7 is it your understanding that flow from each
+8 of those entities flowed into a common
+9 treasury that John oversaw?
+10 MR. O'CONNOR: Objection to
+11 form.
+12 QUESTIONS BY MR. GREENE:
+13 Q. Would that be accurate?
+14 A. In the end, you'd have to ask
+15 them. But as I looked at it as a PLC
+16 employee and as the CFO, I only looked at it
+17 on a consolidated basis.
+18 If I was looking at the cash
+19 balance on the balance sheet, I didn't know
+20 whether one dollar came from generics or XR
+21 or what it was. I just looked at it at the
+22 consolidated level.
+23 They would have to answer your
+24 questions in this regard.
+25 Q. And I don't want to spend too
+MNKOI 0004574174
+
+1 much time on this, but I do want to nail down
+2 both ends of that.
+3 As you sit here today, is it
+4 your understanding that all those funds
+5 ultimately flowed to a single treasury?
+6 MR. O'CONNOR: Objection to
+7 form.
+8 THE WITNESS: They were all
+9 consolidated by the treasury function,
+10 yes.
+11 QUESTIONS BY MR. GREENE:
+12 Q. Okay. And the reason I'm
+13 making a distinction is that that's different
+14 than on a balance sheet.
+15 The actual funds went to a
+16 common treasury, correct?
+17 MR. O'CONNOR: Objection to
+18 form.
+19 QUESTIONS BY MR. GREENE:
+20 Q. Was that your understanding?
+21 A. The treasurer was responsible
+22 to ensure that in totality cash was brought
+23 in through all those legal entities in
+24 appropriate fashion, and was the overseer to
+25 make sure that the cash was properly
+MNKOI 0004574175
+
+1 accounted for working with the corporate
+2 controller.
+3 Q. And that's the piece I don't
+4 need to address again. He had supervision
+5 over that process.
+6 My question was slightly
+7 different.
+8 Is it your understanding as you
+9 sit there today that those actual funds
+10 flowed into a common treasury?
+11 MR. O'CONNOR: Objection to
+12 form. Asked and answered.
+13 THE WITNESS: I don't think
+14 there's another way I can answer the
+15 question, you know. You'd have to
+16 talk to John around the details around
+17 where all those cash flows were coming
+18 from.
+19 QUESTIONS BY MR. GREENE:
+20 Q. Okay. It's not a question
+21 where they were coming from. My question was
+22 different.
+23 As the chief financial officer,
+24 do you have an understanding that those funds
+25 flowed into a common treasur
+MNKOI 0004574176
+
+MR. O'CONNOR: Objection.
+Asked and answered several times now.
+THE WITNESS: You'd have to ask
+4 John.
+5 I saw the cash flow in
+6 aggregate. I didn't get into the
+7 details of where it all came from.
+8 John would be the person that could
+9 tell you that.
+10 QUESTIONS BY MR. GREENE:
+11 Q. Okay. I really don't want to
+12 spend much more time on this, but just to
+13 clarify. I didn't ask where it came from; I
+14 want to know where it went.
+15 And as the chief financial
+16 officer, did it go into a common treasury?
+17 MR. O'CONNOR: Objection.
+18 Again, asked and answered.
+19 THE WITNESS: I've never heard
+20 this term "common treasury." That's
+21 what I'm struggling with.
+22 From a capital allocation
+23 perspective, we had one pool of cash,
+24 and we made capital allocation
+25 decisions at the corporate level based
+MNKOI 0004574177
+
+1 on how we thought we could drive the
+2 best return for the company.
+3 I didn't focus on where the
+4 dollar came from. I focused on what
+5 to do with the dollar.
+6 QUESTIONS BY MR. GREENE:
+7 Q. When you went to SpecGx, did
+8 you continue to report to Mark Trudeau?
+9 A. Yes.
+10 MR. O'CONNOR: Objection to
+11 form.
+12 QUESTIONS BY MR. GREENE:
+13 Q. And was that true until you
+14 left?
+15 A. On paper, yes. I didn't talk
+16 with him very often.
+17 Q. Okay. Well, at a structural
+18 level, your report was to Mark Trudeau until
+19 you left, correct?
+20 A. Yes.
+21 Q. And that's true even while you
+22 were at SpecGx, correct?
+23 A. Yes.
+24 Q. And during that period, you
+25 continued to receive stock options in the
+MNKOI 0004574178
+
+1 PLC, correct?
+2 A. We'd have to check with -- with
+3 Kathy Schaefer, because I don't know whether
+4 that got moved over to SpecGx or not.
+5 My cash comp and my bonus was
+6 out of SpecGx. I don't know that detail.
+7 Q. Okay. So as you sit here
+8 today, are you able to tell me, during the
+9 period of time that you were at the PLC and
+10 reporting to Mark -- strike that.
+11 During the period of time that
+12 you were at SpecGx and you were reporting to
+13 Mark Trudeau at the PLC, can you tell me one
+14 way or the other whether you continued to
+15 receive stock options at the PLC?
+16 MR. O'CONNOR: Objection to
+17 form.
+18 THE WITNESS: You'd have to ask
+19 Kathy Schaefer where she accounted for
+20 stock options and any sort of stock
+21 comp.
+22 There is -- there was no stock
+23 for the generic, the SpecGx LLC
+24 business, so whatever I would have
+25 received would have been Mallinckrodt
+MNKOI 0004574179
+
+1 PLC stock, because that's what was
+2 publicly traded.
+3 What I don't know, you'd have
+4 to ask her, is if it was charged over
+5 to SpecGx or not. I believe it was,
+6 but I'm not 100 percent sure.
+7 QUESTIONS BY MR. GREENE:
+8 Q. Well, did you -- let me ask you
+9 the question differently.
+10 After you went to SpecGx, did
+11 you continue to receive stock options?
+12 A. Yes.
+13 Q. And the only entity you could
+14 receive stock options in was the PLC,
+15 correct?
+16 A. The only entity that could
+17 issue me stock options was the PLC, but
+18 SpecGx may have taken the financial liability
+19 for those options. And that's what I don't
+20 know.
+21 Q. Mr. Trudeau [sic], do you know
+22 whether you will continue to be named as an
+23 executive officer for the PLC on SEC filings
+24 after you went to SpecGx?
+25 MR. O'CONNOR: Are you asking
+MNKOI 0004574180
+
+1 Mr. Trudeau or Mr. Harbaugh?
+2 QUESTIONS BY MR. GREENE:
+3 Q. I'm sorry. Mr. Harbaugh.
+4 A. No worries.
+5 Q. Do you know whether you
+6 continued to be named as an executive officer
+7 for the PLC after you went to SpecGx?
+8 A. I believe I was taken off as an
+9 officer at the point in which I went over to
+10 SpecGx LLC.
+11 Q. Well, do you know whether you
+12 were listed on 2019 SEC filings?
+13 A. Yes, I would have been I
+14 would have been because, you know, 11 -- no,
+15 excuse me, 12 and a few -- 11 and a few days,
+16 I was the CFO throughout that period, so I
+17 would have to assume I was a named executive
+18 officer in the top five of being paid.
+19 But for -- and that would have
+20 been for 2018. For 2019, I do not know.
+21 Q. Do you know whether the PLC
+22 loaned any money to SpecGx?
+23 A. You'd have to ask John
+24 Einwalter that question. I'm not -- I don't
+25 know.
+MNKOI 0004574181
+
+1 Q. As the chief -- former chief
+financial officer, you can't tell me whether
+3 the PLC ever loaned any money to SpecGx?
+4 A. Again, John and Kathy are the
+5 owners of the legal entities, and they're the
+6 people to ask. I looked at everything in
+7 total.
+8 Q. Well, wouldn't looking at
+9 everything in total include whether the PLC
+10 was loaning money to any of its entities?
+11 A. That was a detail that I had
+12 experts to manage, so, no, I didn't need to
+13 know need to get into that.
+14 Q. Who was responsible for
+15 determining the accounting policies of
+16 SpecGx?
+17 A. Kathy Schaefer.
+18 Q. Who prepared the financial
+19 statements for SpecGx?
+20 A. Jeff Kilper.
+21 Q. And who's Jeff Kilper?
+22 A. Jeff was the -- he was the
+23 finance lead for the specialty generics
+24 business, and he reported in to George
+25 Kegler, who reported to me.
+MNKOI 0004574182
+
+1 George became my successor as
+2 the CFO of the company when I went to SpecGx.
+3 And so Jeff -- as George left, Jeff became
+4 the owner of that in 2019, but he -- he
+5 prepared those for many years on behalf of
+6 George.
+7 Q. Let me break that down.
+8 When did George -- what was
+9 George's position?
+10 A. He was vice president of
+11 finance for specialty generics until December
+12 of 2018. And upon the announcement of me
+13 leaving the CFO job and going to SpecGx LLC,
+14 George became my successor as the CFO of
+15 Mallinckrodt PLC.
+16 And Jeff reported in to George
+17 until -- well, yeah, he reported in to
+18 George. It was -- yeah.
+19 Q. And during that period of time,
+20 George in turn reported to you, correct?
+21 A. George reported to me until the
+22 day we announced that I was stepping down as
+23 CFO and going to specialty generics, LLC.
+24 And on that day, he then reported to Mark
+25 Trudeau.
+MNKOI 0004574183
+
+1 Q. Well, let me back up.
+2 Prior to you leaving, he
+3 reported to you, correct?
+4 A. No.
+5 Remember, I was -- I was the
+6 CFO until December of '18. In December of
+7 '18 when we announced publicly that I was
+8 stepping down as CFO and going over to the
+9 SpecGx business to be the CEO designate,
+10 George, on that day, became the CFO of
+11 Mallinckrodt PLC, reporting to Mark.
+12 Q. Let me ask you that
+13 differently.
+14 While you were at the PLC as
+15 the CFO, was there anyone at SpecGx
+16 responsible for the financial statements that
+17 reported to you?
+18 A. George Kegler, who was a SpecGx
+19 employee, was reporting to me, and I relied
+20 on George and Kathy Schaefer to make sure
+21 that the reports were accurate and in keeping
+22 with GAAP accounting.
+23 Q. And it was the PLC that
+24 determined that SpecGx had to do its
+25 financial statements in accordance with GAAP
+MNKOI 0004574184
+
+1 accounting, correct?
+2 A. Yes. Our accounting policies
+3 stretched across the entirety of the business
+4 for consistency.
+5 Q. And that was the PLC's
+6 accounting policy that both Mallinckrodt LLC
+7 and SpecGx had to follow, correct?
+8 A. Correct.
+9 Q. And did SpecGx and Mallinckrodt
+10 PLC file consolidated tax returns?
+11 A. You'd have to ask the head of
+12 tax.
+13 Q. Okay. As you sit there today
+14 as the former CFO, you don't know whether
+15 they filed consolidated tax returns?
+16 A. I think that's a better
+17 question, sir, for the person that owned it
+18 on behalf of the company, the head of tax.
+19 Q. Well, with all due respect,
+20 you're here, so I want to know you if you
+21 know.
+22 Did SpecGx and Mallinckrodt PLC
+23 file consolidated tax returns?
+24 A. I believe they did, but you'd
+25 need to talk to the head of tax to get into
+MNKOI 0004574185
+
+1 the details there.
+2 Q. So that's -- that's your
+3 understanding.
+4 Do you know where they were
+5 filed?
+6 A. You'd have to ask him.
+7 MR. O'CONNOR: Vin, you seem to
+8 have lost your video feed. I don't
+9 know if that was intentional.
+10 MR. GREENE: No, it was not
+11 intentional. I think my binder just
+12 tapped the button. My apologies.
+13 Although I'm sure all you can
+14 see is my lithographic David Ortiz
+15 over my head, so...
+16 QUESTIONS BY MR. GREENE:
+17 Q. Does Mallinckrodt PLC have an
+18 internal audit function?
+19 A. It does.
+20 Q. And is that an internal audit
+21 function that each of its subsidiaries or
+22 entities has to follow?
+23 A. Yes.
+24 Q. Does the PLC conduct audits of
+25 its individual entities?
+MNKOI 0004574186
+
+1 A. It does.
+Q. And does that include SpecGx?
+3 A. Yes.
+4 Q. And to where or to whom --
+5 well, strike that.
+6 Is there an internal audit
+7 group at SpecGx?
+8 A. No.
+9 Q. Is the only internal audit
+10 group at the PLC?
+11 A. Yes.
+12 Q. And is that internal audit
+13 group responsible for the audit plan for its
+14 subsidiaries?
+15 A. Yes.
+16 Q. And does that include SpecGx?
+17 A. Yes.
+18 Q. Does SpecGx have its own
+19 banking relationships?
+20 A. No.
+21 And when you say "banking," I'm
+22 assuming you're meaning bank like cash flow
+23 management as opposed to investments bankers.
+24 Q. Yes.
+25 A. Okay. So, no, they don't have
+MNKOI 0004574187
+
+1 their own bank accounts.
+2 Q. Okay. And are those bank
+3 accounts managed by the PLC?
+4 A. They are.
+5 Q. Does SpecGx -- or during the
+6 period of time you were there strike that.
+7 During the period of time you
+8 were with the PLC and SpecGx, did SpecGx have
+9 any outstanding debt?
+10 A. I don't know specifically for
+11 SpecGx. I only know for Mallinckrodt PLC the
+12 debt that was outstanding.
+13 Q. Well, during the period of time
+14 that you were at SpecGx, were you aware of
+15 any outstanding debt?
+16 A. That was not -- that had never
+17 been discussed, because ultimately we never
+18 got to that negotiation to spin specialty
+19 generics out. So, therefore, I don't know
+20 whether there was a debt balance or not in
+21 the legal entities.
+22 Q. Wouldn't that be something that
+23 you would know as the chief financial officer
+24 of the PLC, whether any of its entities and
+25 subsidiaries have debt?
+MNKOI 0004574188
+
+1 A. That was managed by Kathy
+2 Schaefer and John Einwalter. Again, I only
+3 looked at it at the PLC level.
+4 Q. Did the PLC ever take on any
+5 debt for SpecGx?
+6 A. I don't believe we took on debt
+7 for anything that we did at the highest
+8 level. We didn't do acquisitions in
+9 specialty generics post-spin, and it always
+10 generated positive cash throughout.
+11 Q. Has SpecGx ever undergone an
+12 external audit?
+13 A. Well, Deloitte was our auditor,
+14 and so Deloitte would have looked at
+15 specialty generics.
+16 Q. Who -- who engaged Deloitte?
+17 A. The PLC would have.
+18 Q. Okay. And did the PLC engage
+19 Deloitte to audit itself and all of its
+20 entities?
+21 A. Yes.
+22 Q. Prior to officially going over
+23 to SpecGx, did you have any role with SpecGx
+24 while you were at the PLC?
+25 A. From time to time post-spin, I
+MNKOI 0004574189
+
+1 had an oversight role over generics. I
+2 believe two times, actually.
+3 Q. What was that role?
+4 A. It was oversight. We had
+5 subject matter experts that were running the
+6 business, and we had some management changes
+7 that occurred during the time.
+8 And much like when I was the
+9 interim that we talked about some time ago,
+10 Mark Trudeau asked me to just kind of be the
+11 overseer of generics.
+12 Q. And you're saying that happened
+13 twice?
+14 A. I think it did. I want to
+15 say -- I don't exactly know the time frames.
+16 I know that we had an individual that didn't
+17 work out that we had hired at the time of
+18 spin, and I believe there was a period there
+19 where I, you know, was the point of contact
+20 for the person running the business.
+21 And then for a while it went to
+22 another individual on the management team,
+23 and then it came back to me, I want to say,
+24 in May of 2018. But I -- I think by May
+25 of 2018, Mark and the board were recognizing
+MNKOI 0004574190
+
+1 where they were likely headed with the
+generics business.
+3 Q. Now's a good time, Mr. Harbaugh
+4 [audio interruption] --
+5 A. I'm sorry, I can't hear you.
+6 Q. Sorry. Now's a good time to
+7 open that box that you have.
+8 A. Oh, okay.
+9 MR. O'CONNOR: Vin, I was
+10 actually going to suggest, we've been
+11 going a little over an hour. Before
+12 we dig into the box, could we take
+13 another short break?
+14 MR. GREENE: Sure. Why don't
+15 we take five.
+16 MR. O'CONNOR: We'll keep it
+17 quick.
+18 MR. GREENE: Yep. That's fine.
+19 VIDEOGRAPHER: 10:13, we're off
+20 the video record.
+21 (Off the record at 10:13 a.m.)
+22 VIDEOGRAPHER: 10:24, we're on
+23 the video record.
+24 QUESTIONS BY MR. GREENE:
+25 Q. Okay. Thank you.
+MNKOI 0004574191
+
+1 Welcome back, Mr. Harbaugh.
+2 How are you?
+3 A. Fine, thank you.
+4 Q. Are you ready to continue?
+5 A. Yes, Vin.
+6 Q. Can you take a look at what
+7 we've tabbed as number 44 in the box of
+8 documents provided to you?
+9 A. Sure.
+10 (Harbaugh Exhibit 1 marked for
+11 identification.)
+12 QUESTIONS BY MR. GREENE:
+13 Q. And for the record, why don't
+14 we go ahead and mark this as Exhibit 1.
+15 A. Okay.
+16 Q. First, have you seen this
+17 document before, Mr. Harbaugh?
+18 A. Just to make sure I've got the
+19 right thing in front of me, I've got
+20 Mallinckrodt planned spin-off of specialty
+21 generics business -- oh, you got it up.
+22 Q. Yeah. And for your
+23 convenience, it's also on the screen. We've
+24 provided you the hardcopy documents if that's
+25 what you prefer, or if looking at them on the
+MNKOI 0004574192
+
+1 screen is easier, you can do that as well.
+2 Okay?
+3 A. Yeah. Yeah.
+4 So, yes, to answer your
+5 question, I remember this press release.
+6 Q. This is a press release from
+7 Mallinckrodt PLC, correct?
+8 A. Yes.
+9 Q. And it's a press release about
+10 the spin-off of the specialty generics
+11 business, correct?
+12 A. Yes.
+13 Q. If you take a look at page 3
+14 for me, you're mentioned on page 3.
+15 A. Okay.
+16 Q. I think we switched documents
+17 on the screen, but there we go. Thank you.
+18 Are you on page 3,
+19 Mr. Harbaugh?
+20 A. Yes, I am.
+21 Q. Okay. You're listed there, and
+22 it says, "Mr. Harbaugh, currently
+23 Mallinckrodt's chief executive vice president
+24 and chief financial officer," CFO.
+25 Did I read that correctly?
+MNKOI 0004574193
+
+1 A. It says, "currently
+2 Mallinckrodt's executive vice president and
+3 chief financial officer."
+4 Q. Yeah.
+5 And then it says, "and
+6 president of the specialty generics business,
+7 comma."
+8 Did I read that?
+9 A. Yes.
+10 Q. Okay. Was that accurate at the
+11 time of this press release?
+12 A. Well, no. This is part --
+13 Q. Okay. In what way is that
+14 inaccurate?
+15 A. Because it doesn't clarify that
+16 I stepped down as the CFO, but it does
+17 clarify it in the following paragraph.
+18 Q. Okay. Did you have an
+19 opportunity to review this press release
+20 before it went out?
+21 A. I don't recall whether I looked
+22 at it or not. I tended to spend all of my
+23 time on the SEC filings.
+24 Q. And it says, "is expected to
+25 become president and chief executive officer
+MNKOI 0004574194
+
+1 of the new company upon completion of the
+spin-off."
+3 Did I read that correctly?
+4 A. Yes.
+5 Q. Further down in paragraph --
+6 the second to the last paragraph from the
+7 bottom, you're actually quoted.
+8 Do you see that?
+9 A. Yeah.
+10 Q. And then in the middle it says,
+11 "Harbaugh will step down as Mallinckrodt's
+12 CFO effective immediately to focus
+13 exclusively on preparing for separation."
+14 Do you see that?
+15 A. Yes.
+16 Q. And then at the very bottom it
+17 says, "'Matt has been involved in the
+18 specialty generics business for over a
+19 decade,' said Trudeau."
+20 Did I read that correctly?
+21 A. Yes.
+22 Q. Okay. What was your role in
+23 the specialty generic business for over a
+24 decade?
+25 A. I believe what Mark Trudeau is
+MNKOI 0004574195
+
+Page 117
+1 referring to is the fact that I'd been with
+2 the company for a long period of time and had
+3 familiarity with all of the businesses. But
+4 specialty generics was the last business that
+5 was part of the legacy of Mallinckrodt;
+6 everything else had been divested. And I
+7 think that's what he was referring to, was my
+8 length of tenure with the company.
+9 Q. Okay. I want to go back to
+10 those oversight roles we discussed earlier
+11 with respect to SpecGx.
+12 Do you recall talking about
+13 that?
+14 A. Yeah.
+15 Q. How often did that happen?
+16 A. Well, it happened in December
+17 of 2010, as we talked about, when I served as
+18 interim president.
+19 Q. Okay. Let's focus on that one
+20 first.
+21 A. Okay.
+22 Q. So you were interim president
+23 of SpecGx in 2010, correct?
+24 A. No, I was interim president of
+25 Mallinckrodt. I was the interim president of
+MNKOI 0004574196
+
+1 all of the businesses, of which --
+2 Q. Okay.
+3 A. -- generics was one of many.
+4 Q. All right. And we talked about
+5 that earlier.
+6 How long did that last?
+7 A. It would have been December
+8 of 2010 to February -- to end of January
+9 2012.
+10 And that's because Mark Trudeau
+11 came in on February 1, I believe, of 2012.
+12 Q. So I want to talk about the
+13 times that you've had oversight
+14 responsibility for SpecGx.
+15 Okay?
+16 A. Uh-huh.
+17 Q. So tell me every occasion in
+18 which you've had oversight responsibility of
+19 SpecGx.
+20 A. I'm really hazy on the dates, I
+21 apologize, because my principal duties was as
+22 CFO, and generics was not a lot of my time.
+23 But I believe -- I want to say
+24 maybe in May of 2015, I want to say May
+25 of 2015 we had a -- we had done a lot --
+MNKOI 0004574197
+
+1 let's see. Is that right? '13?
+2 Yeah. I want to say in May of
+3 '15, the person that was running the
+4 specialty generics business transitioned from
+5 our, if you will, chief commercial officer
+6 over to me, and he reported to me for
+7 probably a year or so.
+8 Q. Let me -- the chief commercial
+9 officer for which entity, SpecGx?
+10 A. No. No. We had a chief
+11 commercial officer that was overseeing
+12 generics and brands, and we had done a number
+13 of acquisitions, and the brand business got
+14 very large very quickly. And in order for
+15 that individual to be able to focus, they
+16 just threw generics over to me so that we
+17 could ensure good execution on the branded
+18 side of the house. So it was a convenience
+19 more than anything else.
+20 And about after a year of that,
+21 I want to say maybe a little more, the
+22 individual -- the subject matter expert that
+23 was running generics let us know that he
+24 wanted to leave the company, and we
+25 transitioned the business then over to a
+MNKOI 0004574198
+
+1 gentleman who was in charge of our supply
+chain. And he managed the business until May
+3 of 2018.
+4 Then it came back to me in May.
+5 And then obviously I went
+6 full-time over to the generics business on,
+7 it looks like, the 6th of December.
+8 Q. Okay.
+9 A. Yeah.
+10 Q. Let me clarify a few things.
+11 First, the chief commercial
+12 officer that you mentioned, was he a chief
+13 commercial officer at the PLC?
+14 A. Yes.
+15 Q. Okay. And the supply chain
+16 officer, was that supply chain officer at the
+17 PLC?
+18 A. Yes.
+19 Q. And was that supply chain
+20 officer responsible for, in part, the supply
+21 chain at SpecGx?
+22 A. Yes.
+23 Q. And was the commercial -- chief
+24 commercial officer who's at the PLC, was he
+25 or she responsible for the product lines at
+MNKOI 0004574199
+
+1 SpecGx?
+MR. O'CONNOR: Objection to
+form.
+4 THE WITNESS: No, not really.
+5 We always had a subject matter expert
+6 that we brought in to run the generics
+7 business because our belief was that
+8 branded people don't tend to manage
+9 generic businesses well. And so --
+10 and the chief commercial officer at
+11 the PLC level only spent his career in
+12 branded businesses.
+13 But we wanted to have one
+14 person that kind of oversaw all the
+15 businesses; therefore, he looked --
+16 oversaw all of them. But he really
+17 was focused on building out the
+18 branded business because that's what
+19 he knew.
+20 QUESTIONS BY MR. GREENE:
+21 Q. Okay. First, who was that
+22 chief commercial officer?
+23 A. At spin, it was Steve Carchedi.
+24 And Steve left shortly after the spin, and we
+25 hired Hugh O'Neill, and I believe Hugh is
+MNKOI 0004574200
+
+1 still with the company.
+2 Q. And if I understood your
+3 testimony correctly, at some point in 2015
+4 did you assume some of Hugh O'Neill's
+5 responsibilities?
+6 A. Yeah. Oh, basically all we did
+7 was we moved the person running the business
+8 on the org chart from Hugh over to me. And
+9 the reason we did that was so Hugh could
+10 shore up some challenges we had with the
+11 branded companies that we had acquired.
+12 Q. And tell me for the record,
+13 what do you understand the responsibilities
+14 of a chief commercial officer to be?
+15 MR. O'CONNOR: Objection to
+16 form.
+17 THE WITNESS: I would say
+18 driving the strategy to deliver net
+19 sales and involved in making sure that
+20 we're marketing the products
+21 appropriately and, you know, driving
+22 the commercial execution of the
+23 business.
+24 QUESTIONS BY MR. GREENE:
+25 Q. And if I understand your
+MNKOI 0004574201
+
+1 testimony correctly, were those the duties
+2 that Mr. O'Neill had that you assumed with
+3 respect to SpecGx in 2015?
+4 A. I would say we were more just
+5 an oversight function. As I said earlier,
+6 Hugh was a brand expert, not a generics
+7 expert. We hired a person who did that.
+8 Similarly, it was really
+9 oversight. It wasn't, you know, driving
+10 strategy or anything like that. I didn't
+11 engage with customers post-spin when I had
+12 generics rolling up to me.
+13 Well, I guess with one
+14 exception. I did meet with a firm in Boston
+15 at one point, but it was -- it was more a
+16 financial issue that we were talking about.
+17 But beyond that, I -- I left it
+18 to the person running the business to
+19 prosecute the strategy.
+20 Q. Well, let me ask that
+21 differently.
+22 Did you assume oversight
+23 responsibility of those functions with
+24 respect to SpecGx in May of 2015?
+25 MR. O'CONNOR: Objection to
+MNKOI 0004574202
+
+1 form.
+THE WITNESS: I only took
+responsibility really for -- I had
+4 finance, obviously, as the CFO, as we
+5 discussed earlier, but I really took
+6 the commercial head.
+7 The head of R&D dark-lined in
+8 to the head of the R&D, for instance,
+9 of the company. So I had, really,
+10 just the guy that was driving the net
+11 sales of the business reporting to me.
+12 QUESTIONS BY MR. GREENE:
+13 Q. So you had oversight of the
+14 person driving the net sales at SpecGx
+15 starting in 2015, correct?
+16 A. Correct.
+17 MR. O'CONNOR: Objection to
+18 form.
+19 QUESTIONS BY MR. GREENE:
+20 Q. And how long did you retain
+21 that oversight?
+22 A. Yeah, as I said earlier, it's
+23 real fuzzy, but I want to say it was May
+24 of 2015. And I want to say in June of 2016,
+25 the gentleman that was -- that I was
+MNKOI 0004574203
+
+1 providing oversight to let me know that he
+2 wanted to leave the company and had an offer
+3 elsewhere.
+4 And it was at that point that
+5 we said, well, we need to get another person
+6 to run the business because, you know, I
+7 didn't have time or energy to do any more
+8 than just the oversight.
+9 And I believe that's when the
+10 head of operations raised his hand and said
+11 he'd like to take the business.
+12 Q. So --
+13 A. So it was sometime in 2016 or
+14 so that it got transitioned. I want to say
+15 fall, winter, somewhere around there, but I
+16 could be off on the dates.
+17 Frankly, it was not a huge
+18 amount of my time because the CFO job was
+19 very active during that period.
+20 Q. Let me go back.
+21 What are the responsibilities
+22 of the supply chain officer?
+23 A. He is responsible for -- well,
+24 I don't know now because he left. But back
+25 then, he was responsible for improving our
+MNKOI 0004574204
+
+1 cost profile, that is, our cost of goods
+sold. He had all of the plants within his
+3 purview, and, you know, he was brought in to
+4 lean out the supply chain.
+5 Q. And that was a position at the
+6 PLC, correct?
+7 A. Yes.
+8 Q. And that -- those
+9 responsibilities were across all of the
+10 subsidiaries or entities that the PLC owned,
+11 correct?
+12 A. It was until I came in December
+13 of '18 with this announcement you have here
+14 on the screen. Supply chain moved directly
+15 under me because I was the CEO designate, or
+16 whatever we call it here. Yeah, the --
+17 expected to become president and chief
+18 executive officer.
+19 So supply chain then ceased
+20 to -- it dotted-line in to that other
+21 gentleman, and it dark-lined in to me at that
+22 point.
+23 Q. So we discussed the period of
+24 about May of 2015 through sometime in the
+25 winter of 2016.
+MNKOI 0004574205
+
+1 Is there any other occasion
+2 where you had oversight responsibility of any
+3 functions at SpecGx?
+4 MR. O'CONNOR: Objection to
+5 form.
+6 THE WITNESS: Well, finance, as
+7 we talked about earlier. The finance
+8 lead, George Kegler, we talked about.
+9 He reported to me pre-spin, all the
+10 way until the day that I stepped down
+11 as the CFO.
+12 And then in May of 2018,
+13 generics came back to me.
+14 And then the next change was
+15 what you see in front of you here.
+16 Q. Did SpecGx have any offices --
+17 well, strike that.
+18 Mallinckrodt PLC had offices in
+19 Ireland, correct?
+20 A. Correct.
+21 Q. Were there any SpecGx offices
+22 at that site in Ireland or at any of those
+23 sites?
+24 A. No, not to my knowledge.
+25 Q. Were there any officers who had
+MNKOI 0004574206
+
+1 offices at any SpecGx sites?
+MR. O'CONNOR: Objection to
+3 form.
+4 THE WITNESS: When you say
+5 "officers," you mean officers -- the
+6 senior management team of the PLC?
+7 QUESTIONS BY MR. GREENE:
+8 Q. Yes.
+9 A. So we fully separated out
+10 specialty generics in anticipation of
+11 divesting the business in the 2015 and 2016
+12 time frame. It might have been 2017.
+13 And so originally the generics
+14 business was at our Hazelwood, Missouri,
+15 campus, which was the headquarters, but they
+16 were separated in a separate section of the
+17 building.
+18 In anticipation of divesting
+19 generics, we moved all of those resources,
+20 with few exceptions, over to the Webster
+21 Groves, Missouri, campus. And no one in
+22 senior management resided at that campus
+23 full-time until I moved over there on
+24 December 6th or around there.
+25 And obviously I ceased to be
+MNKOI 0004574207
+
+1 associated with the PLC upon this
+2 announcement.
+3 Q. Let me ask you that
+4 differently, and I think I understand what
+5 you said.
+6 But prior to 2018 and that
+7 spin-off, if I understand you correctly,
+8 SpecGx offices were in Hazelwood, correct?
+9 A. I don't remember exactly -- no,
+10 in 2018, everyone had been moved over to
+11 Webster Groves. So it probably would have
+12 been either '17 or '16 that we initiated
+13 that.
+14 Q. And I apologize, I thought I
+15 said prior to 2018. So let me just state it
+16 again.
+17 Prior to 2018, SpecGx's offices
+18 were in Hazelwood; is that accurate?
+19 A. It's not. I think it was in
+20 2017 that we had moved everyone over to
+21 Webster Groves as best we could, with few
+22 exception.
+23 Q. Fair enough.
+24 A. We -- the sale process -- go
+25 ahead.
+MNKOI 0004574208
+
+1 No, please.
+2 Q. I didn't want -- if you want to
+3 say something, I don't want to cut you off.
+4 Go ahead.
+5 A. My point was, it was all driven
+6 by the sale process that was going on, and
+7 that was largely '17 into early '18, so we
+8 had to get everyone moved long before 2018.
+9 I just don't know the specific dates.
+10 Q. Fair enough.
+11 To the best of your
+12 recollection, prior to 2017, SpecGx's offices
+13 were in Hazelwood, correct?
+14 A. Yes.
+15 Q. Okay.
+16 A. That would be fair.
+17 Q. And that's Hazelwood, Missouri,
+18 correct?
+19 A. Correct, yeah, uh-huh, yeah.
+20 Q. And prior to that time, you
+21 were an executive for the PLC, correct?
+22 A. Yes.
+23 Q. And was your office in
+24 Hazelwood?
+25 A. It was.
+MNKOI 0004574209
+
+1 Q. Okay. And were they -- were
+2 they in the same complex?
+3 A. Yeah, we had a shared service
+4 facility in Hazelwood.
+5 Q. Okay. And at that time where
+6 was Mr. Trudeau's office?
+7 A. I want to say in -- Mark
+8 started living and working in New Jersey in
+9 May of 2015.
+10 We moved the branded business
+11 from St. Louis, Missouri -- from Hazelwood,
+12 Missouri, to Bedminster, New Jersey, and I
+13 think he started commuting to New Jersey
+14 starting in May of 2015, which again was also
+15 that time that generics was thrown my way.
+16 And I believe Mark moved to --
+17 well, he lives in Pennsylvania, but he works
+18 in New Jersey. He moved there in like
+19 January or February of 2016.
+20
+21 ,
+*Redact ed EP! ,
+22 I
+! i
+23 mm
+24 ! i
+25 I i
+MNKOI 0004574210
+
+1 Q. Were there other officers of
+2 the PLC whose offices were in Hazelwood where
+3 the SpecGx offices were?
+4 A. Ultimately there were only
+5 three of us on the management team that kept
+6 an office in Hazelwood. It was Hugh O'Neill,
+7 myself and the head of HR. But the head of
+8 HR and Hugh spent the lion's share of their
+9 time in New Jersey commuting every week; less
+10 so for me.
+11 Q. Was the head of HR -- did the
+12 head of HR have responsibility for employees
+13 of SpecGx?
+14 A. The person who was responsible
+15 for HR in generics dark-line reported in to
+16 the head of HR until this announcement on
+17 December 6, 2018. Then she reported --
+18 dark-lined to me and dotted-line in to the
+19 head of HR.
+20 Q. Let me make sure I understand
+21 that.
+22 There was a head of HR for
+23 SpecGx; is that correct?
+24 A. Yes, a dedicated resource that
+25 only worked with generic employees.
+MNKOI 0004574211
+
+1 Q. And there was a head of HR for
+the PLC, correct?
+3 A. Correct.
+4 Q. And the head of HR at SpecGx
+5 reported in to the head of HR at the PLC,
+6 correct?
+7 A. Until December 26, 2018, yes.
+8 Q. Fair enough.
+9 And did SpecGx have to follow
+10 HR policies established by the HR director at
+11 the PLC?
+12 A. They did, but I would say there
+13 were pretty significant differences between
+14 practices in the brands business and
+15 practices in the generics business.
+16 Q. Did those differences have to
+17 be cleared by the head of HR at the PLC?
+18 A. I believe so, yes.
+19 Q. And I just want to make sure
+20 I'm clear. Prior to the spin-off, anyone
+21 other -- and let me just -- for the record,
+22 who was the head of HR for the PLC?
+23 A. Ian Watkins.
+24 Q. You said Watkins?
+25 A. Watkins, W-a-t-k-i-n-s.
+MNKOI 0004574212
+
+1 Q. And did you say also
+2 Mr. O'Neill had an office in Hazelwood?
+3 Correct?
+4 A. I would say the difference was,
+5 I would call his a satellite office because
+6 he was there once a month or so, whereas I
+7 was more in St. Louis than in New Jersey
+8 during this period.
+9 Q. Were there any other employees
+10 of the PLC who had offices in the shared
+11 complex with SpecGx, other than Mr. Watkins,
+12 Mr. O'Neill and you?
+13 A. Yeah. Well, at that time that
+14 was the US headquarters of the company, and
+15 so we had, you know, the lion's share of the
+16 finance department, the treasurer, the
+17 controller, the head of tax, the head of
+18 internal audit. We had some R&D facilities
+19 on that campus. We had regulatory people,
+20 medical affairs. It was -- it was the center
+21 of the universe until the move to New Jersey.
+22 Q. I just want to make sure I'm
+23 clear.
+24 All those areas you just listed
+25 off, were those PLC employees?
+MNKOI 0004574213
+
+1 MR. O'CONNOR: Objection.
+2 THE WITNESS: Well, the
+3 generics employees would have been
+4 Spec Generics LLC, but the other folks
+5 would have been the PLC. They were
+6 corporate.
+7 QUESTIONS BY MR. GREENE:
+8 Q. So tell me who else from
+9 corporate, who else from the PLC, was at the
+10 shared complex with SpecGx?
+11 A. Well, at the time it would have
+12 been the senior management team, and so that
+13 would be HR, legal, finance, CEO, head of
+14 medical affairs, head of R&D, head of
+15 strategy, head of business development.
+16 And then all of that, as I
+17 said, changed largely in 2016.
+18 Q. I just want to make sure I'm
+19 clear.
+20 So you're talking about HR for
+21 the PLC, legal for the PLC, finance for the
+22 PLC, research and development for the PLC and
+23 business development for the PLC were all
+24 housed in Hazelwood, along with SpecGx; is
+25 that correct?
+MNKOI 0004574214
+
+1 MR. O'CONNOR: Objection to
+form.
+3 THE WITNESS: That's why we
+4 called it a shared service compound,
+5 if you will.
+6 QUESTIONS BY MR. GREENE:
+7 Q. And like HR, did the PLC's
+8 legal department set policy for SpecGx?
+9 MR. O'CONNOR: Objection to
+10 form.
+11 THE WITNESS: Similar to HR,
+12 the branded business was very
+13 different than the generics business,
+14 so I would say they did provide an
+15 oversight function and ultimately
+16 probably had -- or did have the final
+17 call. But they had subject matter
+18 experts that worked in generics
+19 full-time because of those nuances.
+20 QUESTIONS BY MR. GREENE:
+21 Q. And did the PLC research and
+22 development department, did it perform
+23 research and development in part on behalf of
+24 SpecGx?
+25 MR. O'CONNOR: Objection to
+MNKOI 0004574215
+
+1 form.
+2 THE WITNESS: The head of R&D
+3 had an oversight capacity, if you
+4 will, over the Spec generics business,
+5 but he never moved to St. Louis.
+6 We had an individual at spin
+7 who was let go; we hired another
+8 individual that didn't work out. But
+9 the person who's the incumbent now,
+10 who has probably been with the company
+11 three or four years at this point, he
+12 resided in New Jersey, and his success
+13 or failure was on the brands business,
+14 ultimately.
+15 For the R&D for generics, it
+16 was housed in Webster Groves,
+17 Missouri, which is where I moved to
+18 when I -- when this announcement went
+19 out.
+20 And the individual who was
+21 running R&D was a personal friend of
+22 mine for 20-plus years, and so we
+23 brought her in. And she owned
+24 everything in generics, but on a piece
+25 of paper she dark-lined in to the head
+MNKOI 0004574216
+
+1 of R&D but materially didn't engage
+2 with him very often.
+3 QUESTIONS BY MR. GREENE:
+4 Q. Let me ask you a more specific
+5 question.
+6 Did the R&D department for the
+7 PLC have and exercise oversight over SpecGx?
+8 MR. O'CONNOR: Objection to
+9 form.
+10 THE WITNESS: On paper, yes.
+11 In reality, very little.
+12 QUESTIONS BY MR. GREENE:
+13 Q. And then business development
+14 for the PLC was also housed in the shared
+15 offices in Hazelwood, correct?
+16 A. Yes, but I would say the
+17 business development, 99 percent of all the
+18 effort in business development, was on the
+19 brand side.
+20 Q. Did business development
+21 exercise oversight over SpecGx?
+22 Strike that. Poor question.
+23 Did the business development
+24 department of the PLC exercise oversight over
+25 SpecGx?
+MNKOI 0004574217
+
+1 MR. O'CONNOR: Objection to
+form.
+3 THE WITNESS: Up until I came
+4 over in December of '18, I'm not sure
+5 we had business development people in
+6 specialty generics. We had just kind
+7 of a corporate function that looked at
+8 all of the acquisition and --
+9 acquisitions. And the leader of that
+10 was a brand guy who had zero interest
+11 in generics.
+12 QUESTIONS BY MR. GREENE:
+13 Q. So -- and let me -- maybe I
+14 asked a bad question.
+15 Was there a business
+16 development area or department for SpecGx?
+17 A. Not until this announcement on
+18 December 6th when I took someone with me.
+19 Q. Was there a business
+20 development department for the PLC?
+21 A. Yes.
+22 Q. And did the business
+23 development department for the PLC perform in
+24 part business development for SpecGx?
+25 MR. O'CONNOR: Objection to
+MNKOI 0004574218
+
+1 form.
+THE WITNESS: Very rarely, if
+ever.
+4 QUESTIONS BY MR. GREENE:
+5 Q. Did the business development
+6 department for the PLC perform at any time
+7 business development functions for SpecGx?
+8 MR. O'CONNOR: Objection to
+9 form.
+10 THE WITNESS: I'm trying to
+11 think what they would have done for
+12 them. I mean, they had to have done
+13 something, so I'd have to say yes, but
+14 that was not the intent.
+15 QUESTIONS BY MR. GREENE:
+16 Q. Would it be accurate to say
+17 that from time to time the business
+18 development department for the PLC performed
+19 business development functions for SpecGx?
+20 MR. O'CONNOR: Objection to
+21 form. Asked and answered.
+22 THE WITNESS: Very rarely, but
+23 I would have to assume from time to
+24 time that they were looking at tuck-in
+25 acquisitions or things like that.
+MNKOI 0004574219
+
+1 QUESTIONS BY MR. GREENE:
+2 Q. Did SpecGx have a sales and
+3 marketing department?
+4 A. Yes.
+5 Q. And did anyone in the sales and
+6 marketing at SpecGx answer to the PLC?
+7 MR. O'CONNOR: Objection to
+8 form.
+9 THE WITNESS: No, not to my
+10 knowledge. They reported in to the
+11 commercial leader that we talked about
+12 earlier.
+13 QUESTIONS BY MR. GREENE:
+14 Q. You're talking about the chief
+15 commercial officer, correct?
+16 A. I'm talking about the president
+17 of specialty generics, the person that, you
+18 know, I had oversight of from time to time
+19 like we discussed earlier.
+20 Q. And so sales and marketing
+21 would report in to the commercial function,
+22 correct? And you had oversight over that
+23 from time to time?
+24 A. Correct.
+25 MR. O'CONNOR: Objection to
+MNKOI 0004574220
+
+1 form.
+2 QUESTIONS BY MR. GREENE:
+3 Q. Okay. And that was true, am I
+4 correct, at least from May of 2015 through
+5 the winter of 2016? Would that be accurate?
+6 A. Yes.
+7 Q. Was that commercial officer
+8 responsible for opioid sales practices?
+9 A. Well, he was -- he would have
+10 worked hand in hand with our legal team, with
+11 our DEA team. He really had miniscule
+12 marketing, per se, since it was really a
+13 business-to-business model. And so, you
+14 know, it did take a village to prosecute the
+15 business from a commercial perspective.
+16 But, yes, he did ultimately
+17 have oversight of what we did from a sales
+18 perspective, less so marketing.
+19 Q. And so the periods of time
+20 where you had oversight, that's one of the
+21 functions you would have had oversight over,
+22 correct?
+23 MR. O'CONNOR: Objection to
+24 form.
+25 THE WITNESS: Theoretically,
+MNKOI 0004574221
+
+1 since he reported to me. But again, I
+2 wasn't a subject matter expert in the
+3 generics world and he was, and so he
+4 knew far more than I ever could about
+5 how to run a generics business.
+6 QUESTIONS BY MR. GREENE:
+7 Q. But you had responsibility and
+8 oversight during that period of May to -- May
+9 of 2015 to winter of 2016, correct?
+10 A. Correct, yes.
+11 MR. O'CONNOR: Objection.
+12 QUESTIONS BY MR. GREENE:
+13 Q. That would include, in part,
+14 whatever volume the sales practices, correct?
+15 A. Yeah, he -- he was driving the
+16 sales.
+17 Q. But you mentioned that other
+18 than sales, this was really a
+19 business-to-business area; is that correct?
+20 A. It was a business-to-business
+21 business, not to be redundant.
+22 Q. Yeah, I was trying not to say
+23 that, but, yeah.
+24 A. Yeah, we -- we sold in to
+25 wholesalers, who in turn broke it down and
+MNKOI 0004574222
+
+1 then sold it in to retailers, so...
+2 Q. And the management and
+3 development of that business was also the
+4 responsibility of that commercial officer,
+5 correct?
+6 A. Yeah, uh-huh.
+7 Q. And you would have exercised
+8 oversight over that for the period of May
+9 to -- May of 2015 through the winter of 2016,
+10 correct?
+11 A. Yeah, I would say oversight. I
+12 wasn't involved in any day-to-day activities.
+13 I wasn't involved on the commercial side
+14 materially, other than the one in customer
+15 engagement. But beyond that, I -- I was
+16 focused on being the CFO.
+17 Q. But you had -- you had
+18 oversight responsibility with those functions
+19 as well for that period, correct?
+20 MR. O'CONNOR: Objection to
+21 form.
+22 THE WITNESS: Well, no. So,
+23 you know, the head of legal had legal.
+24 I just kind of had the commercial side
+25 of it. And the folks that were
+MNKOI 0004574223
+
+1 supporting, if you will, the net sales
+2 line, right?
+3 Because cost of goods sold came
+4 in the P&L, but the oversight of what
+5 cost of goods sold ultimately was was
+6 the head of supply chain.
+7 QUESTIONS BY MR. GREENE:
+8 Q. I may have asked a poor
+9 question.
+10 To the extent -- strike that.
+11 For the period of oversight of
+12 May of 2015 through the winter of 2016, a
+13 part of that oversight extended to aspects of
+14 business-to-business relationships and
+15 development.
+16 Would that be correct?
+17 MR. O'CONNOR: Objection to
+18 form.
+19 THE WITNESS: I would just say
+20 I was kind of the -- what's the best
+21 way to describe this?
+22 We didn't -- we weren't
+23 investing in generics. We weren't
+24 going to invest material money there.
+25 And we had -- we had done 12 billion
+MNKOI 0004574224
+
+1 in acquisitions on the brand side, and
+2 we had some challenges with that.
+3 And so generics was always kind
+4 of on the docket to be divested, and
+5 it happened to be before one that we
+6 were divesting. But it was always
+7 just parked over there and run by
+8 subject matter experts.
+9 So, yes, he reported in to me,
+10 I did his performance review, but, you
+11 know, materially he handled the
+12 customers relationships, he handled,
+13 you know, the details of the business.
+14 QUESTIONS BY MR. GREENE:
+15 Q. You know, I may have asked you
+16 this earlier, and if I did, I apologize, but
+17 I want to go back to something.
+18 The supply chain officer at the
+19 PLC, what was that officer responsible for?
+20 When we say supply chain, what kinds of
+21 things are we talking about?
+22 A. All the components that go into
+23 cost of goods sold. So freight,
+24 manufacturing, quality, you know, DEA
+25 inspections, FDA inspections. Anything
+MNKOI 0004574225
+
+Page 147
+1 associated with the cost of goods sold was in
+2 his purview.
+3 Q. And that would be true across
+4 all of the entities, correct?
+5 A. Yeah. He had a generics team
+6 that were subject matter experts in generics,
+7 and then he had a brands team that was
+8 subject matter experts in brands.
+9 Very different criteria between
+10 those two businesses from a, you know,
+11 government perspective.
+12 Q. But am I correct, the supply
+13 officer for the PLC would set policy for the
+14 entities that they had to follow, correct?
+15 A. Yeah, he was the -- he was the
+16 owner of cost of goods sold in the end.
+17 Q. So we talked about the period
+18 of May 2015 through the winter of 2016, the
+19 year period of oversight, as discussed.
+20 Was there any other period of
+21 oversight for you for the PLC prior to the
+22 spin-off?
+23 MR. O'CONNOR: Objection to
+24 form.
+25 THE WITNESS: Well, the period
+MNKOI 0004574226
+
+1 that I was the interim president we
+2 spoke about earlier, December 2010 to
+3 end of January 2012.
+4 QUESTIONS BY MR. GREENE:
+5 Q. I asked a poor question.
+6 How about after the winter
+7 of 2016, prior to the spin-off?
+8 A. Yeah, it came back to me in May
+9 of 2018.
+10 Q. And in what capacity did it
+11 come back to you in 2018?
+12 A. Same as it was before. I had
+13 just oversight of the commercial leader, so
+14 it was very similar to the '15 to '16 period
+15 we spoke of earlier.
+16 Q. And was that true through the
+17 period of time prior to the spin-off?
+18 A. Well, we never did -- we never
+19 did spin-off generics, right?
+20 So what did change was on
+21 December 6, then all those folks reported in
+22 to me on a dark-line basis. And their dotted
+23 lines, which were like so light you could
+24 barely see them, from the point at which I
+25 took over the business -- because at that
+MNKOI 0004574227
+
+1 point -- I've been involved in a number of
+2 spins, and how I would characterize it is
+3 once you get into spin mode, it's like
+4 raising a 15-year-old teenager. They don't
+5 want to be around you, and you don't want to
+6 be around them.
+7 And so we -- we -- so things
+8 were really fully separated upon this
+9 announcement. This was a big, big deal for
+10 the state for that business.
+11 Q. Okay. Give me one second,
+12 Mr. Harbaugh.
+13 A. Sure.
+14 Q. I'm just going to switch gears
+15 a. little bit.
+16 Did you have a role on the DEA
+17 oversight committee?
+18 MR. O'CONNOR: Objection to
+19 form.
+20 THE WITNESS: Not to my
+21 recollection.
+22 QUESTIONS BY MR. GREENE:
+23 Q. And you know what I refer to if
+24 I say the DEA oversight committee, correct?
+25 A. I believe they had a small
+MNKOI 0004574228
+
+1 team, I believe it was legal, and the folks
+2 that coordinated with the DEA. I don't -- I
+3 don't really know if there was an official
+4 title, if you will, but I knew -- I knew the
+5 folks that were deeply involved in that.
+6 I did know who they were maybe
+7 is a better way to phrase it.
+8 Q. And did you ever have any role
+9 with respect to the DEA oversight committee?
+10 A. No.
+11 Q. As the chief financial officer,
+12 did you have to sign off on strike that.
+13 Let me do that differently.
+14 Do you know what I mean if I
+15 refer to a sales incentive compensation plan?
+16 A. The sales incentive
+17 compensation plans were administered by HR.
+18 Q. But there's an expenditure
+19 function of the sales incentive compensation
+20 plan; isn't that correct?
+21 A. Yes.
+22 Q. And so, for example, when you
+23 were still at Covidien, did you have to sign
+24 off on the expenditures for the sales
+25 incentive compensation plans?
+MNKOI 0004574229
+
+1 A. Not to my recollection.
+2 What I did sign off on would
+3 have been a forecast or a budget or a strat
+4 plan that included an assumption as to how we
+5 were going to compensate the employees.
+6 Q. Within that budget or
+7 compensation plan, did you have to sign off
+8 on the expense related to sales incentive
+9 compensation plans?
+10 A. Not specifically to sales and
+11 compensation. I looked at it in its entirety
+12 as SG&A, you know, selling general
+13 administrative expense, and signed off on it
+14 as it related to the budget or the strat
+15 plan.
+16 And buried in there, one
+17 component was sales incentives, but there was
+18 also consulting and travel and all the other
+19 things that go into running a business.
+20 Q. As you sit here today, you
+21 don't recall individually signing off on the
+22 expenditure for specific sales incentive
+23 compensation plans?
+24 A. Not that I recall. It's been a
+25 long time.
+MNKOI 0004574230
+
+1 Q. Did you -- when you were at
+2 Covidien, did you ever sign off on any
+3 expenditures with respect to key opinion
+4 leaders?
+5 A. Not that I recall.
+6 Q. While you were at Mallinckrodt
+7 PLC, did you ever sign off on any sales
+8 incentive compensation plans?
+9 A. We kept the same process that
+10 was at Covidien as we moved to Mallinckrodt,
+11 where it was part of the budgeting and the
+12 strat plan process. But HR was focused on
+13 the appropriate compensation and benefits and
+14 how to incent the teams, the respective
+15 teams, within the company.
+16 I only looked at it from a high
+17 level. So the head of HR and I would talk
+18 about can we afford a 2 percent merit
+19 increase or a 3 percent merit increase, what
+20 should the 401(k) match be, those types of
+21 things that were, you know, broad brush
+22 across the entire business.
+23 Q. While you were at the PLC, did
+24 you ever sign off on any expenditures related
+25 to key opinion leaders for SpecGx?
+MNKOI 0004574231
+
+1 A. Sign off? I signed off on a
+2 budget that had an assumption in there that
+3 there was going to be some dollars spent on
+4 key opinion leaders. I didn't engage in the
+5 key opinion leader process, nor did I know
+6 any of them materially.
+7 It was -- yes, I signed off on
+8 the budget, I signed off on the strat plan,
+9 which had an assumption in there as to
+10 what -- what the respective team was planning
+11 for for whatever year.
+12 Q. While, you were with the PLC,
+13 did you ever sign off on any marketing for
+14 generic opioids?
+15 A. Not that I can recall, no.
+16 Q. When you were at the PLC, did
+17 you ever sign off on any budgets relating to
+18 a. suspicious order monitoring program?
+19 A. The suspicious order monitoring
+20 program, I believe, was kept in the legal
+21 budget, as was all the DEA expense. So that
+22 was one component of all the legal spend that
+23 we had.
+24 And in the normal annual cycle,
+25 they would come forward with what they wanted
+MNKOI 0004574232
+
+1 to spend, and we would have a discussion
+around that. But it was in -- it was at a
+3 high level. Again, it was looking at SG&A in
+4 total to see what we could afford or not
+5 afford in any given year.
+6 Q. And you said the legal budget.
+7 But ultimately, as the chief financial
+8 officer, is that a budget that you're
+9 responsible for?
+10 MR. O'CONNOR: Objection to
+11 form.
+12 THE WITNESS: In my eyes, the
+13 legal -- the general counsel was given
+14 a. budget, and he administered that
+15 budget upon what was agreed to in the
+16 budgeting process.
+17 QUESTIONS BY MR. GREENE:
+18 Q. Mr. Harbaugh, do you know what
+19 the commercial committee meeting team is?
+20 Does that sound familiar?
+21 A. You know, I don't know if
+22 you're referring to like off-site meetings
+23 that they had or an ongoing meeting, and, you
+24 know, I may have attended one and don't
+25 recall it.
+MNKOI 0004574233
+
+1 But the most important meeting
+2 internally was what we called the QBR, the
+3 quarterly business review. That was where a
+4 lot of work got performed.
+5 Q. Were you ever on the commercial
+6 committee for the PLC?
+7 A. Not that I recall.
+8 Q. Okay. Were you ever on the
+9 commercial committee for SpecGx?
+10 A. Not that I recall.
+11 Q. Did you ever attend any
+12 commercial committee meetings?
+13 A. As I said, I may have from time
+14 to time. I don't really recall. It was a
+15 long time ago. And I may have gone just to
+16 hear what was being said so that I could stay
+17 abreast of what was going on from an investor
+18 relations viewpoint.
+19 Q. Mr. Harbaugh, did you ever
+20 approve any spending for grants to any kind
+21 of pain society?
+22 A. Similar to my answers before,
+23 that would have been in a -- in a budget that
+24 was submitted via probably medical affairs,
+25 if I had to guess, or regulatory affairs. I
+MNKOI 0004574234
+
+1 don't know which. And I didn't get involved
+in that particular decision-making criteria.
+That's what the experts were for.
+4 I was more involved in signing
+5 up for a budget that we thought we could
+6 deliver on for either our parent or in the
+7 public domain. And there were assumptions in
+8 the strat plans around spend in that area as
+9 well.
+10 MR. GREENE: We've been going
+11 close to an hour. I've only got, by
+12 my count, what, about a little over
+13 90 minutes left, correct?
+14 MR. O'CONNOR: Yes, that's
+15 right.
+16 MR. GREENE: Why don't we take
+17 ten now. Then I'm going to switch
+18 gears, and we'll run that through to
+19 three o'clock.
+20 MR. O'CONNOR: All right.
+21 MR. GREENE: All right?
+22 VIDEOGRAPHER: Okay. 11:18, we
+23 are off the video record.
+24 (Off the record at 11:18 a.m.)
+25 VIDEOGRAPHER: 11:34, we are on
+MNKOI 0004574235
+
+1 the video record.
+2 QUESTIONS BY MR. GREENE:
+3 Q. Welcome back, Mr. Harbaugh.
+4 How are you?
+5 A. I'm good, thank you. Hope
+6 you're doing well.
+7 Q. Are you okay to continue?
+8 A. I am, yes.
+9 Q. The first time you assumed some
+10 supervisory responsibilities for SpecGx, had
+11 you had any conversations with anyone at the
+12 PLC about ultimately taking over SpecGx?
+13 MR. O'CONNOR: Objection to
+14 form.
+15 THE WITNESS: There was never
+16 that discussion until the back half of
+17 2018. And the reason is, is that we
+18 were successful in divesting the
+19 contrast media business and the
+20 gableton [phonetic] business and the
+21 nuclear business. And so at the time,
+22 we thought we were going to be
+23 successful in divesting the specialty
+24 generics business.
+25 So it was -- it would not have
+MNKOI 0004574236
+
+1 occurred to me, since I was largely
+2 leading the effort to divest the
+3 business, to have the conversation
+4 around spin.
+5 So when I took over in May of
+6 '18, I knew that the sales process
+7 wasn't going well. In fact -- yeah, I
+8 think it was May of '18 at the board
+9 meeting that we decided that it was
+10 not going to bear fruit.
+11 But the reason the business was
+12 moved over to me was largely related
+13 to legal matters going on at the time,
+14 that it was felt that, you know, I was
+15 better served to help the company on
+16 that.
+17 Mark and I had dinner in New
+18 Jersey, I want to say it was the fall
+19 time frame, and that's when I first
+20 heard any inkling of talk around the
+21 board contemplating a spin.
+22 QUESTIONS BY MR. GREENE:
+23 Q. And I'm sorry, the one thing I
+24 lost in what you just said is when did you
+25 have dinner with Mr. Trudeau?
+MNKOI 0004574237
+
+1 A. I don't know exactly, but I
+2 want to say, you know, September or -- I
+3 don't really know. September, October.
+4 I think the reason it came up
+5 was --
+6 Q. Was that September of -- I'm
+7 sorry. Was that September or October
+8 of 2018?
+9 A. Yeah.
+10 Q. Okay.
+11 A. Yeah.
+12 And the decision, I don't
+13 think, had been taken -- I don't know,
+14 because I wasn't in the room. But Mark asked
+15 me if you -- if we go down this path, how
+16 should I think about your interest in this.
+17 When it got approved by the
+18 board, I have -- I don't know. I wasn't in
+19 the room.
+20 But he wanted to know whether
+21 this was something I was interested in so
+22 that if they were going to go down that path
+23 they would, you know, have to initiate a
+24 search and blah-blah-blah.
+25 Q. And so let me dig into that a
+MNKOI 0004574238
+
+1 little bit.
+So it's May of 2018 that you
+3 become aware that the sale prospects for
+4 SpecGx are not what the PLC had hoped they
+5 would be; is that accurate?
+6 A. Yes.
+7 Q. Okay. And was it your
+8 understanding at that time that the PLC was
+9 contemplating a change in its strategy and it
+10 would spin off SpecGx?
+11 A. No, I think any of those
+12 discussions were handled in executive
+13 session, where I was not there. The
+14 Mallinckrodt board has a lot of private time
+15 where those types of conversations occurred,
+16 and that would have been Mark and the board
+17 and no other members of the management team.
+18 Q. So all you knew in May of 2018
+19 was that sales prospects for SpecGx were not
+20 what the PLC hoped it would be. But beyond
+21 that, you didn't have any knowledge; is that
+22 accurate?
+23 A. Well, there may be slides that
+24 say, what are the other alternatives that an
+25 investment banker presented, and on there was
+MNKOI 0004574239
+
+1 spin. But, no, I didn't -- I didn't --
+2 honestly, I didn't think they were going to
+3 go down the spin path considering everything
+4 that we had going on at the time.
+5 Q. And is the first time that you
+6 had any understanding that the path might be
+7 spinning off SpecGx was when you had dinner
+8 with Mr. Trudeau in September or October
+9 of 2018?
+10 A. Yes.
+11 Q. And what did you talk about at
+12 that dinner in 2018?
+13 A. He just said, hey, if the board
+14 decides to go down the path of the spin-off,
+15 he -- he knows -- he knows my personal
+16 situation. And at the time, it was difficult
+17 to leave St. Louis. And he knew that that
+18 was important to me and my family, and so
+19 this was a way -- because he was getting
+20 annoyed, rightly so, that I was giving him a
+21 Heisman on moving out to Bedminster, New
+22 Jersey, to be there day in and day out. And
+23 I felt that he needed to have his CFO near
+24 him day in and day out.
+25 Q. And you mentioned legal
+MNKOI 0004574240
+
+1 matters.
+What legal matters were at
+3 issue in this process?
+4 A. We were issued a letter from
+5 the House and Energy Committee of Congress
+6 that there was going to -- and Andrew, you
+7 know more about this than me, but there was
+8 going to be potentially a request for --
+9 senior management across a number of
+10 pharmaceutical companies would be asked to
+11 come forward to testify.
+12 And our counsel thought that it
+13 was a --
+14 MR. O'CONNOR: Mr. Harbaugh,
+15 I'm going to remind the witness,
+16 please do not reveal any
+17 conversations, the content of
+18 communications, with counsel.
+19 THE WITNESS: Yeah.
+20 MR. O'CONNOR: I think you've
+21 answered Mr. Greene's question.
+22 QUESTIONS BY MR. GREENE:
+23 Q. And I don't want to get into
+24 conversations you had with your counsel. I
+25 just want to know what the thought process
+MNKOI 0004574241
+
+1 was at Mallinckrodt PLC or at SpecGx to the
+extent that you know.
+3 A. To be blunt, Dr. Scholz, the
+4 guy that was running the business, has a very
+5 thick accent and did not have a strong
+6 background in communications and largely in
+7 the pharmaceutical industry, and it was felt
+8 that perhaps I would do a better job if we
+9 were called upon to do that.
+10 Q. At the time that you had dinner
+11 with Mr. Harbaugh [sic] in September or
+12 October of 2018, was there any discussion at
+13 that point that SpecGx might file for
+14 bankruptcy?
+15 MR. O'CONNOR: Objection to
+16 form.
+17 And, again, remind the witness
+18 not to reveal any privileged
+19 attorney-client communications.
+20 QUESTIONS BY MR. GREENE:
+21 Q. Absolutely. I don't want to
+22 know anything that either of you discussed
+23 with counsel. I just want to know what you
+24 may have discussed with each other.
+25 A. And it was Mark Trudeau and I
+MNKOI 0004574242
+
+1 that had dinner, just for the record to be
+clear.
+3 Q. Oh, what did I -- did I --
+4 A. That's okay. It's okay. We've
+5 been going a long time here.
+6 No, that was not part of our
+7 discussion.
+8 Q. Okay. Is there some point in
+9 which there was a discussion about -- again,
+10 not with your counsel. But is there some
+11 point at which there was a discussion about
+12 SpecGx filing for bankruptcy?
+13 A. Not with me. As I mentioned
+14 earlier, on December 6th when I went to the
+15 Spec generics business full-time, I largely
+16 ceased almost all communication with Mark and
+17 the management team. So, you know, I wasn't
+18 attending his regular staff meetings.
+19 I went to one, which was more
+20 because we were celebrating the holidays, but
+21 beyond that, I was not a party to those
+22 conversations. I didn't know what their
+23 intentions were until Mark was in St. Louis a
+24 day or two before the earnings call in early
+25 August, and we didn't talk about bankruptcy.
+MNKOI 0004574243
+
+1 What we talked about was that
+2 they were going to announce on the earnings
+3 call and in a -- what was the word they used?
+4 They were -- there was a word before
+5 postponing. But they were going to postpone
+6 the spin for a nondefined period, and he did
+7 that -- actually, no, that was a phone call.
+8 That was a phone call.
+9 He wanted me to know before it
+10 went public because he knew that I was going
+11 to have to manage what was going to happen
+12 with all of our employees, because this was a
+13 huge punch in the gut to the team and very
+14 demoralizing. And so he wanted to give me
+15 fair warning so that I could mentally get
+16 myself prepared to walk into the office the
+17 day that that announcement went out and deal
+18 with the repercussions of that announcement.
+19 Later, we had a discussion
+20 around my -- whether there was any role for
+21 me within the company, and ultimately it was
+22 determined that there wasn't a role. And I
+23 was severed about a month after that earnings
+24 call, plus or minus.
+25 Q. And can you just give me the
+MNKOI 0004574244
+
+1 time frame there? At what point was the
+2 phone call for Mr. Trudeau prior to the
+3 earnings call? Roughly when was that?
+4 A. I think the earnings call was
+5 like August 3rd, so it would have been a day
+6 or two before that.
+7 Q. So that would be August 3rd of
+8 2019, correct?
+9 A. Correct, yeah.
+10 Yeah, they announced --
+11 whenever that earnings call day was, that's
+12 when they announced the postponement. I
+13 think it was indefinite postponement, was the
+14 word they used, of the spin.
+15 Q. And up until that point, was it
+16 your understanding that the intent was still
+17 to spin off SpecGx and you were going to be
+18 the CEO of that entity?
+19 A. Man, I was so flatfooted, I
+20 hadn't even put my risumi together. I was
+21 all in, getting the business ready to be
+22 spun. I, you know, had hired -- the team and
+23 I had hired about 50 people, and, you know,
+24 we were ready to go.
+25 In fact, in mid-May, I called
+MNKOI 0004574245
+
+1 Mark -- or we were on a call, and I said,
+2 "You know, we can go by the end of June.
+3 We've got what we need hired."
+4 And he said, "No, we don't have
+5 enough time to negotiate the transition
+6 service agreements." He said, "You should
+7 plan for end of September."
+8 So I was -- I was all in up
+9 until that call before the earnings call.
+10 And again, the problem was that
+11 at the time, I couldn't fathom moving to New
+12 Jersey because of my son's situation. So,
+13 you know, it was not a negative transition.
+14 It was, we don't have a role at the PLC for
+15 you, and, you know, we need our team in New
+16 Jersey.
+17 Q. Let me go back to a topic we
+18 discussed earlier.
+19 Who had responsibility at the
+20 PLC for ensuring that there was compliance
+21 with DEA regulations at the PLC's various
+22 entities?
+23 MR. O'CONNOR: Objection to
+24 form.
+25 THE WITNESS: I think in the
+MNKOI 0004574246
+
+1 end, the general counsel had the
+2 ultimate authority because the folks
+3 that worked on DEA matters reported in
+4 to -- to an individual who reported in
+5 to the general counsel at the PLC.
+6 That person was actually going
+7 to go with me in the spin, but because
+8 of some of the opioid matters that
+9 were going on, you know, he -- he was
+10 very engaged with his PLC boss, even
+11 when we were getting ready for spin.
+12 QUESTIONS BY MR. GREENE:
+13 Q. And who was that? Who was the
+14 general counsel?
+15 A. Well, the general counsel for
+16 the PLC was Mark Casey. The person I'm
+17 referring to is Don Lohman.
+18 Q. And did Mr. Lohman have
+19 oversight for DEA compliance at the various
+20 entities under the PLC?
+21 MR. O'CONNOR: Objection to
+22 form.
+23 THE WITNESS: Yeah, I believe
+24 he did. I mean, he was the one that
+25 was in the know for many, many years
+MNKOI 0004574247
+
+1 as to everything going on with the
+DEA.
+3 And I really didn't, if you
+4 will, get close with Don until, you
+5 know, he elected to come over with me
+6 and get ready for the spin.
+7 We knew each other, we had been
+8 in meetings, but, you know, we weren't
+9 overly close prior to that. Great
+10 guy, though.
+11 QUESTIONS BY MR. GREENE:
+12 Q. So let me -- let me go back.
+13 In September or October you
+14 have this dinner, and then in August there's
+15 the earnings call and you find out that
+16 there's going to be a filing; is that
+17 accurate?
+18 A. No, I didn't know about any
+19 filing in August. I knew the spin was
+20 indefinitely postponed.
+21 Q. Okay.
+22 A. Now, could there have been
+23 media out there speculating about something?
+24 Maybe, I don't know. But, you know, that
+25 wasn't -- that wasn't my focus at the time.
+MNKOI 0004574248
+
+1 My focus was, holy crap, I may
+2 be out of a job here in a month.
+3 Q. Mr. Harbaugh, what is the first
+4 time you became aware that a Mallinckrodt
+5 entity, whether it was the PLC, the LLC or
+6 SpecGx, when is the first time you became
+7 aware that any of those entities had been
+8 sued by any state in an opioid lawsuit?
+9 A. Hmm. That is a good question.
+10 I wish Don was here because
+11 he's got the memory on this.
+12 I want to say that the lawsuits
+13 started definitely in maybe late 2017, going
+14 into 2018, something like that. It's in our
+15 public disclosures, I know, because I
+16 remember reading it, one Q and K after the
+17 other.
+18 But I believe it was kind of
+19 late in '17 that it kind of started, and then
+20 obviously it crescendoed in late '18 into
+21 2019.
+22 Q. At the dinner that you had with
+23 Mr. Harbaugh -- excuse me -- with Mr. Trudeau
+24 in September or October of 2018, did you have
+25 any discussion with him about the impact of
+MNKOI 0004574249
+
+1 the lawsuits on the PLC and SpecGx and the
+plan for SpecGx?
+3 A. He just said, you know, you
+4 know, what -- if you're -- if these
+5 liabilities are going with the business,
+6 because they're solely associated with the
+7 business, you know, do you -- do you feel
+8 comfortable that you can navigate that. And
+9 obviously we also talked about the
+10 congressional issue that I mentioned earlier.
+11 And I basically said, you know,
+12 I believe it's in everyone's best interests
+13 that if Don Lohman would be interested in
+14 going with me -- and obviously we can't talk
+15 to him until we put this in the public
+16 domain. But if Don would become my general
+17 counsel, that would be one -- one request I
+18 would think you would support.
+19 In the end, of the 50 people
+20 that we hired for the spin, less than a
+21 handful came from the parent. We ended up
+22 having to hire everyone externally. So there
+23 wasn't a lot of cross -- people moving
+24 across.
+25 And Don had spent the lion's
+MNKOI 0004574250
+
+1 share of his career working on the generic
+2 issues, not so much the brand issues, so it
+3 was a natural segue.
+4 But beyond that, you know, the
+5 conversation was more around family, career,
+6 need for the location at the time and that
+7 kind of thing.
+8 Q. Do you know whether -- first,
+9 prior to that, do you know whether there was
+10 any discussion, first at the PLC, for filing
+11 any kind of insurance claim with respect to
+12 any opioid liabilities?
+13 A. I believe we were in a board
+14 meeting in late '18 -- no. Sometime in 2018,
+15 John Einwalter, who we talked about earlier,
+16 the treasurer, was asked the question from
+17 the PLC board as to whether insurance was
+18 available to cover some of the liability.
+19 Q. Do you recall what the
+20 conclusion was at that meeting or by the
+21 board or what the consensus was?
+22 MR. O'CONNOR: I'll object and
+23 instruct the witness: You can answer
+24 his question, but you cannot reveal
+25 any legal opinion that might have been
+MNKOI 0004574251
+
+1 communicated through Mr. Einwalter.
+2 QUESTIONS BY MR. GREENE:
+3 Q. Absolutely. I don't want to
+4 know any conversations you've had with any
+5 counsel. I just want to know your
+6 understanding of whether there was insurance
+7 available for any opioid claims.
+8 A. Very little was available,
+9 obviously depending on the scale of whatever
+10 settlement there would be. But that's all I
+11 recall of that discussion.
+12 Q. Is that a question, the
+13 question of insurance available for
+14 liabilities, is that something that would be
+15 part of your responsibilities as a CFO?
+16 A. Yes. The annual insurance
+17 cycle that Mallinckrodt goes through is in
+18 February. It's led by John Einwalter. He
+19 talks with the brokers and all the people
+20 involved. But he does come forward annually
+21 to go through the decisions.
+22 And then typically what we
+23 would do is once we had a plan of attack, for
+24 lack of a better term, we would present that
+25 in May to the audit committee because we
+MNKOI 0004574252
+
+1 would renew in June.
+2 Q. And based on that, what's your
+3 understanding of insurance available to the
+4 PLC or any of its entities for any
+5 opioid-related liabilities?
+6 A. One, I think very little, as I
+7 said earlier, would be available. And two,
+8 my personal opinion, not expressed, but my
+9 personal opinion was, it's going to be very
+10 difficult. I felt the insurance companies
+11 likely would push back and that this would
+12 take years to try and find a resolution to.
+13 Q. And when you say "very little,"
+14 what's your understanding of what very little
+15 means?
+16 A. You know, I don't have a number
+17 in mind. I don't remember the number that
+18 was quoted, but I remember thinking, well,
+19 this is -- this isn't going to cover much.
+20 And, you know, I was -- I was
+21 immediately thinking about our debt capital
+22 structure and, you know, how -- how in the
+23 world we would navigate this from an economic
+24 viewpoint at the PLC level. Because at that
+25 time, obviously, I was all in as the CFO.
+MNKOI 0004574253
+
+1 John probably knows it. I
+2 don't. I don't recall the number.
+3 Q. Was that coverage -- was that
+4 coverage for the PLC and all of its entities,
+5 or were there any separate policies for the
+6 entities?
+7 MR. O'CONNOR: Objection to
+8 form.
+9 QUESTIONS BY MR. GREENE:
+10 Q. I asked a poor question. Let
+11 me ask that differently.
+12 Is it your understanding that
+13 any insurance coverage available, regardless
+14 of how minimal, would have covered both the
+15 PLC, SpecGx and the LLC?
+16 A. That's a complicated question,
+17 actually.
+18 My recollection is, is that the
+19 historical frame insurance that we procured
+20 was -- was Mallinckrodt PLC. But as the
+21 opioid litigation grew, the insurance
+22 companies basically got to the point where
+23 they said, this is completely uninsurable,
+24 and I believe were carving that out and
+25 basically saying, we're not going to insure
+MNKOI 0004574254
+
+1 that.
+And so what little insurance
+3 there is would be from a legacy policy before
+4 the insurance companies took that viewpoint.
+5 Q. Mr. Harbaugh, are you familiar
+6 with something known as Project Georgetown?
+7 A. Yes.
+8 Q. What was Project Georgetown?
+9 A. Georgetown was the divestiture
+10 process of specialty generics.
+11 Q. In that process, was there any
+12 discussion with potential buyers of the
+13 opioid litigation liabilities of either
+14 SpecGx or the PLC?
+15 A. Not initially in the Georgetown
+16 process, but it certainly became an issue in
+17 2018 by that May time frame.
+18 Q. Were there any offers to
+19 purchase the generics business as part of
+20 Project Georgetown?
+21 A. Yes, we did receive some
+22 indications of interest. I don't know if I
+23 would go as far as to say a serious offer.
+24 You know, we basically said you need to put
+25 in a bid, and then we'll tell you whether
+MNKOI 0004574255
+
+1 we'll let you do due diligence on it.
+2 And that's because a lot of the
+3 people that expressed interest -- not a lot,
+4 a. few, a handful -- were strategics in the
+5 space, and so we didn't want to open up the
+6 kimono, so to speak, and let them see
+7 potential information and not know where it
+8 was going to go.
+9 And there were media leaks
+10 during that period as well that we were
+11 navigating.
+12 Q. You said that you wouldn't go
+13 so far as to say that they were offers, so
+14 let me -- I want to make sure we're using the
+15 right terms.
+16 Was there anybody that put a
+17 bid in?
+18 A. Well, it's a fine line. I
+19 would say they gave us an indication of
+20 interest, and they said, you know, what
+21 little we do know from the management pitch
+22 book that you guys have provided -- and I was
+23 in a lot of those meetings. You know,
+24 based -- if everything in this document is
+25 real and, you know, the best that you know
+MNKOI 0004574256
+
+1 about the business, we would be looking to
+2 give you an indication of interest of X
+3 amount of dollars.
+4 And so we never got so far down
+5 the path of even getting anywhere near
+6 negotiating anything. It was just on a very
+7 preliminary base.
+8 We took whatever those bids
+9 were forward to the board and walked them
+10 through it, and then in executive session,
+11 they decided whether they wanted to move
+12 forward or not.
+13 Q. And let me ask you first: Was
+14 any of that in writing? Were there any
+15 offers of interest in writing?
+16 A. I don't recall a letter. What
+17 I recall is our investment banker calling me
+18 and saying, "They're thinking in this range."
+19 They may have issued us a letter, and I don't
+20 remember it.
+21 We actually -- part of
+22 Georgetown was we put the generics business
+23 in discontinued operations from an accounting
+24 perspective for that year, and we spent that
+25 entire year in earnest trying to divest the
+MNKOI 0004574257
+
+1 business. And so, you know, there may have
+2 been a letter along the way because we talked
+3 to so many different parties.
+4 Q. Let me see if I can unpack that
+5 a. little bit.
+6 First of all, to the best of
+7 your recollection, was there a letter or not,
+8 or do you just not know?
+9 A. I just don't remember.
+10 Q. Do you recall what company or
+11 companies you were talking to?
+12 A. Yes, I do.
+13 Q. Who was that?
+14 A. We were talking with Aurobindo.
+15 We talked with Platinum Equity. We talked
+16 with -- there's another Indian firm that's
+17 slipping my mind. It's out there on the web
+18 because that was one that we had a leak on.
+19 What was the name of that
+20 company? It's a large, generic, Indian firm.
+21 We had discussions with other
+22 private equity firms, but they didn't seem to
+23 go very far.
+24 So that would be some of the
+25 names that come to mind.
+MNKOI 0004574258
+
+1 Q. And did Mallinckrodt break off
+any of those discussions, or did the various
+3 equity firms who were interested break off
+4 those discussions?
+5 A. Well, I think it was mutual.
+6 If they didn't get to a -- to a deal
+7 consideration that was of interest to the
+8 Mallinckrodt PLC board, you know, I would
+9 call them or our investment banker would call
+10 them and say, you know, you need to sweeten
+11 your offer. Let us know if you're interested
+12 in doing that.
+13 And typically that led to, you
+14 know, no other discussion thereafter.
+15 Q. And did any of that --
+16 MR. O'CONNOR: Excuse me. You
+17 seem to be venturing quite a bit from
+18 anything that might be relevant to the
+19 question of personal jurisdiction
+20 here.
+21 So is this going to get back to
+22 something that's relevant to the issue
+23 at hand?
+24 MR. GREENE: Well, you know,
+25 there was no -- there's no limitation
+MNKOI 0004574259
+
+1 on this deposition. It wasn't just
+2 specifically the personal jurisdiction
+3 deposition. I mean, that's part of
+4 it, but --
+5 MR. 0'C0NN0R: I think we would
+6 disagree. We've been pretty
+7 permissive here on that score, but we
+8 seem to be going just way down a
+9 different track here. It's not
+10 relative to the jurisdictional issues.
+11 It's not relevant to the claims at
+12 issue. It seems like we're exploring
+13 some other case entirely at this
+14 point.
+15 MR. GREENE: Well, I completely
+16 disagree. I think it's relevant,
+17 completely relevant, to the claims at
+18 issue, and it's relevant to the PLC's
+19 thinking.
+20 And again, there was no
+21 limitation on this deposition. So
+22 I've got a handful of questions
+23 remaining on the topic; I'm going to
+24 go through them. So --
+25 MR. O'CONNOR: Just note our
+MNKOI 0004574260
+
+1 objection. Thank you.
+2 MR. GREENE: That's fine.
+3 Yeah, I understand.
+4 QUESTIONS BY MR. GREENE:
+5 Q. So Mr. Harbaugh -- now I forgot
+6 what my question was. That was a very
+7 effective strategy.
+8 Mr. Harbaugh, did you have any
+9 discussions with any of these potential, we
+10 call them suitors, about the opioid
+11 liabilities of either the PLC or SpecGx?
+12 A. The only conversations we had
+13 were how we thought about the litigation and,
+14 you know, what the risk was around it. And,
+15 you know, some of the indications of interest
+16 that came in, you know, it would be, here is
+17 the value.
+18 But, you know, we can't get our
+19 arms around the litigation, so, you know, the
+20 indication of interest excludes the
+21 liabilities until we understand it further.
+22 So, you know, it's the typical
+23 discovery process where if you're not even
+24 going to get in the ballpark financially of
+25 what the board thinks is reasonable value for
+MNKOI 0004574261
+
+Page 183
+1 the business, then there's no reason to share
+2 all that information further.
+3 Q. But I just got -- let me just
+4 follow up on that.
+5 Then would you say in your
+6 opinion, given the positions that you've had
+7 as the CFO at Mallinckrodt PLC and the
+8 position you took at SpecGx, is it your
+9 opinion that the inability to sell SpecGx was
+10 because of the potential opioid litigation
+11 liabilities?
+12 A. That was certainly a part of
+13 it.
+14 Q. I'm trying to be efficient and
+15 take the time.
+16 Do you recall there being a
+17 Project Georgetown presentation?
+18 A. To whom?
+19 Q. So let me just see if we can
+20 pull that up. It would be Tab 68 in your
+21 box.
+22 A. Yep.
+23 MR. O'CONNOR: So did you say
+24 78? 7-8?
+25 MR. GREENE: 68 I'm sorry,
+MNKOI 0004574262
+
+1 Andrew. 68.
+2 MR. O'CONNOR: Thank you.
+3 THE WITNESS: Let me see if I
+4 can find it.
+5 Oh, is it a PowerPoint?
+6 QUESTIONS BY MR. GREENE:
+7 Q. It is. I should have said
+8 that. I was sitting here thinking that in my
+9 head, and I didn't say it out loud. Yes,
+10 it's a PowerPoint.
+11 So, Mr. Harbaugh, just take a
+12 second, or have you taken a second to take a
+13 look at that PowerPoint?
+14 A. I remember it.
+15 Q. Great.
+16 Why don't go ahead and mark
+17 that as Exhibit 2.
+18 (Harbaugh Exhibit 2 marked for
+19 identification.)
+20 QUESTIONS BY MR. GREENE:
+21 Q. Mr. Harbaugh, first, do you
+22 know who drafted this PowerPoint?
+23 A. To my knowledge, I was involved
+24 in it, Credit Suisse, Punit Mehta, who you
+25 see here. And Jason Truman, Naeem, they
+MNKOI 0004574263
+
+1 worked with it. We also used a consultant
+2 from Eli to help us put together. And then
+3 the folks on page 3 were also involved as
+4 well.
+5 Q. And is this a presentation that
+6 you made to the potential suitors to buy
+7 SpecGx?
+8 A. Yeah, there were -- there were
+9 a. few -- obviously, as we had conversations
+10 with others, there may have been other decks
+11 that were updating information that people
+12 had asked us about, but this is the core
+13 deck.
+14 And, yes, I was involved in
+15 some of the presentations to potential
+16 suitors. We had -- I think it was Aurobindo,
+17 or it's the one I can't remember in India,
+18 but we had two or three meetings in St. Louis
+19 where they came in town, and since I was in
+20 town and since I was the CFO, we thought it
+21 was in the company's best interests for me to
+22 be on hand.
+23 So I was in the room for some
+24 of them. I don't know if my picture ever
+25 made it into the deck, but for a fair bit of
+MNKOI 0004574264
+
+1 them I was there.
+2 Q. Other than Aurobindo, are there
+3 any other suitors that you were present and
+4 gave either all or part of this presentation?
+5 A. Yeah, I remember vividly
+6 presenting in Beverly Hills to Platinum
+7 Equity. That was Rick Hoyt, who you see here
+8 on page 3, and myself and Martha Schlicher.
+9 So that -- I was in the room for Aurobindo.
+10 I'll have to look up the name
+11 of the other Indian firm. This getting old
+12 sucks. But I'll have to -- I can pull it up
+13 if need be.
+14 So I probably was in a handful
+15 of the presentations. There were others that
+16 others went and did. So...
+17 Q. Can you look at --
+18 A. I had met the owner of
+19 Aurobindo before, so I -- since he was making
+20 the trip all the way, we felt that I should
+21 be there as well, just because of that
+22 background.
+23 Q. Could you -- and let me just
+24 back up.
+25 Other than Aurobindo, any other
+MNKOI 0004574265
+
+Page 187
+1 companies that you gave this presentation to?
+2 A. There were other companies. I
+3 don't remember who they were. I think the
+4 Platinum Equity and the Aurobindo really do
+5 stand out because they were the ones that
+6 were farther along in their interest versus a
+7 lot of the other firms that I've forgotten at
+8 this point because it was, you know, not a
+9 lot of interest.
+10 Q. And do you believe that you
+11 gave this presentation to other suitors, but
+12 you just don't recall which ones at this
+13 time?
+14 A. That's correct. You know, my
+15 mind is a sea because there's so many private
+16 equity firms out there. And I do a lot with
+17 my current role with private equity, so it's
+18 all kind of jumbled in my head as to who we
+19 did our outreach to.
+20 Q. Could you take a look at
+21 page -- what would be on the PowerPoint
+22 page 6, there's a little 6 in the bottom.
+23 Do you see that the first
+24 bullet point says, "The company's gross
+25 strategy is to build a leading specialty
+MNKOI 0004574266
+
+1 brands portfolio"?
+2 A. Yes. Yeah, that was the
+3 strategy.
+4 Q. Okay. Was that -- was that
+5 accurate to the best of your belief at the
+6 time?
+7 A. That is accurate going back to
+8 2013.
+9 Q. And let me back up. I didn't
+10 ask you, and I should.
+11 How did this get the name
+12 Project Georgetown? Where does the name
+13 Georgetown come from?
+14 A. I have no idea. BD&L group
+15 probably came up with it. Every time I came
+16 up with a name it gets shut down, so I've
+17 given up.
+18 Q. Did you see that there's a
+19 comparison of fiscal year 2013 to fiscal year
+20 2016 revenues? Do you see that?
+21 A. Yeah.
+22 Q. Was that accurate at the time?
+23 A. Yes.
+24 Q. And at the bottom of the first
+25 footnote -- footnote. Excuse me. The first
+MNKOI 0004574267
+
+1 bullet point at the bottom, "Georgetown's
+2 consistent cash flows have helped fund this
+3 transformation."
+4 Was that accurate at the time?
+5 A. Yes.
+6 Q. And at the bottom here it says,
+7 "Given ongoing sector consolidation and
+8 inbound interest, the company is exploring
+9 strategic alternatives for Georgetown."
+10 Did I read that correctly?
+11 A. Yes.
+12 Q. Was that accurate at the time?
+13 A. Boy, was it ever. Yes.
+14 Q. Could you take a look at
+15 talk about getting old, I think I need some
+16 glasses.
+17 Could you take a look at
+18 page 53 for me?
+19 That's entitled "Basis of
+20 Presentation," correct?
+21 A. Yes.
+22 Q. And then there are a series of
+23 three bullet points. The deal perimeter of
+24 products including Georgetown includes, and
+25 the deal perimeter for facilities, and the
+MNKOI 0004574268
+
+1 deal perimeter -- strike that.
+2 The basis of preparation for
+3 the deal, basis financial statements will
+4 include only.
+5 Without going through all
+6 those, is this list an accurate
+7 representation of what was included in the
+8 sale proposal of Project Georgetown?
+9 MR. O'CONNOR: Objection to
+10 form.
+11 THE WITNESS: It was -- yes,
+12 this was in the deal perimeter at the
+13 time. It did change for some time as
+14 it related to the spin, but this
+15 was -- this was the intent at the
+16 time.
+17 QUESTIONS BY MR. GREENE:
+18 Q. You said it changed at some
+19 point.
+20 As you sit there today, do you
+21 know in what way it changed?
+22 A. Well, the reason I brought that
+23 up is, I thought what you were going to do
+24 was bring up the document from before, from
+25 December 6th, and in that document it says
+MNKOI 0004574269
+
+1 that we were going to include the product
+Amitiza in the spun company. And you don't
+3 see Amitiza in the Georgetown materials
+4 because we didn't own Amitiza at that point.
+5 Q. Well, I wanted to talk to you
+6 about Amitiza.
+7 What was Amitiza?
+8 A. It was a -- it is, I should
+9 say, a gastroenterology product, and it's
+10 sold in the United States and Japan. And we
+11 acquired that in -- we announced over the
+12 holidays in December of '18.
+13 Q. And were there -- do you know
+14 whether there was subsequent versions of this
+15 slide deck that included Amitiza?
+16 A. No, because Georgetown, you
+17 know, didn't -- didn't bear fruit, as we
+18 talked about earlier, from the May 2018
+19 period. And then, you know, things went dark
+20 from there. And then I had the discussion
+21 with Mark that we talked about earlier.
+22 Then on December 6th we
+23 announced the plans. This plan was -- I knew
+24 that Amitiza was going to be put into
+25 generics because Mark and I had talked about
+MNKOI 0004574270
+
+1 it. But the first time anyone ever would
+2 have associated Amitiza with the specialty
+3 generics was in this announcement on
+4 December 6, 2018.
+5 Q. Okay. And so to put it simply,
+6 if I can, Amitiza was acquired, essentially,
+7 after Project Georgetown had been given up
+8 on, if you pardon my poor grammar?
+9 A. Well, it was petering out, I
+10 would say, because we announced in December,
+11 I think we closed in like February, and then
+12 May we -- we kind of had the Georgetown
+13 process kind of come to a close. So they
+14 were kind of overlapping with one another.
+15 Q. I want to talk a little bit
+16 about when you when you left.
+17 Tell me -- tell me why you
+18 left.
+19 A. So I -- Mark has a different
+20 recollection of the discussion than I have,
+21 so I'll tell you my side of it.
+22 I -- when he told me that the
+23 spin was indefinitely postponed, he said,
+24 "How should I think about you in the
+25 company?"
+MNKOI 0004574271
+
+1 And I said -- I told his CFO --
+so George Kegler took over, but George
+ultimately retired shortly thereafter, so
+4 they had a search going for a CFO
+5 concurrently when I was looking for my CFO to
+6 take the company public.
+7 And I -- one of the questions I
+8 was asked by the current CFO of Mallinckrodt
+9 was, if anything were to happen with your
+10 spin, are you going to want to come back to
+11 the CFO seat?
+12 And I assured him that that was
+13 not the case. So I'm a man of my word, and
+14 so that was off the table.
+15 But I did say to Mark, you
+16 know, I have an open mind. If you need
+17 someone to lead corporate strategy and
+18 business development, I could do that for the
+19 company.
+20 And I kind of put it back on
+21 him, and I said, if there's any other role
+22 that you think I could serve the company
+23 well, I'll be open to it, but for personal
+24 reasons I cannot move to New Jersey. I can
+25 travel there every single week of the year.
+MNKOI 0004574272
+
+1 I'll get an apartment. I'll show that
+commitment, but I cannot move my family.
+And nothing was really said for
+4 about a month. And I -- I was in New York
+5 the Thursday before the announcement went out
+6 around my departure. Mark and I had dinner.
+7 His recollection was that I basically said I
+8 wanted out, which is not my recollection.
+9 But either way, you know, we -- we parted
+10 company on good terms.
+11 Q. Did you sign a confidentiality
+12 agreement at the time that you left?
+13 A. Yes, I had that in my
+14 separation agreement.
+15 Q. And without breaching
+16 confidentiality, do you know what the terms
+17 are of that agreement that you're not
+18 prohibited from discussing?
+19 A. I don't remember specifically
+20 what it was. I would not do that to any of
+21 my former employers.
+22 I -- as the CFO, I like to say
+23 that 90 percent of everything that I'm told
+24 stays with me. It's just the nature of the
+25 role.
+MNKOI 0004574273
+
+1 Q. And did you sign a noncompete
+agreement when you left?
+3 A. I did.
+4 Q. And I don't want to dig into it
+5 too deeply, but was there a geographic scope,
+6 a. temporal scope or both?
+7 A. I think it was only one year,
+8 and frankly it didn't matter to me. I was
+9 more than happy to sign it because I
+10 proactively decided I wanted to get out of
+11 pharma and I wanted to go into medical
+12 devices. So it was kind of a moot point.
+13 So, frankly, I didn't -- my
+14 attorney spent the time on the verbiage, I
+15 didn't, because it didn't matter to me.
+16 Q. Do you still own any stock in
+17 Mallinckrodt?
+18 A. I do. Less than 100,000
+19 shares.
+20 Q. That's a big "less."
+21 Can you give me an estimate?
+22 A. I can put a finer point on it.
+23 Q. Okay. Great.
+24 A. I think it's probably around
+25 87,000 shares. I don't know the exact
+MNKOI 0004574274
+
+1 number, but it's in that ballpark.
+2 Q. And is that --
+3 It doesn't matter to me at 89"
+4 a. share.
+5 Q. Is that 87,000 shares, is
+6 that -- that's in the PLC, correct?
+7 A. Yes.
+8 Q. Do you own, as you sit there
+9 today, any aspect of any other Mallinckrodt
+10 entity?
+11 A. No.
+12 Q. Do you have any other financial
+13 interests in Mallinckrodt or any
+14 Mallinckrodt-related entity?
+15 A. No. Completely clean break.
+16 Q. Do you -- understand I just
+17 said that. I'm going to ask you anyway. Do
+18 you have any kind of a -- any kind of a
+19 pension or annuity with Mallinckrodt?
+20 A. No.
+21 MR. GREENE: I know we said
+22 we'd go straight through, but it's
+23 about 2:26. Why don't we take a
+24 five-minute break, and I'm going to
+25 retool a little bit and follow up with
+MNKOI 0004574275
+
+1 some of the things that we as -- as I
+2 understand, you have a hard stop at 3
+3 We will stop at 3.
+4 THE WITNESS: Thank you. I
+5 appreciate that.
+6 MR. GREENE: Great. Why don't
+7 we say we'll come back about 2:31,
+8 2:32.
+9 VIDEOGRAPHER: 12:26. We are
+10 off the video record.
+11 (Off the record at 12:26 p.m.)
+12 VIDEOGRAPHER: 12:34, we are on
+13 the video record.
+14 QUESTIONS BY MR. GREENE:
+15 Q. Welcome back, Mr. Harbaugh.
+16 Are you ready to continue?
+17 A. I am, thank you.
+18 Q. I'm going to go back to some
+19 basics. When we started, like I said, I'm
+20 going to try get as much done as possible in
+21 the limited time that we have, so I want to
+22 go back and try and ask you what may sound
+23 like some basic questions.
+24 Okay?
+25 A. You bet.
+MNKOI 0004574276
+
+1 Q. Would you agree with me that
+2 Mallinckrodt LLC was the sole member of
+3 SpecGx LLC?
+4 MR. O'CONNOR: Objection to
+5 form.
+6 THE WITNESS: Can you repeat
+7 the question?
+8 QUESTIONS BY MR. GREENE:
+9 Q. Sure.
+10 Would you agree with me that
+11 Mallinckrodt LLC was the sole member of
+12 SpecGx LLC?
+13 A. I don't know.
+14 Q. Okay. Do you know what
+15 Mallinckrodt APAP LLC was or is?
+16 A. I don't recall.
+17 Q. Do you know what APAP stands
+18 for?
+19 A. I could speculate, but I don't
+20 know exactly.
+21 Q. Okay. To the best of your
+22 recollection, what does APAP LLC stand for?
+23 A. I don't know.
+24 Q. Are you -- as the former chief
+25 financial officer of Mallinckrodt PLC, are
+MNKOI 0004574277
+
+1 you familiar with an entity called
+Mallinckrodt APAP LLC?
+3 A. I don't recall. You'd have to
+4 go to a layer below me, as we talked earlier,
+5 the Don Einwalters and the Kathy Schaefers of
+6 the world. That was their realm.
+7 As I said, I was at the PLC
+8 level, the consolidated level.
+9 Q. Do you know who came up with
+10 the name for SpecGx?
+11 A. I believe it was Marvin
+12 Haselhorst, who is the tax lead.
+13 Q. Do you know what --
+14 A. I'm sorry, you cut out, Vin. I
+15 didn't hear you.
+16 Q. Do you know what the name
+17 stands for?
+18 A. Specialty Generics.
+19 Q. Would you be able to identify
+20 for me the entities and the ownership
+21 structure between Mallinckrodt LLC and its
+22 ultimate owner, Mallinckrodt PLC?
+23 A. No, you would need to talk to
+24 Marvin or Kathy or John. They have a diagram
+25 that they use. It's like a bowl of
+MNKOI 0004574278
+
+1 spaghetti, and I never tried to memorize it
+2 because I didn't need to for what I did for a
+3 living for them.
+4 Q. Let me just pull up -- and I
+5 don't mean to make this more difficult than
+6 it needs to be. There's an item in your
+7 box --
+8 A. Yeah.
+9 Q. -- number 62.
+10 A. Yep. That's what I was
+11 referring to, actually. I was having trouble
+12 getting it out.
+13 Yeah, this is exactly what I
+14 was referring to.
+15 Q. You're familiar with what I'll
+16 make Exhibit 3.
+17 (Harbaugh Exhibit 3 marked for
+18 identification.)
+19 QUESTIONS BY MR. GREENE:
+20 Q. Are you familiar with this
+21 document, which for the record is
+22 MNK PLC-RIAG 02527?
+23 Have you seen this before?
+24 A. I have.
+25 Q. Okay. And does this, first of
+MNKOI 0004574279
+
+1 all, in any way refresh your memory or
+2 provide you with the ability to identify the
+3 entities between Mallinckrodt LLC and
+4 Mallinckrodt PLC?
+5 A. Not -- it doesn't prompt very
+6 much. I mean, the people that loved this
+7 were Marvin and John and Kathy, and they were
+8 the ones that saw to it that it was done
+9 correctly.
+10 You know, I was kind of the top
+11 three boxes, if you will, the PLC, the UK and
+12 the international finance. That's where my
+13 work ensued.
+14 Q. In looking at this, does this
+15 provide you any information, or does it
+16 refresh your recollection at all as to what
+17 the purpose was of Mallinckrodt APAP LLC?
+18 A. No, it doesn't refresh my
+19 memory at all. The only thing it refreshes
+20 my memory on is I couldn't remember the name
+21 of the company that we bought Amitiza
+22 through, and that's on here. That's Sucampo.
+23 Q. Do you recall what the purpose
+24 was of forming SpecGx?
+25 A. Well, it was in the process of
+MNKOI 0004574280
+
+Page 202
+1 the thinking that both pre and post-spin, the
+2 thinking that -- the ultimate plan was to
+3 divest of everything that we started with and
+4 build a branded pharmaceutical business.
+5 And, you know, Mark Trudeau had
+6 some modest awareness of the contrast media
+7 business. Both he and I agreed early on that
+8 that was a really tough business. But he had
+9 no affinity for nuclear -- the specialty
+10 generics business because he didn't grow up
+11 in it, so -- and the board, if you look at
+12 the background of the board, they're all
+13 branded pharma folks.
+14 And so as we were preparing
+15 for, you know, divestiture, one business
+16 after the other, SpecGx was part of that --
+17 that process.
+18 And that's also why we moved
+19 everyone over to Webster Groves and
+20 segregated fully, so that when we did get
+21 this business sold, that it was going to be
+22 a, you know, clean break.
+23 We did the same with nuclear
+24 and we did the same with contrast media.
+25 Just -- I like -- and I led those
+MNKOI 0004574281
+
+1 divestitures. I like to just do the work of
+2 segregation before, because I wanted to
+3 minimize any transition service agreements,
+4 because that tends to be where we give -- no
+5 offense, but we give attorneys even more fees
+6 because we have legacy disagreements.
+7 Q. None taken.
+8 Who other than Mr. Trudeau was
+9 involved in the formation of SpecGx?
+10 MR. O'CONNOR: Objection to
+11 form.
+12 THE WITNESS: Can you repeat
+13 that?
+14 QUESTIONS BY MR. GREENE:
+15 Q. Sure.
+16 Who other than Mr. Trudeau was
+17 involved in the formation of SpecGx?
+18 MR. O'CONNOR: Objection to
+19 form.
+20 THE WITNESS: It would have
+21 been Kathy Schaefer, Marvin Haselhorst
+22 and John Einwalter. I don't recall
+23 Mark being involved, really, at all.
+24 That's for staff to do.
+25
+MNKOI 0004574282
+
+1 QUESTIONS BY MR. GREENE:
+2 Q. Did you play any role in the
+3 formation of SpecGx?
+4 A. No. They told me what they
+5 were going to call it, and I said, go get it
+6 done, and that's about it.
+7 Q. And am I correct that there was
+8 a. transfer of assets and operations from
+9 Mallinckrodt LLC to SpecGx LLC?
+10 A. Yes.
+11 Q. And who ultimately authorized
+12 that transfer?
+13 A. That is a good question. I
+14 mean, I would say I endorsed it. I don't
+15 recall whether we took it forward to the
+16 audit committee or not, you know.
+17 But that may have been one that
+18 was me, driven by me, because I was leading
+19 the divestiture efforts for -- as I said
+20 earlier, for all four divestiture -- well,
+21 three divestitures that actually happened,
+22 one that didn't, which is the business in
+23 question today.
+24 I may have been the last line.
+25 I don't recall whether we brought it to the
+MNKOI 0004574283
+
+1 audit committee.
+2 Q. Is that your best
+3 recollection
+4 A. Yes.
+5 Q. -- or the best that you recall?
+6 A. Uh-huh.
+7 Q. Okay. Do you know as you sit
+8 there today whether Mallinckrodt LLC debts
+9 and liabilities were transferred from that
+10 LLC to SpecGx LLC?
+11 A. I don't recall.
+12 Q. Do you recall whether there was
+13 a. transfer agreement between Mallinckrodt LLC
+14 and SpecGx LLC?
+15 A. I'm sure there was one, but I
+16 did not review it. That would have been done
+17 by Marvin and John and Kathy.
+18 Q. It's my understanding that we
+19 don't have one, so just for the record we'd
+20 make -- we'd make a request for a copy of
+21 that.
+22 A. You'd have to ask them. I
+23 don't really know.
+24 Q. Yeah. And I'm not saying you
+25 personally have a copy. I'm saying for the
+MNKOI 0004574284
+
+1 purposes of the deposition, we ask
+2 Mallinckrodt-associated defendants for a
+3 copy.
+4 A. Yep.
+5 MR. O'CONNOR: Take it under
+6 advisement.
+7 MR. GREENE: I thought you
+8 might.
+9 QUESTIONS BY MR. GREENE:
+10 Q. Mr. Harbaugh, do you know who
+11 would have signed or who did sign that
+12 agreement on behalf of both entities?
+13 A. No. You would have to ask
+14 Kathy or John or Marvin.
+15 Q. And that's not something you
+16 have a recollection of as you sit there
+17 today?
+18 A. Correct.
+19 Q. Okay.
+20 A. As I said, that's kind of for
+21 staff to do. That's not really what I would
+22 be involved in.
+23 Q. Do you know whether there was a
+24 valuation performed on the assets and
+25 liabilities transferred from Mallinckrodt LLC
+MNKOI 0004574285
+
+1 to SpecGx LLC?
+2 A. Kathy Schaefer would know the
+3 answer to that question. I don't.
+4 Q. This may also be I know we
+5 talked about taxes earlier. I'm going to go
+6 back and ask you some additional questions
+7 with respect to that.
+8 Do you know as you sit there
+9 today under which entity Mallinckrodt LLC
+10 filed its tax returns before the transfer to
+11 SpecGx?
+12 A. Again, you'll need to talk to
+13 Marvin.
+14 Q. Would that be true if I asked
+15 you about Mallinckrodt LLC's tax return
+16 filings after the transfer to SpecGx?
+17 A. Again, Marvin is your man. He
+18 will know that.
+19 MR. O'CONNOR: Mr. Greene,
+20 we've lost your video again.
+21 MR. GREENE: Ah. You don't
+22 really need to see me anyway.
+23 MR. O'CONNOR: I like to keep
+24 an eye on you.
+25
+MNKOI 0004574286
+
+1 QUESTIONS BY MR. GREENE:
+2 Q. Mr. Harbaugh, is it true that
+3 there were officers of Mallinckrodt LLC who
+4 were also officers of SpecGx LLC?
+5 A. I don't know. I don't recall
+6 who was on the SpecGx side. We'd have to
+7 check with Kathy and Marvin.
+8 Q. I want to take it back to the
+9 point at which there was the spin or the
+10 divestiture from Covidien.
+11 Do you recall that?
+12 A. Yes.
+13 Q. At that point there was an
+14 entity created called Mallinckrodt LLC,
+15 correct?
+16 A. Yes.
+17 Q. And there was also, as we
+18 discussed, the entity Mallinckrodt PLC,
+19 correct?
+20 A. Yes.
+21 Q. Okay. And it was Mallinckrodt
+22 LLC that had a US-based pharmaceutical
+23 operation, correct?
+24 A. I believe so, yes.
+25 Q. Okay. And when it was created,
+MNKOI 0004574287
+
+1 the PLC didn't have any operations; is that
+2 correct?
+3 A. You know, that was actually all
+4 done by my former parent, Covidien, by their
+5 tax department and their treasury department.
+6 Much like I was saying earlier, this -- this
+7 was done and handed over to us.
+8 SpecGx LLC, obviously, was on
+9 our watch, but at that point in time I didn't
+10 have a tax department or a treasury
+11 department to get these entities set up. So
+12 you'd really have to talk to the Covidien
+13 people about, you know, what the thinking was
+14 at the time.
+15 Q. Well, let me ask a most pointed
+16 question.
+17 Would you agree with me that
+18 without the LLC and its US business
+19 operations, that there would be no point to
+20 the existence of the PLC?
+21 MR. O'CONNOR: Objection to
+22 form.
+23 THE WITNESS: Well, the point
+24 of the PLC was that Covidien was
+25 Irish-based. And, you know, much like
+MNKOI 0004574288
+
+1 I can complain to my parents about
+2 giving me gray hair genes and all the
+3 other things I don't like, the PLC is
+4 what we inherited in that parent-child
+5 relationship. It's our DNA. And I
+6 believe they had formed that long ago,
+7 prior -- long before the spin.
+8 Again, that would be a -- the
+9 tax department at Covidien at the
+10 time.
+11 QUESTIONS BY MR. GREENE:
+12 Q. Let me ask you that
+13 differently.
+14 Would you agree with me that
+15 the sole purpose of the PLC at that point was
+16 to hold Mallinckrodt LLC and its US-based
+17 opioid business?
+18 MR. O'CONNOR: Objection to
+19 form.
+20 THE WITNESS: The PLC held the
+21 nuclear medicine business, the
+22 contrast media business, the
+23 acetaminophen business, the stearates
+24 business, the controlled substance
+25 business. It was the 2.2 billion in
+MNKOI 0004574289
+
+1 revenue that we looked at earlier.
+QUESTIONS BY MR. GREENE:
+3 Q. Sure.
+4 Well, let me ask you that
+5 differently.
+6 Its sole purpose was to hold
+7 all of these businesses which were
+8 Mallinckrodt LLC at the time, correct?
+9 A. Well, in my mind --
+10 MR. O'CONNOR: Objection to
+11 form.
+12 THE WITNESS: -- it was
+13 Mallinckrodt PLC at the highest level
+14 on this chart we have up here. Where
+15 it rested in legal entities, that's --
+16 that was what other people focused on.
+17 I focused on the PLC because I
+18 was the external face of the PLC to
+19 investors and other stakeholders.
+20 QUESTIONS BY MR. GREENE:
+21 Q. Let me phrase it differently.
+22 The sole purpose of the PLC was
+23 to hold those businesses you just listed off.
+24 Would that be accurate?
+25 A. Yes.
+MNKOI 0004574290
+
+1 Q. And --
+MR. O'CONNOR: Objection to
+3 form.
+4 QUESTIONS BY MR. GREENE:
+5 Q. And at the time of its
+6 creation, all of those businesses were under
+7 the Mallinckrodt LLC.
+8 Would that be correct?
+9 A. They would have been under the
+10 Mallinckrodt PLC. I would have to get with
+11 Marvin and talk about the LLC specifically.
+12 Q. Sitting here today, do you know
+13 whether, at the time of its creation, any of
+14 those businesses were held by anything other
+15 than the LLC?
+16 A. Again, we need to talk to
+17 Marvin. I only know PLC.
+18 Q. Again, I don't want to belabor
+19 the point, but when it came into existence,
+20 did the PLC hold anything other than
+21 Mallinckrodt LLC?
+22 MR. O'CONNOR: Objection to
+23 form. Asked and answered.
+24 THE WITNESS: Again, you'll
+25 have to talk to Marvin. In my mind,
+MNKOI 0004574291
+
+1 the PLC was the ultimate entity that I
+2 was the CFO of.
+3 All the stuff here with the
+4 details that you have up here, that's
+5 what Kathy and John and Marvin were
+6 paid to work their way through
+7 QUESTIONS BY MR. GREENE:
+8 Q. Well, let me ask you that
+9 differently.
+10 All that we have on the screen
+11 right now, that's all September 28th of 2018,
+12 correct?
+13 A. Yeah, that's what it says.
+14 Q. And did any of that exist at
+15 the time of the creation of the PLC?
+16 A. I'm sure some of it did. A lot
+17 of is it is brand new, a lot of the purple
+18 boxes, for instance.
+19 So, you know, if you look at
+20 the bottom, Therkos, Ikaria, Stratatech, the
+21 PEI, BioVectra, the PEI, Inc., in Canada,
+22 Questcor, the one I was mentioning earlier,
+23 Sucampo, the Vtesse, all of those were
+24 post-spin.
+25 What Marvin would have to do
+MNKOI 0004574292
+
+1 is -- or someone would have to go figure out
+2 what we started with and then give you a
+3 before and after. But a lot of the stuff on
+4 here were part of the 12 billion in
+5 acquisitions we did five years post-spin.
+6 Q. Do you know -- do you know who
+7 Karen Schaefer [sic] reported to while you
+8 were CFO of the PLC?
+9 A. I don't know a Karen Schaefer.
+10 I know a Kathy Schaefer.
+11 Q. I'm sorry, Kathleen. I'm
+12 sorry, Kathleen Schaefer.
+13 A. Kathy reported to me.
+14 Q. Okay. And who did
+15 Mr. Haselhorst report to while you were the
+16 CFO?
+17 A. Me.
+18 Q. And who did Mr. Einwalter
+19 report to while you were the CFO?
+20 A. Me.
+21 Q. After you went to SpecGx, who
+22 did they report to?
+23 A. They reported to George Kegler
+24 immediately on December 6, and then
+25 ultimately when George retired, it went to
+MNKOI 0004574293
+
+1 Bryan, who is the current CFO.
+2 And Marvin, I believe, has
+3 since left the organization.
+4 Q. And you may not know this, but
+5 do you know who they reported to after you
+6 left SpecGx?
+7 It sounds like Marvin left, so,
+8 again, you may not know, but I've got to ask
+9 the question.
+10 A. I have not kept in contact with
+11 Kathy nor John, so I have no idea.
+12 I do know that Bryan has been
+13 making a lot of changes to the finance
+14 organization, so I don't want to speculate on
+15 something I don't know anything about.
+16 Q. Do you know who Ms. Schaefer,
+17 Mr. Haselhorst and Mr. Einwalter received
+18 their compensation from? Was it the PLC or
+19 SpecGx?
+20 A. No, it would be the PLC.
+21 Q. When you took the position at
+22 SpecGx, was any part of your compensation
+23 directly from the PLC?
+24 A. We talked about this earlier.
+25 Q. We did.
+MNKOI 0004574294
+
+1 A. I'm certain my cash and -- cash
+2 incentive camp came over to specialty
+3 generics. I consciously remember having the
+4 discussion with my head of HR around making
+5 sure that transfer occurred.
+6 What I don't know is whether it
+7 happened on December 6th or January 1, but it
+8 was around that time.
+9 I'm assuming they allocated my
+10 equity comp over as well, but I don't know
+11 that because cash from a system perspective
+12 is handled a bit different than the equity.
+13 But the intent was that
+14 generics should bear the expense of me
+15 leading that organization.
+16 Q. Give me one second.
+17 A. Sure.
+18 Q. I know we discussed -- let me
+19 ask it this way.
+20 Do you recall there being a
+21 receivables securitization agreement entered
+22 into?
+23 A. I do recall it, yes.
+24 Q. Okay. And do you recall that
+25 being sometime in 2014?
+MNKOI 0004574295
+
+1 A. Yes, I believe we put that in
+2 when we were financing Cadence pharmaceutical
+3 acquisition.
+4 Q. Okay. And that was going to be
+5 my question.
+6 What was the purpose of that
+7 securitization agreement?
+8 A. That was the purpose. We paid
+9 1.3 billion for Cadence, and in an effort to
+10 minimize the interest expense burden that we
+11 were putting on the P&L, we entered into that
+12 securitization program because it was a very
+13 attractive interest rate. And it was our way
+14 of trying to navigate our capital allocation
+15 in a smart way.
+16 Q. And just for the record, that
+17 was a receivables securitization agreement,
+18 correct?
+19 A. It was.
+20 Q. And what's a receivables
+21 securitization agreement?
+22 A. Basically you -- I believe
+23 our -- our upper limit was 250 million. It
+24 might have been 200 million. I don't think
+25 we ever went all the way up to the top. But
+MNKOI 0004574296
+
+1 it's basically a transaction with banks that
+2 says if -- if you renege on your commitments,
+3 these receivables back up so that we're
+4 pretty much guaranteed that we get -- we get
+5 the money.
+6 So it's -- it's -- you know,
+7 it's a secure program for them, and it was a
+8 much lower interest rate than, you know, high
+9 yield debt where the bankers are taking on
+10 more risk should something go awry from a
+11 capital structure perspective.
+12 So basically we have the right
+13 of pooling those assets.
+14 Q. Quickly. I know we discussed
+15 Mr. Kipler [sic] before, correct?
+16 A. Who?
+17 Q. Jeffrey Kilper?
+18 A. Oh, Jeff Kilper, yeah, uh-huh.
+19 Q. Who would he get paid by? Who
+20 was on his W-2? Who was technically his
+21 employer?
+22 A. Oh, I would -- I'm pretty
+23 certain it would be SpecGx LLC.
+24 Q. And was his office in the
+25 shared complex?
+MNKOI 0004574297
+
+1 A. No, he was -- he was moved over
+2 to Webster Groves when we were separating
+3 everything out in Hazelwood.
+4 Q. Prior to that, wasn't he -- was
+5 he in Hazelwood?
+6 A. Yeah, he had an office in
+7 Hazelwood, but he was very involved with the
+8 manufacturing plant, so he was in New York
+9 and downtown St. Louis and Webster Groves.
+10 He was kind of a traveling guy.
+11 And I think, you know -- I
+12 don't recall when he exactly was moved over
+13 to the generics business, but, you know, he's
+14 been in Webster Groves for many years at this
+15 point.
+16 Q. And prior to SpecGx, was the
+17 LLC his employer or was the PLC his employer?
+18 A. I'm sorry, you cut out.
+19 Q. I said, prior to SpecGx, was
+20 the LLC his employer or was the PLC his
+21 employer?
+22 A. He was in a different job. I
+23 believe he was in manufacturing -- he was a
+24 manufacturing finance lead supporting the
+25 global guy, so more likely than not he was in
+MNKOI 0004574298
+
+1 the PLC.
+2 But when he moved over to the
+3 finance support role for SpecGx, I believe
+4 that's when he went over to that -- that
+5 world.
+6 MR. GREENE: All right.
+7 Mr. Harbaugh, I see it's three
+8 o'clock. I have a lot of documents,
+9 and I certainly didn't get through
+10 many of them at all. I understand
+11 your hard stop defendant's position.
+12 I think the State will treat
+13 this deposition as suspended. I'm
+14 sure that the defendant will have an
+15 objection. But no matter what, we'll
+16 conclude for the day because I
+17 understand you have a hard stop.
+18 THE WITNESS: I appreciate
+19 that.
+20 MR. O'CONNOR: Thank you. And
+21 we, of course, do reserve our
+22 objection to continuing this further.
+23 But Mr. Harbaugh, I know you
+24 have to eat and get to your next
+25 engagement, but I do have just
+MNKOI 0004574299
+
+Page 221
+1 30 seconds of cleanup here if I could.
+2 THE WITNESS: Yeah.
+3 CROSS-EXAMINATION
+4 QUESTIONS BY MR. O'CONNOR:
+5 Q. Earlier today you talked to
+6 Mr. Greene about the procurement and
+7 purchasing department at PLC.
+8 Do you remember that line of
+9 questioning?
+10 A. Yes.
+11 Q. So the record is clear, to the
+12 best of your knowledge, did anyone at PLC
+13 ever purchase or negotiate the purchase of
+14 any opioid raw materials for any subsidiary?
+15 MR. GREENE: Objection.
+16 THE WITNESS: Not to my
+17 knowledge.
+18 QUESTIONS BY MR. O'CONNOR:
+19 Q. And you also spoke with
+20 Mr. Greene about certain interim periods when
+21 you had, quote, oversight responsibilities.
+22 Do you remember those
+23 questions?
+24 A. I do.
+25 Q. At any time when you had any
+MNKOI 0004574300
+
+1 oversight responsibilities, were you ever
+2 involved in the day-to-day operation of the
+3 specialty generics business?
+4 MR. GREENE: Objection.
+5 THE WITNESS: No.
+6 MR. O'CONNOR: That's all I
+7 have.
+8 MR. GREENE: All right.
+9 THE WITNESS: Be well. Be
+10 safe.
+11 VIDEOGRAPHER: All right. I'll
+12 take us off the video record.
+13 1:02 p.m. We are off the video
+14 record.
+15 This concludes the deposition
+16 of Matthew Harbaugh for today, to be
+17 concluded at a later date.
+18 (Deposition concluded at 1:02 p.m.)
+19
+20
+21
+22
+23
+24
+25
+MNKOI 0004574301
+
+1 CERTIFICATE
+2
+3 I, CARRIE A. CAMPBELL, Registered
+4 Diplomate Reporter, Certified Realtime
+5 Reporter and Certified Shorthand Reporter, do
+6 hereby certify that prior to the commencement
+7 of the examination, Matthew Harbaugh, was
+8 duly sworn by me to testify to the truth, the
+9 whole truth and nothing but the truth.
+10 I DO FURTHER CERTIFY that the
+11 foregoing is a verbatim transcript of the
+12 testimony as taken stenographically by and
+13 before me at the time, place and on the date
+14 hereinbefore set forth, to the best of my
+15 ability.
+16
+17 I DO FURTHER CERTIFY that I am
+18 neither a relative nor employee nor attorney
+19 nor counsel of any of the parties to this
+20 action, and that I am neither a relative nor
+21 employee of such attorney or counsel, and
+22 that I am not financially interested in the
+23 action.
+24
+25
+26
+27
+28 CARRIE A. CAMPBELL,
+29 NCRA Registered Diplomate Reporter
+30 Certified Realtime Reporter
+31 Notary Public
+32
+33
+34
+35
+36 Dated: October 9, 2020
+37
+38
+MNKOI 0004574302
+
+1 INSTRUCTIONS TO WITNESS
+Please read your deposition over
+4 carefully and make any necessary corrections.
+5 You should state the reason in the
+6 appropriate space on the errata sheet for any
+7 corrections that are made.
+8 After doing so, please sign the
+9 errata sheet and date it. You are signing
+10 same subject to the changes you have noted on
+11 the errata sheet, which will be attached to
+12 your deposition.
+13 It is imperative that you return
+14 the original errata sheet to the deposing
+15 attorney within thirty (30) days of receipt
+16 of the deposition transcript by you. If you
+17 fail to do so, the deposition transcript may
+18 be deemed to be accurate and may be used in
+19 court.
+20
+21
+22
+23
+24
+25
+MNKOI 0004574303
+
+1 ACKNOWLEDGMENT OF DEPONENT
+2
+3
+4 I, , do
+5 hereby certify that I have read the foregoing
+6 pages and that the same is a correct
+7 transcription of the answers given by me to
+8 the questions therein propounded, except for
+9 the corrections or changes in form or
+10 substance, if any, noted in the attached
+11 Errata Sheet.
+12
+13
+14
+15
+16
+17 Matthew Harbaugh Date
+18
+19
+20 Subscribed and sworn to before me this
+21 day of , 20
+22 My commission expires:
+23
+24 Notary Public
+25
+26
+27
+28
+29
+30
+MNKOI 0004574304
+
+1
+ACKNOWLEDGMENT OF DEPONENT
+2
+3
+4 It 1/11404a) /4445,41,4.15i4 , do
+hereby certify that 1 have read the foregoing
+5 pages and that the same is a correct
+transcription of the answers given by me to
+6 the questions therein propounded, except for
+the corrections or changes in form or
+7 substance, if any, noted in the attached
+Errata Sheet.
+8
+9
+10
+11 &to-
+1117 Lao ao
+12
+Matthew Harbaugh Date
+13
+14
+15 Subscribed and sworn to before me this
+16 9 t2-1- day of , 20 4,2f's
+17 My commission expires: 0,g./72,c/2-0,2,2,
+18
+19 Notary Public
+ie:0?./..di)
+20
+VICTORIA MONDRAGON
+21
+NOTARY PUBLIC
+STATE OF COLORADO
+22
+NOTAPY 11.)201 ;c0774U
+17:">(.cbrr.,s
+23
+24
+25
+MNKOI 0004574307

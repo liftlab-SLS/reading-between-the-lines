@@ -1,0 +1,452 @@
+[
+  {
+    "turn": 1,
+    "question_snippet": "there? Was it in the A No. I don't Q Was it in the Objection to form. first two ",
+    "state_delta": {
+      "C": -0.025,
+      "K": 0.0,
+      "A": -0.0075,
+      "V": 0.0,
+      "R": 0.042,
+      "P": 0.0
+    },
+    "state": {
+      "C": 0.375,
+      "K": 0.5,
+      "A": 0.5925,
+      "V": 0.4,
+      "R": 0.342,
+      "P": 0.3
+    },
+    "scores": {
+      "consistency": 0.354,
+      "evasion": 0.37,
+      "realism": 0.925,
+      "adversarial": 0.453
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.5,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 2,
+    "question_snippet": "if you had asked for it? MR. DAVISON: Objection to form. A Repeat the question. ",
+    "state_delta": {
+      "C": -0.0027,
+      "K": 0.0,
+      "A": -0.001,
+      "V": 0.0,
+      "R": 0.0066,
+      "P": -0.0003
+    },
+    "state": {
+      "C": 0.3723,
+      "K": 0.5,
+      "A": 0.5915,
+      "V": 0.4,
+      "R": 0.3486,
+      "P": 0.2997
+    },
+    "scores": {
+      "consistency": 0.357,
+      "evasion": 0.37,
+      "realism": 0.923,
+      "adversarial": 0.455
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 3,
+    "question_snippet": "in 2010? MR. DAVISON: Same objection. Source:  https://www.industrydocuments.ucs",
+    "state_delta": {
+      "C": -0.0117,
+      "K": 0.0,
+      "A": -0.0037,
+      "V": 0.0,
+      "R": 0.022,
+      "P": -0.0016
+    },
+    "state": {
+      "C": 0.3606,
+      "K": 0.5,
+      "A": 0.5878,
+      "V": 0.4,
+      "R": 0.3706,
+      "P": 0.2981
+    },
+    "scores": {
+      "consistency": 0.367,
+      "evasion": 0.37,
+      "realism": 0.916,
+      "adversarial": 0.462
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.3,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 4,
+    "question_snippet": "Did you ask them why? A I don't recall asking why, but I'm assuming that it had ",
+    "state_delta": {
+      "C": -0.0014,
+      "K": 0.0,
+      "A": -0.0007,
+      "V": 0.0,
+      "R": 0.0054,
+      "P": -0.0007
+    },
+    "state": {
+      "C": 0.3592,
+      "K": 0.5,
+      "A": 0.5871,
+      "V": 0.4,
+      "R": 0.376,
+      "P": 0.2974
+    },
+    "scores": {
+      "consistency": 0.369,
+      "evasion": 0.369,
+      "realism": 0.916,
+      "adversarial": 0.463
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 5,
+    "question_snippet": "it states, \"Maintaining our presence as primary on the 2011 bid is our biggest i",
+    "state_delta": {
+      "C": -0.0012,
+      "K": 0.0,
+      "A": -0.0007,
+      "V": 0.0,
+      "R": 0.0052,
+      "P": -0.001
+    },
+    "state": {
+      "C": 0.358,
+      "K": 0.5,
+      "A": 0.5864,
+      "V": 0.4,
+      "R": 0.3812,
+      "P": 0.2964
+    },
+    "scores": {
+      "consistency": 0.372,
+      "evasion": 0.369,
+      "realism": 0.915,
+      "adversarial": 0.465
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 6,
+    "question_snippet": "So what does that mean? A Increased compliance means on a source program, you ha",
+    "state_delta": {
+      "C": -0.0011,
+      "K": 0.0,
+      "A": -0.0006,
+      "V": 0.0,
+      "R": 0.005,
+      "P": -0.0012
+    },
+    "state": {
+      "C": 0.3569,
+      "K": 0.5,
+      "A": 0.5858,
+      "V": 0.4,
+      "R": 0.3862,
+      "P": 0.2952
+    },
+    "scores": {
+      "consistency": 0.374,
+      "evasion": 0.369,
+      "realism": 0.914,
+      "adversarial": 0.466
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 7,
+    "question_snippet": "And if they don't do that (Reporter clarification.) A Up to their commitment. Q ",
+    "state_delta": {
+      "C": -0.001,
+      "K": 0.0,
+      "A": -0.0006,
+      "V": 0.0,
+      "R": 0.0048,
+      "P": -0.0014
+    },
+    "state": {
+      "C": 0.3559,
+      "K": 0.5,
+      "A": 0.5852,
+      "V": 0.4,
+      "R": 0.391,
+      "P": 0.2938
+    },
+    "scores": {
+      "consistency": 0.376,
+      "evasion": 0.369,
+      "realism": 0.914,
+      "adversarial": 0.467
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 8,
+    "question_snippet": "-- goes to you and a number of other people as well; is that right? A Yes. Q And",
+    "state_delta": {
+      "C": -0.0009,
+      "K": 0.0,
+      "A": -0.0005,
+      "V": 0.0,
+      "R": 0.0046,
+      "P": -0.0016
+    },
+    "state": {
+      "C": 0.355,
+      "K": 0.5,
+      "A": 0.5847,
+      "V": 0.4,
+      "R": 0.3956,
+      "P": 0.2922
+    },
+    "scores": {
+      "consistency": 0.378,
+      "evasion": 0.368,
+      "realism": 0.913,
+      "adversarial": 0.468
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 9,
+    "question_snippet": "-- followed by \"Mail Order\"",
+    "state_delta": {
+      "C": -0.0008,
+      "K": 0.0,
+      "A": -0.0005,
+      "V": 0.0,
+      "R": 0.0044,
+      "P": -0.0018
+    },
+    "state": {
+      "C": 0.3542,
+      "K": 0.5,
+      "A": 0.5842,
+      "V": 0.4,
+      "R": 0.4,
+      "P": 0.2904
+    },
+    "scores": {
+      "consistency": 0.38,
+      "evasion": 0.368,
+      "realism": 0.913,
+      "adversarial": 0.469
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 10,
+    "question_snippet": "-- and on down the list.",
+    "state_delta": {
+      "C": -0.0008,
+      "K": 0.0,
+      "A": -0.0005,
+      "V": 0.0,
+      "R": 0.0042,
+      "P": -0.002
+    },
+    "state": {
+      "C": 0.3534,
+      "K": 0.5,
+      "A": 0.5837,
+      "V": 0.4,
+      "R": 0.4042,
+      "P": 0.2884
+    },
+    "scores": {
+      "consistency": 0.382,
+      "evasion": 0.368,
+      "realism": 0.912,
+      "adversarial": 0.47
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 11,
+    "question_snippet": "But I did misspeak, \"GPO\" and \"Repackagers\" are below \"Distributors.\" What are G",
+    "state_delta": {
+      "C": -0.0007,
+      "K": 0.0,
+      "A": -0.0004,
+      "V": 0.0,
+      "R": 0.004,
+      "P": -0.0021
+    },
+    "state": {
+      "C": 0.3527,
+      "K": 0.5,
+      "A": 0.5833,
+      "V": 0.4,
+      "R": 0.4082,
+      "P": 0.2863
+    },
+    "scores": {
+      "consistency": 0.384,
+      "evasion": 0.367,
+      "realism": 0.912,
+      "adversarial": 0.471
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 12,
+    "question_snippet": "-- client. And you write, \"Charity, Value Drug is in need of Oxycodone 30mg. Can",
+    "state_delta": {
+      "C": -0.0006,
+      "K": 0.0,
+      "A": -0.0004,
+      "V": 0.0,
+      "R": 0.0039,
+      "P": -0.0023
+    },
+    "state": {
+      "C": 0.3521,
+      "K": 0.5,
+      "A": 0.5829,
+      "V": 0.4,
+      "R": 0.4121,
+      "P": 0.284
+    },
+    "scores": {
+      "consistency": 0.385,
+      "evasion": 0.367,
+      "realism": 0.911,
+      "adversarial": 0.472
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 13,
+    "question_snippet": "distributor customers of yours. their orders directly. They were done by compute",
+    "state_delta": {
+      "C": -0.0006,
+      "K": 0.0,
+      "A": -0.0004,
+      "V": 0.0,
+      "R": 0.0037,
+      "P": -0.0024
+    },
+    "state": {
+      "C": 0.3515,
+      "K": 0.5,
+      "A": 0.5825,
+      "V": 0.4,
+      "R": 0.4158,
+      "P": 0.2816
+    },
+    "scores": {
+      "consistency": 0.387,
+      "evasion": 0.366,
+      "realism": 0.911,
+      "adversarial": 0.473
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 14,
+    "question_snippet": "in line 42? And it reflects a sale in Source:  https://www.industrydocuments.ucs",
+    "state_delta": {
+      "C": -0.0005,
+      "K": 0.0,
+      "A": -0.0004,
+      "V": 0.0,
+      "R": 0.0035,
+      "P": -0.0026
+    },
+    "state": {
+      "C": 0.351,
+      "K": 0.5,
+      "A": 0.5821,
+      "V": 0.4,
+      "R": 0.4193,
+      "P": 0.279
+    },
+    "scores": {
+      "consistency": 0.389,
+      "evasion": 0.366,
+      "realism": 0.911,
+      "adversarial": 0.474
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 15,
+    "question_snippet": "two and a half years after you've after Mallinckrodt suspended sales to Masters ",
+    "state_delta": {
+      "C": -0.0005,
+      "K": 0.0,
+      "A": -0.0003,
+      "V": 0.0,
+      "R": 0.0034,
+      "P": -0.0027
+    },
+    "state": {
+      "C": 0.3505,
+      "K": 0.5,
+      "A": 0.5818,
+      "V": 0.4,
+      "R": 0.4227,
+      "P": 0.2763
+    },
+    "scores": {
+      "consistency": 0.39,
+      "evasion": 0.365,
+      "realism": 0.91,
+      "adversarial": 0.475
+    },
+    "events": [],
+    "tone": "rattled",
+    "pressure": 0.1,
+    "question_type": "open"
+  }
+]

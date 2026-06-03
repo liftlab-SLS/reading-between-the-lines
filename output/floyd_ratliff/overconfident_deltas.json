@@ -1,0 +1,1502 @@
+[
+  {
+    "turn": 1,
+    "question_snippet": "Good morning, Mr. Ratliff. Thank you for being here.",
+    "state_delta": {
+      "C": -0.0112,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0024,
+      "P": 0.0
+    },
+    "state": {
+      "C": 0.8888,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8024,
+      "P": 0.7
+    },
+    "scores": {
+      "consistency": 0.509,
+      "evasion": 0.56,
+      "realism": 0.707,
+      "adversarial": 0.562
+    },
+    "events": [],
+    "tone": "ice-cold, immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 2,
+    "question_snippet": "Have you ever been deposed before?",
+    "state_delta": {
+      "C": -0.0102,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0023,
+      "P": -0.0006
+    },
+    "state": {
+      "C": 0.8786,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8047,
+      "P": 0.6994
+    },
+    "scores": {
+      "consistency": 0.51,
+      "evasion": 0.56,
+      "realism": 0.713,
+      "adversarial": 0.563
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 3,
+    "question_snippet": "And can you briefly describe the matter you were deposed in? MR. KAWAMOTO: Do yo",
+    "state_delta": {
+      "C": -0.0093,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0022,
+      "P": -0.0012
+    },
+    "state": {
+      "C": 0.8693,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8069,
+      "P": 0.6982
+    },
+    "scores": {
+      "consistency": 0.511,
+      "evasion": 0.56,
+      "realism": 0.718,
+      "adversarial": 0.564
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 4,
+    "question_snippet": "And did this case involve -- or did this matter involve narcotics?",
+    "state_delta": {
+      "C": -0.0084,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0021,
+      "P": -0.0018
+    },
+    "state": {
+      "C": 0.8609,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.809,
+      "P": 0.6964
+    },
+    "scores": {
+      "consistency": 0.512,
+      "evasion": 0.559,
+      "realism": 0.723,
+      "adversarial": 0.566
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 5,
+    "question_snippet": "So -- well, how -- how long ago was that?",
+    "state_delta": {
+      "C": -0.0076,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.002,
+      "P": -0.0024
+    },
+    "state": {
+      "C": 0.8533,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.811,
+      "P": 0.694
+    },
+    "scores": {
+      "consistency": 0.513,
+      "evasion": 0.559,
+      "realism": 0.728,
+      "adversarial": 0.567
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 6,
+    "question_snippet": "Okay. So some time ago. In terms of the rules for the deposition then, sir, just",
+    "state_delta": {
+      "C": -0.0069,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0019,
+      "P": -0.0029
+    },
+    "state": {
+      "C": 0.8464,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8129,
+      "P": 0.6911
+    },
+    "scores": {
+      "consistency": 0.514,
+      "evasion": 0.558,
+      "realism": 0.732,
+      "adversarial": 0.568
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 7,
+    "question_snippet": "And you joined Mallinckrodt in 2000, is that correct?",
+    "state_delta": {
+      "C": -0.0063,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0019,
+      "P": -0.0034
+    },
+    "state": {
+      "C": 0.8401,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8148,
+      "P": 0.6877
+    },
+    "scores": {
+      "consistency": 0.515,
+      "evasion": 0.558,
+      "realism": 0.736,
+      "adversarial": 0.569
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 8,
+    "question_snippet": "No, I understand that, and I appreciate your best efforts.",
+    "state_delta": {
+      "C": -0.0057,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0018,
+      "P": -0.0038
+    },
+    "state": {
+      "C": 0.8344,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8166,
+      "P": 0.6839
+    },
+    "scores": {
+      "consistency": 0.516,
+      "evasion": 0.557,
+      "realism": 0.739,
+      "adversarial": 0.57
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 9,
+    "question_snippet": "And can you describe those concerns? MS. KVESELIS: Object to form. BY THE WITNES",
+    "state_delta": {
+      "C": -0.0052,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0017,
+      "P": -0.0043
+    },
+    "state": {
+      "C": 0.8292,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8183,
+      "P": 0.6796
+    },
+    "scores": {
+      "consistency": 0.516,
+      "evasion": 0.556,
+      "realism": 0.742,
+      "adversarial": 0.571
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 10,
+    "question_snippet": "And do you recall how many distributors",
+    "state_delta": {
+      "C": -0.0047,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0016,
+      "P": -0.0047
+    },
+    "state": {
+      "C": 0.8245,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8199,
+      "P": 0.6749
+    },
+    "scores": {
+      "consistency": 0.517,
+      "evasion": 0.555,
+      "realism": 0.745,
+      "adversarial": 0.572
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 11,
+    "question_snippet": "So did you have sort of defined tasks that you were responsible for or was it pr",
+    "state_delta": {
+      "C": -0.0043,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0016,
+      "P": -0.0051
+    },
+    "state": {
+      "C": 0.8202,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8215,
+      "P": 0.6698
+    },
+    "scores": {
+      "consistency": 0.518,
+      "evasion": 0.554,
+      "realism": 0.748,
+      "adversarial": 0.572
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 12,
+    "question_snippet": "And then you would then report that to DEA?",
+    "state_delta": {
+      "C": -0.0039,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0015,
+      "P": -0.0054
+    },
+    "state": {
+      "C": 0.8163,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.823,
+      "P": 0.6644
+    },
+    "scores": {
+      "consistency": 0.519,
+      "evasion": 0.553,
+      "realism": 0.75,
+      "adversarial": 0.573
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 13,
+    "question_snippet": "So directing your attention to Page 3.",
+    "state_delta": {
+      "C": -0.0035,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0014,
+      "P": -0.0058
+    },
+    "state": {
+      "C": 0.8128,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8244,
+      "P": 0.6586
+    },
+    "scores": {
+      "consistency": 0.519,
+      "evasion": 0.552,
+      "realism": 0.752,
+      "adversarial": 0.574
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 14,
+    "question_snippet": "Okay. Is this the 2007 Rannazzisi letter? MR. O'CONNOR: Objection. BY THE WITNES",
+    "state_delta": {
+      "C": -0.0032,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0014,
+      "P": -0.006
+    },
+    "state": {
+      "C": 0.8096,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8258,
+      "P": 0.6526
+    },
+    "scores": {
+      "consistency": 0.52,
+      "evasion": 0.551,
+      "realism": 0.754,
+      "adversarial": 0.574
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 15,
+    "question_snippet": "And part of this form is a description of",
+    "state_delta": {
+      "C": -0.0029,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0013,
+      "P": -0.0063
+    },
+    "state": {
+      "C": 0.8067,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8271,
+      "P": 0.6463
+    },
+    "scores": {
+      "consistency": 0.52,
+      "evasion": 0.549,
+      "realism": 0.756,
+      "adversarial": 0.575
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 16,
+    "question_snippet": "Is that a red flag, sir?",
+    "state_delta": {
+      "C": -0.0026,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0013,
+      "P": -0.0066
+    },
+    "state": {
+      "C": 0.8041,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8284,
+      "P": 0.6397
+    },
+    "scores": {
+      "consistency": 0.521,
+      "evasion": 0.548,
+      "realism": 0.758,
+      "adversarial": 0.575
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 17,
+    "question_snippet": "And so your interpretation of this letter, then, is that there is nothing wrong ",
+    "state_delta": {
+      "C": -0.0024,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0012,
+      "P": -0.0068
+    },
+    "state": {
+      "C": 0.8017,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8296,
+      "P": 0.6329
+    },
+    "scores": {
+      "consistency": 0.522,
+      "evasion": 0.547,
+      "realism": 0.759,
+      "adversarial": 0.576
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 18,
+    "question_snippet": "Okay. So presumably after April of 2008 -- well, strike that. I take it you resp",
+    "state_delta": {
+      "C": -0.0022,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0012,
+      "P": -0.007
+    },
+    "state": {
+      "C": 0.7995,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8308,
+      "P": 0.6259
+    },
+    "scores": {
+      "consistency": 0.522,
+      "evasion": 0.545,
+      "realism": 0.76,
+      "adversarial": 0.576
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 19,
+    "question_snippet": "-- but what is it you recall about this form?",
+    "state_delta": {
+      "C": -0.002,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0011,
+      "P": -0.0072
+    },
+    "state": {
+      "C": 0.7975,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8319,
+      "P": 0.6187
+    },
+    "scores": {
+      "consistency": 0.523,
+      "evasion": 0.544,
+      "realism": 0.762,
+      "adversarial": 0.577
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 20,
+    "question_snippet": "Now, you'll -- do you recall that we were discussing a form, you know, probably ",
+    "state_delta": {
+      "C": -0.0018,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0011,
+      "P": -0.0073
+    },
+    "state": {
+      "C": 0.7957,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.833,
+      "P": 0.6114
+    },
+    "scores": {
+      "consistency": 0.523,
+      "evasion": 0.542,
+      "realism": 0.763,
+      "adversarial": 0.577
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 21,
+    "question_snippet": "So based on the document, sir, it appears that Mallinckrodt was working on its s",
+    "state_delta": {
+      "C": -0.0016,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.001,
+      "P": -0.0075
+    },
+    "state": {
+      "C": 0.7941,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.834,
+      "P": 0.6039
+    },
+    "scores": {
+      "consistency": 0.524,
+      "evasion": 0.541,
+      "realism": 0.764,
+      "adversarial": 0.577
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 22,
+    "question_snippet": "So do you see the -- the portions that I've highlighted -- well, first, is this ",
+    "state_delta": {
+      "C": -0.0015,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.001,
+      "P": -0.007
+    },
+    "state": {
+      "C": 0.7926,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.835,
+      "P": 0.5969
+    },
+    "scores": {
+      "consistency": 0.524,
+      "evasion": 0.539,
+      "realism": 0.764,
+      "adversarial": 0.578
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 23,
+    "question_snippet": "And to be clear, the entity that was making the statement, though, was the Drug ",
+    "state_delta": {
+      "C": -0.0013,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0009,
+      "P": -0.0066
+    },
+    "state": {
+      "C": 0.7913,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8359,
+      "P": 0.5903
+    },
+    "scores": {
+      "consistency": 0.525,
+      "evasion": 0.538,
+      "realism": 0.765,
+      "adversarial": 0.578
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 24,
+    "question_snippet": "Okay. And do you also see under",
+    "state_delta": {
+      "C": -0.0012,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0009,
+      "P": -0.0062
+    },
+    "state": {
+      "C": 0.7901,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8368,
+      "P": 0.5841
+    },
+    "scores": {
+      "consistency": 0.525,
+      "evasion": 0.537,
+      "realism": 0.766,
+      "adversarial": 0.578
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 25,
+    "question_snippet": "Do you recall attending this meeting?",
+    "state_delta": {
+      "C": -0.0011,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0009,
+      "P": -0.0059
+    },
+    "state": {
+      "C": 0.789,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8377,
+      "P": 0.5782
+    },
+    "scores": {
+      "consistency": 0.525,
+      "evasion": 0.536,
+      "realism": 0.767,
+      "adversarial": 0.579
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 26,
+    "question_snippet": "So you've indicated that you do recall this August 2011 meeting. Do you have any",
+    "state_delta": {
+      "C": -0.001,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0008,
+      "P": -0.0055
+    },
+    "state": {
+      "C": 0.788,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8385,
+      "P": 0.5727
+    },
+    "scores": {
+      "consistency": 0.526,
+      "evasion": 0.535,
+      "realism": 0.767,
+      "adversarial": 0.579
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 27,
+    "question_snippet": "So if I were to say -- if DEA were to",
+    "state_delta": {
+      "C": -0.0009,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0008,
+      "P": -0.0052
+    },
+    "state": {
+      "C": 0.7871,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8393,
+      "P": 0.5675
+    },
+    "scores": {
+      "consistency": 0.526,
+      "evasion": 0.533,
+      "realism": 0.768,
+      "adversarial": 0.579
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 28,
+    "question_snippet": "So this is a document entitled \"Pharmacy Information Sheet.\" It's Bates number i",
+    "state_delta": {
+      "C": -0.0008,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0007,
+      "P": -0.0049
+    },
+    "state": {
+      "C": 0.7863,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.84,
+      "P": 0.5626
+    },
+    "scores": {
+      "consistency": 0.526,
+      "evasion": 0.533,
+      "realism": 0.768,
+      "adversarial": 0.579
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 29,
+    "question_snippet": "So Ned called Mr. Lohman and he wanted to check the SOM system and protect Lam's",
+    "state_delta": {
+      "C": -0.0007,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0007,
+      "P": -0.0046
+    },
+    "state": {
+      "C": 0.7856,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8407,
+      "P": 0.558
+    },
+    "scores": {
+      "consistency": 0.527,
+      "evasion": 0.532,
+      "realism": 0.769,
+      "adversarial": 0.58
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 30,
+    "question_snippet": "Okay. Would this information have been helpful to you as director of security? M",
+    "state_delta": {
+      "C": -0.0007,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0007,
+      "P": -0.0044
+    },
+    "state": {
+      "C": 0.7849,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8414,
+      "P": 0.5536
+    },
+    "scores": {
+      "consistency": 0.527,
+      "evasion": 0.531,
+      "realism": 0.769,
+      "adversarial": 0.58
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 31,
+    "question_snippet": "But the credit check doesn't address the fact that their initial order, and they",
+    "state_delta": {
+      "C": -0.0006,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0007,
+      "P": -0.0041
+    },
+    "state": {
+      "C": 0.7843,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8421,
+      "P": 0.5495
+    },
+    "scores": {
+      "consistency": 0.527,
+      "evasion": 0.53,
+      "realism": 0.769,
+      "adversarial": 0.58
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 32,
+    "question_snippet": "Okay. Should you have? MR. O'CONNOR: Objection. BY THE WITNESS:",
+    "state_delta": {
+      "C": -0.0005,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0006,
+      "P": -0.0039
+    },
+    "state": {
+      "C": 0.7838,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8427,
+      "P": 0.5456
+    },
+    "scores": {
+      "consistency": 0.528,
+      "evasion": 0.529,
+      "realism": 0.77,
+      "adversarial": 0.58
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 33,
+    "question_snippet": "I mean, as you sit here, you have no reason to believe that this order was eithe",
+    "state_delta": {
+      "C": -0.0005,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0006,
+      "P": -0.0036
+    },
+    "state": {
+      "C": 0.7833,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8433,
+      "P": 0.542
+    },
+    "scores": {
+      "consistency": 0.528,
+      "evasion": 0.528,
+      "realism": 0.77,
+      "adversarial": 0.58
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 34,
+    "question_snippet": "But based on the information available to you at this time, sir, I mean, they ar",
+    "state_delta": {
+      "C": -0.0005,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0006,
+      "P": -0.0034
+    },
+    "state": {
+      "C": 0.7828,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8439,
+      "P": 0.5386
+    },
+    "scores": {
+      "consistency": 0.528,
+      "evasion": 0.528,
+      "realism": 0.77,
+      "adversarial": 0.581
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 35,
+    "question_snippet": "Okay. Would it surprise you to learn that Dr. Schultz is in prison?",
+    "state_delta": {
+      "C": -0.0004,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0006,
+      "P": -0.0032
+    },
+    "state": {
+      "C": 0.7824,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8445,
+      "P": 0.5354
+    },
+    "scores": {
+      "consistency": 0.528,
+      "evasion": 0.527,
+      "realism": 0.771,
+      "adversarial": 0.581
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 36,
+    "question_snippet": "Looking at these totals and assuming that this extrapolation from the -- the dat",
+    "state_delta": {
+      "C": -0.0004,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0005,
+      "P": -0.0031
+    },
+    "state": {
+      "C": 0.782,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.845,
+      "P": 0.5323
+    },
+    "scores": {
+      "consistency": 0.529,
+      "evasion": 0.526,
+      "realism": 0.771,
+      "adversarial": 0.581
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 37,
+    "question_snippet": "Do you want to take -- MR. O'CONNOR: Can we go off the record for a minute? MS. ",
+    "state_delta": {
+      "C": -0.0003,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0005,
+      "P": -0.0029
+    },
+    "state": {
+      "C": 0.7817,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8455,
+      "P": 0.5294
+    },
+    "scores": {
+      "consistency": 0.529,
+      "evasion": 0.526,
+      "realism": 0.771,
+      "adversarial": 0.581
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 38,
+    "question_snippet": "Okay. Do you know if there was a transition plan in place to go from you to that",
+    "state_delta": {
+      "C": -0.0003,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0005,
+      "P": -0.0027
+    },
+    "state": {
+      "C": 0.7814,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.846,
+      "P": 0.5267
+    },
+    "scores": {
+      "consistency": 0.529,
+      "evasion": 0.525,
+      "realism": 0.771,
+      "adversarial": 0.581
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 39,
+    "question_snippet": "Sure. I understand.",
+    "state_delta": {
+      "C": -0.0003,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0005,
+      "P": -0.0025
+    },
+    "state": {
+      "C": 0.7811,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8465,
+      "P": 0.5242
+    },
+    "scores": {
+      "consistency": 0.529,
+      "evasion": 0.525,
+      "realism": 0.771,
+      "adversarial": 0.581
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 40,
+    "question_snippet": "Okay. So is this, perhaps, a summary of your notes and Karen Harper's notes? MR.",
+    "state_delta": {
+      "C": -0.0003,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0004,
+      "P": -0.0024
+    },
+    "state": {
+      "C": 0.7808,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8469,
+      "P": 0.5218
+    },
+    "scores": {
+      "consistency": 0.53,
+      "evasion": 0.524,
+      "realism": 0.772,
+      "adversarial": 0.581
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 41,
+    "question_snippet": "Okay. Do you know after this report if Mallinckrodt continued shipping to Ameris",
+    "state_delta": {
+      "C": -0.0002,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0004,
+      "P": -0.0023
+    },
+    "state": {
+      "C": 0.7806,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8473,
+      "P": 0.5195
+    },
+    "scores": {
+      "consistency": 0.53,
+      "evasion": 0.524,
+      "realism": 0.772,
+      "adversarial": 0.581
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 42,
+    "question_snippet": "Oh, pharmacist in charge is --",
+    "state_delta": {
+      "C": -0.0002,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0004,
+      "P": -0.0021
+    },
+    "state": {
+      "C": 0.7804,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8477,
+      "P": 0.5174
+    },
+    "scores": {
+      "consistency": 0.53,
+      "evasion": 0.523,
+      "realism": 0.772,
+      "adversarial": 0.582
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 43,
+    "question_snippet": "Okay. And was one of those kind of",
+    "state_delta": {
+      "C": -0.0002,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0004,
+      "P": -0.002
+    },
+    "state": {
+      "C": 0.7802,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8481,
+      "P": 0.5154
+    },
+    "scores": {
+      "consistency": 0.53,
+      "evasion": 0.523,
+      "realism": 0.772,
+      "adversarial": 0.582
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 44,
+    "question_snippet": "Okay. So finishing off just that sentence: \"ABC Compliance Director committed to",
+    "state_delta": {
+      "C": -0.0002,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0004,
+      "P": -0.0019
+    },
+    "state": {
+      "C": 0.78,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8485,
+      "P": 0.5135
+    },
+    "scores": {
+      "consistency": 0.53,
+      "evasion": 0.523,
+      "realism": 0.772,
+      "adversarial": 0.582
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 45,
+    "question_snippet": "Okay. It sounds like the distributors didn't always give them to you, is that ri",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0004,
+      "P": -0.0018
+    },
+    "state": {
+      "C": 0.7799,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8489,
+      "P": 0.5117
+    },
+    "scores": {
+      "consistency": 0.53,
+      "evasion": 0.522,
+      "realism": 0.772,
+      "adversarial": 0.582
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 46,
+    "question_snippet": "Okay. So now looking at document 51, it appears to be an e-mail from Don Walker ",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0003,
+      "P": -0.0017
+    },
+    "state": {
+      "C": 0.7798,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8492,
+      "P": 0.51
+    },
+    "scores": {
+      "consistency": 0.531,
+      "evasion": 0.522,
+      "realism": 0.772,
+      "adversarial": 0.582
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 47,
+    "question_snippet": "-- would that be indicative of you that you might need to look a little bit clos",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0003,
+      "P": -0.0016
+    },
+    "state": {
+      "C": 0.7797,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8495,
+      "P": 0.5084
+    },
+    "scores": {
+      "consistency": 0.531,
+      "evasion": 0.522,
+      "realism": 0.772,
+      "adversarial": 0.582
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 48,
+    "question_snippet": "Understood, sir.",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0003,
+      "P": -0.0015
+    },
+    "state": {
+      "C": 0.7796,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8498,
+      "P": 0.5069
+    },
+    "scores": {
+      "consistency": 0.531,
+      "evasion": 0.521,
+      "realism": 0.772,
+      "adversarial": 0.582
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 49,
+    "question_snippet": "I'm just asking, sir, if that's a flag for you? MR. O'CONNOR: Objection. BY THE ",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0003,
+      "P": -0.0014
+    },
+    "state": {
+      "C": 0.7795,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8501,
+      "P": 0.5055
+    },
+    "scores": {
+      "consistency": 0.531,
+      "evasion": 0.521,
+      "realism": 0.772,
+      "adversarial": 0.582
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 50,
+    "question_snippet": "Don't you think somebody should ask those questions, though? MR. O'CONNOR: Objec",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0003,
+      "P": -0.0013
+    },
+    "state": {
+      "C": 0.7794,
+      "K": 0.4,
+      "A": 0.5,
+      "V": 0.7,
+      "R": 0.8504,
+      "P": 0.5042
+    },
+    "scores": {
+      "consistency": 0.531,
+      "evasion": 0.521,
+      "realism": 0.772,
+      "adversarial": 0.582
+    },
+    "events": [],
+    "tone": "immovable, hesitant",
+    "pressure": 0.1,
+    "question_type": "open"
+  }
+]

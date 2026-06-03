@@ -1,0 +1,1502 @@
+[
+  {
+    "turn": 1,
+    "question_snippet": "Good morning, Ms. New.",
+    "state_delta": {
+      "C": -0.01,
+      "K": 0.0,
+      "A": 0.0015,
+      "V": 0.0,
+      "R": 0.0006,
+      "P": 0.0
+    },
+    "state": {
+      "C": 0.79,
+      "K": 0.6,
+      "A": 0.4015,
+      "V": 0.5,
+      "R": 0.9506,
+      "P": 0.6
+    },
+    "scores": {
+      "consistency": 0.678,
+      "evasion": 0.32,
+      "realism": 0.766,
+      "adversarial": 0.551
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 2,
+    "question_snippet": "As you heard when we went on the record, my name is Gary Gotto, and I'm one of t",
+    "state_delta": {
+      "C": -0.0091,
+      "K": 0.0,
+      "A": 0.0014,
+      "V": 0.0,
+      "R": 0.0006,
+      "P": -0.0005
+    },
+    "state": {
+      "C": 0.7809,
+      "K": 0.6,
+      "A": 0.4029,
+      "V": 0.5,
+      "R": 0.9512,
+      "P": 0.5995
+    },
+    "scores": {
+      "consistency": 0.679,
+      "evasion": 0.32,
+      "realism": 0.771,
+      "adversarial": 0.551
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 3,
+    "question_snippet": "Could you tell me by whom are you employed?",
+    "state_delta": {
+      "C": -0.0082,
+      "K": 0.0,
+      "A": 0.0013,
+      "V": 0.0,
+      "R": 0.0005,
+      "P": -0.0011
+    },
+    "state": {
+      "C": 0.7727,
+      "K": 0.6,
+      "A": 0.4042,
+      "V": 0.5,
+      "R": 0.9517,
+      "P": 0.5984
+    },
+    "scores": {
+      "consistency": 0.679,
+      "evasion": 0.32,
+      "realism": 0.776,
+      "adversarial": 0.552
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 4,
+    "question_snippet": "Okay. And when did you leave Mallinckrodt?",
+    "state_delta": {
+      "C": -0.0171,
+      "K": 0.0,
+      "A": 0.0027,
+      "V": 0.0,
+      "R": 0.0011,
+      "P": -0.0032
+    },
+    "state": {
+      "C": 0.7556,
+      "K": 0.6,
+      "A": 0.4069,
+      "V": 0.5,
+      "R": 0.9528,
+      "P": 0.5952
+    },
+    "scores": {
+      "consistency": 0.679,
+      "evasion": 0.319,
+      "realism": 0.787,
+      "adversarial": 0.553
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.2,
+    "question_type": "closed"
+  },
+  {
+    "turn": 5,
+    "question_snippet": "And are you currently employed? Source:  https://www.industrydocuments.ucsf.edu/",
+    "state_delta": {
+      "C": -0.0059,
+      "K": 0.0,
+      "A": 0.0011,
+      "V": 0.0,
+      "R": 0.0005,
+      "P": -0.002
+    },
+    "state": {
+      "C": 0.7497,
+      "K": 0.6,
+      "A": 0.408,
+      "V": 0.5,
+      "R": 0.9533,
+      "P": 0.5932
+    },
+    "scores": {
+      "consistency": 0.679,
+      "evasion": 0.319,
+      "realism": 0.79,
+      "adversarial": 0.553
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 6,
+    "question_snippet": "Thank you. Have you ever given a deposition before?",
+    "state_delta": {
+      "C": -0.0053,
+      "K": 0.0,
+      "A": 0.001,
+      "V": 0.0,
+      "R": 0.0005,
+      "P": -0.0024
+    },
+    "state": {
+      "C": 0.7444,
+      "K": 0.6,
+      "A": 0.409,
+      "V": 0.5,
+      "R": 0.9538,
+      "P": 0.5908
+    },
+    "scores": {
+      "consistency": 0.68,
+      "evasion": 0.318,
+      "realism": 0.793,
+      "adversarial": 0.554
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 7,
+    "question_snippet": "Okay. And once? More than once? How many times?",
+    "state_delta": {
+      "C": -0.0049,
+      "K": 0.0,
+      "A": 0.0009,
+      "V": 0.0,
+      "R": 0.0004,
+      "P": -0.0028
+    },
+    "state": {
+      "C": 0.7395,
+      "K": 0.6,
+      "A": 0.4099,
+      "V": 0.5,
+      "R": 0.9542,
+      "P": 0.588
+    },
+    "scores": {
+      "consistency": 0.68,
+      "evasion": 0.318,
+      "realism": 0.796,
+      "adversarial": 0.554
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 8,
+    "question_snippet": "Great. Prior to joining Mallinckrodt in 1989, did you have any employment backgr",
+    "state_delta": {
+      "C": -0.0044,
+      "K": 0.0,
+      "A": 0.0009,
+      "V": 0.0,
+      "R": 0.0004,
+      "P": -0.0032
+    },
+    "state": {
+      "C": 0.7351,
+      "K": 0.6,
+      "A": 0.4108,
+      "V": 0.5,
+      "R": 0.9546,
+      "P": 0.5848
+    },
+    "scores": {
+      "consistency": 0.68,
+      "evasion": 0.317,
+      "realism": 0.799,
+      "adversarial": 0.554
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 9,
+    "question_snippet": "Okay. And again, prior to joining the pharmaceutical division, did your employme",
+    "state_delta": {
+      "C": -0.004,
+      "K": 0.0,
+      "A": 0.0008,
+      "V": 0.0,
+      "R": 0.0004,
+      "P": -0.0036
+    },
+    "state": {
+      "C": 0.7311,
+      "K": 0.6,
+      "A": 0.4116,
+      "V": 0.5,
+      "R": 0.955,
+      "P": 0.5812
+    },
+    "scores": {
+      "consistency": 0.68,
+      "evasion": 0.316,
+      "realism": 0.801,
+      "adversarial": 0.554
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 10,
+    "question_snippet": "And did you receive any -- were you eligible for any bonus or supplemental compe",
+    "state_delta": {
+      "C": -0.0036,
+      "K": 0.0,
+      "A": 0.0007,
+      "V": 0.0,
+      "R": 0.0004,
+      "P": -0.004
+    },
+    "state": {
+      "C": 0.7275,
+      "K": 0.6,
+      "A": 0.4123,
+      "V": 0.5,
+      "R": 0.9554,
+      "P": 0.5772
+    },
+    "scores": {
+      "consistency": 0.68,
+      "evasion": 0.315,
+      "realism": 0.803,
+      "adversarial": 0.555
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 11,
+    "question_snippet": "Okay. What were the circumstances under which you moved from regional to nationa",
+    "state_delta": {
+      "C": -0.0033,
+      "K": 0.0,
+      "A": 0.0007,
+      "V": 0.0,
+      "R": 0.0004,
+      "P": -0.0043
+    },
+    "state": {
+      "C": 0.7242,
+      "K": 0.6,
+      "A": 0.413,
+      "V": 0.5,
+      "R": 0.9558,
+      "P": 0.5729
+    },
+    "scores": {
+      "consistency": 0.681,
+      "evasion": 0.315,
+      "realism": 0.805,
+      "adversarial": 0.555
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 12,
+    "question_snippet": "And did you have specific accounts assigned to you?",
+    "state_delta": {
+      "C": -0.003,
+      "K": 0.0,
+      "A": 0.0007,
+      "V": 0.0,
+      "R": 0.0004,
+      "P": -0.0046
+    },
+    "state": {
+      "C": 0.7212,
+      "K": 0.6,
+      "A": 0.4137,
+      "V": 0.5,
+      "R": 0.9562,
+      "P": 0.5683
+    },
+    "scores": {
+      "consistency": 0.681,
+      "evasion": 0.314,
+      "realism": 0.807,
+      "adversarial": 0.555
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 13,
+    "question_snippet": "Okay. During the time you were national account manager, did you interact with t",
+    "state_delta": {
+      "C": -0.0027,
+      "K": 0.0,
+      "A": 0.0006,
+      "V": 0.0,
+      "R": 0.0003,
+      "P": -0.0049
+    },
+    "state": {
+      "C": 0.7185,
+      "K": 0.6,
+      "A": 0.4143,
+      "V": 0.5,
+      "R": 0.9565,
+      "P": 0.5634
+    },
+    "scores": {
+      "consistency": 0.681,
+      "evasion": 0.313,
+      "realism": 0.809,
+      "adversarial": 0.555
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 14,
+    "question_snippet": "One of the most significant generic customers. MR. GOTTO: Thank you. MR. DAVISON",
+    "state_delta": {
+      "C": -0.0025,
+      "K": 0.0,
+      "A": 0.0006,
+      "V": 0.0,
+      "R": 0.0003,
+      "P": -0.0051
+    },
+    "state": {
+      "C": 0.716,
+      "K": 0.6,
+      "A": 0.4149,
+      "V": 0.5,
+      "R": 0.9568,
+      "P": 0.5583
+    },
+    "scores": {
+      "consistency": 0.681,
+      "evasion": 0.312,
+      "realism": 0.81,
+      "adversarial": 0.555
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 15,
+    "question_snippet": "What can you recall some of those goals and objectives being? MR. DAVISON: Objec",
+    "state_delta": {
+      "C": -0.0022,
+      "K": 0.0,
+      "A": 0.0005,
+      "V": 0.0,
+      "R": 0.0003,
+      "P": -0.0054
+    },
+    "state": {
+      "C": 0.7138,
+      "K": 0.6,
+      "A": 0.4154,
+      "V": 0.5,
+      "R": 0.9571,
+      "P": 0.5529
+    },
+    "scores": {
+      "consistency": 0.681,
+      "evasion": 0.311,
+      "realism": 0.812,
+      "adversarial": 0.555
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 16,
+    "question_snippet": "Okay. During your time as a regional or national account manager or a director, ",
+    "state_delta": {
+      "C": -0.002,
+      "K": 0.0,
+      "A": 0.0005,
+      "V": 0.0,
+      "R": 0.0003,
+      "P": -0.0056
+    },
+    "state": {
+      "C": 0.7118,
+      "K": 0.6,
+      "A": 0.4159,
+      "V": 0.5,
+      "R": 0.9574,
+      "P": 0.5473
+    },
+    "scores": {
+      "consistency": 0.681,
+      "evasion": 0.309,
+      "realism": 0.813,
+      "adversarial": 0.556
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 17,
+    "question_snippet": "Did you have an understanding as to whether the position was being eliminated?",
+    "state_delta": {
+      "C": -0.0018,
+      "K": 0.0,
+      "A": 0.0005,
+      "V": 0.0,
+      "R": 0.0003,
+      "P": -0.0058
+    },
+    "state": {
+      "C": 0.71,
+      "K": 0.6,
+      "A": 0.4164,
+      "V": 0.5,
+      "R": 0.9577,
+      "P": 0.5415
+    },
+    "scores": {
+      "consistency": 0.681,
+      "evasion": 0.308,
+      "realism": 0.814,
+      "adversarial": 0.556
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 18,
+    "question_snippet": "Okay. Was successfully targeting and obtaining approval for new business one of ",
+    "state_delta": {
+      "C": -0.0017,
+      "K": 0.0,
+      "A": 0.0004,
+      "V": 0.0,
+      "R": 0.0003,
+      "P": -0.0059
+    },
+    "state": {
+      "C": 0.7083,
+      "K": 0.6,
+      "A": 0.4168,
+      "V": 0.5,
+      "R": 0.958,
+      "P": 0.5356
+    },
+    "scores": {
+      "consistency": 0.682,
+      "evasion": 0.307,
+      "realism": 0.815,
+      "adversarial": 0.556
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 19,
+    "question_snippet": "So they were buying for purposes of reselling to third parties, right? MR. DAVIS",
+    "state_delta": {
+      "C": -0.0015,
+      "K": 0.0,
+      "A": 0.0004,
+      "V": 0.0,
+      "R": 0.0003,
+      "P": -0.0061
+    },
+    "state": {
+      "C": 0.7068,
+      "K": 0.6,
+      "A": 0.4172,
+      "V": 0.5,
+      "R": 0.9583,
+      "P": 0.5295
+    },
+    "scores": {
+      "consistency": 0.682,
+      "evasion": 0.306,
+      "realism": 0.816,
+      "adversarial": 0.556
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 20,
+    "question_snippet": "Okay. But did you attend those two essentially every year?",
+    "state_delta": {
+      "C": -0.0014,
+      "K": 0.0,
+      "A": 0.0004,
+      "V": 0.0,
+      "R": 0.0003,
+      "P": -0.0062
+    },
+    "state": {
+      "C": 0.7054,
+      "K": 0.6,
+      "A": 0.4176,
+      "V": 0.5,
+      "R": 0.9586,
+      "P": 0.5233
+    },
+    "scores": {
+      "consistency": 0.682,
+      "evasion": 0.305,
+      "realism": 0.817,
+      "adversarial": 0.556
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 21,
+    "question_snippet": "Okay. Did you have an understanding as to whether the algorithm that was employe",
+    "state_delta": {
+      "C": -0.0012,
+      "K": 0.0,
+      "A": 0.0004,
+      "V": 0.0,
+      "R": 0.0002,
+      "P": -0.0064
+    },
+    "state": {
+      "C": 0.7042,
+      "K": 0.6,
+      "A": 0.418,
+      "V": 0.5,
+      "R": 0.9588,
+      "P": 0.5169
+    },
+    "scores": {
+      "consistency": 0.682,
+      "evasion": 0.303,
+      "realism": 0.817,
+      "adversarial": 0.556
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 22,
+    "question_snippet": "Okay. So if, for example, in 2010 someone at Mallinckrodt had come to you and sa",
+    "state_delta": {
+      "C": -0.0011,
+      "K": 0.0,
+      "A": 0.0003,
+      "V": 0.0,
+      "R": 0.0002,
+      "P": -0.006
+    },
+    "state": {
+      "C": 0.7031,
+      "K": 0.6,
+      "A": 0.4183,
+      "V": 0.5,
+      "R": 0.959,
+      "P": 0.5109
+    },
+    "scores": {
+      "consistency": 0.682,
+      "evasion": 0.302,
+      "realism": 0.818,
+      "adversarial": 0.556
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 23,
+    "question_snippet": "As was Victor Borelli, correct?",
+    "state_delta": {
+      "C": -0.001,
+      "K": 0.0,
+      "A": 0.0003,
+      "V": 0.0,
+      "R": 0.0002,
+      "P": -0.0056
+    },
+    "state": {
+      "C": 0.7021,
+      "K": 0.6,
+      "A": 0.4186,
+      "V": 0.5,
+      "R": 0.9592,
+      "P": 0.5053
+    },
+    "scores": {
+      "consistency": 0.682,
+      "evasion": 0.301,
+      "realism": 0.819,
+      "adversarial": 0.556
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 24,
+    "question_snippet": "So in your cover e-mail, when you make reference to \"I think it supports our sus",
+    "state_delta": {
+      "C": -0.0009,
+      "K": 0.0,
+      "A": 0.0003,
+      "V": 0.0,
+      "R": 0.0002,
+      "P": -0.0053
+    },
+    "state": {
+      "C": 0.7012,
+      "K": 0.6,
+      "A": 0.4189,
+      "V": 0.5,
+      "R": 0.9594,
+      "P": 0.5
+    },
+    "scores": {
+      "consistency": 0.682,
+      "evasion": 0.3,
+      "realism": 0.819,
+      "adversarial": 0.556
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 25,
+    "question_snippet": "Okay. And do you recall Mallinckrodt resisting those proposed changes when they ",
+    "state_delta": {
+      "C": -0.0009,
+      "K": 0.0,
+      "A": 0.0003,
+      "V": 0.0,
+      "R": 0.0002,
+      "P": -0.005
+    },
+    "state": {
+      "C": 0.7003,
+      "K": 0.6,
+      "A": 0.4192,
+      "V": 0.5,
+      "R": 0.9596,
+      "P": 0.495
+    },
+    "scores": {
+      "consistency": 0.682,
+      "evasion": 0.299,
+      "realism": 0.82,
+      "adversarial": 0.556
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 26,
+    "question_snippet": "Do you see that? Yes, sir. Do you recall being aware of the circumstance describ",
+    "state_delta": {
+      "C": -0.0008,
+      "K": 0.0,
+      "A": 0.0003,
+      "V": 0.0,
+      "R": 0.0002,
+      "P": -0.0047
+    },
+    "state": {
+      "C": 0.6995,
+      "K": 0.6,
+      "A": 0.4195,
+      "V": 0.5,
+      "R": 0.9598,
+      "P": 0.4903
+    },
+    "scores": {
+      "consistency": 0.682,
+      "evasion": 0.298,
+      "realism": 0.82,
+      "adversarial": 0.556
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 27,
+    "question_snippet": "Who do you recognize?",
+    "state_delta": {
+      "C": -0.0007,
+      "K": 0.0,
+      "A": 0.0002,
+      "V": 0.0,
+      "R": 0.0002,
+      "P": -0.0044
+    },
+    "state": {
+      "C": 0.6988,
+      "K": 0.6,
+      "A": 0.4197,
+      "V": 0.5,
+      "R": 0.96,
+      "P": 0.4859
+    },
+    "scores": {
+      "consistency": 0.682,
+      "evasion": 0.297,
+      "realism": 0.821,
+      "adversarial": 0.556
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 28,
+    "question_snippet": "You recall becoming aware of that at some point?",
+    "state_delta": {
+      "C": -0.0006,
+      "K": 0.0,
+      "A": 0.0002,
+      "V": 0.0,
+      "R": 0.0002,
+      "P": -0.0042
+    },
+    "state": {
+      "C": 0.6982,
+      "K": 0.6,
+      "A": 0.4199,
+      "V": 0.5,
+      "R": 0.9602,
+      "P": 0.4817
+    },
+    "scores": {
+      "consistency": 0.682,
+      "evasion": 0.296,
+      "realism": 0.821,
+      "adversarial": 0.556
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 29,
+    "question_snippet": "Let's go to the next slide, please. The next slide, \"Retail national account man",
+    "state_delta": {
+      "C": -0.0006,
+      "K": 0.0,
+      "A": 0.0002,
+      "V": 0.0,
+      "R": 0.0002,
+      "P": -0.0039
+    },
+    "state": {
+      "C": 0.6976,
+      "K": 0.6,
+      "A": 0.4201,
+      "V": 0.5,
+      "R": 0.9604,
+      "P": 0.4778
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.296,
+      "realism": 0.821,
+      "adversarial": 0.556
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 30,
+    "question_snippet": "Okay. And was that allowance given to them?",
+    "state_delta": {
+      "C": -0.0005,
+      "K": 0.0,
+      "A": 0.0002,
+      "V": 0.0,
+      "R": 0.0002,
+      "P": -0.0037
+    },
+    "state": {
+      "C": 0.6971,
+      "K": 0.6,
+      "A": 0.4203,
+      "V": 0.5,
+      "R": 0.9606,
+      "P": 0.4741
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.295,
+      "realism": 0.822,
+      "adversarial": 0.556
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 31,
+    "question_snippet": "Okay. So apart from the buyer, who would be some of the -- I understand how the ",
+    "state_delta": {
+      "C": -0.0005,
+      "K": 0.0,
+      "A": 0.0002,
+      "V": 0.0,
+      "R": 0.0002,
+      "P": -0.0035
+    },
+    "state": {
+      "C": 0.6966,
+      "K": 0.6,
+      "A": 0.4205,
+      "V": 0.5,
+      "R": 0.9608,
+      "P": 0.4706
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.294,
+      "realism": 0.822,
+      "adversarial": 0.556
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 32,
+    "question_snippet": "Okay. So do you recall generally, during the time you were national account mana",
+    "state_delta": {
+      "C": -0.0004,
+      "K": 0.0,
+      "A": 0.0002,
+      "V": 0.0,
+      "R": 0.0001,
+      "P": -0.0033
+    },
+    "state": {
+      "C": 0.6962,
+      "K": 0.6,
+      "A": 0.4207,
+      "V": 0.5,
+      "R": 0.9609,
+      "P": 0.4673
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.293,
+      "realism": 0.822,
+      "adversarial": 0.556
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 33,
+    "question_snippet": "Okay. And so did you participate in the preparation of this pocket card set?",
+    "state_delta": {
+      "C": -0.0004,
+      "K": 0.0,
+      "A": 0.0002,
+      "V": 0.0,
+      "R": 0.0001,
+      "P": -0.0031
+    },
+    "state": {
+      "C": 0.6958,
+      "K": 0.6,
+      "A": 0.4209,
+      "V": 0.5,
+      "R": 0.961,
+      "P": 0.4642
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.293,
+      "realism": 0.823,
+      "adversarial": 0.556
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 34,
+    "question_snippet": "Okay. You can set that aside. (Mallinckrodt-New Exhibit 19 marked for identifica",
+    "state_delta": {
+      "C": -0.0004,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0,
+      "R": 0.0001,
+      "P": -0.0029
+    },
+    "state": {
+      "C": 0.6954,
+      "K": 0.6,
+      "A": 0.421,
+      "V": 0.5,
+      "R": 0.9611,
+      "P": 0.4613
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.292,
+      "realism": 0.823,
+      "adversarial": 0.556
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 35,
+    "question_snippet": "I was on the next to last page.",
+    "state_delta": {
+      "C": -0.0003,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0,
+      "R": 0.0001,
+      "P": -0.0028
+    },
+    "state": {
+      "C": 0.6951,
+      "K": 0.6,
+      "A": 0.4211,
+      "V": 0.5,
+      "R": 0.9612,
+      "P": 0.4585
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.292,
+      "realism": 0.823,
+      "adversarial": 0.556
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 36,
+    "question_snippet": "Okay. And is Advantage Logistics a name that's familiar to you?",
+    "state_delta": {
+      "C": -0.0003,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0,
+      "R": 0.0001,
+      "P": -0.0026
+    },
+    "state": {
+      "C": 0.6948,
+      "K": 0.6,
+      "A": 0.4212,
+      "V": 0.5,
+      "R": 0.9613,
+      "P": 0.4559
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.291,
+      "realism": 0.823,
+      "adversarial": 0.556
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 37,
+    "question_snippet": "Do you recall learning from Ms. Harper, whether from this e-mail or otherwise, o",
+    "state_delta": {
+      "C": -0.0003,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0,
+      "R": 0.0001,
+      "P": -0.0024
+    },
+    "state": {
+      "C": 0.6945,
+      "K": 0.6,
+      "A": 0.4213,
+      "V": 0.5,
+      "R": 0.9614,
+      "P": 0.4535
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.291,
+      "realism": 0.823,
+      "adversarial": 0.556
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 38,
+    "question_snippet": "Okay. Do you recall this particular circumstance?",
+    "state_delta": {
+      "C": -0.0002,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0,
+      "R": 0.0001,
+      "P": -0.0023
+    },
+    "state": {
+      "C": 0.6943,
+      "K": 0.6,
+      "A": 0.4214,
+      "V": 0.5,
+      "R": 0.9615,
+      "P": 0.4512
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.29,
+      "realism": 0.823,
+      "adversarial": 0.556
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 39,
+    "question_snippet": "Okay. So at least in the case of Lake Erie Medical d/b/a Quality Care Source:  h",
+    "state_delta": {
+      "C": -0.0002,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0,
+      "R": 0.0001,
+      "P": -0.0022
+    },
+    "state": {
+      "C": 0.6941,
+      "K": 0.6,
+      "A": 0.4215,
+      "V": 0.5,
+      "R": 0.9616,
+      "P": 0.449
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.29,
+      "realism": 0.824,
+      "adversarial": 0.556
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 40,
+    "question_snippet": "Okay. You can set that aside. (Mallinckrodt-New Exhibit 33 marked for identifica",
+    "state_delta": {
+      "C": -0.0002,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0,
+      "R": 0.0001,
+      "P": -0.002
+    },
+    "state": {
+      "C": 0.6939,
+      "K": 0.6,
+      "A": 0.4216,
+      "V": 0.5,
+      "R": 0.9617,
+      "P": 0.447
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.289,
+      "realism": 0.824,
+      "adversarial": 0.556
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 41,
+    "question_snippet": "Okay. Based on the SOMS team review? Source:  https://www.industrydocuments.ucsf",
+    "state_delta": {
+      "C": -0.0002,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0,
+      "R": 0.0001,
+      "P": -0.0019
+    },
+    "state": {
+      "C": 0.6937,
+      "K": 0.6,
+      "A": 0.4217,
+      "V": 0.5,
+      "R": 0.9618,
+      "P": 0.4451
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.289,
+      "realism": 0.824,
+      "adversarial": 0.556
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 42,
+    "question_snippet": "Okay. Okay. You can set that aside. (Mallinckrodt-New Exhibit 39 marked for iden",
+    "state_delta": {
+      "C": -0.0002,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0,
+      "R": 0.0001,
+      "P": -0.0018
+    },
+    "state": {
+      "C": 0.6935,
+      "K": 0.6,
+      "A": 0.4218,
+      "V": 0.5,
+      "R": 0.9619,
+      "P": 0.4433
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.289,
+      "realism": 0.824,
+      "adversarial": 0.556
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 43,
+    "question_snippet": "Are you aware of that?",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0,
+      "R": 0.0001,
+      "P": -0.0017
+    },
+    "state": {
+      "C": 0.6934,
+      "K": 0.6,
+      "A": 0.4219,
+      "V": 0.5,
+      "R": 0.962,
+      "P": 0.4416
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.288,
+      "realism": 0.824,
+      "adversarial": 0.556
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 44,
+    "question_snippet": "To your knowledge, did you ever become aware of any red flags that you ever repo",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0,
+      "R": 0.0001,
+      "P": -0.0016
+    },
+    "state": {
+      "C": 0.6933,
+      "K": 0.6,
+      "A": 0.422,
+      "V": 0.5,
+      "R": 0.9621,
+      "P": 0.44
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.288,
+      "realism": 0.824,
+      "adversarial": 0.556
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 45,
+    "question_snippet": "\"Fiscal year '15.\"",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0,
+      "R": 0.0001,
+      "P": -0.0015
+    },
+    "state": {
+      "C": 0.6932,
+      "K": 0.6,
+      "A": 0.4221,
+      "V": 0.5,
+      "R": 0.9622,
+      "P": 0.4385
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.288,
+      "realism": 0.824,
+      "adversarial": 0.556
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 46,
+    "question_snippet": "To your knowledge, was the ALL IN program -- was a goal of that program to help ",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0,
+      "R": 0.0001,
+      "P": -0.0014
+    },
+    "state": {
+      "C": 0.6931,
+      "K": 0.6,
+      "A": 0.4222,
+      "V": 0.5,
+      "R": 0.9623,
+      "P": 0.4371
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.287,
+      "realism": 0.824,
+      "adversarial": 0.556
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 47,
+    "question_snippet": "Well, do you know whether Mallinckrodt performed site visits at all retail pharm",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0,
+      "R": 0.0001,
+      "P": -0.0014
+    },
+    "state": {
+      "C": 0.693,
+      "K": 0.6,
+      "A": 0.4223,
+      "V": 0.5,
+      "R": 0.9624,
+      "P": 0.4357
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.287,
+      "realism": 0.824,
+      "adversarial": 0.556
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 48,
+    "question_snippet": "-- went and visited that",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0,
+      "R": 0.0001,
+      "P": -0.0013
+    },
+    "state": {
+      "C": 0.6929,
+      "K": 0.6,
+      "A": 0.4224,
+      "V": 0.5,
+      "R": 0.9625,
+      "P": 0.4344
+    },
+    "scores": {
+      "consistency": 0.684,
+      "evasion": 0.287,
+      "realism": 0.824,
+      "adversarial": 0.556
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 49,
+    "question_snippet": "And what is that?",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0001,
+      "P": -0.0012
+    },
+    "state": {
+      "C": 0.6928,
+      "K": 0.6,
+      "A": 0.4224,
+      "V": 0.5,
+      "R": 0.9626,
+      "P": 0.4332
+    },
+    "scores": {
+      "consistency": 0.684,
+      "evasion": 0.287,
+      "realism": 0.824,
+      "adversarial": 0.557
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 50,
+    "question_snippet": "Okay. Do you recall what aspect of the -- the program Walmart felt would be a po",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": 0.0,
+      "V": 0.0,
+      "R": 0.0001,
+      "P": -0.0011
+    },
+    "state": {
+      "C": 0.6927,
+      "K": 0.6,
+      "A": 0.4224,
+      "V": 0.5,
+      "R": 0.9627,
+      "P": 0.4321
+    },
+    "scores": {
+      "consistency": 0.684,
+      "evasion": 0.286,
+      "realism": 0.824,
+      "adversarial": 0.557
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  }
+]

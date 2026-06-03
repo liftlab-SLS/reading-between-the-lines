@@ -1,0 +1,1512 @@
+[
+  {
+    "turn": 1,
+    "question_snippet": "Good morning. We met earlier, 09:11:05 just a moment ago. 09:11:06 Could you ple",
+    "state_delta": {
+      "C": -0.01,
+      "K": 0.0,
+      "A": 0.0015,
+      "V": 0.0,
+      "R": 0.0006,
+      "P": 0.0
+    },
+    "state": {
+      "C": 0.79,
+      "K": 0.6,
+      "A": 0.4015,
+      "V": 0.5,
+      "R": 0.9506,
+      "P": 0.6
+    },
+    "scores": {
+      "consistency": 0.678,
+      "evasion": 0.32,
+      "realism": 0.766,
+      "adversarial": 0.551
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 2,
+    "question_snippet": "Ms. Harper, where do you 09:11:14 currently reside? 09:11:16",
+    "state_delta": {
+      "C": -0.0091,
+      "K": 0.0,
+      "A": 0.0014,
+      "V": 0.0,
+      "R": 0.0006,
+      "P": -0.0005
+    },
+    "state": {
+      "C": 0.7809,
+      "K": 0.6,
+      "A": 0.4029,
+      "V": 0.5,
+      "R": 0.9512,
+      "P": 0.5995
+    },
+    "scores": {
+      "consistency": 0.679,
+      "evasion": 0.32,
+      "realism": 0.771,
+      "adversarial": 0.551
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 3,
+    "question_snippet": "Okay. And I know that you have 09:11:19 had your deposition taken at least once ",
+    "state_delta": {
+      "C": -0.0082,
+      "K": 0.0,
+      "A": 0.0013,
+      "V": 0.0,
+      "R": 0.0005,
+      "P": -0.0011
+    },
+    "state": {
+      "C": 0.7727,
+      "K": 0.6,
+      "A": 0.4042,
+      "V": 0.5,
+      "R": 0.9517,
+      "P": 0.5984
+    },
+    "scores": {
+      "consistency": 0.679,
+      "evasion": 0.32,
+      "realism": 0.776,
+      "adversarial": 0.552
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 4,
+    "question_snippet": "Okay. So how many times have 09:11:37 you been deposed? 09:11:38",
+    "state_delta": {
+      "C": -0.0075,
+      "K": 0.0,
+      "A": 0.0012,
+      "V": 0.0,
+      "R": 0.0005,
+      "P": -0.0016
+    },
+    "state": {
+      "C": 0.7652,
+      "K": 0.6,
+      "A": 0.4054,
+      "V": 0.5,
+      "R": 0.9522,
+      "P": 0.5968
+    },
+    "scores": {
+      "consistency": 0.679,
+      "evasion": 0.319,
+      "realism": 0.781,
+      "adversarial": 0.552
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 5,
+    "question_snippet": "Okay. So you understand 09:11:40 Source:  https://www.industrydocuments.ucsf.edu",
+    "state_delta": {
+      "C": -0.0068,
+      "K": 0.0,
+      "A": 0.0011,
+      "V": 0.0,
+      "R": 0.0005,
+      "P": -0.002
+    },
+    "state": {
+      "C": 0.7584,
+      "K": 0.6,
+      "A": 0.4065,
+      "V": 0.5,
+      "R": 0.9527,
+      "P": 0.5948
+    },
+    "scores": {
+      "consistency": 0.679,
+      "evasion": 0.319,
+      "realism": 0.785,
+      "adversarial": 0.553
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 6,
+    "question_snippet": "And to the extent I ask a yes 09:12:05 or no question, I would ask that you actu",
+    "state_delta": {
+      "C": -0.0062,
+      "K": 0.0,
+      "A": 0.0011,
+      "V": 0.0,
+      "R": 0.0005,
+      "P": -0.0025
+    },
+    "state": {
+      "C": 0.7522,
+      "K": 0.6,
+      "A": 0.4076,
+      "V": 0.5,
+      "R": 0.9532,
+      "P": 0.5923
+    },
+    "scores": {
+      "consistency": 0.679,
+      "evasion": 0.318,
+      "realism": 0.789,
+      "adversarial": 0.553
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 7,
+    "question_snippet": "Okay. At the time you joined 09:19:37 in 2001, the approximate 2001 time period,",
+    "state_delta": {
+      "C": -0.0056,
+      "K": 0.0,
+      "A": 0.001,
+      "V": 0.0,
+      "R": 0.0005,
+      "P": -0.0029
+    },
+    "state": {
+      "C": 0.7466,
+      "K": 0.6,
+      "A": 0.4086,
+      "V": 0.5,
+      "R": 0.9537,
+      "P": 0.5894
+    },
+    "scores": {
+      "consistency": 0.68,
+      "evasion": 0.318,
+      "realism": 0.792,
+      "adversarial": 0.553
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 8,
+    "question_snippet": ". I  see. 09: 27: 20 So i n ot her w ords,  you' re 09: 27: 20 get t i ng and re",
+    "state_delta": {
+      "C": -0.0051,
+      "K": 0.0,
+      "A": 0.0009,
+      "V": 0.0,
+      "R": 0.0004,
+      "P": -0.0033
+    },
+    "state": {
+      "C": 0.7415,
+      "K": 0.6,
+      "A": 0.4095,
+      "V": 0.5,
+      "R": 0.9541,
+      "P": 0.5861
+    },
+    "scores": {
+      "consistency": 0.68,
+      "evasion": 0.317,
+      "realism": 0.795,
+      "adversarial": 0.554
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 9,
+    "question_snippet": "Okay. Since when? 09:36:05",
+    "state_delta": {
+      "C": -0.0046,
+      "K": 0.0,
+      "A": 0.0009,
+      "V": 0.0,
+      "R": 0.0004,
+      "P": -0.0037
+    },
+    "state": {
+      "C": 0.7369,
+      "K": 0.6,
+      "A": 0.4104,
+      "V": 0.5,
+      "R": 0.9545,
+      "P": 0.5824
+    },
+    "scores": {
+      "consistency": 0.68,
+      "evasion": 0.316,
+      "realism": 0.798,
+      "adversarial": 0.554
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 10,
+    "question_snippet": "Okay. And would it also be 09:48:07 fair to say that up to that point, DEA 09:48",
+    "state_delta": {
+      "C": -0.0042,
+      "K": 0.0,
+      "A": 0.0008,
+      "V": 0.0,
+      "R": 0.0004,
+      "P": -0.004
+    },
+    "state": {
+      "C": 0.7327,
+      "K": 0.6,
+      "A": 0.4112,
+      "V": 0.5,
+      "R": 0.9549,
+      "P": 0.5784
+    },
+    "scores": {
+      "consistency": 0.68,
+      "evasion": 0.316,
+      "realism": 0.8,
+      "adversarial": 0.554
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 11,
+    "question_snippet": "Now, you mentioned some names 10:01:54 of people that have been deposed previous",
+    "state_delta": {
+      "C": -0.0038,
+      "K": 0.0,
+      "A": 0.0008,
+      "V": 0.0,
+      "R": 0.0004,
+      "P": -0.0043
+    },
+    "state": {
+      "C": 0.7289,
+      "K": 0.6,
+      "A": 0.412,
+      "V": 0.5,
+      "R": 0.9553,
+      "P": 0.5741
+    },
+    "scores": {
+      "consistency": 0.68,
+      "evasion": 0.315,
+      "realism": 0.803,
+      "adversarial": 0.555
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 12,
+    "question_snippet": "Welcome back from the break, 10:35:46 Ms. Harper. 10:35:49",
+    "state_delta": {
+      "C": -0.0034,
+      "K": 0.0,
+      "A": 0.0007,
+      "V": 0.0,
+      "R": 0.0004,
+      "P": -0.0046
+    },
+    "state": {
+      "C": 0.7255,
+      "K": 0.6,
+      "A": 0.4127,
+      "V": 0.5,
+      "R": 0.9557,
+      "P": 0.5695
+    },
+    "scores": {
+      "consistency": 0.681,
+      "evasion": 0.314,
+      "realism": 0.805,
+      "adversarial": 0.555
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 13,
+    "question_snippet": ". O kay. And regardi ng 10: 44: 47 M al l i nckrodt ' s SO M program ,  you m en",
+    "state_delta": {
+      "C": -0.0031,
+      "K": 0.0,
+      "A": 0.0007,
+      "V": 0.0,
+      "R": 0.0004,
+      "P": -0.0049
+    },
+    "state": {
+      "C": 0.7224,
+      "K": 0.6,
+      "A": 0.4134,
+      "V": 0.5,
+      "R": 0.9561,
+      "P": 0.5646
+    },
+    "scores": {
+      "consistency": 0.681,
+      "evasion": 0.313,
+      "realism": 0.807,
+      "adversarial": 0.555
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 14,
+    "question_snippet": "And this comprises the entire 10:57:31 controlled substance compliance team? 10:",
+    "state_delta": {
+      "C": -0.0028,
+      "K": 0.0,
+      "A": 0.0006,
+      "V": 0.0,
+      "R": 0.0003,
+      "P": -0.0052
+    },
+    "state": {
+      "C": 0.7196,
+      "K": 0.6,
+      "A": 0.414,
+      "V": 0.5,
+      "R": 0.9564,
+      "P": 0.5594
+    },
+    "scores": {
+      "consistency": 0.681,
+      "evasion": 0.312,
+      "realism": 0.808,
+      "adversarial": 0.555
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 15,
+    "question_snippet": "Okay. I understand. 11:09:25 And did you have any -- a 11:09:26 specific involve",
+    "state_delta": {
+      "C": -0.0026,
+      "K": 0.0,
+      "A": 0.0006,
+      "V": 0.0,
+      "R": 0.0003,
+      "P": -0.0054
+    },
+    "state": {
+      "C": 0.717,
+      "K": 0.6,
+      "A": 0.4146,
+      "V": 0.5,
+      "R": 0.9567,
+      "P": 0.554
+    },
+    "scores": {
+      "consistency": 0.681,
+      "evasion": 0.311,
+      "realism": 0.81,
+      "adversarial": 0.555
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 16,
+    "question_snippet": "And you participated in it? 11:23:33",
+    "state_delta": {
+      "C": -0.0023,
+      "K": 0.0,
+      "A": 0.0006,
+      "V": 0.0,
+      "R": 0.0003,
+      "P": -0.0056
+    },
+    "state": {
+      "C": 0.7147,
+      "K": 0.6,
+      "A": 0.4152,
+      "V": 0.5,
+      "R": 0.957,
+      "P": 0.5484
+    },
+    "scores": {
+      "consistency": 0.681,
+      "evasion": 0.31,
+      "realism": 0.811,
+      "adversarial": 0.555
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 17,
+    "question_snippet": "Okay. So was one of the 11:37:19 reasons why you were putting more attention 11:",
+    "state_delta": {
+      "C": -0.0021,
+      "K": 0.0,
+      "A": 0.0005,
+      "V": 0.0,
+      "R": 0.0003,
+      "P": -0.0058
+    },
+    "state": {
+      "C": 0.7126,
+      "K": 0.6,
+      "A": 0.4157,
+      "V": 0.5,
+      "R": 0.9573,
+      "P": 0.5426
+    },
+    "scores": {
+      "consistency": 0.681,
+      "evasion": 0.309,
+      "realism": 0.812,
+      "adversarial": 0.555
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 18,
+    "question_snippet": "Would you agree with that 11:53:03 statement? 11:53:04",
+    "state_delta": {
+      "C": -0.0375,
+      "K": 0.0,
+      "A": 0.0005,
+      "V": -0.1,
+      "R": 0.0003,
+      "P": -0.006
+    },
+    "state": {
+      "C": 0.6751,
+      "K": 0.6,
+      "A": 0.4162,
+      "V": 0.4,
+      "R": 0.9576,
+      "P": 0.5366
+    },
+    "scores": {
+      "consistency": 0.681,
+      "evasion": 0.367,
+      "realism": 0.835,
+      "adversarial": 0.559
+    },
+    "events": [
+      {
+        "label": "PERSONALITY SHIFT",
+        "detail": "Verbosity \u25bc0.10"
+      }
+    ],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "leading"
+  },
+  {
+    "turn": 19,
+    "question_snippet": "Okay. So a peculiar order, if 12:20:19 I understand your testimony correctly, is",
+    "state_delta": {
+      "C": 0.0016,
+      "K": 0.0,
+      "A": 0.0004,
+      "V": 0.005,
+      "R": 0.0003,
+      "P": -0.0062
+    },
+    "state": {
+      "C": 0.6767,
+      "K": 0.6,
+      "A": 0.4166,
+      "V": 0.405,
+      "R": 0.9579,
+      "P": 0.5304
+    },
+    "scores": {
+      "consistency": 0.681,
+      "evasion": 0.363,
+      "realism": 0.834,
+      "adversarial": 0.559
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 20,
+    "question_snippet": "Okay. In the next paragraph, 12:35:56 Ms. Stewart indicates that \"the sales forc",
+    "state_delta": {
+      "C": 0.0014,
+      "K": 0.0,
+      "A": 0.0004,
+      "V": 0.0048,
+      "R": 0.0003,
+      "P": -0.0063
+    },
+    "state": {
+      "C": 0.6781,
+      "K": 0.6,
+      "A": 0.417,
+      "V": 0.4098,
+      "R": 0.9582,
+      "P": 0.5241
+    },
+    "scores": {
+      "consistency": 0.682,
+      "evasion": 0.359,
+      "realism": 0.833,
+      "adversarial": 0.559
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 21,
+    "question_snippet": "In terms of we had discussed 13:37:36 the fact that you had sent monthly reports",
+    "state_delta": {
+      "C": 0.0013,
+      "K": 0.0,
+      "A": 0.0004,
+      "V": 0.0045,
+      "R": 0.0003,
+      "P": -0.0064
+    },
+    "state": {
+      "C": 0.6794,
+      "K": 0.6,
+      "A": 0.4174,
+      "V": 0.4143,
+      "R": 0.9585,
+      "P": 0.5177
+    },
+    "scores": {
+      "consistency": 0.682,
+      "evasion": 0.355,
+      "realism": 0.832,
+      "adversarial": 0.559
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 22,
+    "question_snippet": "U ESTI O N S BY M R.  KO : 13: 51: 36",
+    "state_delta": {
+      "C": 0.0012,
+      "K": 0.0,
+      "A": 0.0004,
+      "V": 0.0043,
+      "R": 0.0002,
+      "P": -0.006
+    },
+    "state": {
+      "C": 0.6806,
+      "K": 0.6,
+      "A": 0.4178,
+      "V": 0.4186,
+      "R": 0.9587,
+      "P": 0.5117
+    },
+    "scores": {
+      "consistency": 0.682,
+      "evasion": 0.351,
+      "realism": 0.832,
+      "adversarial": 0.558
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 23,
+    "question_snippet": "Okay. Fair enough. 14:03:36 (Mallinckrodt-Harper Exhibit 11 14:03:42 marked for ",
+    "state_delta": {
+      "C": 0.001,
+      "K": 0.0,
+      "A": 0.0003,
+      "V": 0.0041,
+      "R": 0.0002,
+      "P": -0.0057
+    },
+    "state": {
+      "C": 0.6816,
+      "K": 0.6,
+      "A": 0.4181,
+      "V": 0.4227,
+      "R": 0.9589,
+      "P": 0.506
+    },
+    "scores": {
+      "consistency": 0.682,
+      "evasion": 0.348,
+      "realism": 0.831,
+      "adversarial": 0.558
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 24,
+    "question_snippet": "Okay. And in response to 14:13:15 Mr. Ratliff's e-mail, Mr. Rausch says, \"Bill, ",
+    "state_delta": {
+      "C": 0.001,
+      "K": 0.0,
+      "A": 0.0003,
+      "V": 0.0039,
+      "R": 0.0002,
+      "P": -0.0053
+    },
+    "state": {
+      "C": 0.6826,
+      "K": 0.6,
+      "A": 0.4184,
+      "V": 0.4266,
+      "R": 0.9591,
+      "P": 0.5007
+    },
+    "scores": {
+      "consistency": 0.682,
+      "evasion": 0.344,
+      "realism": 0.83,
+      "adversarial": 0.558
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 25,
+    "question_snippet": "Do you know why it took so 14:26:49 along to enact that policy? 14:26:51",
+    "state_delta": {
+      "C": 0.0009,
+      "K": 0.0,
+      "A": 0.0003,
+      "V": 0.0037,
+      "R": 0.0002,
+      "P": -0.005
+    },
+    "state": {
+      "C": 0.6835,
+      "K": 0.6,
+      "A": 0.4187,
+      "V": 0.4303,
+      "R": 0.9593,
+      "P": 0.4957
+    },
+    "scores": {
+      "consistency": 0.682,
+      "evasion": 0.341,
+      "realism": 0.83,
+      "adversarial": 0.558
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 26,
+    "question_snippet": "Okay. And you say that you 14:42:41 needed -- at times you needed guidance from ",
+    "state_delta": {
+      "C": 0.0008,
+      "K": 0.0,
+      "A": 0.0003,
+      "V": 0.0035,
+      "R": 0.0002,
+      "P": -0.0048
+    },
+    "state": {
+      "C": 0.6843,
+      "K": 0.6,
+      "A": 0.419,
+      "V": 0.4338,
+      "R": 0.9595,
+      "P": 0.4909
+    },
+    "scores": {
+      "consistency": 0.682,
+      "evasion": 0.338,
+      "realism": 0.829,
+      "adversarial": 0.558
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 27,
+    "question_snippet": "And it's referred to in that 15:13:17 manner because there was an earthquake tha",
+    "state_delta": {
+      "C": 0.0007,
+      "K": 0.0,
+      "A": 0.0003,
+      "V": 0.0033,
+      "R": 0.0002,
+      "P": -0.0045
+    },
+    "state": {
+      "C": 0.685,
+      "K": 0.6,
+      "A": 0.4193,
+      "V": 0.4371,
+      "R": 0.9597,
+      "P": 0.4864
+    },
+    "scores": {
+      "consistency": 0.682,
+      "evasion": 0.335,
+      "realism": 0.829,
+      "adversarial": 0.558
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 28,
+    "question_snippet": "Okay. And you did reference a 15:28:23 work stoppage at Mallinckrodt. I understa",
+    "state_delta": {
+      "C": 0.0006,
+      "K": 0.0,
+      "A": 0.0002,
+      "V": 0.0031,
+      "R": 0.0002,
+      "P": -0.0042
+    },
+    "state": {
+      "C": 0.6856,
+      "K": 0.6,
+      "A": 0.4195,
+      "V": 0.4402,
+      "R": 0.9599,
+      "P": 0.4822
+    },
+    "scores": {
+      "consistency": 0.682,
+      "evasion": 0.332,
+      "realism": 0.829,
+      "adversarial": 0.558
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 29,
+    "question_snippet": "Okay. Would you -- if I 15:41:33 represented to you, and assuming that I could 1",
+    "state_delta": {
+      "C": 0.0006,
+      "K": 0.0,
+      "A": 0.0002,
+      "V": 0.003,
+      "R": 0.0002,
+      "P": -0.004
+    },
+    "state": {
+      "C": 0.6862,
+      "K": 0.6,
+      "A": 0.4197,
+      "V": 0.4432,
+      "R": 0.9601,
+      "P": 0.4782
+    },
+    "scores": {
+      "consistency": 0.682,
+      "evasion": 0.33,
+      "realism": 0.828,
+      "adversarial": 0.557
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 30,
+    "question_snippet": "Okay. And that's 15:55:28 notwithstanding the fact that you did receive 15:55:30",
+    "state_delta": {
+      "C": 0.0005,
+      "K": 0.0,
+      "A": 0.0002,
+      "V": 0.0028,
+      "R": 0.0002,
+      "P": -0.0037
+    },
+    "state": {
+      "C": 0.6867,
+      "K": 0.6,
+      "A": 0.4199,
+      "V": 0.446,
+      "R": 0.9603,
+      "P": 0.4745
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.327,
+      "realism": 0.828,
+      "adversarial": 0.557
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 31,
+    "question_snippet": "And it's a little confusing 16:09:17 because I think that's reference made to a ",
+    "state_delta": {
+      "C": 0.0005,
+      "K": 0.0,
+      "A": 0.0002,
+      "V": 0.0027,
+      "R": 0.0002,
+      "P": -0.0035
+    },
+    "state": {
+      "C": 0.6872,
+      "K": 0.6,
+      "A": 0.4201,
+      "V": 0.4487,
+      "R": 0.9605,
+      "P": 0.471
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.325,
+      "realism": 0.828,
+      "adversarial": 0.557
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 32,
+    "question_snippet": "Okay. That's all I have on 16:43:04 Source:  https://www.industrydocuments.ucsf.",
+    "state_delta": {
+      "C": 0.0004,
+      "K": 0.0,
+      "A": 0.0002,
+      "V": 0.0026,
+      "R": 0.0002,
+      "P": -0.0033
+    },
+    "state": {
+      "C": 0.6876,
+      "K": 0.6,
+      "A": 0.4203,
+      "V": 0.4513,
+      "R": 0.9607,
+      "P": 0.4677
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.323,
+      "realism": 0.827,
+      "adversarial": 0.557
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 33,
+    "question_snippet": "Okay. Thank you for waiting. 16:59:30",
+    "state_delta": {
+      "C": 0.0004,
+      "K": 0.0,
+      "A": 0.0002,
+      "V": 0.0024,
+      "R": 0.0002,
+      "P": -0.0031
+    },
+    "state": {
+      "C": 0.688,
+      "K": 0.6,
+      "A": 0.4205,
+      "V": 0.4537,
+      "R": 0.9609,
+      "P": 0.4646
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.321,
+      "realism": 0.827,
+      "adversarial": 0.557
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 34,
+    "question_snippet": ". O kay. And based on t hat 17: 09: 26 revi ew ,  you i ndi cat e t hat  you are",
+    "state_delta": {
+      "C": 0.0004,
+      "K": 0.0,
+      "A": 0.0002,
+      "V": 0.0023,
+      "R": 0.0001,
+      "P": -0.0029
+    },
+    "state": {
+      "C": 0.6884,
+      "K": 0.6,
+      "A": 0.4207,
+      "V": 0.456,
+      "R": 0.961,
+      "P": 0.4617
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.319,
+      "realism": 0.827,
+      "adversarial": 0.557
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 35,
+    "question_snippet": ". You do not  agree. 17: 22: 12 H ad you si m pl y asked M ast ers 17: 22: 13 w ",
+    "state_delta": {
+      "C": 0.0003,
+      "K": 0.0,
+      "A": 0.0002,
+      "V": 0.0022,
+      "R": 0.0001,
+      "P": -0.0028
+    },
+    "state": {
+      "C": 0.6887,
+      "K": 0.6,
+      "A": 0.4209,
+      "V": 0.4582,
+      "R": 0.9611,
+      "P": 0.4589
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.317,
+      "realism": 0.827,
+      "adversarial": 0.557
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 36,
+    "question_snippet": "Would you agree with me that 17:49:42 that would be a rare occurrence? 17:49:42 ",
+    "state_delta": {
+      "C": -0.0341,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": -0.0896,
+      "R": 0.0001,
+      "P": -0.0026
+    },
+    "state": {
+      "C": 0.6546,
+      "K": 0.6,
+      "A": 0.421,
+      "V": 0.3686,
+      "R": 0.9612,
+      "P": 0.4563
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.37,
+      "realism": 0.847,
+      "adversarial": 0.56
+    },
+    "events": [
+      {
+        "label": "PERSONALITY SHIFT",
+        "detail": "Verbosity \u25bc0.09"
+      }
+    ],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "leading"
+  },
+  {
+    "turn": 37,
+    "question_snippet": ". And w ho i s J am es Parker? 18: 04: 53",
+    "state_delta": {
+      "C": 0.0034,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0066,
+      "R": 0.0001,
+      "P": -0.0025
+    },
+    "state": {
+      "C": 0.658,
+      "K": 0.6,
+      "A": 0.4211,
+      "V": 0.3752,
+      "R": 0.9613,
+      "P": 0.4538
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.366,
+      "realism": 0.845,
+      "adversarial": 0.56
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 38,
+    "question_snippet": "Okay. And when you say you 18:29:37 were coming from Gulf Shores, you meant from",
+    "state_delta": {
+      "C": 0.0031,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0062,
+      "R": 0.0001,
+      "P": -0.0023
+    },
+    "state": {
+      "C": 0.6611,
+      "K": 0.6,
+      "A": 0.4212,
+      "V": 0.3814,
+      "R": 0.9614,
+      "P": 0.4515
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.361,
+      "realism": 0.843,
+      "adversarial": 0.56
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 39,
+    "question_snippet": "Okay. And one of the things 18:40:37 that you're monitoring is news about pill 1",
+    "state_delta": {
+      "C": 0.0028,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0059,
+      "R": 0.0001,
+      "P": -0.0022
+    },
+    "state": {
+      "C": 0.6639,
+      "K": 0.6,
+      "A": 0.4213,
+      "V": 0.3873,
+      "R": 0.9615,
+      "P": 0.4493
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.357,
+      "realism": 0.842,
+      "adversarial": 0.56
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 40,
+    "question_snippet": "It's okay. 18:53:16",
+    "state_delta": {
+      "C": 0.0026,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0056,
+      "R": 0.0001,
+      "P": -0.0021
+    },
+    "state": {
+      "C": 0.6665,
+      "K": 0.6,
+      "A": 0.4214,
+      "V": 0.3929,
+      "R": 0.9616,
+      "P": 0.4472
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.354,
+      "realism": 0.84,
+      "adversarial": 0.559
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 41,
+    "question_snippet": "Okay. Okay. And what about 19:05:16 any prescribers? Did you ever report any 19:",
+    "state_delta": {
+      "C": 0.0023,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0054,
+      "R": 0.0001,
+      "P": -0.0019
+    },
+    "state": {
+      "C": 0.6688,
+      "K": 0.6,
+      "A": 0.4215,
+      "V": 0.3983,
+      "R": 0.9617,
+      "P": 0.4453
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.35,
+      "realism": 0.839,
+      "adversarial": 0.559
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 42,
+    "question_snippet": "Okay. And then on page 11, the 19:20:33 state is? 19:20:41",
+    "state_delta": {
+      "C": 0.0021,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0051,
+      "R": 0.0001,
+      "P": -0.0018
+    },
+    "state": {
+      "C": 0.6709,
+      "K": 0.6,
+      "A": 0.4216,
+      "V": 0.4034,
+      "R": 0.9618,
+      "P": 0.4435
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.347,
+      "realism": 0.837,
+      "adversarial": 0.559
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 43,
+    "question_snippet": ". Yeah,  sure.  I t  w i l l  cert ai nl y 19: 33: 18 m ake i t  easi er. 19: 33",
+    "state_delta": {
+      "C": 0.0019,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0048,
+      "R": 0.0001,
+      "P": -0.0017
+    },
+    "state": {
+      "C": 0.6728,
+      "K": 0.6,
+      "A": 0.4217,
+      "V": 0.4082,
+      "R": 0.9619,
+      "P": 0.4418
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.343,
+      "realism": 0.836,
+      "adversarial": 0.559
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 44,
+    "question_snippet": "Okay. Do you know what DIRJ 19:54:05 stands for? 19:54:08",
+    "state_delta": {
+      "C": 0.0018,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0046,
+      "R": 0.0001,
+      "P": -0.0016
+    },
+    "state": {
+      "C": 0.6746,
+      "K": 0.6,
+      "A": 0.4218,
+      "V": 0.4128,
+      "R": 0.962,
+      "P": 0.4402
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.34,
+      "realism": 0.835,
+      "adversarial": 0.558
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 45,
+    "question_snippet": "Okay. And so that would be 20:10:00 10-milligram hydrocodone -- hydrocodone APAP",
+    "state_delta": {
+      "C": 0.0016,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0044,
+      "R": 0.0001,
+      "P": -0.0015
+    },
+    "state": {
+      "C": 0.6762,
+      "K": 0.6,
+      "A": 0.4219,
+      "V": 0.4172,
+      "R": 0.9621,
+      "P": 0.4387
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.337,
+      "realism": 0.834,
+      "adversarial": 0.558
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 46,
+    "question_snippet": "Okay. And is that your 20:22:08 handwriting to the right? 20:22:09",
+    "state_delta": {
+      "C": 0.0015,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0041,
+      "R": 0.0001,
+      "P": -0.0014
+    },
+    "state": {
+      "C": 0.6777,
+      "K": 0.6,
+      "A": 0.422,
+      "V": 0.4213,
+      "R": 0.9622,
+      "P": 0.4373
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.335,
+      "realism": 0.833,
+      "adversarial": 0.558
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 47,
+    "question_snippet": "Did Cardinal have that ability? 20:33:06",
+    "state_delta": {
+      "C": 0.0013,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0039,
+      "R": 0.0001,
+      "P": -0.0014
+    },
+    "state": {
+      "C": 0.679,
+      "K": 0.6,
+      "A": 0.4221,
+      "V": 0.4252,
+      "R": 0.9623,
+      "P": 0.4359
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.332,
+      "realism": 0.833,
+      "adversarial": 0.558
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 48,
+    "question_snippet": ". D o you see t hat ? 20: 46: 25",
+    "state_delta": {
+      "C": 0.0012,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0037,
+      "R": 0.0001,
+      "P": -0.0013
+    },
+    "state": {
+      "C": 0.6802,
+      "K": 0.6,
+      "A": 0.4222,
+      "V": 0.4289,
+      "R": 0.9624,
+      "P": 0.4346
+    },
+    "scores": {
+      "consistency": 0.683,
+      "evasion": 0.33,
+      "realism": 0.832,
+      "adversarial": 0.558
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 49,
+    "question_snippet": ". O kay. And t hi s spreadsheet  i s 20: 59: 11 G ol kow Li t i gat i on Servi c",
+    "state_delta": {
+      "C": 0.0011,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0036,
+      "R": 0.0001,
+      "P": -0.0012
+    },
+    "state": {
+      "C": 0.6813,
+      "K": 0.6,
+      "A": 0.4223,
+      "V": 0.4325,
+      "R": 0.9625,
+      "P": 0.4334
+    },
+    "scores": {
+      "consistency": 0.684,
+      "evasion": 0.327,
+      "realism": 0.831,
+      "adversarial": 0.558
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 50,
+    "question_snippet": "Okay. I'm going to hand you what I'm going to mark as Exhibit 59, 21:11:36 21:11",
+    "state_delta": {
+      "C": 0.001,
+      "K": 0.0,
+      "A": 0.0001,
+      "V": 0.0034,
+      "R": 0.0001,
+      "P": -0.0011
+    },
+    "state": {
+      "C": 0.6823,
+      "K": 0.6,
+      "A": 0.4224,
+      "V": 0.4359,
+      "R": 0.9626,
+      "P": 0.4323
+    },
+    "scores": {
+      "consistency": 0.684,
+      "evasion": 0.325,
+      "realism": 0.831,
+      "adversarial": 0.558
+    },
+    "events": [],
+    "tone": "immovable",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  }
+]

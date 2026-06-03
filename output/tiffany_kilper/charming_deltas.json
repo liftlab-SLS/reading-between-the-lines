@@ -1,0 +1,1502 @@
+[
+  {
+    "turn": 1,
+    "question_snippet": "Good morning, Ms. Rowley-Kilper. Could you please state and spell your full name",
+    "state_delta": {
+      "C": -0.0112,
+      "K": 0.0,
+      "A": -0.006,
+      "V": 0.0,
+      "R": 0.0072,
+      "P": 0.0
+    },
+    "state": {
+      "C": 0.8888,
+      "K": 0.6,
+      "A": 0.894,
+      "V": 0.7,
+      "R": 0.4072,
+      "P": 0.8
+    },
+    "scores": {
+      "consistency": 0.439,
+      "evasion": 0.48,
+      "realism": 0.707,
+      "adversarial": 0.284
+    },
+    "events": [],
+    "tone": "ice-cold, eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 2,
+    "question_snippet": "Okay, great. And Ms. Kilper, you understand you're under oath today?",
+    "state_delta": {
+      "C": -0.0102,
+      "K": 0.0,
+      "A": -0.0056,
+      "V": 0.0,
+      "R": 0.0069,
+      "P": -0.0007
+    },
+    "state": {
+      "C": 0.8786,
+      "K": 0.6,
+      "A": 0.8884,
+      "V": 0.7,
+      "R": 0.4141,
+      "P": 0.7993
+    },
+    "scores": {
+      "consistency": 0.442,
+      "evasion": 0.48,
+      "realism": 0.713,
+      "adversarial": 0.288
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 3,
+    "question_snippet": "Are you taking any medication or is there any reason that would prevent you from",
+    "state_delta": {
+      "C": -0.0093,
+      "K": 0.0,
+      "A": -0.0052,
+      "V": 0.0,
+      "R": 0.0066,
+      "P": -0.0014
+    },
+    "state": {
+      "C": 0.8693,
+      "K": 0.6,
+      "A": 0.8832,
+      "V": 0.7,
+      "R": 0.4207,
+      "P": 0.7979
+    },
+    "scores": {
+      "consistency": 0.445,
+      "evasion": 0.48,
+      "realism": 0.718,
+      "adversarial": 0.292
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 4,
+    "question_snippet": "Have you ever been deposed before?",
+    "state_delta": {
+      "C": -0.0084,
+      "K": 0.0,
+      "A": -0.0049,
+      "V": 0.0,
+      "R": 0.0063,
+      "P": -0.0021
+    },
+    "state": {
+      "C": 0.8609,
+      "K": 0.6,
+      "A": 0.8783,
+      "V": 0.7,
+      "R": 0.427,
+      "P": 0.7958
+    },
+    "scores": {
+      "consistency": 0.448,
+      "evasion": 0.479,
+      "realism": 0.723,
+      "adversarial": 0.296
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 5,
+    "question_snippet": "So just a few ground rules, mostly so we can help the court reporter. We don't w",
+    "state_delta": {
+      "C": -0.0076,
+      "K": 0.0,
+      "A": -0.0046,
+      "V": 0.0,
+      "R": 0.0061,
+      "P": -0.0027
+    },
+    "state": {
+      "C": 0.8533,
+      "K": 0.6,
+      "A": 0.8737,
+      "V": 0.7,
+      "R": 0.4331,
+      "P": 0.7931
+    },
+    "scores": {
+      "consistency": 0.451,
+      "evasion": 0.479,
+      "realism": 0.728,
+      "adversarial": 0.299
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 6,
+    "question_snippet": "And then when you answer a question, you need to answer it verbally rather than ",
+    "state_delta": {
+      "C": -0.0069,
+      "K": 0.0,
+      "A": -0.0043,
+      "V": 0.0,
+      "R": 0.0058,
+      "P": -0.0033
+    },
+    "state": {
+      "C": 0.8464,
+      "K": 0.6,
+      "A": 0.8694,
+      "V": 0.7,
+      "R": 0.4389,
+      "P": 0.7898
+    },
+    "scores": {
+      "consistency": 0.453,
+      "evasion": 0.478,
+      "realism": 0.732,
+      "adversarial": 0.302
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 7,
+    "question_snippet": "Okay. Great. When you were at Mallinckrodt, did you use your personal e-mail for",
+    "state_delta": {
+      "C": -0.0063,
+      "K": 0.0,
+      "A": -0.004,
+      "V": 0.0,
+      "R": 0.0056,
+      "P": -0.0039
+    },
+    "state": {
+      "C": 0.8401,
+      "K": 0.6,
+      "A": 0.8654,
+      "V": 0.7,
+      "R": 0.4445,
+      "P": 0.7859
+    },
+    "scores": {
+      "consistency": 0.456,
+      "evasion": 0.477,
+      "realism": 0.736,
+      "adversarial": 0.305
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 8,
+    "question_snippet": "Let's see. Are you being reimbursed at all for your time here today?",
+    "state_delta": {
+      "C": -0.0057,
+      "K": 0.0,
+      "A": -0.0038,
+      "V": 0.0,
+      "R": 0.0053,
+      "P": -0.0044
+    },
+    "state": {
+      "C": 0.8344,
+      "K": 0.6,
+      "A": 0.8616,
+      "V": 0.7,
+      "R": 0.4498,
+      "P": 0.7815
+    },
+    "scores": {
+      "consistency": 0.458,
+      "evasion": 0.476,
+      "realism": 0.739,
+      "adversarial": 0.308
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 9,
+    "question_snippet": "For the record, this is Bates-numbered ending in 8005956. This is a performance ",
+    "state_delta": {
+      "C": -0.0052,
+      "K": 0.0,
+      "A": -0.0035,
+      "V": 0.0,
+      "R": 0.0051,
+      "P": -0.0049
+    },
+    "state": {
+      "C": 0.8292,
+      "K": 0.6,
+      "A": 0.8581,
+      "V": 0.7,
+      "R": 0.4549,
+      "P": 0.7766
+    },
+    "scores": {
+      "consistency": 0.46,
+      "evasion": 0.475,
+      "realism": 0.742,
+      "adversarial": 0.311
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 10,
+    "question_snippet": "So I have some general questions. What is a chargeback? MR. DAVISON: Objection t",
+    "state_delta": {
+      "C": -0.0047,
+      "K": 0.0,
+      "A": -0.0033,
+      "V": 0.0,
+      "R": 0.0049,
+      "P": -0.0054
+    },
+    "state": {
+      "C": 0.8245,
+      "K": 0.6,
+      "A": 0.8548,
+      "V": 0.7,
+      "R": 0.4598,
+      "P": 0.7712
+    },
+    "scores": {
+      "consistency": 0.462,
+      "evasion": 0.474,
+      "realism": 0.745,
+      "adversarial": 0.313
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 11,
+    "question_snippet": "That's fine. How about the term suspicious order? Are you familiar with that ter",
+    "state_delta": {
+      "C": -0.0043,
+      "K": 0.0,
+      "A": -0.0031,
+      "V": 0.0,
+      "R": 0.0047,
+      "P": -0.0058
+    },
+    "state": {
+      "C": 0.8202,
+      "K": 0.6,
+      "A": 0.8517,
+      "V": 0.7,
+      "R": 0.4645,
+      "P": 0.7654
+    },
+    "scores": {
+      "consistency": 0.464,
+      "evasion": 0.473,
+      "realism": 0.748,
+      "adversarial": 0.315
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 12,
+    "question_snippet": "So this is an e-mail forward from Sue",
+    "state_delta": {
+      "C": -0.0039,
+      "K": 0.0,
+      "A": -0.0029,
+      "V": 0.0,
+      "R": 0.0045,
+      "P": -0.0062
+    },
+    "state": {
+      "C": 0.8163,
+      "K": 0.6,
+      "A": 0.8488,
+      "V": 0.7,
+      "R": 0.469,
+      "P": 0.7592
+    },
+    "scores": {
+      "consistency": 0.466,
+      "evasion": 0.472,
+      "realism": 0.75,
+      "adversarial": 0.318
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 13,
+    "question_snippet": "Sure. Were there customers in Mallinckrodt's supply chain that were not legitima",
+    "state_delta": {
+      "C": -0.0035,
+      "K": 0.0,
+      "A": -0.0027,
+      "V": 0.0,
+      "R": 0.0043,
+      "P": -0.0066
+    },
+    "state": {
+      "C": 0.8128,
+      "K": 0.6,
+      "A": 0.8461,
+      "V": 0.7,
+      "R": 0.4733,
+      "P": 0.7526
+    },
+    "scores": {
+      "consistency": 0.468,
+      "evasion": 0.471,
+      "realism": 0.752,
+      "adversarial": 0.32
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 14,
+    "question_snippet": "So as you were explaining before, the chargeback department was separate from yo",
+    "state_delta": {
+      "C": -0.0032,
+      "K": 0.0,
+      "A": -0.0025,
+      "V": 0.0,
+      "R": 0.0041,
+      "P": -0.0069
+    },
+    "state": {
+      "C": 0.8096,
+      "K": 0.6,
+      "A": 0.8436,
+      "V": 0.7,
+      "R": 0.4774,
+      "P": 0.7457
+    },
+    "scores": {
+      "consistency": 0.47,
+      "evasion": 0.469,
+      "realism": 0.754,
+      "adversarial": 0.321
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 15,
+    "question_snippet": "And do you know which system the indirect customer information is entered into? ",
+    "state_delta": {
+      "C": -0.0029,
+      "K": 0.0,
+      "A": -0.0023,
+      "V": 0.0,
+      "R": 0.0039,
+      "P": -0.0072
+    },
+    "state": {
+      "C": 0.8067,
+      "K": 0.6,
+      "A": 0.8413,
+      "V": 0.7,
+      "R": 0.4813,
+      "P": 0.7385
+    },
+    "scores": {
+      "consistency": 0.472,
+      "evasion": 0.468,
+      "realism": 0.756,
+      "adversarial": 0.323
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 16,
+    "question_snippet": "Is that correct? this way. I've seen in the documents -- and let me know if this",
+    "state_delta": {
+      "C": -0.0026,
+      "K": 0.0,
+      "A": -0.0022,
+      "V": 0.0,
+      "R": 0.0038,
+      "P": -0.0075
+    },
+    "state": {
+      "C": 0.8041,
+      "K": 0.6,
+      "A": 0.8391,
+      "V": 0.7,
+      "R": 0.4851,
+      "P": 0.731
+    },
+    "scores": {
+      "consistency": 0.473,
+      "evasion": 0.466,
+      "realism": 0.758,
+      "adversarial": 0.325
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 17,
+    "question_snippet": "Was there an additional customer database that Mallinckrodt used? MR. DAVISON: O",
+    "state_delta": {
+      "C": -0.0024,
+      "K": 0.0,
+      "A": -0.002,
+      "V": 0.0,
+      "R": 0.0036,
+      "P": -0.0078
+    },
+    "state": {
+      "C": 0.8017,
+      "K": 0.6,
+      "A": 0.8371,
+      "V": 0.7,
+      "R": 0.4887,
+      "P": 0.7232
+    },
+    "scores": {
+      "consistency": 0.475,
+      "evasion": 0.465,
+      "realism": 0.759,
+      "adversarial": 0.326
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 18,
+    "question_snippet": "For the record, the Bates number ends in 457681. It is an e-mail dated February ",
+    "state_delta": {
+      "C": -0.0022,
+      "K": 0.0,
+      "A": -0.0019,
+      "V": 0.0,
+      "R": 0.0035,
+      "P": -0.008
+    },
+    "state": {
+      "C": 0.7995,
+      "K": 0.6,
+      "A": 0.8352,
+      "V": 0.7,
+      "R": 0.4922,
+      "P": 0.7152
+    },
+    "scores": {
+      "consistency": 0.477,
+      "evasion": 0.463,
+      "realism": 0.76,
+      "adversarial": 0.328
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 19,
+    "question_snippet": "Okay. So a three-month period. Approximately when did that start?",
+    "state_delta": {
+      "C": -0.002,
+      "K": 0.0,
+      "A": -0.0018,
+      "V": 0.0,
+      "R": 0.0033,
+      "P": -0.0082
+    },
+    "state": {
+      "C": 0.7975,
+      "K": 0.6,
+      "A": 0.8334,
+      "V": 0.7,
+      "R": 0.4955,
+      "P": 0.707
+    },
+    "scores": {
+      "consistency": 0.478,
+      "evasion": 0.461,
+      "realism": 0.762,
+      "adversarial": 0.329
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 20,
+    "question_snippet": "Were you involved in consideration of a pilot project by an entity called Integr",
+    "state_delta": {
+      "C": -0.0018,
+      "K": 0.0,
+      "A": -0.0017,
+      "V": 0.0,
+      "R": 0.0032,
+      "P": -0.0084
+    },
+    "state": {
+      "C": 0.7957,
+      "K": 0.6,
+      "A": 0.8317,
+      "V": 0.7,
+      "R": 0.4987,
+      "P": 0.6986
+    },
+    "scores": {
+      "consistency": 0.479,
+      "evasion": 0.46,
+      "realism": 0.763,
+      "adversarial": 0.331
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 21,
+    "question_snippet": "You mentioned that they restructured after you left. Do you know how they restru",
+    "state_delta": {
+      "C": -0.0016,
+      "K": 0.0,
+      "A": -0.0016,
+      "V": 0.0,
+      "R": 0.0031,
+      "P": -0.0085
+    },
+    "state": {
+      "C": 0.7941,
+      "K": 0.6,
+      "A": 0.8301,
+      "V": 0.7,
+      "R": 0.5018,
+      "P": 0.6901
+    },
+    "scores": {
+      "consistency": 0.481,
+      "evasion": 0.458,
+      "realism": 0.764,
+      "adversarial": 0.332
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 22,
+    "question_snippet": "And earlier we talked about how the chargeback system will not process chargebac",
+    "state_delta": {
+      "C": -0.0015,
+      "K": 0.0,
+      "A": -0.0015,
+      "V": 0.0,
+      "R": 0.0029,
+      "P": -0.008
+    },
+    "state": {
+      "C": 0.7926,
+      "K": 0.6,
+      "A": 0.8286,
+      "V": 0.7,
+      "R": 0.5047,
+      "P": 0.6821
+    },
+    "scores": {
+      "consistency": 0.482,
+      "evasion": 0.456,
+      "realism": 0.764,
+      "adversarial": 0.333
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 23,
+    "question_snippet": "And would the data submitted to you from the distributor have shown an increase ",
+    "state_delta": {
+      "C": -0.0013,
+      "K": 0.0,
+      "A": -0.0014,
+      "V": 0.0,
+      "R": 0.0028,
+      "P": -0.0076
+    },
+    "state": {
+      "C": 0.7913,
+      "K": 0.6,
+      "A": 0.8272,
+      "V": 0.7,
+      "R": 0.5075,
+      "P": 0.6745
+    },
+    "scores": {
+      "consistency": 0.483,
+      "evasion": 0.455,
+      "realism": 0.765,
+      "adversarial": 0.334
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 24,
+    "question_snippet": "So that brings us up to the top cf the document, and you write to Victor Borelli",
+    "state_delta": {
+      "C": -0.0012,
+      "K": 0.0,
+      "A": -0.0013,
+      "V": 0.0,
+      "R": 0.0027,
+      "P": -0.0071
+    },
+    "state": {
+      "C": 0.7901,
+      "K": 0.6,
+      "A": 0.8259,
+      "V": 0.7,
+      "R": 0.5102,
+      "P": 0.6674
+    },
+    "scores": {
+      "consistency": 0.484,
+      "evasion": 0.453,
+      "realism": 0.766,
+      "adversarial": 0.335
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 25,
+    "question_snippet": "Okay. This is Exhibit 13. [Exhibit Mallinckrodt-Rowley-Kilper-013 marked for ide",
+    "state_delta": {
+      "C": -0.0011,
+      "K": 0.0,
+      "A": -0.0012,
+      "V": 0.0,
+      "R": 0.0026,
+      "P": -0.0067
+    },
+    "state": {
+      "C": 0.789,
+      "K": 0.6,
+      "A": 0.8247,
+      "V": 0.7,
+      "R": 0.5128,
+      "P": 0.6607
+    },
+    "scores": {
+      "consistency": 0.486,
+      "evasion": 0.452,
+      "realism": 0.767,
+      "adversarial": 0.336
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 26,
+    "question_snippet": "Okay. And in this case, the wholesaler submitted a chargeback request that the s",
+    "state_delta": {
+      "C": -0.001,
+      "K": 0.0,
+      "A": -0.0011,
+      "V": 0.0,
+      "R": 0.0025,
+      "P": -0.0063
+    },
+    "state": {
+      "C": 0.788,
+      "K": 0.6,
+      "A": 0.8236,
+      "V": 0.7,
+      "R": 0.5153,
+      "P": 0.6544
+    },
+    "scores": {
+      "consistency": 0.487,
+      "evasion": 0.451,
+      "realism": 0.767,
+      "adversarial": 0.337
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 27,
+    "question_snippet": "So Kathy Weiss says that she will work on the Partner testing. Do you know what ",
+    "state_delta": {
+      "C": -0.0009,
+      "K": 0.0,
+      "A": -0.001,
+      "V": 0.0,
+      "R": 0.0024,
+      "P": -0.006
+    },
+    "state": {
+      "C": 0.7871,
+      "K": 0.6,
+      "A": 0.8226,
+      "V": 0.7,
+      "R": 0.5177,
+      "P": 0.6484
+    },
+    "scores": {
+      "consistency": 0.488,
+      "evasion": 0.45,
+      "realism": 0.768,
+      "adversarial": 0.338
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 28,
+    "question_snippet": "Do you have any understanding of how the 867 data was used? MR. DAVISON: Objecti",
+    "state_delta": {
+      "C": -0.0008,
+      "K": 0.0,
+      "A": -0.001,
+      "V": 0.0,
+      "R": 0.0023,
+      "P": -0.0056
+    },
+    "state": {
+      "C": 0.7863,
+      "K": 0.6,
+      "A": 0.8216,
+      "V": 0.7,
+      "R": 0.52,
+      "P": 0.6428
+    },
+    "scores": {
+      "consistency": 0.489,
+      "evasion": 0.449,
+      "realism": 0.768,
+      "adversarial": 0.339
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 29,
+    "question_snippet": "So as a general matter, new account forms would go to CDIG?",
+    "state_delta": {
+      "C": -0.0007,
+      "K": 0.0,
+      "A": -0.0009,
+      "V": 0.0,
+      "R": 0.0022,
+      "P": -0.0053
+    },
+    "state": {
+      "C": 0.7856,
+      "K": 0.6,
+      "A": 0.8207,
+      "V": 0.7,
+      "R": 0.5222,
+      "P": 0.6375
+    },
+    "scores": {
+      "consistency": 0.49,
+      "evasion": 0.447,
+      "realism": 0.769,
+      "adversarial": 0.34
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 30,
+    "question_snippet": "Okay. So Exhibit 16, for the record, ends in Bates number 290095. It's an e-mail",
+    "state_delta": {
+      "C": -0.0007,
+      "K": 0.0,
+      "A": -0.0008,
+      "V": 0.0,
+      "R": 0.0021,
+      "P": -0.005
+    },
+    "state": {
+      "C": 0.7849,
+      "K": 0.6,
+      "A": 0.8199,
+      "V": 0.7,
+      "R": 0.5243,
+      "P": 0.6325
+    },
+    "scores": {
+      "consistency": 0.491,
+      "evasion": 0.446,
+      "realism": 0.769,
+      "adversarial": 0.34
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 31,
+    "question_snippet": "And is it fair to say that using the Cognos tool was not specific to a certain d",
+    "state_delta": {
+      "C": -0.0006,
+      "K": 0.0,
+      "A": -0.0008,
+      "V": 0.0,
+      "R": 0.002,
+      "P": -0.0047
+    },
+    "state": {
+      "C": 0.7843,
+      "K": 0.6,
+      "A": 0.8191,
+      "V": 0.7,
+      "R": 0.5263,
+      "P": 0.6278
+    },
+    "scores": {
+      "consistency": 0.492,
+      "evasion": 0.446,
+      "realism": 0.769,
+      "adversarial": 0.341
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 32,
+    "question_snippet": "For the record, it's Bates ending in 289983. This is an e-mail from John Adams d",
+    "state_delta": {
+      "C": -0.0005,
+      "K": 0.0,
+      "A": -0.0007,
+      "V": 0.0,
+      "R": 0.0019,
+      "P": -0.0044
+    },
+    "state": {
+      "C": 0.7838,
+      "K": 0.6,
+      "A": 0.8184,
+      "V": 0.7,
+      "R": 0.5282,
+      "P": 0.6234
+    },
+    "scores": {
+      "consistency": 0.492,
+      "evasion": 0.445,
+      "realism": 0.77,
+      "adversarial": 0.342
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 33,
+    "question_snippet": "Do you agree that this report shows sales to a pharmacy in Columbus, Ohio? Sourc",
+    "state_delta": {
+      "C": -0.0005,
+      "K": 0.0,
+      "A": -0.0007,
+      "V": 0.0,
+      "R": 0.0018,
+      "P": -0.0042
+    },
+    "state": {
+      "C": 0.7833,
+      "K": 0.6,
+      "A": 0.8177,
+      "V": 0.7,
+      "R": 0.53,
+      "P": 0.6192
+    },
+    "scores": {
+      "consistency": 0.493,
+      "evasion": 0.444,
+      "realism": 0.77,
+      "adversarial": 0.342
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 34,
+    "question_snippet": "I'm just talking about identifying information that would show you relative prop",
+    "state_delta": {
+      "C": -0.0005,
+      "K": 0.0,
+      "A": -0.0007,
+      "V": 0.0,
+      "R": 0.0017,
+      "P": -0.0039
+    },
+    "state": {
+      "C": 0.7828,
+      "K": 0.6,
+      "A": 0.817,
+      "V": 0.7,
+      "R": 0.5317,
+      "P": 0.6153
+    },
+    "scores": {
+      "consistency": 0.494,
+      "evasion": 0.443,
+      "realism": 0.77,
+      "adversarial": 0.343
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 35,
+    "question_snippet": "How far back could you go?",
+    "state_delta": {
+      "C": -0.0004,
+      "K": 0.0,
+      "A": -0.0006,
+      "V": 0.0,
+      "R": 0.0017,
+      "P": -0.0037
+    },
+    "state": {
+      "C": 0.7824,
+      "K": 0.6,
+      "A": 0.8164,
+      "V": 0.7,
+      "R": 0.5334,
+      "P": 0.6116
+    },
+    "scores": {
+      "consistency": 0.495,
+      "evasion": 0.442,
+      "realism": 0.771,
+      "adversarial": 0.344
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 36,
+    "question_snippet": "What's your understanding of how running chargeback reports would support Karen ",
+    "state_delta": {
+      "C": -0.0004,
+      "K": 0.0,
+      "A": -0.0006,
+      "V": 0.0,
+      "R": 0.0016,
+      "P": -0.0035
+    },
+    "state": {
+      "C": 0.782,
+      "K": 0.6,
+      "A": 0.8158,
+      "V": 0.7,
+      "R": 0.535,
+      "P": 0.6081
+    },
+    "scores": {
+      "consistency": 0.495,
+      "evasion": 0.442,
+      "realism": 0.771,
+      "adversarial": 0.344
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 37,
+    "question_snippet": "So she's directing Carrie to work with you to determine if Carrie can access the",
+    "state_delta": {
+      "C": -0.0003,
+      "K": 0.0,
+      "A": -0.0005,
+      "V": 0.0,
+      "R": 0.0015,
+      "P": -0.0033
+    },
+    "state": {
+      "C": 0.7817,
+      "K": 0.6,
+      "A": 0.8153,
+      "V": 0.7,
+      "R": 0.5365,
+      "P": 0.6048
+    },
+    "scores": {
+      "consistency": 0.496,
+      "evasion": 0.441,
+      "realism": 0.771,
+      "adversarial": 0.345
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 38,
+    "question_snippet": "When you mention that the queries are pretty simple to learn, can you give me an",
+    "state_delta": {
+      "C": -0.0003,
+      "K": 0.0,
+      "A": -0.0005,
+      "V": 0.0,
+      "R": 0.0015,
+      "P": -0.0031
+    },
+    "state": {
+      "C": 0.7814,
+      "K": 0.6,
+      "A": 0.8148,
+      "V": 0.7,
+      "R": 0.538,
+      "P": 0.6017
+    },
+    "scores": {
+      "consistency": 0.497,
+      "evasion": 0.44,
+      "realism": 0.771,
+      "adversarial": 0.345
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 39,
+    "question_snippet": "Do you recall breathe you provided any to Karen Harper and her group after this ",
+    "state_delta": {
+      "C": -0.0003,
+      "K": 0.0,
+      "A": -0.0005,
+      "V": 0.0,
+      "R": 0.0014,
+      "P": -0.0029
+    },
+    "state": {
+      "C": 0.7811,
+      "K": 0.6,
+      "A": 0.8143,
+      "V": 0.7,
+      "R": 0.5394,
+      "P": 0.5988
+    },
+    "scores": {
+      "consistency": 0.497,
+      "evasion": 0.44,
+      "realism": 0.771,
+      "adversarial": 0.345
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 40,
+    "question_snippet": "-- of this nature? MR. DAVISON: Objection.",
+    "state_delta": {
+      "C": -0.0003,
+      "K": 0.0,
+      "A": -0.0004,
+      "V": 0.0,
+      "R": 0.0013,
+      "P": -0.0027
+    },
+    "state": {
+      "C": 0.7808,
+      "K": 0.6,
+      "A": 0.8139,
+      "V": 0.7,
+      "R": 0.5407,
+      "P": 0.5961
+    },
+    "scores": {
+      "consistency": 0.498,
+      "evasion": 0.439,
+      "realism": 0.772,
+      "adversarial": 0.346
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 41,
+    "question_snippet": "Can you -- based on your experience working for Mallinckrodt over -- for over a ",
+    "state_delta": {
+      "C": -0.0002,
+      "K": 0.0,
+      "A": -0.0004,
+      "V": 0.0,
+      "R": 0.0013,
+      "P": -0.0026
+    },
+    "state": {
+      "C": 0.7806,
+      "K": 0.6,
+      "A": 0.8135,
+      "V": 0.7,
+      "R": 0.542,
+      "P": 0.5935
+    },
+    "scores": {
+      "consistency": 0.498,
+      "evasion": 0.439,
+      "realism": 0.772,
+      "adversarial": 0.346
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 42,
+    "question_snippet": "So if anyone had wanted to take you up on that offer to be trained on Cognos, yo",
+    "state_delta": {
+      "C": -0.0002,
+      "K": 0.0,
+      "A": -0.0004,
+      "V": 0.0,
+      "R": 0.0012,
+      "P": -0.0024
+    },
+    "state": {
+      "C": 0.7804,
+      "K": 0.6,
+      "A": 0.8131,
+      "V": 0.7,
+      "R": 0.5432,
+      "P": 0.5911
+    },
+    "scores": {
+      "consistency": 0.499,
+      "evasion": 0.438,
+      "realism": 0.772,
+      "adversarial": 0.347
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "hypothetical"
+  },
+  {
+    "turn": 43,
+    "question_snippet": "Train them. Right. Okay. So that was in the context of training, but just in ter",
+    "state_delta": {
+      "C": -0.0002,
+      "K": 0.0,
+      "A": -0.0004,
+      "V": 0.0,
+      "R": 0.0012,
+      "P": -0.0023
+    },
+    "state": {
+      "C": 0.7802,
+      "K": 0.6,
+      "A": 0.8127,
+      "V": 0.7,
+      "R": 0.5444,
+      "P": 0.5888
+    },
+    "scores": {
+      "consistency": 0.5,
+      "evasion": 0.438,
+      "realism": 0.772,
+      "adversarial": 0.347
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 44,
+    "question_snippet": "But fair to say you would have needed to have known -- need to have known who th",
+    "state_delta": {
+      "C": -0.0002,
+      "K": 0.0,
+      "A": -0.0003,
+      "V": 0.0,
+      "R": 0.0011,
+      "P": -0.0022
+    },
+    "state": {
+      "C": 0.78,
+      "K": 0.6,
+      "A": 0.8124,
+      "V": 0.7,
+      "R": 0.5455,
+      "P": 0.5866
+    },
+    "scores": {
+      "consistency": 0.5,
+      "evasion": 0.437,
+      "realism": 0.772,
+      "adversarial": 0.347
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 45,
+    "question_snippet": "Do you recall testifying earlier that you didn't have a sense of what might make",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": -0.0003,
+      "V": 0.0,
+      "R": 0.0011,
+      "P": -0.002
+    },
+    "state": {
+      "C": 0.7799,
+      "K": 0.6,
+      "A": 0.8121,
+      "V": 0.7,
+      "R": 0.5466,
+      "P": 0.5846
+    },
+    "scores": {
+      "consistency": 0.501,
+      "evasion": 0.437,
+      "realism": 0.772,
+      "adversarial": 0.348
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 46,
+    "question_snippet": "And how would using the Cognos tool better the peculiar order report system? MR.",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": -0.0003,
+      "V": 0.0,
+      "R": 0.001,
+      "P": -0.0019
+    },
+    "state": {
+      "C": 0.7798,
+      "K": 0.6,
+      "A": 0.8118,
+      "V": 0.7,
+      "R": 0.5476,
+      "P": 0.5827
+    },
+    "scores": {
+      "consistency": 0.501,
+      "evasion": 0.437,
+      "realism": 0.772,
+      "adversarial": 0.348
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 47,
+    "question_snippet": "So just looking -- and this is another document that's very hard to read. Okay. ",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": -0.0003,
+      "V": 0.0,
+      "R": 0.001,
+      "P": -0.0018
+    },
+    "state": {
+      "C": 0.7797,
+      "K": 0.6,
+      "A": 0.8115,
+      "V": 0.7,
+      "R": 0.5486,
+      "P": 0.5809
+    },
+    "scores": {
+      "consistency": 0.501,
+      "evasion": 0.436,
+      "realism": 0.772,
+      "adversarial": 0.348
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 48,
+    "question_snippet": "And in this case, your notes simply says",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": -0.0002,
+      "V": 0.0,
+      "R": 0.001,
+      "P": -0.0017
+    },
+    "state": {
+      "C": 0.7796,
+      "K": 0.6,
+      "A": 0.8113,
+      "V": 0.7,
+      "R": 0.5496,
+      "P": 0.5792
+    },
+    "scores": {
+      "consistency": 0.502,
+      "evasion": 0.436,
+      "realism": 0.772,
+      "adversarial": 0.349
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "closed"
+  },
+  {
+    "turn": 49,
+    "question_snippet": "With an order number would they be able to be correlated to an indirect transact",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": -0.0002,
+      "V": 0.0,
+      "R": 0.0009,
+      "P": -0.0016
+    },
+    "state": {
+      "C": 0.7795,
+      "K": 0.6,
+      "A": 0.8111,
+      "V": 0.7,
+      "R": 0.5505,
+      "P": 0.5776
+    },
+    "scores": {
+      "consistency": 0.502,
+      "evasion": 0.436,
+      "realism": 0.772,
+      "adversarial": 0.349
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  },
+  {
+    "turn": 50,
+    "question_snippet": "Can you think of any specific examples of actions that you or others at Mallinck",
+    "state_delta": {
+      "C": -0.0001,
+      "K": 0.0,
+      "A": -0.0002,
+      "V": 0.0,
+      "R": 0.0009,
+      "P": -0.0015
+    },
+    "state": {
+      "C": 0.7794,
+      "K": 0.6,
+      "A": 0.8109,
+      "V": 0.7,
+      "R": 0.5514,
+      "P": 0.5761
+    },
+    "scores": {
+      "consistency": 0.503,
+      "evasion": 0.435,
+      "realism": 0.772,
+      "adversarial": 0.349
+    },
+    "events": [],
+    "tone": "eager to please",
+    "pressure": 0.1,
+    "question_type": "open"
+  }
+]
