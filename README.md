@@ -94,6 +94,8 @@ Output: `data/emotion_vectors_denoised.pt`
 
 Instantiates each witness from case materials, assigns a behavioral archetype, and runs the full ODE-based simulation across all 10 witnesses × 10 archetypes = 100 synthetic transcripts. The simulator uses real attorney questions from the depositions as input.
 
+**Preparing attorney questions:** `batch_sim.py` expects a zip of plain-text `.txt` files (one per witness deposition) where attorney questions appear as lines starting with `Q.`. You will need to parse your deposition transcripts into this format before running the simulator. The file naming convention is `<witness_slug>.txt` or `<witness_slug>_depo<N>.txt` for witnesses with multiple depositions (e.g. `catherine_jackson_depo1.txt`).
+
 ```bash
 # Full run — all witnesses, all archetypes
 python batch_sim.py --questions-zip attorney_questions.zip --out output/
