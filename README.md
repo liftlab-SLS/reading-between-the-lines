@@ -12,7 +12,7 @@ Real deposition transcripts come from the **National Prescription Opiate Litigat
 
 > https://www.industrydocuments.ucsf.edu/opioids/documents/?q=null%2Call%2Ccontains%2CCatherine+Jackson&db-set=documents&industry=opioids&sort=relevance&pg=1&npp=20
 
-The 10 witnesses used in the paper are: Catherine Jackson, Hugh O'Neill, Jane Williams, Jeffrey Kilper, John Adams, Kirk Dumont, Mark Pugh, Michael Wessler, Tiffany Kilper, and Todd Dean. Download the transcripts as plain-text `.txt` files and place them in `transcripts_txt/`. Attorney question files (one per witness) should be placed in `attorney_questions/`.
+The 10 witnesses used in the paper are: Catherine Jackson, Hugh O'Neill, Jane Williams, Jeffrey Kilper, John Adams, Kirk Dumont, Mark Pugh, Michael Wessler, Tiffany Kilper, and Todd Dean. Parse the transcripts and store as plain-text `.txt` in `transcripts_txt/`. Attorney question files (one per witness) should be placed in `attorney_questions/`.
 
 Synthetic WitnessSim transcripts can be reproduced by running `batch_sim.py` (Step 5) and placed in `output/`.
 
@@ -21,7 +21,7 @@ Synthetic WitnessSim transcripts can be reproduced by running `batch_sim.py` (St
 ## Requirements
 
 ```bash
-pip install anthropic transformers torch scikit-learn scipy numpy matplotlib tqdm python-dotenv
+pip install anthropic transformers torch scikit-learn scipy numpy matplotlib tqdm python-dotenv pypdf
 ```
 
 You will need:
@@ -30,8 +30,7 @@ You will need:
   ANTHROPIC_API_KEY=your-key-here
   ```
 - Access to **Llama-3.1-8B-Instruct** weights via Hugging Face (or a local path set in `config.py`).
-- A GPU is strongly recommended for Steps 3, 4, and 6.
-- `batch_sim.py` requires `pypdf` for PDF document ingestion: `pip install pypdf`
+- A GPU is strongly recommended for Steps 3, 4, 6, 7, and 8.
 
 ---
 
@@ -90,7 +89,15 @@ Output: `data/emotion_vectors_denoised.pt`
 
 ---
 
-### Step 5 — Run WitnessSim (generate synthetic transcripts)
+### Step 5 — Validate emotion vectors
+
+Validates denoised vectors on held-out stories (40 per emotion). Confirms that denoising improves discrimination — mean rank of the correct emotion should improve from chance (12/23) to ~3.9/23.
+
+Run: `validate_vectors.ipynb`
+
+---
+
+### Step 6 — Run WitnessSim (generate synthetic transcripts)
 
 Instantiates each witness from case materials, assigns a behavioral archetype, and runs the full ODE-based simulation across all 10 witnesses × 10 archetypes = 100 synthetic transcripts. The simulator uses real attorney questions from the depositions as input.
 
@@ -116,17 +123,9 @@ Output: `output/<witness>/<archetype>/transcript.txt` and `output/<witness>/<arc
 
 ---
 
-### Step 6 — Validate emotion vectors
-
-Validates denoised vectors on held-out stories (40 per emotion). Confirms that denoising improves discrimination — mean rank of the correct emotion should improve from chance (12/23) to ~3.9/23.
-
-Run: `validate_vectors.ipynb`
-
----
-
 ### Step 7 — Encode real depositions
 
-Parses each real deposition transcript into attorney and witness turns, encodes every turn through Llama-3.1-8B-Instruct, and projects onto the 23 denoised emotion vectors. Results are cached as `.npz` files for use in Step 8.
+Parses each real deposition transcript into attorney and witness turns, encodes every turn through Llama-3.1-8B-Instruct, and projects onto the 23 denoised emotion vectors. Results are cached as `.npz` files for use in Step 9.
 
 Run: `encode_depositions.ipynb`
 
@@ -134,9 +133,19 @@ Output: `data/depo_results/<witness_name>.npz` (one file per transcript)
 
 ---
 
-### Step 8 — Arc similarity and event analysis
+### Step 8 — Encode synthetic transcripts
 
-The main analysis notebook. Loads cached real-deposition scores and synthetic WitnessSim transcripts, then reproduces all paper results:
+The synthetic transcripts generated in Step 6 must also be encoded through Llama-3.1-8B-Instruct to produce emotion arc scores for comparison against the real depositions. This is handled in the first half of `witness_sim_analysis.ipynb` (the "Parse and Encode Synthetic Transcripts" section), which parses each transcript, encodes witness turns, and caches the results to `cache/synthetic_turns.pkl`.
+
+Run the setup cells of: `witness_sim_analysis.ipynb`
+
+Output: `cache/synthetic_turns.pkl`
+
+---
+
+### Step 9 — Arc similarity and event analysis
+
+The main analysis notebook. Loads the cached real and synthetic emotion arc scores, then reproduces all paper results:
 
 - **Section 4.1** — Per-witness arc similarity heatmaps (Figure 1) and permutation test
 - **Section 4.2** — PCA of 460-dimensional arc vectors separating real from synthetic transcripts (Figure 3); real vs. best-fit synthetic arc comparison (Figure 2)
@@ -156,13 +165,14 @@ Run: `witness_sim_analysis.ipynb`
 | `generate_neutral_stories.py` | Step 2: generate neutral stories for denoising |
 | `extract_activations.py` / `.ipynb` | Step 3: extract Llama layer-21 emotion vectors |
 | `denoise_vectors.ipynb` | Step 4: PCA denoising of emotion vectors |
+| `validate_vectors.ipynb` | Step 5: validate emotion vectors on held-out stories |
 | `state_engine.py` | WitnessSim — ODE state updates, question encoding, event detection (Section 3.1) |
 | `prompt_builder.py` | WitnessSim — builds state-conditioned LLM system prompt (Section 3.1.7) |
-| `batch_sim.py` | Step 5: run WitnessSim across all witnesses and archetypes |
-| `validate_vectors.ipynb` | Step 6: validate emotion vectors on held-out stories |
+| `batch_sim.py` | Step 6: run WitnessSim across all witnesses and archetypes |
 | `encode_depositions.ipynb` | Step 7: encode real deposition transcripts |
-| `witness_sim_analysis.ipynb` | Step 8: all paper analyses and figures |
+| `witness_sim_analysis.ipynb` | Steps 8–9: encode synthetic transcripts and run all analyses |
 | `data/` | Emotion stories, neutral stories, cached deposition scores |
 | `transcripts_txt/` | Real UCSF deposition transcripts — populate from UCSF library |
 | `attorney_questions/` | Attorney question files per witness — extracted from transcripts |
 | `output/` | Synthetic transcripts and delta logs — generated by `batch_sim.py` |
+| `cache/` | Cached encoded synthetic transcripts — generated by `witness_sim_analysis.ipynb` |
