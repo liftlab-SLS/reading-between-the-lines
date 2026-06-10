@@ -7,430 +7,433 @@
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400;1,8..60,600&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 
   <style>
     :root {
-      --bg:        #fbfaff;
-      --bg-tint:   #f2eefc;
-      --bg-dark:   #160f2b;
-      --bg-dark-2: #1f1640;
-      --ink:       #1c1730;
-      --ink-soft:  #443a5c;
-      --ink-quiet: #6c6385;
-      --rule:      #e0d8f2;
+      --white:      #FFFFFF;
+      --bg:         #FAF8F5;
+      --bg-warm:    #F3EFE8;
+      --rule:       #E2DDD8;
+      --rule-light: #EDE9E4;
 
-      --accent:      #7c3aed;
-      --accent-deep: #6024c0;
-      --accent-soft: #a472f0;
-      --accent-2:    #2563c9;
-      --accent-3:    #149a73;
-      --good:        #1b9d5b;
-      --bad:         #c2356b;
-      --code-bg:     #efeafb;
+      --ink:        #1C1917;
+      --ink-2:      #57534E;
+      --ink-3:      #A8A29E;
 
-      --serif: "Source Serif 4", Charter, Georgia, serif;
+      --cardinal:   #8C1515;
+      --cardinal-2: #6B0F0F;
+      --sandstone:  #8A6F3A;
+      --sand-bg:    #F5EDD8;
+      --green:      #175E54;
+      --green-bg:   #E8F2F0;
+
+      --serif: "Source Serif 4", Georgia, serif;
       --sans:  "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
-      --mono:  "JetBrains Mono", "SF Mono", Menlo, monospace;
+      --mono:  "JetBrains Mono", "SF Mono", monospace;
 
-      --container: 1100px;
-      --narrow: 720px;
+      --max: 1080px;
+      --narrow: 680px;
     }
 
-    * { box-sizing: border-box; }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     html { scroll-behavior: smooth; }
-    body {
-      margin: 0;
-      font-family: var(--serif);
-      font-size: 19px;
-      line-height: 1.65;
-      color: var(--ink);
-      background: var(--bg);
-    }
 
-    a { color: var(--accent-deep); text-decoration: none; border-bottom: 1px solid rgba(124,58,237,.3); }
-    a:hover { border-bottom-color: var(--accent); }
+    body {
+      font-family: var(--serif);
+      font-size: 18px;
+      line-height: 1.7;
+      color: var(--ink);
+      background: var(--white);
+    }
 
     h1, h2, h3, h4 {
       font-family: var(--serif);
-      font-weight: 700;
-      letter-spacing: -0.01em;
+      font-weight: 600;
+      line-height: 1.2;
       color: var(--ink);
     }
-    h2 { font-size: 2rem; line-height: 1.18; margin: 0 0 1.2rem; }
-    h3 { font-size: 1.35rem; line-height: 1.25; margin: 0 0 .6rem; }
-    h4 { font-size: 1.1rem; margin: 0 0 .4rem; }
-    p  { margin: 0 0 1.1em; }
+    h2 { font-size: 1.85rem; margin-bottom: 1rem; }
+    h3 { font-size: 1.25rem; margin-bottom: .5rem; }
+    p  { margin-bottom: 1.1em; }
+    p:last-child { margin-bottom: 0; }
+
+    a {
+      color: var(--cardinal-2);
+      text-decoration: underline;
+      text-underline-offset: 3px;
+      text-decoration-thickness: 1px;
+    }
+    a:hover { color: var(--cardinal); }
 
     code {
       font-family: var(--mono);
-      font-size: .86em;
-      background: var(--code-bg);
-      color: var(--accent-deep);
-      padding: 1px 6px;
-      border-radius: 5px;
+      font-size: .82em;
+      background: var(--bg);
+      color: var(--ink-2);
+      padding: 2px 6px;
+      border-radius: 4px;
+      border: 1px solid var(--rule);
     }
 
-    .container        { max-width: var(--container); margin: 0 auto; padding: 0 28px; }
-    .container.narrow { max-width: var(--narrow); }
+    .wrap      { max-width: var(--max); margin: 0 auto; padding: 0 32px; }
+    .wrap.slim { max-width: var(--narrow); }
 
-    /* ── TOP NAV ── */
-    .topnav {
-      position: sticky; top: 0; z-index: 50;
-      backdrop-filter: saturate(150%) blur(14px);
-      -webkit-backdrop-filter: saturate(150%) blur(14px);
-      background: rgba(251,250,255,.82);
+    /* ─── TOP STRIPE ─── */
+    .stripe {
+      height: 4px;
+      background: var(--cardinal);
+    }
+
+    /* ─── NAV ─── */
+    .nav {
+      position: sticky; top: 0; z-index: 40;
+      background: rgba(255,255,255,.95);
+      backdrop-filter: blur(10px);
       border-bottom: 1px solid var(--rule);
     }
-    .topnav-inner {
-      max-width: var(--container); margin: 0 auto; padding: 12px 28px;
+    .nav-inner {
+      max-width: var(--max); margin: 0 auto; padding: 0 32px;
       display: flex; align-items: center; justify-content: space-between;
-      font-family: var(--sans); font-size: 14px;
+      height: 52px;
+      font-family: var(--sans); font-size: 13px;
     }
-    .topnav-brand {
-      font-weight: 700; color: var(--ink);
-      letter-spacing: -.01em; border-bottom: none;
-      display: inline-flex; align-items: center; gap: 9px;
+    .nav-brand {
+      font-weight: 600; color: var(--ink); text-decoration: none;
+      letter-spacing: -.01em;
     }
-    .brand-dot {
-      width: 11px; height: 11px; border-radius: 50%;
-      background: radial-gradient(circle at 30% 30%, var(--accent-soft), var(--accent-deep));
-      box-shadow: 0 0 0 3px rgba(124,58,237,.16);
+    .nav-brand:hover { color: var(--cardinal); }
+    .nav-links {
+      list-style: none;
+      display: flex; gap: 24px;
     }
-    .topnav-brand:hover { color: var(--accent); }
-    .topnav-links {
-      list-style: none; margin: 0; padding: 0;
-      display: flex; gap: 20px;
+    .nav-links a {
+      color: var(--ink-2); text-decoration: none;
+      font-weight: 500;
     }
-    .topnav-links a { color: var(--ink-soft); border-bottom: none; }
-    .topnav-links a:hover, .topnav-links a.is-active { color: var(--accent); }
-    @media (max-width: 860px) { .topnav-links { display: none; } }
+    .nav-links a:hover,
+    .nav-links a.is-active { color: var(--cardinal); }
+    @media (max-width: 820px) { .nav-links { display: none; } }
 
-    /* ── HERO ── */
+    /* ─── HERO ─── */
     .hero {
-      position: relative;
-      padding: 110px 28px 88px;
+      padding: 80px 32px 72px;
       border-bottom: 1px solid var(--rule);
-      overflow: hidden;
-      background:
-        radial-gradient(circle at 18% -10%, rgba(124,58,237,.16), transparent 46%),
-        radial-gradient(circle at 92% 8%, rgba(37,99,201,.12), transparent 42%),
-        radial-gradient(circle at 70% 110%, rgba(20,154,115,.10), transparent 46%);
+      background: var(--white);
     }
-    .hero::before {
-      content: "";
-      position: absolute; inset: 0;
-      background-image: radial-gradient(rgba(124,58,237,.13) 1.4px, transparent 1.6px);
-      background-size: 30px 30px;
-      -webkit-mask-image: linear-gradient(180deg, rgba(0,0,0,.5), transparent 75%);
-              mask-image: linear-gradient(180deg, rgba(0,0,0,.5), transparent 75%);
-      pointer-events: none;
-    }
-    .hero-inner { position: relative; max-width: 940px; margin: 0 auto; }
-    .hero-eyebrow {
+    .hero-inner { max-width: var(--max); margin: 0 auto; }
+    .hero-tag {
       font-family: var(--sans);
-      font-size: 13px; font-weight: 600;
-      letter-spacing: .14em; text-transform: uppercase;
-      color: var(--accent-deep);
-      margin-bottom: 22px;
-      display: inline-flex; align-items: center; gap: 10px;
-    }
-    .hero-eyebrow::before {
-      content: ""; width: 26px; height: 2px; border-radius: 2px;
-      background: linear-gradient(90deg, var(--accent), var(--accent-soft));
+      font-size: 12px; font-weight: 600;
+      letter-spacing: .1em; text-transform: uppercase;
+      color: var(--cardinal);
+      margin-bottom: 24px;
     }
     .hero-title {
-      font-size: clamp(2rem, 5vw, 3.6rem);
-      line-height: 1.06;
-      letter-spacing: -.024em;
-      margin: 0 0 24px;
+      font-size: clamp(2rem, 4.5vw, 3.2rem);
+      font-weight: 700;
+      line-height: 1.1;
+      letter-spacing: -.02em;
+      color: var(--ink);
+      max-width: 860px;
+      margin-bottom: 28px;
     }
-    .hero-title .accent {
+    .hero-title em {
       font-style: italic;
-      background: linear-gradient(95deg, var(--accent-deep), var(--accent-soft) 55%, var(--accent-2));
-      -webkit-background-clip: text; background-clip: text;
-      -webkit-text-fill-color: transparent;
+      color: var(--cardinal);
+      -webkit-text-fill-color: var(--cardinal);
     }
-    .hero-sub {
-      font-size: 1.2rem; line-height: 1.6;
-      color: var(--ink-soft);
-      max-width: 700px; margin: 0 0 28px;
+    .hero-body {
+      font-size: 1.1rem;
+      color: var(--ink-2);
+      max-width: 660px;
+      margin-bottom: 28px;
+      line-height: 1.65;
     }
-    .hero-joint {
-      font-family: var(--sans); font-size: 14.5px; line-height: 1.6;
-      color: var(--ink-soft); max-width: 700px; margin: 0 0 30px;
-      padding-left: 16px; border-left: 3px solid var(--accent-soft);
+    .hero-authors {
+      font-family: var(--sans); font-size: 14px;
+      color: var(--ink-2); margin-bottom: 32px;
+      display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
     }
-    .hero-joint strong { color: var(--ink); font-weight: 600; }
-    .hero-links { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 36px; }
-    .hero-scroll {
-      position: absolute; bottom: 22px; left: 50%; transform: translateX(-50%);
-      font-family: var(--sans); font-size: 12px; letter-spacing: .14em;
-      text-transform: uppercase; color: var(--ink-quiet);
-      animation: bob 2.4s ease-in-out infinite;
-    }
-    @keyframes bob { 0%,100%{transform:translate(-50%,0)} 50%{transform:translate(-50%,6px)} }
+    .hero-authors .sep { color: var(--rule); }
+    .hero-authors strong { color: var(--ink); font-weight: 600; }
+    .hero-btns { display: flex; gap: 10px; flex-wrap: wrap; }
 
-    /* Pills */
-    .pill {
+    /* Buttons */
+    .btn {
       display: inline-block;
-      font-family: var(--sans); font-size: 14px; font-weight: 500;
-      padding: 9px 18px; border-radius: 999px;
-      background: linear-gradient(135deg, var(--accent-deep), var(--accent));
-      color: #fff; border-bottom: none;
-      transition: transform .15s ease, box-shadow .15s ease;
-      box-shadow: 0 10px 24px -12px rgba(124,58,237,.7);
+      font-family: var(--sans); font-size: 13.5px; font-weight: 500;
+      padding: 9px 20px; border-radius: 6px; text-decoration: none;
+      transition: background .12s, color .12s, border-color .12s;
     }
-    .pill:hover { transform: translateY(-2px); box-shadow: 0 14px 28px -12px rgba(124,58,237,.8); border-bottom: none; }
-    .pill-ghost {
-      background: transparent; color: var(--accent-deep);
-      border: 1px solid var(--accent); box-shadow: none;
+    .btn-primary {
+      background: var(--cardinal);
+      color: #fff;
+      border: 1.5px solid var(--cardinal);
     }
-    .pill-ghost:hover { background: rgba(124,58,237,.06); }
+    .btn-primary:hover {
+      background: var(--cardinal-2);
+      border-color: var(--cardinal-2);
+      color: #fff;
+    }
+    .btn-outline {
+      background: transparent;
+      color: var(--cardinal);
+      border: 1.5px solid var(--cardinal);
+    }
+    .btn-outline:hover {
+      background: var(--cardinal);
+      color: #fff;
+    }
 
-    /* ── BANDS ── */
-    .band { padding: 90px 0; border-bottom: 1px solid var(--rule); }
-    .band-tint { background: var(--bg-tint); }
-    .band-dark {
-      background:
-        radial-gradient(circle at 12% 0%, rgba(124,58,237,.22), transparent 45%),
-        radial-gradient(circle at 88% 100%, rgba(37,99,201,.16), transparent 45%),
-        var(--bg-dark);
-      color: #e8e3f7;
-      border-bottom-color: #2a2050;
-    }
-    .band-dark h2, .band-dark h3, .band-dark h4 { color: #fbfaff; }
-    .band-dark .kicker { color: var(--accent-soft); }
-    .band-dark a { color: #c0a6f5; border-bottom-color: rgba(192,166,245,.4); }
-    .band-dark .lede { color: #cfc6ea; }
-    .band-dark figcaption { color: #a89fc6; }
-    .band-dark p { color: #cfc6ea; }
+    /* ─── SECTIONS ─── */
+    .section { padding: 80px 0; border-bottom: 1px solid var(--rule); }
+    .section-alt { background: var(--bg); }
 
-    /* TL;DR */
-    .band-tldr { padding: 44px 0; background: linear-gradient(180deg, var(--bg) 0%, var(--bg-tint) 100%); }
-    .tldr-card {
-      background: #fff;
-      border: 1px solid var(--rule);
-      border-radius: 16px;
-      padding: 32px 38px;
-      position: relative; overflow: hidden;
-      box-shadow: 0 1px 0 rgba(0,0,0,.02), 0 22px 48px -28px rgba(96,36,192,.4);
+    /* ─── KICKER / SECTION LABEL ─── */
+    .eyebrow {
+      font-family: var(--sans); font-size: 11.5px; font-weight: 600;
+      letter-spacing: .12em; text-transform: uppercase;
+      color: var(--cardinal);
+      margin-bottom: 12px;
+      display: block;
     }
-    .tldr-card::before {
-      content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 5px;
-      background: linear-gradient(180deg, var(--accent), var(--accent-2));
+    .lede {
+      font-size: 1.15rem; line-height: 1.6;
+      color: var(--ink-2); margin-bottom: 1.8rem;
+    }
+
+    /* ─── TL;DR ─── */
+    .tldr-strip {
+      padding: 40px 0;
+      background: var(--bg);
+      border-bottom: 1px solid var(--rule);
+    }
+    .tldr-box {
+      border-left: 3px solid var(--cardinal);
+      padding-left: 28px;
     }
     .tldr-label {
-      font-family: var(--sans); font-size: 12px; font-weight: 700;
-      letter-spacing: .12em; text-transform: uppercase; color: var(--accent-deep);
-      margin-bottom: 12px;
-    }
-    .tldr-list { margin: 0; padding-left: 1.2em; font-size: 1.05rem; color: var(--ink-soft); }
-    .tldr-list li { margin-bottom: .65em; }
-    .tldr-list li::marker { color: var(--accent); }
-
-    /* Kicker */
-    .kicker {
-      font-family: var(--sans); font-size: 12.5px; font-weight: 700;
+      font-family: var(--sans); font-size: 11.5px; font-weight: 700;
       letter-spacing: .12em; text-transform: uppercase;
-      color: var(--accent-deep); margin-bottom: 14px;
-      display: inline-flex; align-items: center; gap: 9px;
+      color: var(--cardinal); margin-bottom: 14px;
     }
-    .kicker::before {
-      content: ""; width: 20px; height: 2px; border-radius: 2px;
-      background: currentColor; opacity: .6;
+    .tldr-list {
+      list-style: none; padding: 0;
+      display: flex; flex-direction: column; gap: 12px;
     }
-    .lede { font-size: 1.2rem; line-height: 1.55; color: var(--ink-soft); margin-bottom: 1.8em; }
+    .tldr-list li {
+      font-size: 1rem; color: var(--ink-2); line-height: 1.6;
+      padding-left: 18px; position: relative;
+    }
+    .tldr-list li::before {
+      content: "→";
+      position: absolute; left: 0;
+      color: var(--cardinal); font-weight: 600;
+    }
 
-    /* ── FIGURES ── */
-    figure {
-      margin: 28px 0 30px;
-      opacity: 0; transform: translateY(8px);
-      transition: opacity .5s ease, transform .5s ease;
+    /* ─── CALLOUT ─── */
+    .callout {
+      margin: 32px 0;
+      padding: 20px 24px;
+      background: var(--sand-bg);
+      border-left: 3px solid var(--sandstone);
+      border-radius: 0 8px 8px 0;
     }
-    figure.is-visible { opacity: 1; transform: translateY(0); }
+    .callout-label {
+      font-family: var(--sans); font-size: 11px; font-weight: 700;
+      letter-spacing: .1em; text-transform: uppercase;
+      color: var(--sandstone); margin-bottom: 8px;
+    }
+    .callout p { color: var(--ink-2); font-size: .97rem; }
+
+    /* ─── FINDING BOXES ─── */
+    .finding-header {
+      display: flex; align-items: baseline; gap: 14px;
+      margin-bottom: 20px; padding-bottom: 16px;
+      border-bottom: 1px solid var(--rule-light);
+    }
+    .finding-num {
+      font-family: var(--sans); font-size: 11.5px; font-weight: 700;
+      letter-spacing: .1em; text-transform: uppercase;
+      color: var(--cardinal); white-space: nowrap;
+    }
+    .finding-title { font-size: 1.7rem; font-weight: 700; line-height: 1.15; }
+
+    /* ─── TAKEAWAY ─── */
+    .takeaway {
+      margin: 36px 0 0;
+      padding: 18px 22px;
+      background: var(--green-bg);
+      border-left: 3px solid var(--green);
+      border-radius: 0 8px 8px 0;
+    }
+    .takeaway-label {
+      font-family: var(--sans); font-size: 11px; font-weight: 700;
+      letter-spacing: .1em; text-transform: uppercase;
+      color: var(--green); margin-bottom: 6px;
+    }
+    .takeaway p { color: var(--ink); font-size: .97rem; }
+
+    /* ─── STATS ─── */
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+      gap: 12px; margin: 28px 0;
+    }
+    .stat {
+      background: var(--white);
+      border: 1px solid var(--rule);
+      border-radius: 8px;
+      padding: 18px 16px;
+      text-align: center;
+    }
+    .section-alt .stat { background: var(--white); }
+    .stat-n {
+      font-family: var(--sans); font-size: 1.8rem; font-weight: 700;
+      color: var(--cardinal); line-height: 1.1;
+    }
+    .stat-d {
+      font-family: var(--sans); font-size: 12px;
+      color: var(--ink-3); margin-top: 5px; line-height: 1.4;
+    }
+
+    /* ─── PIPELINE ─── */
+    .pipeline {
+      display: flex; align-items: stretch;
+      flex-wrap: wrap; gap: 0;
+      margin: 30px 0;
+      border: 1px solid var(--rule);
+      border-radius: 10px; overflow: hidden;
+    }
+    .pipe-step {
+      flex: 1; min-width: 130px;
+      padding: 18px 20px;
+      background: var(--white);
+      border-right: 1px solid var(--rule);
+      position: relative;
+    }
+    .pipe-step:last-child { border-right: none; }
+    .pipe-n {
+      font-family: var(--sans); font-size: 10.5px; font-weight: 700;
+      letter-spacing: .1em; text-transform: uppercase;
+      color: var(--cardinal); margin-bottom: 6px;
+    }
+    .pipe-step strong {
+      display: block; font-size: 14px; font-family: var(--sans);
+      font-weight: 600; color: var(--ink); margin-bottom: 3px;
+    }
+    .pipe-step span { font-family: var(--sans); font-size: 12px; color: var(--ink-2); }
+
+    /* ─── ARCHETYPE TAGS ─── */
+    .archetypes { display: flex; flex-wrap: wrap; gap: 7px; margin: 16px 0; }
+    .arch {
+      font-family: var(--sans); font-size: 12.5px;
+      padding: 4px 12px; border-radius: 4px;
+      background: var(--white);
+      color: var(--ink-2);
+      border: 1px solid var(--rule);
+    }
+
+    /* ─── FIGURES ─── */
+    figure {
+      margin: 28px 0 24px;
+      opacity: 0; transform: translateY(6px);
+      transition: opacity .45s ease, transform .45s ease;
+    }
+    figure.visible { opacity: 1; transform: none; }
     @media (prefers-reduced-motion: reduce) { figure { opacity: 1; transform: none; transition: none; } }
     figure img {
       display: block; width: 100%; height: auto;
-      border-radius: 12px;
-      box-shadow: 0 1px 0 rgba(0,0,0,.04), 0 22px 44px -28px rgba(28,23,48,.4);
-      background: #fff;
-      border: 1px solid var(--rule);
+      border: 1px solid var(--rule); border-radius: 8px;
+      background: var(--white);
     }
     figcaption {
-      font-family: var(--sans); font-size: 14.5px; line-height: 1.55;
-      color: var(--ink-quiet); margin-top: 14px; max-width: 760px;
+      font-family: var(--sans); font-size: 13.5px; line-height: 1.55;
+      color: var(--ink-3); margin-top: 12px;
     }
-    .grid-2 { display: grid; gap: 28px; grid-template-columns: 1fr 1fr; margin: 30px 0 10px; }
-    @media (max-width: 760px) { .grid-2 { grid-template-columns: 1fr; } }
+    figcaption strong { color: var(--ink-2); }
+    .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; margin: 24px 0; }
+    @media (max-width: 720px) { .grid-2 { grid-template-columns: 1fr; } }
 
-    /* ── CALLOUT ── */
-    .callout {
-      margin: 36px 0; padding: 24px 28px;
-      border-left: 4px solid var(--accent);
-      background: rgba(124,58,237,.07);
-      border-radius: 0 10px 10px 0;
+    /* ─── EVENT TABS ─── */
+    .event-tabs { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 24px 0 20px; }
+    .event-tab {
+      padding: 16px 18px;
+      background: var(--white);
+      border: 1.5px solid var(--rule);
+      border-radius: 8px;
+      cursor: pointer;
+      text-align: left;
+      font-family: var(--serif);
+      transition: border-color .12s, background .12s;
     }
-    .band-dark .callout { background: rgba(164,114,240,.12); border-left-color: var(--accent-soft); }
-    .callout-label {
-      font-family: var(--sans); font-size: 12px; font-weight: 700;
-      letter-spacing: .12em; text-transform: uppercase;
-      color: var(--accent-deep); margin-bottom: 8px;
+    .event-tab:hover { border-color: #C4A8A8; }
+    .event-tab.is-active {
+      border-color: var(--cardinal);
+      background: #FDF5F5;
     }
-    .band-dark .callout-label { color: var(--accent-soft); }
-    .callout p:last-child { margin-bottom: 0; }
-    .callout p { color: var(--ink-soft); }
-    .band-dark .callout p { color: #cfc6ea; }
+    .event-tab-label {
+      display: block; font-family: var(--sans); font-size: 11px; font-weight: 700;
+      letter-spacing: .1em; text-transform: uppercase;
+      color: var(--cardinal); margin-bottom: 5px;
+    }
+    .event-tab-desc { display: block; font-size: 14px; color: var(--ink-2); line-height: 1.4; }
 
-    /* ── TAKEAWAY ── */
-    .takeaway {
-      position: relative;
-      margin: 34px 0 8px;
-      padding: 26px 28px 22px;
-      background: linear-gradient(135deg, rgba(124,58,237,.10), rgba(37,99,201,.07));
-      border: 1px solid rgba(124,58,237,.28);
-      border-radius: 14px;
-    }
-    .takeaway::before {
-      content: "Key Finding";
-      position: absolute; top: -12px; left: 20px;
-      font-family: var(--sans); font-size: 11.5px; font-weight: 700;
-      letter-spacing: .12em; text-transform: uppercase; color: #fff;
-      background: linear-gradient(135deg, var(--accent-deep), var(--accent));
-      padding: 5px 12px; border-radius: 7px;
-      box-shadow: 0 8px 18px -8px rgba(124,58,237,.7);
-    }
-    .takeaway p { margin: 0; font-size: 1.08rem; color: var(--ink); }
-    .band-dark .takeaway {
-      background: linear-gradient(135deg, rgba(164,114,240,.16), rgba(37,99,201,.12));
-      border-color: rgba(164,114,240,.35);
-    }
-    .band-dark .takeaway p { color: #f3effc; }
-
-    /* ── STAT STRIP ── */
-    .statstrip {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-      gap: 16px; margin: 32px 0;
-    }
-    .stat-card {
-      background: rgba(255,255,255,.07);
-      border: 1px solid rgba(164,114,240,.25);
-      border-radius: 12px;
-      padding: 20px 18px;
-      text-align: center;
-    }
-    .band:not(.band-dark) .stat-card { background: #fff; border-color: var(--rule); }
-    .band-tint .stat-card { background: #fff; border-color: var(--rule); }
-    .stat-num {
-      font-family: var(--sans); font-size: 2rem; font-weight: 700;
-      color: var(--accent-soft); line-height: 1.1;
-    }
-    .band:not(.band-dark) .stat-num { color: var(--accent-deep); }
-    .band-tint .stat-num { color: var(--accent-deep); }
-    .stat-num.alt { color: #a472f0; }
-    .stat-label {
-      font-family: var(--sans); font-size: 13px; line-height: 1.45;
-      color: rgba(232,227,247,.7); margin-top: 6px;
-    }
-    .band:not(.band-dark) .stat-label { color: var(--ink-quiet); }
-    .band-tint .stat-label { color: var(--ink-quiet); }
-
-    /* ── EVENT TOGGLE ── */
-    .event-toggle {
-      display: grid; grid-template-columns: 1fr 1fr;
-      gap: 14px; margin: 28px 0 18px;
-    }
-    .event-btn {
-      text-align: left; background: rgba(255,255,255,.05);
-      border: 1px solid rgba(164,114,240,.3); border-radius: 12px;
-      padding: 18px 20px; cursor: pointer;
-      font-family: var(--serif); color: #e8e3f7;
-      transition: border-color .15s ease, background .15s ease;
-    }
-    .event-btn:hover { border-color: var(--accent-soft); background: rgba(164,114,240,.1); }
-    .event-btn.is-active {
-      background: linear-gradient(135deg, rgba(124,58,237,.3), rgba(37,99,201,.2));
-      border-color: var(--accent-soft);
-    }
-    .event-key {
-      display: block; font-family: var(--sans); font-size: 12px; font-weight: 700;
-      letter-spacing: .08em; text-transform: uppercase;
-      color: var(--accent-soft); margin-bottom: 6px;
-    }
-    .event-desc { display: block; font-size: 14.5px; line-height: 1.45; color: rgba(232,227,247,.8); }
-
-    /* ── AUC TABLE ── */
+    /* ─── AUC TABLE ─── */
     .auc-table {
       width: 100%; border-collapse: collapse;
-      font-family: var(--sans); font-size: 15px;
-      margin: 28px 0; border-radius: 10px; overflow: hidden;
+      font-family: var(--sans); font-size: 14px;
+      margin: 24px 0;
     }
+    .auc-table thead tr { border-bottom: 2px solid var(--cardinal); }
     .auc-table th {
-      background: rgba(124,58,237,.25);
-      color: #e8e3f7; padding: 12px 16px;
-      text-align: left; font-weight: 600;
+      padding: 10px 14px; text-align: left;
+      font-weight: 600; font-size: 12.5px;
+      color: var(--ink); letter-spacing: .01em;
     }
     .auc-table td {
-      padding: 12px 16px;
-      border-bottom: 1px solid rgba(164,114,240,.15);
-      color: #cfc6ea;
+      padding: 12px 14px;
+      border-bottom: 1px solid var(--rule-light);
+      color: var(--ink-2);
     }
-    .auc-table tr:last-child td { border-bottom: none; }
-    .auc-table tr:nth-child(even) td { background: rgba(255,255,255,.03); }
-    .delta-pos { color: #5de0a0; font-weight: 700; }
-    .delta-neg { color: #f07090; font-weight: 700; }
+    .auc-table tbody tr:last-child td { border-bottom: none; }
+    .auc-table tbody tr:hover td { background: var(--bg); }
+    .pos { color: var(--green); font-weight: 600; }
+    .neg { color: var(--cardinal); font-weight: 600; }
 
-    /* ── ARCHETYPE PILLS ── */
-    .archetype-row { display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0; }
-    .arch-pill {
-      font-family: var(--sans); font-size: 13px;
-      padding: 5px 14px; border-radius: 999px;
-      background: rgba(124,58,237,.1);
-      color: var(--accent-deep);
-      border: 1px solid rgba(124,58,237,.25);
+    /* ─── CONCLUSION ─── */
+    .conclusion-rule {
+      width: 48px; height: 3px;
+      background: var(--cardinal);
+      margin-bottom: 28px;
     }
 
-    /* ── PIPELINE STEPS ── */
-    .pipe-row {
-      display: flex; align-items: center; flex-wrap: wrap;
-      gap: 0; margin: 28px 0;
-    }
-    .pipe-step {
-      background: #fff; border: 1.5px solid var(--rule);
-      border-radius: 10px; padding: 14px 18px;
-      font-family: var(--sans); font-size: 13px;
-      color: var(--ink); line-height: 1.4; min-width: 120px;
-    }
-    .pipe-step strong { display: block; font-size: 14px; color: var(--accent-deep); margin-bottom: 3px; }
-    .pipe-arrow { font-size: 1.3rem; color: var(--accent-soft); padding: 0 8px; }
-
-    /* ── FOOTER ── */
+    /* ─── FOOTER ─── */
     .footer {
-      padding: 40px 28px;
-      font-family: var(--sans); font-size: 13px;
-      color: var(--ink-quiet); text-align: center;
+      padding: 32px;
       border-top: 1px solid var(--rule);
+      font-family: var(--sans); font-size: 13px;
+      color: var(--ink-3); text-align: center;
     }
   </style>
 </head>
 <body>
 
-<!-- TOP NAV -->
-<nav class="topnav">
-  <div class="topnav-inner">
-    <a class="topnav-brand" href="#top">
-      <span class="brand-dot"></span>
-      Reading Between The Lines
-    </a>
-    <ul class="topnav-links">
-      <li><a href="#tldr">TL;DR</a></li>
-      <li><a href="#witnesssim">Witness Sim</a></li>
+<div class="stripe"></div>
+
+<!-- NAV -->
+<nav class="nav">
+  <div class="nav-inner">
+    <a class="nav-brand" href="#top">Reading Between The Lines</a>
+    <ul class="nav-links">
+      <li><a href="#tldr">Summary</a></li>
+      <li><a href="#system">Witness Sim</a></li>
       <li><a href="#method">Method</a></li>
-      <li><a href="#finding1">Arc Similarity</a></li>
-      <li><a href="#finding2">Intensity Gap</a></li>
-      <li><a href="#finding3">Timescales</a></li>
-      <li><a href="#finding4">Events</a></li>
+      <li><a href="#f1">Finding 1</a></li>
+      <li><a href="#f2">Finding 2</a></li>
+      <li><a href="#f3">Finding 3</a></li>
+      <li><a href="#f4">Finding 4</a></li>
       <li><a href="#conclusion">Conclusion</a></li>
     </ul>
   </div>
@@ -439,53 +442,54 @@
 <!-- HERO -->
 <header id="top" class="hero">
   <div class="hero-inner">
-    <div class="hero-eyebrow">Legal AI · Behavioral Simulation</div>
+    <p class="hero-tag">Legal AI &nbsp;·&nbsp; Behavioral Simulation &nbsp;·&nbsp; Stanford University</p>
     <h1 class="hero-title">
-      Do LLM personas simulate real emotional responses and behavior<br/>
-      — and <span class="accent">can we measure it</span>?
+      Do LLM personas simulate real emotional responses and behavior —
+      and <em>can we measure it</em>?
     </h1>
-    <p class="hero-sub">
+    <p class="hero-body">
       Depositions are a strategically critical phase of litigation, yet training attorneys
       to conduct them effectively is difficult to scale and evaluate. Central to that training
       is learning to read and manage how witnesses respond emotionally — becoming defensive,
-      evasive, or combative — as adversarial pressure accumulates.
-      We introduce <strong>Witness Sim</strong>, a generative deposition simulator, and evaluate its
-      behavioral realism by comparing emotion trajectories between 55 real depositions and 100
-      synthetic ones.
-
+      evasive, or combative — as adversarial pressure accumulates. We introduce <strong>Witness Sim</strong>,
+      a generative deposition simulator, and evaluate its behavioral realism by comparing emotion
+      trajectories between 55 real depositions and 100 synthetic ones.
     </p>
-    <div class="hero-joint">
-      <strong>Divya Vetticaden &nbsp;&nbsp; Arya Gupta &nbsp;&nbsp; Megan Ma</strong>
-      &nbsp;·&nbsp; Stanford University
+    <div class="hero-authors">
+      <strong>Divya Vetticaden</strong>
+      <span class="sep">·</span>
+      <strong>Arya Gupta</strong>
+      <span class="sep">·</span>
+      <strong>Megan Ma</strong>
+      <span class="sep">·</span>
+      Stanford University
     </div>
-    <div class="hero-links">
-      <a class="pill" href="https://github.com/liftlab-SLS/reading-between-the-lines/blob/main/reading_between_the_lines.pdf" target="_blank">Paper (PDF) ↗</a>
-      <a class="pill pill-ghost" href="https://github.com/liftlab-SLS/reading-between-the-lines" target="_blank">Code ↗</a>
-      <a class="pill pill-ghost" href="#tldr">Key findings ↓</a>
+    <div class="hero-btns">
+      <a class="btn btn-primary" href="https://github.com/liftlab-SLS/reading-between-the-lines/blob/main/reading_between_the_lines.pdf" target="_blank">Paper (PDF) ↗</a>
+      <a class="btn btn-outline" href="https://github.com/liftlab-SLS/reading-between-the-lines" target="_blank">Code ↗</a>
     </div>
   </div>
-  <div class="hero-scroll">scroll ↓</div>
 </header>
 
 <!-- TL;DR -->
-<section id="tldr" class="band band-tldr">
-  <div class="container narrow">
-    <div class="tldr-card">
-      <div class="tldr-label">TL;DR</div>
+<div id="tldr" class="tldr-strip">
+  <div class="wrap slim">
+    <div class="tldr-box">
+      <div class="tldr-label">Summary</div>
       <ul class="tldr-list">
-        <li>Deposition training requires recognizing dynamic interpersonal behaviors — defensiveness, evasion, fatigue — that <strong>existing legal-AI benchmarks don't measure</strong>. We ask whether a simulator can be evaluated on this axis.</li>
-        <li><strong>Temporal structure is real, but compressed.</strong> Synthetic depositions correlate with real ones (<em>r</em> = 0.148, permutation <em>p</em> &lt; 0.001), but emotion magnitudes are ~3× smaller than in real adversarial questioning.</li>
-        <li><strong>Combativeness is a mode, not an event.</strong> When Witness Sim labels a turn as combative, emotion scores don't change before or after — combativeness reflects a persistent disposition, not a reactive escalation.</li>
-        <li><strong>Reactive affect is recoverable.</strong> Personality shifts produce a sharp spike in assertive emotion at turn 0. The residual space — emotion not explained by the slow ODE state — detects these moments better than raw scores (AUC 0.963 vs. 0.948).</li>
+        <li>Deposition training requires recognizing dynamic interpersonal behaviors that <strong>existing legal-AI benchmarks don't measure</strong>. We ask whether a simulator can be evaluated on this axis.</li>
+        <li><strong>Temporal structure is real, but compressed.</strong> Synthetic depositions correlate with real ones (<em>r</em> = 0.148, <em>p</em> &lt; 0.001), but emotion magnitudes are ~3× smaller than in real adversarial questioning.</li>
+        <li><strong>Combativeness is a mode, not an event.</strong> Emotion scores are flat across the ±5-turn window around combative events — it is a persistent disposition, not a reactive escalation.</li>
+        <li><strong>Reactive affect is recoverable.</strong> Personality shifts produce a sharp assertive spike at turn 0. The residual space detects these moments better than raw scores (AUC 0.963 vs. 0.948).</li>
       </ul>
     </div>
   </div>
-</section>
+</div>
 
 <!-- THE PROBLEM -->
-<section id="problem" class="band">
-  <div class="container narrow">
-    <div class="kicker">The problem</div>
+<section id="problem" class="section">
+  <div class="wrap slim">
+    <span class="eyebrow">The problem</span>
     <h2>Deposition realism is a dynamic problem, not a static one.</h2>
     <p class="lede">
       Effective examiners probe consistency, manage resistance, and adapt as a witness becomes
@@ -510,23 +514,36 @@
 </section>
 
 <!-- WITNESS SIM -->
-<section id="witnesssim" class="band band-tint">
-  <div class="container">
-    <div class="kicker">The simulator</div>
+<section id="system" class="section section-alt">
+  <div class="wrap">
+    <span class="eyebrow">The simulator</span>
     <h2>Witness Sim: a dynamical system driving LLM dialogue.</h2>
     <p class="lede">
       An LLM generates surface dialogue, but each answer is conditioned on a low-dimensional
       6D psychological state vector updated deterministically from the attorney's question.
     </p>
 
-    <div class="pipe-row">
-      <div class="pipe-step"><strong>Attorney question</strong>Pressure + sensitivity</div>
-      <div class="pipe-arrow">→</div>
-      <div class="pipe-step"><strong>State update</strong>ODE-driven 6D dynamics</div>
-      <div class="pipe-arrow">→</div>
-      <div class="pipe-step"><strong>Event check</strong>Threshold conditions</div>
-      <div class="pipe-arrow">→</div>
-      <div class="pipe-step"><strong>LLM generation</strong>State-conditioned response</div>
+    <div class="pipeline">
+      <div class="pipe-step">
+        <div class="pipe-n">Step 1</div>
+        <strong>Attorney question</strong>
+        <span>Pressure + sensitivity encoded</span>
+      </div>
+      <div class="pipe-step">
+        <div class="pipe-n">Step 2</div>
+        <strong>State update</strong>
+        <span>ODE-driven 6D dynamics</span>
+      </div>
+      <div class="pipe-step">
+        <div class="pipe-n">Step 3</div>
+        <strong>Event check</strong>
+        <span>Threshold conditions</span>
+      </div>
+      <div class="pipe-step">
+        <div class="pipe-n">Step 4</div>
+        <strong>LLM generation</strong>
+        <span>State-conditioned response</span>
+      </div>
     </div>
 
     <p>
@@ -536,36 +553,47 @@
       pressure; agreeableness polarizes away from its midpoint; verbosity rises with sensitivity
       but collapses under leading questions.
     </p>
-    <p>
-      Each witness is configured with one of <strong>ten behavioral archetypes</strong> —
-      an attractor state toward which dynamics relax in the absence of pressure:
-    </p>
-    <div class="archetype-row">
-      <span class="arch-pill">Combative</span>
-      <span class="arch-pill">Cooperative</span>
-      <span class="arch-pill">Defensive</span>
-      <span class="arch-pill">Dogmatic</span>
-      <span class="arch-pill">Inventive</span>
-      <span class="arch-pill">Loquacious</span>
-      <span class="arch-pill">Nervous</span>
-      <span class="arch-pill">Neutral</span>
-      <span class="arch-pill">Overconfident</span>
-      <span class="arch-pill">Overprepared</span>
+    <p>Each witness is configured with one of <strong>ten behavioral archetypes</strong> —
+      an attractor state toward which dynamics relax in the absence of pressure:</p>
+
+    <div class="archetypes">
+      <span class="arch">Combative</span>
+      <span class="arch">Cooperative</span>
+      <span class="arch">Defensive</span>
+      <span class="arch">Dogmatic</span>
+      <span class="arch">Inventive</span>
+      <span class="arch">Loquacious</span>
+      <span class="arch">Nervous</span>
+      <span class="arch">Neutral</span>
+      <span class="arch">Overconfident</span>
+      <span class="arch">Overprepared</span>
     </div>
 
-    <div class="statstrip" style="margin-top:36px;">
-      <div class="stat-card"><div class="stat-num">55</div><div class="stat-label">Real depositions<br>(Opioid MDL)</div></div>
-      <div class="stat-card"><div class="stat-num">100</div><div class="stat-label">Synthetic transcripts<br>10 witnesses × 10 archetypes</div></div>
-      <div class="stat-card"><div class="stat-num">67,956</div><div class="stat-label">Total turns analyzed</div></div>
-      <div class="stat-card"><div class="stat-num">23</div><div class="stat-label">Emotion dimensions<br>per turn</div></div>
+    <div class="stats" style="margin-top: 36px;">
+      <div class="stat">
+        <div class="stat-n">55</div>
+        <div class="stat-d">Real depositions<br>(Opioid MDL)</div>
+      </div>
+      <div class="stat">
+        <div class="stat-n">100</div>
+        <div class="stat-d">Synthetic transcripts<br>10 witnesses × 10 archetypes</div>
+      </div>
+      <div class="stat">
+        <div class="stat-n">67,956</div>
+        <div class="stat-d">Total turns analyzed</div>
+      </div>
+      <div class="stat">
+        <div class="stat-n">23</div>
+        <div class="stat-d">Emotion dimensions<br>per turn</div>
+      </div>
     </div>
   </div>
 </section>
 
 <!-- METHOD -->
-<section id="method" class="band">
-  <div class="container narrow">
-    <div class="kicker">Evaluation method</div>
+<section id="method" class="section">
+  <div class="wrap slim">
+    <span class="eyebrow">Evaluation method</span>
     <h2>Projecting deposition turns onto emotion vectors.</h2>
     <p class="lede">
       We adapt emotion-vector analysis from recent LM interpretability work (Sofroniew et al., 2026)
@@ -597,10 +625,12 @@
 </section>
 
 <!-- FINDING 1 -->
-<section id="finding1" class="band band-tint">
-  <div class="container">
-    <div class="kicker">Finding 1</div>
-    <h2>Synthetic depositions reproduce temporal affective structure.</h2>
+<section id="f1" class="section section-alt">
+  <div class="wrap">
+    <div class="finding-header">
+      <span class="finding-num">Finding 1</span>
+      <h2 class="finding-title">Synthetic depositions reproduce temporal affective structure.</h2>
+    </div>
     <p class="lede">
       Best-fit archetypes vary across witnesses, and the best-fitting archetype shows a consistent
       advantage across the most discriminating emotions.
@@ -617,22 +647,20 @@
         <img src="figures/output_16_7.png" alt="Per-witness arc similarity heatmap for Jeffrey Kilper" />
         <figcaption>
           <strong>Per-witness arc similarity heatmap</strong> for Jeffrey Kilper (★ = best fit).
-          Green = positive Pearson <em>r</em>; red = negative. Best-fit archetype shows coherent
-          positive correlations across the highest-variance emotions.
+          Green = positive Pearson <em>r</em>; red = negative.
         </figcaption>
       </figure>
       <figure>
         <img src="figures/arc_comparison_kilper_cropped.png" alt="Real vs best-fit synthetic arc" />
         <figcaption>
           <strong>Real vs. best-fit synthetic arc</strong> for Jeffrey Kilper (cooperative,
-          <em>r</em> = 0.229). The synthetic trajectory reproduces coarse temporal rises and
-          declines — but at systematically compressed magnitude.
+          <em>r</em> = 0.229). Coarse temporal structure is reproduced at compressed magnitude.
         </figcaption>
       </figure>
     </div>
 
     <figure>
-      <img src="figures/permutation_test.png" alt="Permutation test" style="max-width:640px; margin:0 auto;" />
+      <img src="figures/permutation_test.png" alt="Permutation test" style="max-width:600px; margin:0 auto; display:block;" />
       <figcaption>
         Permutation test: shuffling the 20 time bins of each synthetic arc produces a null
         distribution centered at zero. The observed <em>r</em> = 0.148 exceeds all 1,000
@@ -641,6 +669,7 @@
     </figure>
 
     <div class="takeaway">
+      <div class="takeaway-label">Key finding</div>
       <p>
         Arc correlation is statistically reliable and unlikely to arise from chance temporal
         alignment — but the absolute effect size is modest, and the signal reflects
@@ -651,10 +680,12 @@
 </section>
 
 <!-- FINDING 2 -->
-<section id="finding2" class="band band-dark">
-  <div class="container narrow">
-    <div class="kicker">Finding 2</div>
-    <h2>Real and synthetic depositions remain systematically separable.</h2>
+<section id="f2" class="section">
+  <div class="wrap slim">
+    <div class="finding-header">
+      <span class="finding-num">Finding 2</span>
+      <h2 class="finding-title">Real and synthetic depositions remain systematically separable.</h2>
+    </div>
     <p class="lede">
       PCA of the 460-dimensional arc vectors reveals that real and synthetic transcripts occupy
       largely non-overlapping regions — and emotion magnitudes are compressed roughly 3× in
@@ -670,14 +701,15 @@
       </figcaption>
     </figure>
 
-    <div class="statstrip">
-      <div class="stat-card"><div class="stat-num">29.9%</div><div class="stat-label">Variance explained<br>by PC1</div></div>
-      <div class="stat-card"><div class="stat-num">3×</div><div class="stat-label">Magnitude compression<br>synthetic vs. real</div></div>
-      <div class="stat-card"><div class="stat-num">0.05–0.30</div><div class="stat-label">Real emotion score range</div></div>
-      <div class="stat-card"><div class="stat-num">0.00–0.08</div><div class="stat-label">Synthetic emotion score range</div></div>
+    <div class="stats">
+      <div class="stat"><div class="stat-n">29.9%</div><div class="stat-d">Variance explained<br>by PC1</div></div>
+      <div class="stat"><div class="stat-n">~3×</div><div class="stat-d">Magnitude compression<br>synthetic vs. real</div></div>
+      <div class="stat"><div class="stat-n">0.05–0.30</div><div class="stat-d">Real emotion<br>score range</div></div>
+      <div class="stat"><div class="stat-n">0.00–0.08</div><div class="stat-d">Synthetic emotion<br>score range</div></div>
     </div>
 
     <div class="takeaway">
+      <div class="takeaway-label">Key finding</div>
       <p>
         The intensity gap reflects the limits of a low-dimensional state abstraction in capturing
         the full affective intensity of adversarial legal questioning. Witness Sim captures
@@ -688,19 +720,21 @@
 </section>
 
 <!-- FINDING 3 -->
-<section id="finding3" class="band">
-  <div class="container narrow">
-    <div class="kicker">Finding 3</div>
-    <h2>State dimensions and emotion scores operate on distinct timescales.</h2>
+<section id="f3" class="section section-alt">
+  <div class="wrap slim">
+    <div class="finding-header">
+      <span class="finding-num">Finding 3</span>
+      <h2 class="finding-title">State dimensions and emotion scores operate on distinct timescales.</h2>
+    </div>
     <p class="lede">
       Exponential decay fitting to autocorrelation functions reveals a clean dissociation:
       state encodes slow dispositions, emotion fluctuates turn-to-turn.
     </p>
 
-    <div class="statstrip">
-      <div class="stat-card"><div class="stat-num">17–525</div><div class="stat-label">State τ (turns)<br>Slow, persistent</div></div>
-      <div class="stat-card"><div class="stat-num">0.8–2.6</div><div class="stat-label">Emotion τ (turns)<br>Fast, reactive</div></div>
-      <div class="stat-card"><div class="stat-num">U = 138</div><div class="stat-label">Mann-Whitney U<br><em>p</em> &lt; 0.001, no overlap</div></div>
+    <div class="stats">
+      <div class="stat"><div class="stat-n">17–525</div><div class="stat-d">State τ (turns)<br>Slow, persistent</div></div>
+      <div class="stat"><div class="stat-n">0.8–2.6</div><div class="stat-d">Emotion τ (turns)<br>Fast, reactive</div></div>
+      <div class="stat"><div class="stat-n">U = 138</div><div class="stat-d">Mann-Whitney<br><em>p</em> &lt; 0.001, no overlap</div></div>
     </div>
 
     <p>
@@ -709,7 +743,9 @@
       slow state-aligned component from emotion scores, we can isolate the turn-level
       reactive signal.
     </p>
+
     <div class="takeaway">
+      <div class="takeaway-label">Key finding</div>
       <p>
         Witness behavior is composed of both stable dispositions and transient reactions.
         Realistic simulated personas must capture both long-term behavioral consistency
@@ -720,25 +756,27 @@
 </section>
 
 <!-- FINDING 4 -->
-<section id="finding4" class="band band-dark">
-  <div class="container">
-    <div class="kicker">Finding 4</div>
-    <h2>Combativeness is a mode. Personality shifts are events.</h2>
+<section id="f4" class="section">
+  <div class="wrap">
+    <div class="finding-header">
+      <span class="finding-num">Finding 4</span>
+      <h2 class="finding-title">Combativeness is a mode. Personality shifts are events.</h2>
+    </div>
     <p class="lede">
       Event-level classification with paired AUC reveals a clean asymmetry: the two feature
       sets capture complementary timescales.
     </p>
 
-    <p>Click to compare the two event types:</p>
+    <p>Select an event type to explore:</p>
 
-    <div class="event-toggle" id="eventToggle">
-      <button class="event-btn is-active" data-event="combative">
-        <span class="event-key">Witness Combative</span>
-        <span class="event-desc">A<sub>t</sub> &lt; 0.28 ∧ R<sub>t</sub> &gt; 0.60 · base rate 21.4%</span>
+    <div class="event-tabs" id="eventToggle">
+      <button class="event-tab is-active" data-event="combative">
+        <span class="event-tab-label">Witness Combative</span>
+        <span class="event-tab-desc">A<sub>t</sub> &lt; 0.28 ∧ R<sub>t</sub> &gt; 0.60 &nbsp;·&nbsp; base rate 21.4%</span>
       </button>
-      <button class="event-btn" data-event="shift">
-        <span class="event-key">Personality Shift</span>
-        <span class="event-desc">‖s<sub>t</sub> − s<sub>0</sub>‖<sub>∞</sub> &gt; 0.35 · base rate 0.2%</span>
+      <button class="event-tab" data-event="shift">
+        <span class="event-tab-label">Personality Shift</span>
+        <span class="event-tab-desc">‖Δs<sub>t</sub>‖<sub>∞</sub> ≥ 0.06 &nbsp;·&nbsp; base rate 0.2%</span>
       </button>
     </div>
 
@@ -793,7 +831,7 @@
           <td>21.4%</td>
           <td>0.996</td>
           <td>0.707</td>
-          <td class="delta-pos">+0.289</td>
+          <td class="neg">+0.289</td>
           <td>&lt;0.001</td>
         </tr>
         <tr>
@@ -801,13 +839,14 @@
           <td>0.2%</td>
           <td>0.948</td>
           <td>0.963</td>
-          <td class="delta-neg">−0.015</td>
+          <td class="pos">−0.015</td>
           <td>&lt;0.001</td>
         </tr>
       </tbody>
     </table>
 
     <div class="takeaway">
+      <div class="takeaway-label">Key finding</div>
       <p>
         The sign of Δ flips between events — the two feature sets capture complementary timescales.
         Removing the slow state-aligned component degrades combative detection but improves
@@ -819,9 +858,10 @@
 </section>
 
 <!-- CONCLUSION -->
-<section id="conclusion" class="band band-tint">
-  <div class="container narrow">
-    <div class="kicker">Conclusion</div>
+<section id="conclusion" class="section section-alt">
+  <div class="wrap slim">
+    <span class="eyebrow">Conclusion</span>
+    <div class="conclusion-rule"></div>
     <h2>Behavioral realism is measurable — and essential to simulation evaluation.</h2>
     <p>
       Effective deposition practice is not about memorizing case facts — it is about learning
@@ -847,48 +887,42 @@
 </section>
 
 <footer class="footer">
-  Reading Between The Lines &nbsp;·&nbsp;
-  Vetticaden, Gupta &amp; Ma &nbsp;·&nbsp;
-  Stanford University &nbsp;·&nbsp;
-  2026
+  Reading Between The Lines &nbsp;·&nbsp; Vetticaden, Gupta &amp; Ma &nbsp;·&nbsp; Stanford University &nbsp;·&nbsp; 2026
 </footer>
 
 <script>
   // Scroll-triggered figure reveal
-  const figures = document.querySelectorAll('figure');
-  const figObserver = new IntersectionObserver(entries => {
-    entries.forEach(e => { if (e.isIntersecting) e.target.classList.add('is-visible'); });
-  }, { threshold: 0.1 });
-  figures.forEach(f => figObserver.observe(f));
+  const io = new IntersectionObserver(entries => {
+    entries.forEach(e => { if (e.isIntersecting) e.target.classList.add('visible'); });
+  }, { threshold: 0.08 });
+  document.querySelectorAll('figure').forEach(f => io.observe(f));
 
-  // Active nav link on scroll
-  const sections = document.querySelectorAll('section[id], header[id]');
-  const navLinks = document.querySelectorAll('.topnav-links a');
-  const secObserver = new IntersectionObserver(entries => {
+  // Active nav link
+  const navLinks = document.querySelectorAll('.nav-links a');
+  const secObs = new IntersectionObserver(entries => {
     entries.forEach(e => {
       if (e.isIntersecting) {
         navLinks.forEach(a => a.classList.remove('is-active'));
-        const match = document.querySelector(`.topnav-links a[href="#${e.target.id}"]`);
-        if (match) match.classList.add('is-active');
+        const m = document.querySelector(`.nav-links a[href="#${e.target.id}"]`);
+        if (m) m.classList.add('is-active');
       }
     });
   }, { rootMargin: '-30% 0px -60% 0px' });
-  sections.forEach(s => secObserver.observe(s));
+  document.querySelectorAll('section[id], header[id], div[id]').forEach(s => secObs.observe(s));
 
-  // Event toggle (Finding 4)
-  const toggle = document.getElementById('eventToggle');
-  if (toggle) {
-    toggle.addEventListener('click', e => {
-      const btn = e.target.closest('.event-btn');
+  // Event toggle
+  const tog = document.getElementById('eventToggle');
+  if (tog) {
+    tog.addEventListener('click', e => {
+      const btn = e.target.closest('.event-tab');
       if (!btn) return;
-      toggle.querySelectorAll('.event-btn').forEach(b => b.classList.remove('is-active'));
+      tog.querySelectorAll('.event-tab').forEach(b => b.classList.remove('is-active'));
       btn.classList.add('is-active');
-      const event = btn.dataset.event;
-      document.getElementById('panel-combative').hidden = (event !== 'combative');
-      document.getElementById('panel-shift').hidden = (event !== 'shift');
+      const ev = btn.dataset.event;
+      document.getElementById('panel-combative').hidden = ev !== 'combative';
+      document.getElementById('panel-shift').hidden = ev !== 'shift';
     });
   }
 </script>
-
 </body>
 </html>
